@@ -13,6 +13,15 @@ class JamieOliverScraper extends PuppeteerScraper {
     this.recipe.name = $(".single-recipe-details h1").text();
     this.recipe.subName = $(".single-recipe-details p").text();
 
+    $(
+      ".single-recipe-details .float-wrapper .special-diets-wrapper .special-diets-list li a .full-name"
+    ).each((i, el) => {
+      const specialDiet = $(el).text().replace(/\s\s+/g, " ").trim();
+      if (specialDiet !== "") {
+        specialDiets.push(specialDiet);
+      }
+    });
+
     this.recipe.description = $("meta[property='og:description']").attr(
       "content"
     );
