@@ -22,9 +22,15 @@ class JamieOliverScraper extends PuppeteerScraper {
       }
     });
 
-    this.recipe.description = $("meta[property='og:description']").attr(
+    this.recipe.metaDescription = $("meta[property='og:description']").attr(
       "content"
     );
+
+    this.recipe.description = $(".recipe-intro")
+      .text()
+      .replace(/\s\s+/g, " ")
+      .replace(/\"/g, "")
+      .trim();
 
     $(".tags-list a").each((i, el) => {
       const tag = $(el).text().replace(/\s\s+/g, " ").trim();
