@@ -38,6 +38,21 @@ class JamieOliverScraper extends PuppeteerScraper {
       .replace("Serves Serves", "")
       .trim();
 
+    time.cook = $(".recipe-detail.time")
+      .text()
+      .replace("Cooks In", "")
+      .replace("Time", "")
+      .replace(/\s\s+/g, " ")
+      .trim();
+
+    time.total = time.cook;
+
+    this.recipe.difficulty = $(".recipe-detail.difficulty")
+      .text()
+      .replace(/\s\s+/g, " ")
+      .replace("Difficulty", "")
+      .trim();
+
     $(".tags-list a").each((i, el) => {
       const tag = $(el).text().replace(/\s\s+/g, " ").trim();
       if (tag !== "") {
@@ -58,15 +73,6 @@ class JamieOliverScraper extends PuppeteerScraper {
         instructions.push(step);
       }
     });
-
-    time.cook = $(".recipe-detail.time")
-      .text()
-      .replace("Cooks In", "")
-      .replace("Time", "")
-      .replace(/\s\s+/g, " ")
-      .trim();
-
-    time.total = time.cook;
   }
 }
 
