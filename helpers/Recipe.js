@@ -7,7 +7,14 @@ class Recipe {
     this.description = "";
 
     this.servings = "";
-    this.time = "";
+    this.time = {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
+    };
     this.difficulty = "";
     this.tags = [];
 

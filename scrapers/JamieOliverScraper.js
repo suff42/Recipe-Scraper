@@ -9,7 +9,7 @@ class JamieOliverScraper extends PuppeteerScraper {
 
   scrape($) {
     this.defaultSetImage($);
-    const { specialDiets, tags, ingredients, instructions } = this.recipe;
+    const { specialDiets, time, tags, ingredients, instructions } = this.recipe;
     this.recipe.name = $(".single-recipe-details h1").text();
     this.recipe.subName = $(".single-recipe-details p").text();
 
@@ -41,6 +41,7 @@ class JamieOliverScraper extends PuppeteerScraper {
     time.cook = $(".recipe-detail.time")
       .text()
       .replace("Cooks In", "")
+      .replace("Time", "")
       .replace(/\s\s+/g, " ")
       .trim();
 
