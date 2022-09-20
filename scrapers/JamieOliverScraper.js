@@ -32,6 +32,12 @@ class JamieOliverScraper extends PuppeteerScraper {
       .replace(/\"/g, "")
       .trim();
 
+    this.recipe.servings = $(".recipe-detail.serves")
+      .text()
+      .replace(/\s\s+/g, " ")
+      .replace("Serves Serves", "")
+      .trim();
+
     $(".tags-list a").each((i, el) => {
       const tag = $(el).text().replace(/\s\s+/g, " ").trim();
       if (tag !== "") {
@@ -61,12 +67,6 @@ class JamieOliverScraper extends PuppeteerScraper {
       .trim();
 
     time.total = time.cook;
-
-    this.recipe.servings = $(".recipe-detail.serves")
-      .text()
-      .replace("Serves", "")
-      .replace(/\s\s+/g, " ")
-      .trim();
   }
 }
 
