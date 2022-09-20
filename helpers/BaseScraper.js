@@ -2,7 +2,7 @@
 
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
-const {validate} = require("jsonschema");
+const { validate } = require("jsonschema");
 
 const Recipe = require("./Recipe");
 const recipeSchema = require("./RecipeSchema.json");
@@ -22,7 +22,7 @@ class BaseScraper {
 
       return res.ok; // res.status >= 200 && res.status < 300
     } catch (e) {
-      console.log(e)
+      console.log(e);
       return false;
     }
   }
@@ -68,7 +68,9 @@ class BaseScraper {
       $("meta[property='og:description']").attr("content") ||
       $("meta[name='twitter:description']").attr("content");
 
-    this.recipe.description = description ? description.replace(/\n/g, " ").trim() : '';
+    this.recipe.description = description
+      ? description.replace(/\n/g, " ").trim()
+      : "";
   }
 
   /**
@@ -116,17 +118,17 @@ class BaseScraper {
    */
   validateRecipe() {
     let res = validate(this.recipe, recipeSchema);
-    if (!res.valid) {
-      this.defaultError();
-    }
+    // if (!res.valid) {
+    //   this.defaultError();
+    // }
     return this.recipe;
   }
 
   static parsePTTime(ptTime) {
-    ptTime = ptTime.replace('PT', '');
-    ptTime = ptTime.replace('H', ' hours');
-    ptTime = ptTime.replace('M', ' minutes');
-    ptTime = ptTime.replace('S', ' seconds');
+    ptTime = ptTime.replace("PT", "");
+    ptTime = ptTime.replace("H", " hours");
+    ptTime = ptTime.replace("M", " minutes");
+    ptTime = ptTime.replace("S", " seconds");
 
     return ptTime;
   }
