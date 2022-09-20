@@ -73,6 +73,18 @@ class JamieOliverScraper extends PuppeteerScraper {
         instructions.push(step);
       }
     });
+
+    this.recipe.imageAlt = $(".recipe-header-left .hero-wrapper img").attr(
+      "alt"
+    );
+  }
+
+  getList($) {
+    $(
+      ".row.recipe-row.infinite-scroll div.col-lg-4.col-md-6.col-xs-6.col-sm-6.recipe-col.item div.recipe-block a"
+    ).each((i, el) => {
+      this.recipe.push($(el).attr("href"));
+    });
   }
 }
 

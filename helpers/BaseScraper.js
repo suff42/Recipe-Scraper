@@ -99,6 +99,14 @@ class BaseScraper {
     return this.validateRecipe();
   }
 
+  async fetchLinksList() {
+    this.checkUrl();
+    const $ = await this.fetchDOMModel();
+    this.recipe = [];
+    this.getList($);
+    return this.validateRecipe();
+  }
+
   /**
    * Abstract method
    * @param {object} $ - cheerio instance
