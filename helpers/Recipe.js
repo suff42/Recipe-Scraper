@@ -7,7 +7,7 @@ class Recipe {
     this.description = "";
 
     this.servings = "";
-    this.time = 0;
+    this.time = "";
     this.difficulty = "";
     this.tags = [];
 
