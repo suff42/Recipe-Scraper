@@ -83,7 +83,7 @@ class JamieOliverScraper extends PuppeteerScraper {
     $(
       ".row.recipe-row.infinite-scroll div.col-lg-4.col-md-6.col-xs-6.col-sm-6.recipe-col.item div.recipe-block a"
     )
-      .slice(0, 10)
+      // .slice(0, 20)
       .each((i, el) => {
         this.recipe.push("https://www.jamieoliver.com" + $(el).attr("href"));
       });
