@@ -82,9 +82,11 @@ class JamieOliverScraper extends PuppeteerScraper {
   getList($) {
     $(
       ".row.recipe-row.infinite-scroll div.col-lg-4.col-md-6.col-xs-6.col-sm-6.recipe-col.item div.recipe-block a"
-    ).each((i, el) => {
-      this.recipe.push($(el).attr("href"));
-    });
+    )
+      .slice(0, 10)
+      .each((i, el) => {
+        this.recipe.push("https://www.jamieoliver.com" + $(el).attr("href"));
+      });
   }
 }
 
