@@ -1,114 +1,106 @@
-[
+export const snacks = [
   {
-    "name": "Love heart Camembert",
-    "subName": "Soft tear 'n' share rolls",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Everybody loves baked Camembert, but this one is truly epic. It's got homemade bread rolls for dunking into that oozy cheese.",
-    "description": "“Push the boat out with this easy tear ’n’ share bread with oozy Camembert for dunking. A big show off party bread that’s as easy as it is impressive – just the thing if you’re having friends and family over for nibbles. ”",
-    "servings": "Serves Makes 36",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes (15 minutes prep, plus proving, 30 minutes cook)",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes (15 minutes prep, plus proving, 30 minutes cook)"
+    name: "Love heart Camembert",
+    subName: "Soft tear 'n' share rolls",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Everybody loves baked Camembert, but this one is truly epic. It's got homemade bread rolls for dunking into that oozy cheese.",
+    description:
+      "“Push the boat out with this easy tear ’n’ share bread with oozy Camembert for dunking. A big show off party bread that’s as easy as it is impressive – just the thing if you’re having friends and family over for nibbles. ”",
+    servings: "Serves Makes 36",
+    time: {
+      prep: "",
+      cook: "45 minutes (15 minutes prep, plus proving, 30 minutes cook)",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes (15 minutes prep, plus proving, 30 minutes cook)",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Dinner Party",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Dinner Party", "Snacks"],
+    ingredients: [
       "800 g strong bread flour , plus extra for dusting",
       "1 x 7 g sachet of dried yeast",
       "3 x 250 g round Camembert cheeses",
       "½ a bunch of fresh rosemary",
-      "3 cloves of garlic"
+      "3 cloves of garlic",
     ],
-    "instructions": [
+    instructions: [
       "Put the flour, yeast and 1 teaspoon of sea salt into the bowl of a food processor. Gradually pour in 500ml of tepid water and pulse for a few minutes until you have a ball of dough. Leave the lid on and prove in a warm place for 1 hour 30 minutes, or until doubled in size.",
       "Line a large baking tray with greaseproof paper and dust with flour. Lightly draw the outline of a heart in the flour with your finger. Remove the box base from one Camembert and place it in the centre of the tray.",
       "Divide the dough into four pieces, then each of those into 12, giving you 48 in total. One-by-one roll each piece into a ball and place on the tray, building out from the Camembert box to create your heart shape. Cover with a damp tea towel and leave to prove for another hour.",
       "Preheat the oven to 180°C/350°F/gas 4. Cut the rind off the top of each Camembert leaving a 1cm rim (reserving the boxes for baking). Pick the tips off three rosemary sprigs and poke into the soft cheeses, then peel and finely slice the garlic, drizzle with olive oil and poke those in too. Sprinkle each cheese with a pinch of sea salt and black pepper, then pop one in its box in the centre of the heart, and another on a separate tray. Reserve the third cheese for later.",
-      "Strip the remaining rosemary leaves and dot between the dough balls. Sprinkle with a good pinch of salt from a height, and drizzle with olive oil. Place the bread heart in the oven with the second cheese on the shelf below and bake for 30 to 35 minutes, or until the Camemberts are gooey and the bread is risen and golden. As soon as you serve the first two cheeses, bake the third one in its box for about 20 minutes, then swap with the eaten ones. Delicious."
+      "Strip the remaining rosemary leaves and dot between the dough balls. Sprinkle with a good pinch of salt from a height, and drizzle with olive oil. Place the bread heart in the oven with the second cheese on the shelf below and bake for 30 to 35 minutes, or until the Camemberts are gooey and the bread is risen and golden. As soon as you serve the first two cheeses, bake the third one in its box for about 20 minutes, then swap with the eaten ones. Delicious.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/87657618.jpg",
-    "imageAlt": "Love heart Camembert"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/87657618.jpg",
+    imageAlt: "Love heart Camembert",
   },
   {
-    "name": "Basic latkes",
-    "subName": "Crispy, herb-spiked deliciousness",
-    "specialDiets": [],
-    "metaDescription": "Latkes are a traditional part of Jewish cuisine, and this Jamie Oliver recipe for potato latkes is perfect for Hanukkah. Serve with a dollop of sour cream.",
-    "description": "“A perfect base for all kinds of tasty toppings, or simply delicious with a dollop of fiery mustard or soured cream ”",
-    "servings": "Serves Makes 10",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Basic latkes",
+    subName: "Crispy, herb-spiked deliciousness",
+    specialDiets: [],
+    metaDescription:
+      "Latkes are a traditional part of Jewish cuisine, and this Jamie Oliver recipe for potato latkes is perfect for Hanukkah. Serve with a dollop of sour cream.",
+    description:
+      "“A perfect base for all kinds of tasty toppings, or simply delicious with a dollop of fiery mustard or soured cream ”",
+    servings: "Serves Makes 10",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Dinner Party",
-      "Potato",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Dinner Party", "Potato", "Snacks"],
+    ingredients: [
       "2 large Maris Piper potatoes , (600g total)",
       "1 onion , optional",
       "4 tablespoons plain flour",
       "2 large free-range eggs",
       "vegetable oil , for frying",
-      "½ a bunch of fresh woody herbs , such as sage, rosemary, thyme (15g)"
+      "½ a bunch of fresh woody herbs , such as sage, rosemary, thyme (15g)",
     ],
-    "instructions": [
+    instructions: [
       "Scrub the potatoes clean, then coarsely grate (skin and all). Peel and finely slice the onion (if using).",
       "Place in the middle of a clean tea towel and wring out the liquid, then transfer to a large bowl.",
       "Add the flour and crack in the eggs, season with sea salt and black pepper, then mix well to combine.",
       "Place a large frying pan on a medium heat with enough oil to cover the bottom of the pan.",
       "Shape small handfuls of the potato mixture (roughly the same size as a golf balls) into latkes, flattening gently, then carefully add to the pan – you may need to work in batches.",
       "Fry for 1½ to 2 minutes on each side, or until golden and crisp, then drain on kitchen paper.",
-      "Pick the herbs and scatter into the pan with the remaining oil. Fry for a few seconds until crisp, then remove to the kitchen paper before sprinkling over the hot latkes."
+      "Pick the herbs and scatter into the pan with the remaining oil. Fry for a few seconds until crisp, then remove to the kitchen paper before sprinkling over the hot latkes.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/83536218.jpg",
-    "imageAlt": "Basic latkes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/83536218.jpg",
+    imageAlt: "Basic latkes",
   },
   {
-    "name": "Aubergine tartare",
-    "subName": "With spring onion, almonds & zingy lemon",
-    "specialDiets": [
-      "Vegetarian",
-      "Vegan",
-      "Dairy-free"
-    ],
-    "metaDescription": "This aubergine tartare recipe is great to enjoy with friends. Serve as a starter, or as part of a mezze platter.",
-    "description": "“This light and vibrant dish is great food to enjoy with friends. Serve as a starter, or as part of a mezze platter so that people can dig in and help themselves. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Aubergine tartare",
+    subName: "With spring onion, almonds & zingy lemon",
+    specialDiets: ["Vegetarian", "Vegan", "Dairy-free"],
+    metaDescription:
+      "This aubergine tartare recipe is great to enjoy with friends. Serve as a starter, or as part of a mezze platter.",
+    description:
+      "“This light and vibrant dish is great food to enjoy with friends. Serve as a starter, or as part of a mezze platter so that people can dig in and help themselves. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Dinner Party",
       "Greek",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "4 aubergines",
       "4 cloves of garlic",
       "olive oil",
@@ -121,9 +113,9 @@
       "extra virgin olive oil",
       "1 loaf of Greek bread or a few pitta breads",
       "4 ripe tomatoes",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Cut 4 aubergines into 5cm-thick slices and arrange in one layer on a few roasting trays.",
       "Peel and finely slice 4 cloves of garlic. Make incisions in the aubergine, roughly the same size as the garlic slices, and pop a slice of garlic into each incision.",
@@ -131,36 +123,38 @@
       "Pick and finely chop ½ a bunch each of fresh mint and flat-leaf parsley (30g total), then trim and finely slice 4 spring onions. Toast 50g blanched almonds in a dry pan until golden, then roughly chop.",
       "Leave the aubergine until cool enough to handle, then chop into 1cm cubes and add to a bowl with the herbs, spring onions, almonds and 1 tablespoons of baby capers. Season, drizzle with extra virgin olive oil and mix well.",
       "Slice 1 loaf of Greek bread (or a few pitta breads), toast on a griddle and drizzle with extra virgin olive oil. Halve 4 ripe tomatoes and rub the cut side on the toast, squeezing to get a lovely tomato coating.",
-      "Serve the aubergine tartare with the tomato toasts, and lemon wedges for squeezing over."
+      "Serve the aubergine tartare with the tomato toasts, and lemon wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449917.jpg",
-    "imageAlt": "Aubergine tartare"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449917.jpg",
+    imageAlt: "Aubergine tartare",
   },
   {
-    "name": "Chipotle-fried fish & clementine bites",
-    "subName": "With a cool yoghurt & coriander dip",
-    "specialDiets": [],
-    "metaDescription": "Crunchy, spicy and delicious, this zesty fish bite recipe from Jamie magazine is great party food for friends.",
-    "description": "“Crispy and juicy at the same time, these fried citrus slices are a revelation. ”",
-    "servings": "4 to 6, as a starter",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Chipotle-fried fish & clementine bites",
+    subName: "With a cool yoghurt & coriander dip",
+    specialDiets: [],
+    metaDescription:
+      "Crunchy, spicy and delicious, this zesty fish bite recipe from Jamie magazine is great party food for friends.",
+    description:
+      "“Crispy and juicy at the same time, these fried citrus slices are a revelation. ”",
+    servings: "4 to 6, as a starter",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Seafood",
       "Christmas",
       "Dinner Party",
       "Fruit",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g white fish fillets , such as pollock, haddock, cod, skin off, pin-boned, from sustainable sources",
       "2 limes",
       "1 teaspoon dried chipotle flakes , plus extra to serve",
@@ -173,9 +167,9 @@
       "½ a bunch of fresh coriander , (15g)",
       "75 g plain yoghurt",
       "1 small clove of garlic",
-      "½ a clementine"
+      "½ a clementine",
     ],
-    "instructions": [
+    instructions: [
       "Cut the fish into 2.5cm chunks, season with sea salt and black pepper, squeeze over the juice of 1 lime and set aside for 10 minutes.",
       "Pick and finely chop most of the fresh coriander leaves for the dip (reserving some for a garnish) and stir through the yoghurt in a small bowl.",
       "Peel and crush the garlic, and add to the yoghurt along with the zest of the clementine half. Season to taste and set aside.",
@@ -184,90 +178,82 @@
       "Slice the clementines as thinly as you can – about 1mm. This can be fiddly, so don’t worry about getting perfect rounds.",
       "Pat the fish and clementine slices with kitchen paper to soak up any excess juice. Coat them in the cornflour, then dip briefly in the milk before coating again in flour, shaking off the excess.",
       "Deep fry the fish and clementine in batches for 2 to 3 minutes, or until golden.",
-      "Drain on kitchen paper and scatter with salt, chipotle and the reserved coriander. Serve immediately with the dip and the remaining lime cut into wedges."
+      "Drain on kitchen paper and scatter with salt, chipotle and the reserved coriander. Serve immediately with the dip and the remaining lime cut into wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/63227643.jpg",
-    "imageAlt": "Chipotle-fried fish & clementine bites"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/63227643.jpg",
+    imageAlt: "Chipotle-fried fish & clementine bites",
   },
   {
-    "name": "Spanish tortilla",
-    "subName": "A Spanish classic",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This Spanish omelette recipe from Jamie Oliver will show you how to make a Spanish omelette, and it really couldn't be easier (or tastier!). Serve with a salad.",
-    "description": "“This classic Spanish dish is very versatile and quick to whip up. The tortilla (or Spanish omelette) can be served hot or cold and is a fantastic way of using up all kinds of ingredients – simply add in any leftover vegetables, crumbled or grated cheese, jarred red peppers or cooked sausage. They’ll all taste great, so get experimenting! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Spanish tortilla",
+    subName: "A Spanish classic",
+    specialDiets: ["Gluten-free", "Dairy-free", "Vegetarian"],
+    metaDescription:
+      "This Spanish omelette recipe from Jamie Oliver will show you how to make a Spanish omelette, and it really couldn't be easier (or tastier!). Serve with a salad.",
+    description:
+      "“This classic Spanish dish is very versatile and quick to whip up. The tortilla (or Spanish omelette) can be served hot or cold and is a fantastic way of using up all kinds of ingredients – simply add in any leftover vegetables, crumbled or grated cheese, jarred red peppers or cooked sausage. They’ll all taste great, so get experimenting! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Alfresco",
       "Dinner Party",
       "Spanish",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g waxy potatoes",
       "1 onion",
       "olive oil",
-      "5 large free-range eggs"
+      "5 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Peel the potatoes using a speed-peeler, then carefully cut them into thin slices. Pat the potato slices dry with a clean tea towel.",
       "Peel and finely slice the onion. Drizzle 2 tablespoons of oil into a small frying pan over a medium heat, then add the onion and potatoes.",
       "Turn the heat down to low and cook for 25 to 30 minutes, or until the onions are turning golden and the potato slices are cooked through. Try not to stir it too much or the potatoes will break up – just use a fish slice to flip them over halfway through.",
       "Crack the eggs into a mixing bowl, season with a tiny pinch of sea salt and black pepper, then whisk together with a fork.",
       "When the onions and potatoes are cooked, remove the pan from the heat and carefully tip them into the eggs. Transfer the mixture back into the frying pan and place it over a low heat. Cook for around 20 minutes, or until there’s almost no runny egg on top.",
       "Use a fish slice to slightly lift and loosen the sides of the tortilla. Carefully flip the pan over a dinner plate and tip out the tortilla, then slide it back into the pan and cook for another 5 minutes, or until golden and cooked through.",
-      "Turn out the tortilla onto a serving board, then cut into 6 wedges and serve hot or cold with a simple green salad."
+      "Turn out the tortilla onto a serving board, then cut into 6 wedges and serve hot or cold with a simple green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260004.jpg",
-    "imageAlt": "Spanish tortilla"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260004.jpg",
+    imageAlt: "Spanish tortilla",
   },
   {
-    "name": "Brazilian breakfast dough balls",
-    "subName": "Pão de queijo",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Brazilian breakfast dough balls, or pão de queijo, are enjoyed for breakfast or as a snack all over Brazil – delicious crispy puffs of dough with a mild cheese flavour. Get the recipe here!",
-    "description": "“Crispy puffs of dough with a mild, cheesy flavour, pão de queijo are eaten for breakfast or as a snack all over Brasil. The secret to this addictive treat is the use of cassava flour (polvilho azedo), which gives the balls an irresistibly moist, chewy texture. The best ones we’ve ever tasted were from a tiny hole-in-the-wall bakery in São Paulo, and we like to think this recipe comes pretty close. ”",
-    "servings": "Serves Makes 25",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus chilling"
+    name: "Brazilian breakfast dough balls",
+    subName: "Pão de queijo",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Brazilian breakfast dough balls, or pão de queijo, are enjoyed for breakfast or as a snack all over Brazil – delicious crispy puffs of dough with a mild cheese flavour. Get the recipe here!",
+    description:
+      "“Crispy puffs of dough with a mild, cheesy flavour, pão de queijo are eaten for breakfast or as a snack all over Brasil. The secret to this addictive treat is the use of cassava flour (polvilho azedo), which gives the balls an irresistibly moist, chewy texture. The best ones we’ve ever tasted were from a tiny hole-in-the-wall bakery in São Paulo, and we like to think this recipe comes pretty close. ”",
+    servings: "Serves Makes 25",
+    time: {
+      prep: "",
+      cook: "1 hour plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Breakfast",
-      "Brilliant breakfast recipes",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Breakfast", "Brilliant breakfast recipes", "Snacks"],
+    ingredients: [
       "125ml whole milk",
       "50ml vegetable oil",
       "250g cassava flour , (or substitute tapioca flour)",
       "2 large free-range eggs",
-      "200g Parmesan or mature Cheddar cheese"
+      "200g Parmesan or mature Cheddar cheese",
     ],
-    "instructions": [
+    instructions: [
       "Put 125ml water, the milk, vegetable oil and 1 teaspoon of sea salt in a large pan and bring to the boil.",
       "As soon as it rises up the sides of the pan, remove it from the heat. Quickly tip in the flour and stir vigorously to combine. Keep stirring until the mixture comes together as a wet dough and comes away from the side of the pan.Transfer to the bowl of a stand mixer and leave to cool slightly.",
       "Crack the eggs into a bowl and beat together, then add to the dough and start mixing at a low speed. After 1 to 2 minutes, increase the speed to high and beat vigorously until all the egg has been incorporated and the dough is smooth.",
@@ -276,124 +262,120 @@
       "With damp or lightly oiled hands, roll tablespoons of the dough into small balls, about 25 to 30g each. You may need to wash your hands occasionally, as the dough is quite sticky. (If you have one, use a small ice-cream scoop to make this easier. Dip the scoop briefly in water, then flick away any excess water before scooping each ball.)",
       "Arrange the balls 2.5cm apart on the prepared baking sheet. You can prepare them a few hours ahead and put the tray in the fridge until you’re ready to bake.",
       "Preheat the oven to 200°C/400°F/gas 6.",
-      "Bake for 20 to 25 minutes, until puffed up and evenly golden brown. They should have a crisp exterior and a doughy, chewy centre. Serve immediately."
+      "Bake for 20 to 25 minutes, until puffed up and evenly golden brown. They should have a crisp exterior and a doughy, chewy centre. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46129327.jpg",
-    "imageAlt": "Brazilian breakfast dough balls"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46129327.jpg",
+    imageAlt: "Brazilian breakfast dough balls",
   },
   {
-    "name": "Spicy feta & pepper dip",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "A deliciously easy dip that you can whiz up in just five minutes – perfect for parties, picnics, buffets and a quick snack with veg crudités. Vegetarian, gluten-free and dairy-free, too. You can't go wrong!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Spicy feta & pepper dip",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "A deliciously easy dip that you can whiz up in just five minutes – perfect for parties, picnics, buffets and a quick snack with veg crudités. Vegetarian, gluten-free and dairy-free, too. You can't go wrong!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Feta",
       "Snacks",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "240 g feta cheese",
       "120 g jarred red peppers (drained weight)",
-      "3 tablespoons olive oil"
+      "3 tablespoons olive oil",
     ],
-    "instructions": [
+    instructions: [
       "In a food processor combine the feta, red peppers and oil.",
       "Season with black pepper and blend until smooth.",
-      "Transfer to a bowl, then serve."
+      "Transfer to a bowl, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AL4pYuzeaN_8Wnt3KUxTWA.jpg",
-    "imageAlt": "Spicy feta & pepper dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AL4pYuzeaN_8Wnt3KUxTWA.jpg",
+    imageAlt: "Spicy feta & pepper dip",
   },
   {
-    "name": "Walnut skordalia",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Skordalia is a traditional Greek dip recipe – always spiked with garlic, this one is heavy on creamy walnuts, blitzed with breadcrumbs and drizzled with red wine vinegar for tang. From Jamie magazine.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Walnut skordalia",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Skordalia is a traditional Greek dip recipe – always spiked with garlic, this one is heavy on creamy walnuts, blitzed with breadcrumbs and drizzled with red wine vinegar for tang. From Jamie magazine.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Alfresco",
       "Greek",
       "Sides",
       "Snacks",
-      "Sauces & condiments"
+      "Sauces & condiments",
     ],
-    "ingredients": [
+    ingredients: [
       "80 g shelled walnuts",
       "40 g fresh breadcrumbs",
       "2 cloves of garlic",
       "50 ml red wine vinegar",
       "110 ml olive oil",
-      "sumac"
+      "sumac",
     ],
-    "instructions": [
+    instructions: [
       "In a food processor blend the walnuts to a paste.",
       "Add the breadcrumbs, garlic cloves, red wine vinegar and 3 to 5 tablespoons of cold water.",
       "Process and add the olive oil in a stream, until smooth.",
-      "Season, add to a bowl and sprinkle with sumac."
+      "Season, add to a bowl and sprinkle with sumac.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/DUae2ZqIqV8BP56TPMaQNk.jpg",
-    "imageAlt": "Walnut skordalia"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/DUae2ZqIqV8BP56TPMaQNk.jpg",
+    imageAlt: "Walnut skordalia",
   },
   {
-    "name": "Pistachio, apricot & dark chocolate energy bars",
-    "subName": "With mixed seeds, oats & almond butter",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Avoiding refined sugars? These pistachio, apricot and dark chocolate energy bars with mixed seeds, dates and oats will hit the spot for a quick energy boost.",
-    "description": "“Have as a mid-morning snack for a boost of energy – delicious served with a cup of tea or coffee. ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Pistachio, apricot & dark chocolate energy bars",
+    subName: "With mixed seeds, oats & almond butter",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Avoiding refined sugars? These pistachio, apricot and dark chocolate energy bars with mixed seeds, dates and oats will hit the spot for a quick energy boost.",
+    description:
+      "“Have as a mid-morning snack for a boost of energy – delicious served with a cup of tea or coffee. ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Healthy snack ideas",
       "Snacks",
       "Store cupboard recipes",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil , for greasing",
       "75 g shelled pistachios",
       "100 g mixed seeds",
@@ -402,216 +384,205 @@
       "100 g dried apricots",
       "50 g quality dark chocolate (70%)",
       "100 ml maple syrup",
-      "4 tablespoons smooth almond butter"
+      "4 tablespoons smooth almond butter",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4. Grease and line a 20cm x 20cm square baking tin.",
       "Chop the pistachios, then scatter over a baking sheet with the mixed seeds and oats, and roast for 20 minutes, or until golden and toasted, turning occasionally.",
       "Meanwhile, destone and roughly tear the dates, and roughly chop the apricots and chocolate.",
       "Place the maple syrup, almond butter, dates and 150ml of water in a small saucepan over a low heat. Gently heat for 10 minutes, mashing the dates with the back of your spoon, until you have a sticky sauce.",
       "Tip the oats, seeds and pistachios into a large bowl along with the apricots and pour over the maple syrup mixture. Coat everything in the sticky sauce before gently folding through the dark chocolate.",
       "Pour the mixture into the baking tin, using a back of a spoon to press into an even layer.",
-      "Bake for 15 to 20 minutes, or until golden, then cut into portions."
+      "Bake for 15 to 20 minutes, or until golden, then cut into portions.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5T-9y37mK8hBdUB_A1bk5W.jpg",
-    "imageAlt": "Pistachio, apricot & dark chocolate energy bars"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5T-9y37mK8hBdUB_A1bk5W.jpg",
+    imageAlt: "Pistachio, apricot & dark chocolate energy bars",
   },
   {
-    "name": "Pork & apple sausage rolls",
-    "subName": "with leek, thyme and mustard seeds",
-    "specialDiets": [],
-    "metaDescription": "Pack up these delicious pork and apple sausage rolls for the perfect picnic treat. Leek, thyme and mustard seeds add gorgeous flavour, while using shop-bought puff pastry makes it super easy. Enjoy! ",
-    "description": "",
-    "servings": "Serves Makes 6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Pork & apple sausage rolls",
+    subName: "with leek, thyme and mustard seeds",
+    specialDiets: [],
+    metaDescription:
+      "Pack up these delicious pork and apple sausage rolls for the perfect picnic treat. Leek, thyme and mustard seeds add gorgeous flavour, while using shop-bought puff pastry makes it super easy. Enjoy! ",
+    description: "",
+    servings: "Serves Makes 6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Pork",
-      "British",
-      "Sausage",
-      "Snacks",
-      "Sides"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Pork", "British", "Sausage", "Snacks", "Sides"],
+    ingredients: [
       "1 leek",
       "1 Royal Gala apple",
       "4 sprigs of fresh thyme",
       "500 g minced pork",
       "½ teaspoon mustard seeds",
       "500 g puff pastry",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Wash, trim and dice the leek, core and dice the apple, then pick the thyme leaves.",
       "Combine the pork, leek, apple, thyme leaves and mustard seeds in a bowl. Season and set aside.",
       "Roll out the pastry to 1cm thick and 34cm x 30cm. Halve lengthways and place a strip of mince down the centre of each.",
       "Brush the edges with beaten egg, roll up and seal. Brush with more egg, then cut each strip into 3 rolls.",
-      "Score the tops and bake for 20 minutes, or until golden and cooked through."
+      "Score the tops and bake for 20 minutes, or until golden and cooked through.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/3prSAmQJKKH8G0CFw_2UUT.jpg",
-    "imageAlt": "Pork & apple sausage rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/3prSAmQJKKH8G0CFw_2UUT.jpg",
+    imageAlt: "Pork & apple sausage rolls",
   },
   {
-    "name": "Aubergine dip",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This easy aubergine dip recipe from Jamie magazine is a brilliant party snack idea. It's delicious served with crunchy crudités and warmed flatbreads.",
-    "description": "",
-    "servings": "4 as a snack",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 5 minutes"
+    name: "Aubergine dip",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This easy aubergine dip recipe from Jamie magazine is a brilliant party snack idea. It's delicious served with crunchy crudités and warmed flatbreads.",
+    description: "",
+    servings: "4 as a snack",
+    time: {
+      prep: "",
+      cook: "1 hour 5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 5 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Dinner Party",
       "Snacks",
       "Christmas",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "1 aubergine",
       "1 clove of garlic",
       "½ - 1 fresh green chilli",
       "½ a bunch of fresh flat-leaf parsley",
       "1 tablespoon extra virgin olive oil",
       "½ lemon",
-      "½ teaspoon smoked paprika"
+      "½ teaspoon smoked paprika",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4. Pierce the aubergine a couple of times with a knife, then roast for 45 minutes until blackened, softened and collapsing. Leave to cool.",
       "Peel and crush the garlic, deseed and finely chop the chilli and pick and finely chop the parsley.",
       "Scoop the cooled insides from the aubergine into a food processor. Blitz with the garlic, chilli, oil, a good squeeze of lemon juice, the parsley and a pinch of sea salt and black pepper.",
-      "Taste and adjust the seasoning, oil and lemon as needed. Place in a dish and sprinkle with paprika. Serve with flatbreads."
+      "Taste and adjust the seasoning, oil and lemon as needed. Place in a dish and sprinkle with paprika. Serve with flatbreads.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46256344.jpg",
-    "imageAlt": "Aubergine dip"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46256344.jpg",
+    imageAlt: "Aubergine dip",
   },
   {
-    "name": "Asparagus pâté",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Enjoy this vibrantly green asparagus pate recipe from Jamie Oliver on your next picnic; it tastes great and only requires two ingredients to make!",
-    "description": "",
-    "servings": "8 to 10, as a starter",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Asparagus pâté",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Enjoy this vibrantly green asparagus pate recipe from Jamie Oliver on your next picnic; it tastes great and only requires two ingredients to make!",
+    description: "",
+    servings: "8 to 10, as a starter",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Starters",
       "Quick fixes",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
-      "3 bunches of asparagus",
-      "3 tablespoons clotted cream"
-    ],
-    "instructions": [
+    ingredients: ["3 bunches of asparagus", "3 tablespoons clotted cream"],
+    instructions: [
       "Snap the woody ends off the asparagus.",
       "Blanch the asparagus spears in boiling salted water until tender, then drain.",
       "Blend the asparagus and clotted cream together and mix thoroughly.",
-      "Season with sea salt and black pepper, to taste, and whiz one last time."
+      "Season with sea salt and black pepper, to taste, and whiz one last time.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259345.jpg",
-    "imageAlt": "Asparagus pâté"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259345.jpg",
+    imageAlt: "Asparagus pâté",
   },
   {
-    "name": "Devils on horseback",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "A devils on horseback recipe for the perfect festive canapé. It’s a prune and bacon appetizer, but with the addition of whole almonds. This wonderful recipe from Jamie magazine is hard to resist!",
-    "description": "",
-    "servings": "8 as a canapé",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Devils on horseback",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "A devils on horseback recipe for the perfect festive canapé. It’s a prune and bacon appetizer, but with the addition of whole almonds. This wonderful recipe from Jamie magazine is hard to resist!",
+    description: "",
+    servings: "8 as a canapé",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Christmas",
       "Thanksgiving",
       "Dinner Party",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "24 quality prunes",
       "24 blanched whole almonds",
       "extra virgin olive oil",
-      "12 rashers of higher-welfare smoked streaky bacon"
+      "12 rashers of higher-welfare smoked streaky bacon",
     ],
-    "instructions": [
+    instructions: [
       "Destone the prunes, and make a small an incision. Season the almonds with sea salt and drizzle with oil, then stuff inside the prunes.",
       "Halve the rashers of bacon across the middle, then wrap each prune in a piece. Place the devils on a lined baking tray, cover and chill.",
-      "When ready to cook, preheat the oven to 190ºC/gas 5 and remove the devils from the fridge. Cook for 15 to 20 minutes, or until bacon is crisp. Serve immediately."
+      "When ready to cook, preheat the oven to 190ºC/gas 5 and remove the devils from the fridge. Cook for 15 to 20 minutes, or until bacon is crisp. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/1F5jJ9Yj4SK9WNYUOfiOYI.jpg",
-    "imageAlt": "Devils on horseback"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/1F5jJ9Yj4SK9WNYUOfiOYI.jpg",
+    imageAlt: "Devils on horseback",
   },
   {
-    "name": "Coconut bread",
-    "subName": "With sweet banana & runny honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "In need of a reliable bread recipe? This coconut bread with a sweet twist of banana and honey works a treat every time. Delicious with mango, mint and yoghurt – get involved!",
-    "description": "“There’s nothing like freshly baked bread, especially when you add the sweet twist of coconut. If you’re feeling bleary eyed, make this in a stand mixer with a dough hook, and let it do the work. You’ll get two loaves so you can freeze one, after baking, to eat another time. ”",
-    "servings": "Serves Makes 2 loaves (each loaf serves 6 to 8)",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes plus proving"
+    name: "Coconut bread",
+    subName: "With sweet banana & runny honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "In need of a reliable bread recipe? This coconut bread with a sweet twist of banana and honey works a treat every time. Delicious with mango, mint and yoghurt – get involved!",
+    description:
+      "“There’s nothing like freshly baked bread, especially when you add the sweet twist of coconut. If you’re feeling bleary eyed, make this in a stand mixer with a dough hook, and let it do the work. You’ll get two loaves so you can freeze one, after baking, to eat another time. ”",
+    servings: "Serves Makes 2 loaves (each loaf serves 6 to 8)",
+    time: {
+      prep: "",
+      cook: "55 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes plus proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Mother's day",
       "Breakfast",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 7 g sachet dried yeast",
       "2 tablespoons runny honey",
       "1 ripe banana",
@@ -619,9 +590,9 @@
       "800 g strong bread flour , plus extra for dusting",
       "1 400ml tin light coconut milk",
       "200 g desiccated coconut",
-      "unsalted butter , for greasing"
+      "unsalted butter , for greasing",
     ],
-    "instructions": [
+    instructions: [
       "Stir the yeast and honey into 200ml of tepid water, then leave for a couple of minutes to bubble up a bit.",
       "Peel and mash the banana. Crack the egg into a bowl and beat together.",
       "It’s best to use a stand mixer for this. Put the flour, mashed banana, beaten egg, coconut milk, coconut and a small pinch of sea salt in the bowl and combine using the dough hook.",
@@ -632,39 +603,30 @@
       "Divide the dough into 2 pieces and push into 2 greased 13cm x 18cm loaf tins. Cover the tins with a damp tea towel and prove in a warm place for 1 hour, or until doubled in size.",
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Cook the loaves for 30 to 35 minutes, or till the crusts are golden-brown, and sound hollow when tapped.",
-      "Transfer to a wire rack to cool a little. Delicious served warm with chopped mango, fresh mint and yoghurt hit with lime zest and juice, and honey."
+      "Transfer to a wire rack to cool a little. Delicious served warm with chopped mango, fresh mint and yoghurt hit with lime zest and juice, and honey.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260715.jpg",
-    "imageAlt": "Coconut bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260715.jpg",
+    imageAlt: "Coconut bread",
   },
   {
-    "name": "Spiced aubergine dip",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Follow this delicious spiced aubergine dip recipe from Jamie Oliver; a spicy vegetarian side dish that will be sure to impress friends and family alike.",
-    "description": "",
-    "servings": "Serves Makes 600 g",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 35 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 35 minutes plus cooling"
+    name: "Spiced aubergine dip",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Follow this delicious spiced aubergine dip recipe from Jamie Oliver; a spicy vegetarian side dish that will be sure to impress friends and family alike.",
+    description: "",
+    servings: "Serves Makes 600 g",
+    time: {
+      prep: "",
+      cook: "1 hour 35 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 35 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Vegetables",
-      "Snacks",
-      "Tomato"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Vegetables", "Snacks", "Tomato"],
+    ingredients: [
       "2 large aubergines",
       "2 onions",
       "4 cloves of garlic",
@@ -674,9 +636,9 @@
       "1 bunch of fresh coriander",
       "1 tablespoon vegetable oil",
       "2 tablespoons curry powder",
-      "oven-baked corn tortillas"
+      "oven-baked corn tortillas",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220ºC/gas 7.",
       "Prick the aubergines all over with a fork, then place on a roasting tray. Roast for 50 minutes to 1 hour, or until the skin blackens and chars and the flesh can be easily pierced with a spoon. Allow to cool to room temperature.",
       "Cut the cooled aubergines in half, scoop the flesh into a food processor and pulse until smooth. Set aside.",
@@ -684,39 +646,39 @@
       "Heat the oil in a large frying pan. Add the onion and sauté for 5 to 6 minutes, or until softened.",
       "Add the garlic, ginger and chilli, then stir-fry for 1 to 2 minutes. Stir in the tomatoes and curry powder and cook for a further 12 to 15 minutes, or until softened.",
       "Next, add the reserved aubergine and cook, for 3 to 4 minutes, stirring regularly. Stir in the coriander, then remove from the heat.",
-      "Garnish with the extra tomato slices, and serve with the oven-baked corn tortillas."
+      "Garnish with the extra tomato slices, and serve with the oven-baked corn tortillas.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/B0eKV1VbqJpASN3A460v1K.jpg",
-    "imageAlt": "Spiced aubergine dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/B0eKV1VbqJpASN3A460v1K.jpg",
+    imageAlt: "Spiced aubergine dip",
   },
   {
-    "name": "Roasted spring veg with watercress dip",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This beautiful watercress dip recipe is a great dinner party starter, or nibble for a buffet table. ",
-    "description": "“This peppery dip is a great way to enjoy your favourite veg. ”",
-    "servings": "4 as a starter",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Roasted spring veg with watercress dip",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This beautiful watercress dip recipe is a great dinner party starter, or nibble for a buffet table. ",
+    description:
+      "“This peppery dip is a great way to enjoy your favourite veg. ”",
+    servings: "4 as a starter",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Snacks",
       "Starters",
-      "Vegetable sides"
+      "Vegetable sides",
     ],
-    "ingredients": [
+    ingredients: [
       "1 banana shallot",
       "400 g watercress",
       "25 g butter",
@@ -729,9 +691,9 @@
       "1 small bunch of radishes",
       "300 g new potatoes",
       "6 spring onions",
-      "2 tablespoons olive oil"
+      "2 tablespoons olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the shallot, then wash the watercress, removing any large stalks.",
       "Melt the butter in a large frying pan over a medium heat, then add the shallot and sauté for 10 minutes, or until soft and translucent.",
       "Add the watercress and cook, stirring, for 5 minutes, until the watercress is wilted but still bright green.",
@@ -744,40 +706,31 @@
       "Toss all the veg with the oil, a squeeze of lemon juice and season.",
       "Place in a baking tray and pop in the oven for 45 minutes, or until cooked and slightly caramelised.",
       "Remove the veg from the oven and allow to cool a little.",
-      "Serve the dip in a bowl alongside the veg with extra watercress, crackerbread and a pinch of smoked sea salt, if you like."
+      "Serve the dip in a bowl alongside the veg with extra watercress, crackerbread and a pinch of smoked sea salt, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BJcONLcn4bFBcD-d0ZlZiK.jpg",
-    "imageAlt": "Roasted spring veg with watercress dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BJcONLcn4bFBcD-d0ZlZiK.jpg",
+    imageAlt: "Roasted spring veg with watercress dip",
   },
   {
-    "name": "Beetroot crisps with coriander houmous",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A brilliant party snack or starter – these vegetable crisps and flavoured houmous are super-easy to make, plus they're gluten free. ",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Beetroot crisps with coriander houmous",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A brilliant party snack or starter – these vegetable crisps and flavoured houmous are super-easy to make, plus they're gluten free. ",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Vegetables",
-      "Snacks",
-      "Starters",
-      "Quick fixes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Vegetables", "Snacks", "Starters", "Quick fixes"],
+    ingredients: [
       "250 g large beetroot",
       "3 sprigs of fresh thyme",
       "olive oil",
@@ -787,53 +740,54 @@
       "2 tablespoons tahini",
       "1 lemon",
       "1 tesapoon smoked paprika",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Peel and thinly slice the beetroot, then place in a bowl. Pick in the thyme leaves, and toss with 1 tablespoon of olive oil.",
       "Spread out on lined baking trays and roast for 15 minutes, or until crisp. Allow to cool.",
       "Peel and crush the garlic into a blender, then pour in the chickpeas with their juices.",
       "Add the remaining ingredients with a tablespoon of extra virgin olive oil, and blitz until smooth.",
-      "Season, then tip into a small bowl, drizzle with extra virgin olive oil and serve with the crisps. Any leftover houmous will keep in the fridge for 4 to 5 days."
+      "Season, then tip into a small bowl, drizzle with extra virgin olive oil and serve with the crisps. Any leftover houmous will keep in the fridge for 4 to 5 days.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257585.jpg",
-    "imageAlt": "Beetroot crisps with coriander houmous"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257585.jpg",
+    imageAlt: "Beetroot crisps with coriander houmous",
   },
   {
-    "name": "Cheese & bacon pinwheels",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Enjoy these delicious cheese and bacon pinwheels as a snack any time of day, they're really simple to make which is lucky because they won't last long.",
-    "description": "",
-    "servings": "Serves Makes 30 approx",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Cheese & bacon pinwheels",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Enjoy these delicious cheese and bacon pinwheels as a snack any time of day, they're really simple to make which is lucky because they won't last long.",
+    description: "",
+    servings: "Serves Makes 30 approx",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Afternoon tea",
       "Pork",
       "Christmas",
       "Starters",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "plain flour , for dusting",
       "500 g ready-made puff pastry",
       "2 tablespoons basil pesto",
       "12 thin slices higher-welfare smoked pancetta",
       "4 tablespoons grated Parmesan cheese",
       "1 tablespoon milk",
-      "2 tablespoons sun-dried tomato pesto"
+      "2 tablespoons sun-dried tomato pesto",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4 and line a baking tray with greaseproof paper.",
       "Lightly dust a work surface with flour and divide the pastry into two evenly sized pieces. Roll one piece of the pastry out to roughly the size of an A4 sheet of paper (no thicker than 2mm), with the longer side nearest to you.",
       "Spread the green basil pesto evenly over the pastry, leaving a 1cm border at the top, and lay 8 of the pancetta slices vertically on the pastry.",
@@ -841,39 +795,37 @@
       "Brush the top edge with a little milk to seal and, using a sharp knife, slice the cylinder into 1cm thick pinwheels.",
       "Arrange the pinwheels on your lined baking tray, flatten each one slightly with your hand and pop in the fridge to chill while you prepare the remaining pinwheels.",
       "Repeat the above steps with the second sheet of pastry but use the red sun-dried tomato pesto in place of green.",
-      "Bake both batches of pinwheels for about 15 minutes, until crisp and golden. Serve warm."
+      "Bake both batches of pinwheels for about 15 minutes, until crisp and golden. Serve warm.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262145.jpg",
-    "imageAlt": "Cheese & bacon pinwheels"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262145.jpg",
+    imageAlt: "Cheese & bacon pinwheels",
   },
   {
-    "name": "Quinoa & kale muffins",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Use ground almonds and quinoa in these muffins to cut the gluten. With feta and avocado they're delicious!",
-    "description": "",
-    "servings": "Serves Makes 8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Quinoa & kale muffins",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Use ground almonds and quinoa in these muffins to cut the gluten. With feta and avocado they're delicious!",
+    description: "",
+    servings: "Serves Makes 8",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Afternoon tea",
       "Kale",
       "Muffin",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "½ a small shallot",
       "1 clove of garlic",
@@ -883,47 +835,40 @@
       "100 g ground almonds",
       "85 g feta cheese",
       "1 ripe avocado",
-      "1 small bunch of chives"
+      "1 small bunch of chives",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a muffin tray with paper cases and grease them with oil.",
       "Peel and finely chop the shallot. Peel and crush the garlic, then finely chop the kale.",
       "Beat the eggs in a large bowl, then add the shallot, garlic, kale, quinoa and almonds. Crumble in the feta.",
       "Mix well, then season to taste.",
       "Spoon the mixture evenly into the cases and bake for 20 to 25 mins, or until golden brown.",
       "Halve and destone the avocado, then scoop out and mash the flesh. Season. Finely chop the chives.",
-      "Serve the muffins topped with mashed avocado, chives and a pinch of black pepper."
+      "Serve the muffins topped with mashed avocado, chives and a pinch of black pepper.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4hGp62uKaqlBM4C24cf7U_.jpg",
-    "imageAlt": "Quinoa & kale muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4hGp62uKaqlBM4C24cf7U_.jpg",
+    imageAlt: "Quinoa & kale muffins",
   },
   {
-    "name": "Pickled quail eggs",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Learn how to cook quail eggs with this pickled quail eggs recipe from Jamie Oliver; considered a delicacy to many, this recipe will not disappoint.",
-    "description": "",
-    "servings": "Serves Makes 1 large jar",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus marinating overnight",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus marinating overnight"
+    name: "Pickled quail eggs",
+    subName: "",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Learn how to cook quail eggs with this pickled quail eggs recipe from Jamie Oliver; considered a delicacy to many, this recipe will not disappoint.",
+    description: "",
+    servings: "Serves Makes 1 large jar",
+    time: {
+      prep: "",
+      cook: "20 minutes plus marinating overnight",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus marinating overnight",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Eggs",
-      "Snacks",
-      "Sides",
-      "Sauces & condiments"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Eggs", "Snacks", "Sides", "Sauces & condiments"],
+    ingredients: [
       "24 quail eggs",
       "2 shallots",
       "120 ml white wine vinegar",
@@ -936,214 +881,211 @@
       "1/2 teaspoon peppercorns",
       "1/2 teaspoon coriander seeds",
       "1/2 teaspoon paprika",
-      "1/2 teaspoon sea salt"
+      "1/2 teaspoon sea salt",
     ],
-    "instructions": [
+    instructions: [
       "Boil and peel the quail eggs. Peel and slice the shallots.",
       "Combine all the ingredients, except the eggs, in saucepan on medium heat. Boil, then simmer for 2 to 3 minutes. Cool.",
-      "Place the eggs in a sterilised jar and pour over the vinegar mix. Marinate for at least 24 hours in fridge before serving."
+      "Place the eggs in a sterilised jar and pour over the vinegar mix. Marinate for at least 24 hours in fridge before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/6iLdA_flKsH9yWaCHVv4mn.jpg",
-    "imageAlt": "Pickled quail eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/6iLdA_flKsH9yWaCHVv4mn.jpg",
+    imageAlt: "Pickled quail eggs",
   },
   {
-    "name": "Broad beans, garlic & feta bruschetta",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's broad bean bruschetta are made with a yoghurt and feta base and flavoured with garlic and fresh herbs, perfect for a delicious summer lunch.",
-    "description": "",
-    "servings": "6 as a starter",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Broad beans, garlic & feta bruschetta",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's broad bean bruschetta are made with a yoghurt and feta base and flavoured with garlic and fresh herbs, perfect for a delicious summer lunch.",
+    description: "",
+    servings: "6 as a starter",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Alfresco",
       "Dinner Party",
       "Snacks",
       "Starters",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 sourdough loaf",
       "300 g frozen or fresh broad beans",
       "½ a bunch of fresh tarragon",
       "extra virgin olive oil",
       "1 clove of garlic",
       "100 g feta cheese",
-      "4 tablespooons fat-free natural yoghurt"
+      "4 tablespooons fat-free natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Heat a griddle pan over a high heat until smoking. Slice the bread into 2cm slices and place on the griddle pan, turning after 1 minute or until each side has been gently chargrilled. You will need to do this in batches. Set aside.",
       "Plunge the beans into a pan of boiling, salted water and simmer for 2 minutes, then drain and run under a cold tap until cool.",
       "Pop the beans out of their skins, then season. Pick, roughly chop and stir through the tarragon leaves. Gently crush with a fork, so you have a mix of whole and crushed beans. Drizzle with the oil.",
       "Halve the garlic clove and rub onto each slice of the griddled bread.",
-      "In a separate bowl, mash the feta with the yoghurt to form a paste, season and thickly spread onto each garlicky slice, then top with the beans. Drizzle with oil from the bowl."
+      "In a separate bowl, mash the feta with the yoghurt to form a paste, season and thickly spread onto each garlicky slice, then top with the beans. Drizzle with oil from the bowl.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259590.jpg",
-    "imageAlt": "Broad beans, garlic & feta bruschetta"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259590.jpg",
+    imageAlt: "Broad beans, garlic & feta bruschetta",
   },
   {
-    "name": "Amaretti biscuits",
-    "subName": "With a dusting of icing sugar",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy Jamie's take on the classic Italian after-dinner treat, they're really easy to put together, and this delicious recipe is also gluten free.",
-    "description": "“Classic Italian after-dinner treats and suitable for gluten-free guests, too. ”",
-    "servings": "Serves Makes 50",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Amaretti biscuits",
+    subName: "With a dusting of icing sugar",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Enjoy Jamie's take on the classic Italian after-dinner treat, they're really easy to put together, and this delicious recipe is also gluten free.",
+    description:
+      "“Classic Italian after-dinner treats and suitable for gluten-free guests, too. ”",
+    servings: "Serves Makes 50",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Afternoon tea",
       "Christmas",
       "Mother's day",
       "Baking",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "unsalted butter , for greasing",
       "4 large free-range egg whites",
       "350 g caster sugar",
       "350 g ground almonds",
       "30 ml amaretto liqueur",
-      "icing sugar"
+      "icing sugar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/gas 3, and grease and line two baking sheets.",
       "In a bowl, whisk the egg whites until firm. Gently fold in the sugar, almonds and amaretto to make a smooth paste.",
       "Using a teaspoon or a piping bag, place dollops of the mixture on the trays, 2cm apart.",
-      "Bake in the oven for 10 to 15 minutes, or until lightly golden. Transfer to a wire rack to cool, before dusting with icing sugar."
+      "Bake in the oven for 10 to 15 minutes, or until lightly golden. Transfer to a wire rack to cool, before dusting with icing sugar.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257212.jpg",
-    "imageAlt": "Amaretti biscuits"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257212.jpg",
+    imageAlt: "Amaretti biscuits",
   },
   {
-    "name": "Tuna & caper butter",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Make your own flavoured butter with this recipe for tuna and caper butter from Jamie Oliver, it is delicious spread on Italian flatbread or crispbread.",
-    "description": "",
-    "servings": "Serves Makes 580g",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Tuna & caper butter",
+    subName: "",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Make your own flavoured butter with this recipe for tuna and caper butter from Jamie Oliver, it is delicious spread on Italian flatbread or crispbread.",
+    description: "",
+    servings: "Serves Makes 580g",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Snacks",
       "Christmas",
       "Quick fixes",
-      "Store cupboard recipes"
+      "Store cupboard recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 anchovies, from sustainable sources",
       "1 teaspoon capers",
       "2 x 185 g tins of tuna in olive oil",
-      "210 g butter"
+      "210 g butter",
     ],
-    "instructions": [
+    instructions: [
       "Chop the anchovies, and drain the capers and tuna. Blend in a food processor with the butter until smooth.",
-      "Serve with Italian flatbreads or crispbread."
+      "Serve with Italian flatbreads or crispbread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7yOcbYtiqwWB_g_o6KDp_4.jpg",
-    "imageAlt": "Tuna & caper butter"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7yOcbYtiqwWB_g_o6KDp_4.jpg",
+    imageAlt: "Tuna & caper butter",
   },
   {
-    "name": "Broad bean dip",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A beautiful, healthy vegan snack, this broad bean dip recipe from Jamie Oliver is quick, simple and ideal family food for a beautiful summer picnic.",
-    "description": "",
-    "servings": "",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Broad bean dip",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A beautiful, healthy vegan snack, this broad bean dip recipe from Jamie Oliver is quick, simple and ideal family food for a beautiful summer picnic.",
+    description: "",
+    servings: "",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Snacks",
       "Quick fixes",
       "Sauces & condiments",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g broad beans (podded weight)",
       "3 tablespoons crème fraîche",
       "½ a lemon",
       "1 tablespoon fresh dill",
-      "flatbreads, pitta bread or chunky bread"
+      "flatbreads, pitta bread or chunky bread",
     ],
-    "instructions": [
+    instructions: [
       "Bring a large pan of water to the boil. Add the broad beans and cook until tender. Drain and refresh in iced water.",
       "Blitz the broad beans, crème fraîche and a little seasoning together in a food processor.",
-      "Put in a bowl and squeeze in the lemon juice. Pick, finely chop and stir through the dill, then serve with bread, ideally warmed."
+      "Put in a bowl and squeeze in the lemon juice. Pick, finely chop and stir through the dill, then serve with bread, ideally warmed.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/23Y4TR4AaItBwHTtLj2Iza.jpg",
-    "imageAlt": "Broad bean dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/23Y4TR4AaItBwHTtLj2Iza.jpg",
+    imageAlt: "Broad bean dip",
   },
   {
-    "name": "My tasty energy balls: date, cocoa & pumpkin seed",
-    "subName": "With almonds, cinnamon, honey & vanilla",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Jamie Oliver and his nutrition team have worked hard to create this super-nutritious energy balls recipe. Packed with dates, cocoa and pumpkin seeds, they're the perfect afternoon snack.",
-    "description": "“Me and my nutrition team have worked hard to create these super-nutritious balanced flavour-packed energy balls that give us the perfect snack boost to get us through the day – enjoy two balls per snack. ”",
-    "servings": "Serves Makes 12 portions",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "My tasty energy balls: date, cocoa & pumpkin seed",
+    subName: "With almonds, cinnamon, honey & vanilla",
+    specialDiets: ["Vegetarian", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Jamie Oliver and his nutrition team have worked hard to create this super-nutritious energy balls recipe. Packed with dates, cocoa and pumpkin seeds, they're the perfect afternoon snack.",
+    description:
+      "“Me and my nutrition team have worked hard to create these super-nutritious balanced flavour-packed energy balls that give us the perfect snack boost to get us through the day – enjoy two balls per snack. ”",
+    servings: "Serves Makes 12 portions",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Fruit",
       "Freezer-friendly recipes",
       "Healthy snack ideas",
       "Healthy vegetarian recipes",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "70 g pumpkin seeds",
       "20 g puffed brown rice or puffed quinoa",
       "50 g whole almonds",
@@ -1153,54 +1095,56 @@
       "1 heaped teaspoon quality cocoa powder",
       "1 teaspoon vanilla extract",
       "½ tablespoon manuka honey",
-      "1 orange"
+      "1 orange",
     ],
-    "instructions": [
+    instructions: [
       "Blitz 40g of the pumpkin seeds into a fine dust in a food processor, then decant onto a plate.",
       "Place the remaining pumpkin seeds and the puffed rice or quinoa in the processor with the almonds and dates (destone first), then blitz until finely chopped.",
       "Peel and finely grate in the turmeric, if using fresh, or add the ground turmeric, along with the cinnamon, cocoa powder and a pinch of sea salt.",
       "Blitz again until finely ground, then add the vanilla, honey and half the orange juice.",
       "Blitz for another 1 to 2 minutes, stopping to scrape down the sides a couple of times, and adding an extra squeeze of orange juice to bind, only if needed – it takes a while for the mixture to come together, so be patient and let the processor work its magic.",
       "With wet hands, divide into 24 and roll into balls, dropping them into the pumpkin seed dust as you go.",
-      "Shake to coat, storing them in the excess dust until needed. They’ll keep happily for up to 2 weeks in an airtight container."
+      "Shake to coat, storing them in the excess dust until needed. They’ll keep happily for up to 2 weeks in an airtight container.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9Ye1yC6ma9hAsvPhl8pToy.jpg",
-    "imageAlt": "My tasty energy balls: date, cocoa & pumpkin seed"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9Ye1yC6ma9hAsvPhl8pToy.jpg",
+    imageAlt: "My tasty energy balls: date, cocoa & pumpkin seed",
   },
   {
-    "name": "English muffins",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Follow this simple and delicious English muffin recipe and you'll never go back to shop bought muffins again; cheap, tasty and ridiculously easy to make!",
-    "description": "",
-    "servings": "Serves Makes 12 to 14",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus proving"
+    name: "English muffins",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Follow this simple and delicious English muffin recipe and you'll never go back to shop bought muffins again; cheap, tasty and ridiculously easy to make!",
+    description: "",
+    servings: "Serves Makes 12 to 14",
+    time: {
+      prep: "",
+      cook: "50 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Afternoon tea",
       "St. George's Day",
       "Mother's day",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "300 ml milk , plus extra",
       "1 x 7 g sachet of dried yeast",
       "25 g white caster sugar",
       "50 g shortening or lard",
       "425 g plain flour , plus extra",
       "20 g polenta , optional",
-      "unsalted butter"
+      "unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Gently warm the milk in a pan till lukewarm or body temperature, 37ºC. Add the yeast and sugar and stir until the sugar is dissolved. Set aside for a few minutes until the mixture is creamy and starting to froth.",
       "Melt the shortening or lard, then in a large bowl, mix the yeast mixture, flour, shortening or lard and a pinch of sea salt into a soft dough. Add a little extra milk or flour, if needed.",
       "Knead until smooth and elastic. Transfer to a greased bowl, cover with clingfilm and set aside in a warm place to rise for 1 hour, or until doubled in size.",
@@ -1208,79 +1152,75 @@
       "Lightly sprinkle a piece of baking parchment with extra flour, or polenta (if using). Transfer the muffins to the paper and sprinkle over a little more flour or polenta. Cover with a tea towel and leave in a warm place for 45 minutes to 1 hour to rise.",
       "When ready to cook, preheat the oven to 170ºC/gas 3 and heat a heavy non-stick pan over a medium heat.",
       "Brown the muffins in the pan, in batches, for a few minutes each side, then turn the heat to low and cook for 10 minutes. Transfer to a baking tray and finish with 5 minutes in the oven, or until cooked through.",
-      "Cool slightly on a wire rack then split open and spread with melted butter, or keep in an airtight tin, to split and toast as needed."
+      "Cool slightly on a wire rack then split open and spread with melted butter, or keep in an airtight tin, to split and toast as needed.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/DkpfeF8faEb93rE6MLVQRC.jpg",
-    "imageAlt": "English muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/DkpfeF8faEb93rE6MLVQRC.jpg",
+    imageAlt: "English muffins",
   },
   {
-    "name": "Raspberry, agave & vanilla frozen yoghurt",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Super-easy and so refreshing, this raspberry, agave and vanilla frozen yoghurt is a real winner on a hot summer's day. Agave nectar is used as a natural sweetener here.",
-    "description": "“Agave nectar is a good substitute for sugar. Feel free to use plastic containers instead of moulds, if you prefer. ”",
-    "servings": "Serves Makes about 600ml",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus 4 hours freezing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus 4 hours freezing"
+    name: "Raspberry, agave & vanilla frozen yoghurt",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Super-easy and so refreshing, this raspberry, agave and vanilla frozen yoghurt is a real winner on a hot summer's day. Agave nectar is used as a natural sweetener here.",
+    description:
+      "“Agave nectar is a good substitute for sugar. Feel free to use plastic containers instead of moulds, if you prefer. ”",
+    servings: "Serves Makes about 600ml",
+    time: {
+      prep: "",
+      cook: "10 minutes plus 4 hours freezing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus 4 hours freezing",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Alfresco",
       "Wimbledon",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "125 g raspberries",
       "1 vanilla pod",
       "3 tablespoons agave nectar",
-      "400 g plain yoghurt"
+      "400 g plain yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Put the raspberries in a jug and mash in a bowl with the back of a fork until broken down.",
       "Halve the vanilla pod and scrape out the seeds, then add to the raspberries with the rest of the ingredients and mix together.",
       "Pour the mixture into twelve 50ml ice lolly moulds. Tap the base to ensure no air is trapped in there and leave a bit of space at the top for the yoghurt to expand on freezing. Put the lids on and freeze for 4 hours, or until solid.",
-      "Remove from the freezer 10 minutes before serving to thaw a little then remove from the moulds by running under warm water."
+      "Remove from the freezer 10 minutes before serving to thaw a little then remove from the moulds by running under warm water.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EUVqY8kdKHK9k1d5Y7Zbcl.jpg",
-    "imageAlt": "Raspberry, agave & vanilla frozen yoghurt"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EUVqY8kdKHK9k1d5Y7Zbcl.jpg",
+    imageAlt: "Raspberry, agave & vanilla frozen yoghurt",
   },
   {
-    "name": "Socca with caramelised onions",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Super-easy but super-impressive – give this socca recipe a go. Use caramelised onions or experiment with your favourite toppings – perfect party food!",
-    "description": "“Socca is a classic street food in the South of France. Pancake-thin unleavened bread, topped with a tasty filling, it’s a great snack. And it’s gluten-free too. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "40-50 minutes depending on if you are cooking all the soccas in one go",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40-50 minutes depending on if you are cooking all the soccas in one go"
+    name: "Socca with caramelised onions",
+    subName: "",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Super-easy but super-impressive – give this socca recipe a go. Use caramelised onions or experiment with your favourite toppings – perfect party food!",
+    description:
+      "“Socca is a classic street food in the South of France. Pancake-thin unleavened bread, topped with a tasty filling, it’s a great snack. And it’s gluten-free too. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "40-50 minutes depending on if you are cooking all the soccas in one go",
+      active: "",
+      inactive: "",
+      ready: "",
+      total:
+        "40-50 minutes depending on if you are cooking all the soccas in one go",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Pancake day",
-      "French",
-      "Snacks",
-      "Quick fixes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Pancake day", "French", "Snacks", "Quick fixes"],
+    ingredients: [
       "125 g chickpea flour",
       "1 teaspoon olive oil",
       "4 large onions",
@@ -1288,45 +1228,39 @@
       "12 anchovy fillets",
       "200 g black olives (stone in)",
       "30 g unsalted butter",
-      "1 tablespoon caster sugar"
+      "1 tablespoon caster sugar",
     ],
-    "instructions": [
+    instructions: [
       "In a bowl, mix the chickpea flour and oil with a pinch of sea salt and 290ml water, and whisk until smooth. Leave to stand for 30 minutes.",
       "Peel and finely slice the onions, pick and finely chop the rosemary and thinly slice the anchovies. Destone the olives.",
       "Melt the butter in a pan over a low heat, then add the onions and sugar. Cook for 25 minutes, or until coloured, stirring occasionally.",
       "Preheat the oven to 200ºC/gas 6. Heat a frying pan over a medium heat.",
       "Stir the rosemary into the batter, then cook the socca in batches. Spoon tablespoons of batter into the hot pan and cook for 1 minute on each side, or until golden. Transfer to a tray lined with baking paper.",
-      "Top each socca with the caramelised onion, anchovies and olives, and bake for 10 minutes. Serve immediately."
+      "Top each socca with the caramelised onion, anchovies and olives, and bake for 10 minutes. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Bq5iMw9iafAB1b89frr2Ss.jpg",
-    "imageAlt": "Socca with caramelised onions"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Bq5iMw9iafAB1b89frr2Ss.jpg",
+    imageAlt: "Socca with caramelised onions",
   },
   {
-    "name": "Involtini",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Involtini, from the Italian for little bundle, are a traditional Italian dish, Jamie's are made with aubergine and parma ham and make an elegant starter. ",
-    "description": "",
-    "servings": "Serves Makes 12 as a canapé",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Involtini",
+    subName: "",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Involtini, from the Italian for little bundle, are a traditional Italian dish, Jamie's are made with aubergine and parma ham and make an elegant starter. ",
+    description: "",
+    servings: "Serves Makes 12 as a canapé",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Alfresco",
-      "Italian",
-      "Starters",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Alfresco", "Italian", "Starters", "Snacks"],
+    ingredients: [
       "3 long aubergines",
       "olive oil",
       "50 g pine nuts",
@@ -1335,46 +1269,46 @@
       "extra virgin olive oil",
       "½ a bunch of fresh basil",
       "10 slices of Parma ham",
-      "2 x 125 g balls of mozzarella cheese"
+      "2 x 125 g balls of mozzarella cheese",
     ],
-    "instructions": [
+    instructions: [
       "Slice the aubergines lengthways into ½cm-thick pieces, trimming the skin from the outer pieces to give you flat finishes on both sides, then brush them with 2 tablespoons of olive oil.",
       "Heat a griddle pan over a high heat and, once hot, griddle the aubergine slices for 3 minutes on each side, until char-marked and tender. Set aside.",
       "Toast the pine nuts in a dry frying pan, then transfer to a food processor with the sundried tomatoes, anchovies and 1½ tablespoons of extra virgin olive oil. Pick in most of the basil leaves.",
       "Blitz until you have a spreadable paste, then season with black pepper and pulse again to combine.",
       "Lay a slice of Parma ham on top of each aubergine strip, tearing off the excess to use again, and spread on a little sundried tomato paste.",
-      "Tear the mozzarella into bite-sized pieces, then place a piece at one end of the strip along with a basil leaf. Roll up and secure with a tooth pick. Serve immediately."
+      "Tear the mozzarella into bite-sized pieces, then place a piece at one end of the strip along with a basil leaf. Roll up and secure with a tooth pick. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7WfTvXl5KhzAwp4FXMpdwS.jpg",
-    "imageAlt": "Involtini"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7WfTvXl5KhzAwp4FXMpdwS.jpg",
+    imageAlt: "Involtini",
   },
   {
-    "name": "Chocolate chip muffins",
-    "subName": "Recipe from Gifford's Circus",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "These delicious little chocolate chip muffins from Jamie Oliver are topped with a pomegranate icing and decorated with elderflower garnish - beautiful. ",
-    "description": "",
-    "servings": "Serves Makes 15",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Chocolate chip muffins",
+    subName: "Recipe from Gifford's Circus",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "These delicious little chocolate chip muffins from Jamie Oliver are topped with a pomegranate icing and decorated with elderflower garnish - beautiful. ",
+    description: "",
+    servings: "Serves Makes 15",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Afternoon tea",
       "Mother's day",
       "Snacks",
       "Muffin",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "olive or rapeseed oil",
       "375 g plain flour",
       "1 tablespoon baking powder",
@@ -1386,217 +1320,211 @@
       "2 generous handfuls of chocolate chips",
       "POMEGRANATE ICING",
       "1 splash of pomegranate juice",
-      "2 tablespoons icing sugar"
+      "2 tablespoons icing sugar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/gas 5. Grease your muffin tin(s) lightly with oil.",
       "Sieve the flour, baking powder and soda, and ½ teaspoon of sea salt and set aside.",
       "In a large bowl, cream the butter and sugar together, beating until fluffy. Add the eggs, one at a time, beating until incorporated.",
       "Beat in half of the dry ingredients until just mixed, followed by one-third of the yoghurt. Then beat in half of the remaining dry ingredients, followed by another third of the yoghurt. Beat in the remaining dry ingredients and yoghurt. Do not over-beat.",
       "Fold in the chocolate chips. Distribute the muffin batter equally among the cups and bake for 25 to 30 minutes, until golden brown.",
       "Turn out onto a wire rack and leave to cool.",
-      "For the icing, add the pomegranate juice to the icing sugar and mix together to form a thick paste. When the muffins have cooled, top with the icing and sprinkle with fresh elderflowers, if in season."
+      "For the icing, add the pomegranate juice to the icing sugar and mix together to form a thick paste. When the muffins have cooled, top with the icing and sprinkle with fresh elderflowers, if in season.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259354.jpg",
-    "imageAlt": "Chocolate chip muffins"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259354.jpg",
+    imageAlt: "Chocolate chip muffins",
   },
   {
-    "name": "Haggis croquettes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This haggis croquettes recipe from Jamie Oliver is a good introduction to Scotland's most divisive dish for those who are nervous about trying haggis. ",
-    "description": "“A good introduction for those who are nervous about trying haggis. ”",
-    "servings": "8–10 as a starter",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Haggis croquettes",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This haggis croquettes recipe from Jamie Oliver is a good introduction to Scotland's most divisive dish for those who are nervous about trying haggis. ",
+    description:
+      "“A good introduction for those who are nervous about trying haggis. ”",
+    servings: "8–10 as a starter",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Burns Night Specials",
-      "Snacks",
-      "Starters"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Burns Night Specials", "Snacks", "Starters"],
+    ingredients: [
       "1 kg potatoes",
       "200 g cheese , such as Cheddar",
       "4-6 tablespoons plain flour , plus extra for dusting",
       "2 large free-range eggs",
       "200 g cooked quality haggis",
       "400 ml vegetable oil , for deep-frying",
-      "Tomato chutney"
+      "Tomato chutney",
     ],
-    "instructions": [
+    instructions: [
       "Peel and halve the potatoes, then cook in boiling salted water for 25 to 30 minutes, or until tender.",
       "Coarsely grate the cheese. Once cooked, drain the potatoes and mash through a ricer.",
       "While hot, add the cheese, flour, eggs, haggis and plenty of sea salt and black pepper. Mix well, then leave to cool.",
       "Dust a baking tray with flour. Working with walnut-sized pieces, roll the mixture into finger-shaped croquettes, then place on the tray – you should get about 45.",
       "When you're ready to cook, heat the oil in a frying pan, add the croquettes (work in batches) and cook for 1 to 2 minutes, or until golden brown.",
-      "Remove to kitchen paper to drain, then serve hot with tomato chutney."
+      "Remove to kitchen paper to drain, then serve hot with tomato chutney.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/97cY7TzWarIAJTkSUpdNbR.jpg",
-    "imageAlt": "Haggis croquettes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/97cY7TzWarIAJTkSUpdNbR.jpg",
+    imageAlt: "Haggis croquettes",
   },
   {
-    "name": "Marmite popcorn",
-    "subName": "A great low-sugar snack",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Love Marmite? Then you'll just love this Marmite popcorn, an easy to make, unique treat that makes a great snack any time of the day.",
-    "description": "“This tastes just like buttery Marmite on toast. If you usually spread your Marmite thickly, go for the full two teaspoons – or even more if you’re a real fiend. ”",
-    "servings": "4 as a snack",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Marmite popcorn",
+    subName: "A great low-sugar snack",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Love Marmite? Then you'll just love this Marmite popcorn, an easy to make, unique treat that makes a great snack any time of the day.",
+    description:
+      "“This tastes just like buttery Marmite on toast. If you usually spread your Marmite thickly, go for the full two teaspoons – or even more if you’re a real fiend. ”",
+    servings: "4 as a snack",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Snacks"],
+    ingredients: [
       "1-2 tablespoons oil , with a high smoking point, such as rapeseed, quality extra virgin olive or sunflower",
       "60 g popping corn",
       "25 g butter",
-      "1-2 teaspoons Marmite"
+      "1-2 teaspoons Marmite",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 150°C/300°F/gas 2. Cover a baking tray with greaseproof paper.",
       "Pour the oil into a large, heavy-based pan over a medium-high heat.",
       "Once hot, add the corn and shake the pan gently so the kernels are in one layer and coated in oil.",
       "Cover with a lid and leave over the heat, shaking the pan gently every 30 seconds. The popcorn is ready when the pops are about 2 to 3 seconds apart. Tip into a large bowl.",
       "Melt the butter in a small pan over a low heat and stir in the Marmite until you have a smooth, glossy liquid. Pour the Marmite mixture over the popcorn and stir well until every piece is coated.",
-      "Spread the popcorn over the lined baking tray and place in the oven for 3 to 4 minutes to crisp up a little."
+      "Spread the popcorn over the lined baking tray and place in the oven for 3 to 4 minutes to crisp up a little.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7HlZKMDCqfjAJdVEJnQ0LS.jpg",
-    "imageAlt": "Marmite popcorn"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7HlZKMDCqfjAJdVEJnQ0LS.jpg",
+    imageAlt: "Marmite popcorn",
   },
   {
-    "name": "Lemony skewered artichokes",
-    "subName": "With feta & cured meats",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Create this lemony skewered artichokes by visiting Jamie Oliver online today; a deliciously fun artichoke recipe that is perfect for a summer party.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Lemony skewered artichokes",
+    subName: "With feta & cured meats",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Create this lemony skewered artichokes by visiting Jamie Oliver online today; a deliciously fun artichoke recipe that is perfect for a summer party.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Snacks",
       "Starters",
-      "Vegetable sides"
+      "Vegetable sides",
     ],
-    "ingredients": [
+    ingredients: [
       "1 lemon",
       "4 sprigs of fresh thyme",
       "1 tablespoon runny honey",
       "extra virgin olive oil",
       "6 jarred artichokes",
       "50 g feta cheese",
-      "10 slices of higher-welfare mixed cured meat"
+      "10 slices of higher-welfare mixed cured meat",
     ],
-    "instructions": [
+    instructions: [
       "Carefully stab the lemon with a knife and place in a pan. Cover with boiling water, then boil for 40 minutes, or until the lemon is really soft.",
       "Carefully remove the lemon to a board, using tongs or a slotted spoon, and leave to cool slightly.",
       "Cut in half and scoop out the jammy flesh. Add this to a bowl with the thyme leaves, honey and enough oil to create a dressing. Taste and season with sea salt and black pepper.",
       "Set a griddle pan over a high heat. Drain, halve and place the artichokes on it for a few minutes on each side, or until charred and dried up.",
       "Halve again lengthways, then dress with the jammy dressing.",
-      "Cube the feta, then cut the cured meats into strips and roll them up. Put onto skewers, alternating with the dressed artichokes."
+      "Cube the feta, then cut the cured meats into strips and roll them up. Put onto skewers, alternating with the dressed artichokes.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260696.jpg",
-    "imageAlt": "Lemony skewered artichokes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260696.jpg",
+    imageAlt: "Lemony skewered artichokes",
   },
   {
-    "name": "Baked sole goujons",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Make your own baked sole goujons with this easy recipe from Jamie Oliver, it's sure to be a hit with the family, serve with aïoli or ketchup to taste.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Baked sole goujons",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Make your own baked sole goujons with this easy recipe from Jamie Oliver, it's sure to be a hit with the family, serve with aïoli or ketchup to taste.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Family one-pan recipes",
       "Freezer-friendly recipes",
       "Healthy dinner ideas",
       "Healthy meals",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "450 g lemon sole fillets , skinned, from sustainable sources",
       "50 g plain flour",
       "2 large free-range eggs",
       "1 tablespoons sweet smoked paprika",
-      "2 large handfuls breadcrumbs"
+      "2 large handfuls breadcrumbs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220ºC/gas 7, then lightly oil a baking tray.",
       "Cut the fish into finger-width strips. Season the flour and place it on a plate. Crack the eggs into a shallow bowl, and lightly beat. Mix the paprika with the breadcrumbs on another plate.",
       "Coat the fish goujons with the seasoned flour, dipping them in the eggs, then coating with the breadcrumbs.",
-      "Place them on the oiled tray and bake for 10 to 15 minutes, until golden. Serve with tartare sauce, aïoli or ketchup."
+      "Place them on the oiled tray and bake for 10 to 15 minutes, until golden. Serve with tartare sauce, aïoli or ketchup.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46263601.jpg",
-    "imageAlt": "Baked sole goujons"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46263601.jpg",
+    imageAlt: "Baked sole goujons",
   },
   {
-    "name": "Courgette & feta fritters",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's grilled courgette recipe makes a great vegetarian side dish for a range of meals, and brings out the fresh sweetness and flavour of courgettes.",
-    "description": "“Make these easy fritters in advance to pack for picnics or a lunchbox, or serve them hot from the frying pan. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Courgette & feta fritters",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's grilled courgette recipe makes a great vegetarian side dish for a range of meals, and brings out the fresh sweetness and flavour of courgettes.",
+    description:
+      "“Make these easy fritters in advance to pack for picnics or a lunchbox, or serve them hot from the frying pan. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Starters",
       "Snacks",
       "Quick fixes",
-      "Vegetable sides"
+      "Vegetable sides",
     ],
-    "ingredients": [
+    ingredients: [
       "3 courgettes",
       "1 lemon",
       "1 fresh red chilli",
@@ -1607,55 +1535,52 @@
       "1 pinch of dried oregano",
       "100 g feta cheese",
       "olive oil",
-      "sweet chilli sauce , optional"
+      "sweet chilli sauce , optional",
     ],
-    "instructions": [
+    instructions: [
       "Coarsely grate the courgettes, finely grate the lemon zest and Parmesan, then deseed and finely chop the chilli. Pick and finely slice the mint leaves.",
       "Beat the egg, then mix with the courgette, flour, lemon zest, Parmesan, chilli, mint, oregano and a good pinch of sea salt and black pepper. Scrunch it all up really well with your hands, then crumble in the feta and mix again.",
-      "Heat a good drizzle of oil in a frying pan and fry tablespoons of the mixture for a couple of minutes each side until golden – these fritters make a lovely lunch with a leafy salad, some sweet chilli sauce and lemon wedges for squeezing over."
+      "Heat a good drizzle of oil in a frying pan and fry tablespoons of the mixture for a couple of minutes each side until golden – these fritters make a lovely lunch with a leafy salad, some sweet chilli sauce and lemon wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9r3-ljx1Ks38H-puUGR0fj.jpg",
-    "imageAlt": "Courgette & feta fritters"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9r3-ljx1Ks38H-puUGR0fj.jpg",
+    imageAlt: "Courgette & feta fritters",
   },
   {
-    "name": "Sushi rolls",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Vegan",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Learn how to make sushi rolls with this step-by-step guide from Jamie Oliver, this recipe makes the process really simple with an impressive end result. ",
-    "description": "",
-    "servings": "2-3",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus cooling"
+    name: "Sushi rolls",
+    subName: "",
+    specialDiets: ["Vegetarian", "Vegan", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Learn how to make sushi rolls with this step-by-step guide from Jamie Oliver, this recipe makes the process really simple with an impressive end result. ",
+    description: "",
+    servings: "2-3",
+    time: {
+      prep: "",
+      cook: "50 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Snacks",
       "Healthy snack ideas",
       "Prep & go recipes",
       "Vegetables",
-      "Healthy lunch ideas"
+      "Healthy lunch ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g sushi rice",
       "1 tablespoon rice vinegar",
       "2 sheets of nori",
       "¼ of a cucumber",
       "¼ of a red pepper",
       "½ a carrot",
-      "½ a small ripe avocado"
+      "½ a small ripe avocado",
     ],
-    "instructions": [
+    instructions: [
       "Put the rice in a small saucepan with 375ml water, leave to soak for 30 minutes, then bring to the boil.",
       "Put the lid on and simmer gently for 10 minutes, until the water has been absorbed by the rice.",
       "In a bowl, dissolve the sugar in the vinegar, then sprinkle over the rice mix, combining with a rubber spatula so as not to break up the rice.",
@@ -1664,38 +1589,38 @@
       "Place a sheet of nori on a bamboo sushi mat, then spread half the rice over the sheet except for 1cm clear at the top.",
       "Add some vegetables in a horizontal line across the rice.",
       "Begin rolling the mat from the near edge, keeping the filling in place with your fingers. Roll firmly but not too hard.",
-      "Remove the roll from the mat and cut into 6 or 8 pieces. Repeat with second piece of nori."
+      "Remove the roll from the mat and cut into 6 or 8 pieces. Repeat with second piece of nori.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4CdRkr6f4fVBE5zqqmUIcT.jpg",
-    "imageAlt": "Sushi rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4CdRkr6f4fVBE5zqqmUIcT.jpg",
+    imageAlt: "Sushi rolls",
   },
   {
-    "name": "Squash, sage & chestnut rolls",
-    "subName": "With garlic & Parmesan",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Change up the menu at your next party with these great Squash, Sage & Chestnut Rolls from Jamie Oliver, the perfect canape for the festive party season.",
-    "description": "",
-    "servings": "",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 45 minutes"
+    name: "Squash, sage & chestnut rolls",
+    subName: "With garlic & Parmesan",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Change up the menu at your next party with these great Squash, Sage & Chestnut Rolls from Jamie Oliver, the perfect canape for the festive party season.",
+    description: "",
+    servings: "",
+    time: {
+      prep: "",
+      cook: "1 hour 45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Bonfire night recipes",
       "Thanksgiving",
-      "Dinner Party"
+      "Dinner Party",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg butternut squash",
       "1 teaspoon dried chilli",
       "olive oil",
@@ -1706,9 +1631,9 @@
       "30 g Parmesan cheese",
       "plain flour , for dusting",
       "500 g all-butter puff pastry",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400°F/gas 6.",
       "Deseed the squash and cut into 8 wedges, then place in a roasting tray and sprinkle over the chilli, drizzle with oil and season. Toss well, spread evenly and roast for 35 to 40 minutes. Remove and cool.",
       "Peel and finely chop the onion and garlic, pick the sage leaves and roughly chop the chestnuts. Finely grate the Parmesan.",
@@ -1717,39 +1642,38 @@
       "Dust a clean surface with flour and roll your pastry into a 30cm x 45cm rectangle, about 5mm thick and cut into two equal pieces.",
       "Beat the egg, then brush the longer side of each piece of pastry with the egg. Place your filling down the centre, then fold the pastry over, using egg to seal the edges (press down with a fork).",
       "Cut each into 8 equal-sized pieces and place on a lined baking tray.",
-      "Brush with the egg and bake for 20 to 25 minutes until crisp and golden."
+      "Brush with the egg and bake for 20 to 25 minutes until crisp and golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4UQsOnML4tLAssywDFZ7gE.jpg",
-    "imageAlt": "Squash, sage & chestnut rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4UQsOnML4tLAssywDFZ7gE.jpg",
+    imageAlt: "Squash, sage & chestnut rolls",
   },
   {
-    "name": "Trio of mezedes",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Try making your own Trio of Mezedes with these easy-to-follow Medeze recipes from Jamie Oliver for a delicious combination of Greek flavours. ",
-    "description": "",
-    "servings": "Serves Makes 3 x 500ml jars",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Trio of mezedes",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Try making your own Trio of Mezedes with these easy-to-follow Medeze recipes from Jamie Oliver for a delicious combination of Greek flavours. ",
+    description: "",
+    servings: "Serves Makes 3 x 500ml jars",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Snacks",
       "Feta",
-      "Gift"
+      "Gift",
     ],
-    "ingredients": [
+    ingredients: [
       "MARINATED FETA",
       "300 g feta cheese",
       "1 lemon",
@@ -1767,44 +1691,46 @@
       "4 cloves of garlic",
       "2 sprigs of fresh rosemary",
       "4 tablespoons red wine vinegar",
-      "150 ml extra virgin olive oil"
+      "150 ml extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Start by sterilising three 500ml jars.",
       "Cut the feta into 2cm cubes, peel the lemon zest into thick strips with no pith, and pick the thyme leaves. Place the feta into the first jar, layering it up with strips of lemon zest, thyme leaves, a little sea salt and a good pinch of black pepper. Top up oil to cover, then seal the jar.",
       "For the olives, use a pestle to split and slightly crush the coriander seeds in a mortar. Add to the second jar and squeeze in the lemon juice. Add the olives, chilli and bay leaves. Season with a little sea salt and a good pinch of black pepper. Top up with oil to cover, then seal the jar.",
       "Char the peppers over a direct flame on the hob until blackened. Pop in a bowl and cover with clingfilm for 5 minutes. Add the unpeeled garlic to the third jar with the rosemary, a good pinch of sea salt and black pepper, and the vinegar.",
       "When the peppers are cool enough to handle, peel off the skin, deseed and slice into 4cm-wide strips. Add to the jar and gently mix. Top up with oil to cover, then seal the jar.",
-      "All will keep for up to 2 months unopened; once open, refrigerate and use within 2 weeks."
+      "All will keep for up to 2 months unopened; once open, refrigerate and use within 2 weeks.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/DgRbStXFaz08nTA6z268t2.jpg",
-    "imageAlt": "Trio of mezedes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/DgRbStXFaz08nTA6z268t2.jpg",
+    imageAlt: "Trio of mezedes",
   },
   {
-    "name": "Squash, Stilton & walnut rolls",
-    "subName": "With puff pastry, chilli & thyme",
-    "specialDiets": [],
-    "metaDescription": "These squash, Stilton and walnut canapes are the perfect vegetarian party food. ",
-    "description": "",
-    "servings": "Serves Makes 20",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Squash, Stilton & walnut rolls",
+    subName: "With puff pastry, chilli & thyme",
+    specialDiets: [],
+    metaDescription:
+      "These squash, Stilton and walnut canapes are the perfect vegetarian party food. ",
+    description: "",
+    servings: "Serves Makes 20",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Halloween recipes",
       "Bonfire night recipes",
-      "Thanksgiving"
+      "Thanksgiving",
     ],
-    "ingredients": [
+    ingredients: [
       "½ butternut squash , (cut lengthways)",
       "1 tablespoon olive oil",
       "1 teaspoon chilli flakes",
@@ -1814,9 +1740,9 @@
       "50 g breadcrumbs",
       "1 large free-range egg",
       "500 g puff pastry",
-      "1 teaspoon sesame seeds"
+      "1 teaspoon sesame seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Deseed the squash and place on a roasting tray, drizzle with the oil, scatter over the chilli flakes and strip over the thyme leaves. Roast for 45 minutes, or until soft.",
       "Allow to cool a bit, then spoon out the flesh and discard the skin, then place in a bowl.",
@@ -1824,41 +1750,39 @@
       "Beat the egg. Roll out the puff pastry to 18cm x 60cm, then cut into 2 long thin strips.",
       "Lay half the squash mix down the centre of each strip and brush the long edges with beaten egg, then fold over lengthways and press together to seal.",
       "Turn the rolls so the join is underneath, then cut into 5cm pieces and place on baking sheets lined with parchment.",
-      "Brush the tops with beaten egg, sprinkle with sesame seeds and bake for 35 minutes, till puffed up and golden."
+      "Brush the tops with beaten egg, sprinkle with sesame seeds and bake for 35 minutes, till puffed up and golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AnbYuiQG41B9bmbgtUuS4-.jpg",
-    "imageAlt": "Squash, Stilton & walnut rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AnbYuiQG41B9bmbgtUuS4-.jpg",
+    imageAlt: "Squash, Stilton & walnut rolls",
   },
   {
-    "name": "Rudolph’s rocket fuel",
-    "subName": "Carrots, parsnip & leek",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy this recipe for Rudolph's Rocket Fuel, a Christmas soup packed with vegetables guaranteed to get the kids eating their 5 a day this Christmas.",
-    "description": "“Omitting commercial stock from this simple soup cuts down on salt. ”",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Rudolph’s rocket fuel",
+    subName: "Carrots, parsnip & leek",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Enjoy this recipe for Rudolph's Rocket Fuel, a Christmas soup packed with vegetables guaranteed to get the kids eating their 5 a day this Christmas.",
+    description:
+      "“Omitting commercial stock from this simple soup cuts down on salt. ”",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Potato",
       "Fruit",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "6 medium carrots",
       "1 parsnip",
       "1 large potato",
@@ -1867,89 +1791,88 @@
       "1 eating apple",
       "2 cloves of garlic",
       "olive oil",
-      "sweet paprika"
+      "sweet paprika",
     ],
-    "instructions": [
+    instructions: [
       "Start by chopping the carrots, parsnip and potato. Trim, wash and chop the leek, peel and chop the onion, and core and chop the apple. Peel and crush the garlic.",
       "Throw the veg and apple into a large pan with the garlic and a good lug of oil and mix it all up. Season to taste (minimally, if cooking for young children).",
       "Cook on a medium heat for 10 minutes, stirring occasionally, or till the veg start to soften. Add 2 litres of water to the pan, bring to the boil, then turn down to a simmer. Cook for 30 minutes, until all the veg are soft.",
-      "Blitz with a hand blender until smooth, then sprinkle with sweet paprika. Delicious served with buttered toast."
+      "Blitz with a hand blender until smooth, then sprinkle with sweet paprika. Delicious served with buttered toast.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5A_TC5Qwakd8FX6WhKUwd2.jpg",
-    "imageAlt": "Rudolph’s rocket fuel"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5A_TC5Qwakd8FX6WhKUwd2.jpg",
+    imageAlt: "Rudolph’s rocket fuel",
   },
   {
-    "name": "Salt & cinnamon kale crisps",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Vegan",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Kale Chips are the new must-have snack, try this simple Scandinavian inspired salt & cinnamon kale crisps recipe from Jamie Oliver to find out why. ",
-    "description": "“In Denmark, kale is eaten as part of a good luck meal on New Year’s Eve. Enjoy this sweet and salty baked snack with a celebratory cocktail. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Salt & cinnamon kale crisps",
+    subName: "",
+    specialDiets: ["Vegetarian", "Vegan", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Kale Chips are the new must-have snack, try this simple Scandinavian inspired salt & cinnamon kale crisps recipe from Jamie Oliver to find out why. ",
+    description:
+      "“In Denmark, kale is eaten as part of a good luck meal on New Year’s Eve. Enjoy this sweet and salty baked snack with a celebratory cocktail. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Christmas",
       "Aussie Christmas",
       "Thanksgiving",
       "Dinner Party",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "12 large whole kale leaves , (200g)",
       "3 tablespoons olive oil",
       "1/2 tablespoon sugar",
-      "1/2 tablespoon cinnamon"
+      "1/2 tablespoon cinnamon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Rinse and dry the kale leaves before removing most of the centre stalk, leaving long, thin pieces of kale.",
       "Toss the kale in the oil, then sprinkle with the sugar, cinnamon and ½ tablespoon of sea salt.",
       "Arrange the leaves in a single layer on a couple of baking trays and bake for 5 minutes, until crisp.",
-      "Transfer the kale to a rack to cool, then serve."
+      "Transfer the kale to a rack to cool, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/E2fHhWSUKQpA7iortrqfkD.jpg",
-    "imageAlt": "Salt & cinnamon kale crisps"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/E2fHhWSUKQpA7iortrqfkD.jpg",
+    imageAlt: "Salt & cinnamon kale crisps",
   },
   {
-    "name": "Spiced flapjacks",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Give your flapjacks a festive makeover this Christmas with this spiced flapjacks recipe from Jamie Oliver; treat your loved ones this Christmas.",
-    "description": "“This nutty, spiced slice is super quick and easy to whip up – and as it bakes it will fill your kitchen with amazing Christmassy smells. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Spiced flapjacks",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Give your flapjacks a festive makeover this Christmas with this spiced flapjacks recipe from Jamie Oliver; treat your loved ones this Christmas.",
+    description:
+      "“This nutty, spiced slice is super quick and easy to whip up – and as it bakes it will fill your kitchen with amazing Christmassy smells. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Aussie Christmas",
       "Christmas",
       "Thanksgiving",
       "Gift",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g unsalted butter , plus extra for greasing",
       "120 g chestnuts",
       "75 g shelled pistachios",
@@ -1958,217 +1881,219 @@
       "1 tablespoon caraway seeds",
       "100 ml golden syrup",
       "150 g light soft brown sugar",
-      "225 g oats"
+      "225 g oats",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4. Grease and line a 25cm x 30cm roasting tray with non-stick paper.",
       "Roughly chop the chestnuts and pistachios and finely grate the orange zest.",
       "Remove the seeds from the cardamom pods and place in a pestle and mortar, along with the caraway seeds and ground until fine.",
       "Put the golden syrup, sugar and butter in a pan and place over a low heat to gently dissolve the sugar and melt the butter.",
       "Combine the remaining ingredients in a bowl. Stir in the wet mixture until combined.",
       "Pour into the tin and smooth to even the surface. Bake for 25 to 30 minutes, until golden brown.",
-      "Remove from the oven and leave to cool for 5 minutes. Cut into squares, then leave in the tin to cool completely."
+      "Remove from the oven and leave to cool for 5 minutes. Cut into squares, then leave in the tin to cool completely.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7vsi-hxl4qM9LmCkgNemuh.jpg",
-    "imageAlt": "Spiced flapjacks"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7vsi-hxl4qM9LmCkgNemuh.jpg",
+    imageAlt: "Spiced flapjacks",
   },
   {
-    "name": "Homemade vegetable crisps",
-    "subName": "Easy to make – and without a drop of oil",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Dehydrate root veg in the oven on a very low heat for perfect colourful crisps. Serve with a spicy salt and enjoy",
-    "description": "",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 10 minutes"
+    name: "Homemade vegetable crisps",
+    subName: "Easy to make – and without a drop of oil",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Dehydrate root veg in the oven on a very low heat for perfect colourful crisps. Serve with a spicy salt and enjoy",
+    description: "",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "2 hours 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Halloween recipes",
       "Snacks",
       "Potato",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g parsnips",
       "330 g carrots",
       "400 g beetroot",
       "SPICY SALT",
       "1 teaspoon sea salt",
       "½ teaspoon fennel seeds",
-      "2 dried red chillies"
+      "2 dried red chillies",
     ],
-    "instructions": [
+    instructions: [
       "Preheat oven to 150ºC/gas 2-3.",
       "Scrub the parsnip, carrots and beets. Using a mandolin or the thick slicer on a grater, slice each of the veg at an angle into long pieces – they really shrink in the oven.",
       "Place veg slices in a single layer on baking trays – keep the veg separate. Place the carrots and beetroots in the oven for about 2 hours; after 30 minutes add the parsnips. Remove when dry, crisp and cooked.",
-      "Crush the salt, fennel seeds and chilli in a mortar (or a coffee grinder), and sprinkle over your crisps. Serve hot or cold."
+      "Crush the salt, fennel seeds and chilli in a mortar (or a coffee grinder), and sprinkle over your crisps. Serve hot or cold.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BA8IoF9IKIF9wQYk1hEejS.jpg",
-    "imageAlt": "Homemade vegetable crisps"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BA8IoF9IKIF9wQYk1hEejS.jpg",
+    imageAlt: "Homemade vegetable crisps",
   },
   {
-    "name": "Sesame-roasted kale",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This Asian-inspired sesame-roasted kale recipe from Jamie Oliver will be a hit with the whole family. Crispy kale is a seriously good vegetarian snack!",
-    "description": "“Another one to convert doubters, kale has such a different quality when roasted, compared to boiled. It goes crisp and crackly in some parts, and tender in others. An easy side with a subtle Asian flavour. ”",
-    "servings": "4 as a side",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Sesame-roasted kale",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This Asian-inspired sesame-roasted kale recipe from Jamie Oliver will be a hit with the whole family. Crispy kale is a seriously good vegetarian snack!",
+    description:
+      "“Another one to convert doubters, kale has such a different quality when roasted, compared to boiled. It goes crisp and crackly in some parts, and tender in others. An easy side with a subtle Asian flavour. ”",
+    servings: "4 as a side",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Dinner Party",
       "Kale",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g kale",
       "2 teaspoons sesame oil",
       "1 tablespoon olive oil",
-      "1 tablespoon sesame seeds"
+      "1 tablespoon sesame seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220ºC/gas 7.",
       "Rinse the kale under cold running water and dry the leaves very well, in a salad spinner if you have one. Cut out the centre stalks, then cut the kale into 5cm slices.",
       "Place the kale on a baking tray and drizzle over the sesame and olive oils, scatter over the sesame seeds and season with sea salt and black pepper.",
-      "Roast in the oven for 20 minutes, turning halfway through cooking, until crisp at the edges."
+      "Roast in the oven for 20 minutes, turning halfway through cooking, until crisp at the edges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Ewdgm5dOKxV81tTj1GTeRg.jpg",
-    "imageAlt": "Sesame-roasted kale"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Ewdgm5dOKxV81tTj1GTeRg.jpg",
+    imageAlt: "Sesame-roasted kale",
   },
   {
-    "name": "Beetroot dip",
-    "subName": "Thyme, caraway & horseradish",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy a homemade and delicious vegetable dip. This vibrant beetroot dip recipe from jamieoliver.com is the perfect side for any picnics this summer.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Beetroot dip",
+    subName: "Thyme, caraway & horseradish",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Enjoy a homemade and delicious vegetable dip. This vibrant beetroot dip recipe from jamieoliver.com is the perfect side for any picnics this summer.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Dinner Party",
       "Snacks",
       "Christmas",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "3 sprigs of fresh thyme",
       "4 vac-packed beetroot",
       "1 teaspoon caraway seeds",
       "3 tablespoons crème fraîche",
       "1 tablespoon horseradish",
-      "rye bread"
+      "rye bread",
     ],
-    "instructions": [
+    instructions: [
       "Pick the thyme leaves, then blitz all the ingredients in a food processor.",
-      "Season to taste with sea salt and black pepper and serve with rye bread."
+      "Season to taste with sea salt and black pepper and serve with rye bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262343.jpg",
-    "imageAlt": "Beetroot dip"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262343.jpg",
+    imageAlt: "Beetroot dip",
   },
   {
-    "name": "Skinny homemade houmous",
-    "subName": "Made with quality jarred chickpeas & yoghurt",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This easy to make and healthy skinny homemade hummus recipe from Jamie Oliver makes for a truly delicious side dish that is perfect for dipping.",
-    "description": "“Mighty chickpeas are high in protein, fibre and more than 10 different micronutrients, including a hefty amount of the mineral copper, keeping our hair and skin nice and healthy ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Skinny homemade houmous",
+    subName: "Made with quality jarred chickpeas & yoghurt",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This easy to make and healthy skinny homemade hummus recipe from Jamie Oliver makes for a truly delicious side dish that is perfect for dipping.",
+    description:
+      "“Mighty chickpeas are high in protein, fibre and more than 10 different micronutrients, including a hefty amount of the mineral copper, keeping our hair and skin nice and healthy ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Everyday Super Food",
       "Vegetables",
       "Alfresco",
       "Family one-pan recipes",
       "Healthy snack ideas",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 660 g jar of chickpeas",
       "1 teaspoon tahini",
       "2 tablespoons natural yoghurt",
       "1 pinch of cayenne pepper",
       "½ a clove of garlic",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "This recipe requires you to hunt out a jar of really good-quality chickpeas – they have much better flavour, so will guarantee an amazing result. Tip the jar of chickpeas, juice and all, into a blender.",
       "Add the tahini, yoghurt and a pinch of cayenne pepper, then peel and add the garlic.",
       "Squeeze in the lemon juice, then blitz until smooth.",
       "Taste and season to perfection, then serve with an extra sprinkling of cayenne.",
-      "Pair a portion of houmous with 80g of raw seasonal crunchy veg crudités for a great snack."
+      "Pair a portion of houmous with 80g of raw seasonal crunchy veg crudités for a great snack.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/42lbp6gc4a9AKplF6ydlmZ.jpg",
-    "imageAlt": "Skinny homemade houmous"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/42lbp6gc4a9AKplF6ydlmZ.jpg",
+    imageAlt: "Skinny homemade houmous",
   },
   {
-    "name": "Jools’ easy oaty fruit cookies",
-    "subName": "With crunchy mixed seeds",
-    "specialDiets": [],
-    "metaDescription": "This oat and fruit cookie recipe from Jamie Oliver's wife, Jools, is a great after-school snack. It's an easy recipe, packed with fruit and porridge oats.",
-    "description": "“A really delicious, simple, comforting cookie – porridge oats are a high-fibre carbohydrate, which means they’ll keep you feeling fuller for longer. Feel free to use whichever dried fruit you like in the mix – things like prunes, apricots, sour cherries and blueberries all work well. ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Jools’ easy oaty fruit cookies",
+    subName: "With crunchy mixed seeds",
+    specialDiets: [],
+    metaDescription:
+      "This oat and fruit cookie recipe from Jamie Oliver's wife, Jools, is a great after-school snack. It's an easy recipe, packed with fruit and porridge oats.",
+    description:
+      "“A really delicious, simple, comforting cookie – porridge oats are a high-fibre carbohydrate, which means they’ll keep you feeling fuller for longer. Feel free to use whichever dried fruit you like in the mix – things like prunes, apricots, sour cherries and blueberries all work well. ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Afternoon tea",
       "Halloween recipes",
       "Christmas",
       "Baking",
-      "Beautiful baking recipes"
+      "Beautiful baking recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g spelt or wholemeal flour",
       "1 teaspoon ground mixed spice",
       "½ teaspoon bicarbonate of soda",
@@ -2178,47 +2103,48 @@
       "100 g unsalted butter , (at room temperature)",
       "50 g golden caster sugar",
       "50 g soft brown sugar",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 5 and line 2 large baking trays with greaseproof paper.",
       "Tip the flour, mixed spice, bicarbonate of soda, oats, dried fruit (roughly chop up any bigger pieces of fruit first) and seeds into a large bowl and mix together well.",
       "In another large bowl, cream the soft butter and sugars together until light and fluffy. Crack in the egg and beat to combine.",
       "Tip in all the dry ingredients and stir together – it should come together, but you might need to squelch it together with your hands to get everything properly combined.",
       "At this stage, the mixture will be sticky, but if you wet your hands, you will be able to it roll into walnut-sized balls – you should get around 24 in total. As you roll them, place them onto the lined baking trays, squashing them down a little with the palm of your hand.",
       "Bake in the oven for 8 to 10 minutes, or until lightly golden and slightly soft in middle.",
-      "Once cooked, remove from the oven and when cool enough to handle transfer them to wire racks to cool a little – they’re delicious warm, but equally good cold. Keep in an air-tight container for up to 5 days."
+      "Once cooked, remove from the oven and when cool enough to handle transfer them to wire racks to cool a little – they’re delicious warm, but equally good cold. Keep in an air-tight container for up to 5 days.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/APk6HVaN4aWAX389u30_zP.jpg",
-    "imageAlt": "Jools’ easy oaty fruit cookies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/APk6HVaN4aWAX389u30_zP.jpg",
+    imageAlt: "Jools’ easy oaty fruit cookies",
   },
   {
-    "name": "Sweet potato muffins",
-    "subName": "Chilli, cheese & seeds",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Sweet potato muffins from Jamie Oliver’s book, Everyday Super Food. These savoury muffins are the perfect breakfast, and sure to keep you feeling full until lunch.",
-    "description": "“These tasty muffins are the perfect brekkie, and sure to keep you feeling full till lunch. ”",
-    "servings": "Serves Makes 6 portions",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Sweet potato muffins",
+    subName: "Chilli, cheese & seeds",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Sweet potato muffins from Jamie Oliver’s book, Everyday Super Food. These savoury muffins are the perfect breakfast, and sure to keep you feeling full until lunch.",
+    description:
+      "“These tasty muffins are the perfect brekkie, and sure to keep you feeling full till lunch. ”",
+    servings: "Serves Makes 6 portions",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Vegetables",
       "Afternoon tea",
       "Sweet potato",
       "Potato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "600 g sweet potatoes or ½ a butternut squash",
       "4 spring onions",
@@ -2228,44 +2154,47 @@
       "250 g wholemeal self-raising flour",
       "50 g Parmesan cheese",
       "1 tablespoon sunflower seeds",
-      "1 tablespoon poppy seeds"
+      "1 tablespoon poppy seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4. Line a 12-hole muffin tin with paper cases or 15cm folded squares of greaseproof paper, then lightly wipe each one with oiled kitchen paper.",
       "Peel the sweet potatoes or squash and coarsely grate into a large bowl. Trim the spring onions, then finely slice with the chilli and add to the bowl, reserving half the chilli to one side.",
       "Crack in the eggs, add the cottage cheese and flour, then finely grate in most of the Parmesan and season with sea salt and black pepper. Mix until nicely combined.",
       "Evenly divide the muffin mixture between the cases. Sprinkle over the sunflower and poppy seeds, then dot over the reserved slices of chilli.",
       "Use the remaining Parmesan to give a light dusting of cheese over each one, then bake at the bottom of the oven for 45 to 50 minutes (if using squash, it’ll be a bit quicker – check after 35 minutes), or until golden and set.",
-      "These are amazing served warm 5 minutes after taking them out of the oven, and good kept in the fridge for a couple of days. Enjoy 2 muffins per portion."
+      "These are amazing served warm 5 minutes after taking them out of the oven, and good kept in the fridge for a couple of days. Enjoy 2 muffins per portion.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1595_9_1439907619.jpg",
-    "imageAlt": "Sweet potato muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1595_9_1439907619.jpg",
+    imageAlt: "Sweet potato muffins",
   },
   {
-    "name": "Beef empanadas",
-    "subName": "Perfectly spiced with paprika & fresh chilli",
-    "specialDiets": [],
-    "metaDescription": "This beef empanada recipe is Jamie Oliver's take on the classic, Argentinian favourite dish; follow this step by step by recipe and enjoy them for yourself.",
-    "description": "“Filled with spiced tender beef, these South American­-style pastries are a great alfresco snack. ”",
-    "servings": "Serves Makes 14",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 40 minutes plus resting",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 40 minutes plus resting"
+    name: "Beef empanadas",
+    subName: "Perfectly spiced with paprika & fresh chilli",
+    specialDiets: [],
+    metaDescription:
+      "This beef empanada recipe is Jamie Oliver's take on the classic, Argentinian favourite dish; follow this step by step by recipe and enjoy them for yourself.",
+    description:
+      "“Filled with spiced tender beef, these South American­-style pastries are a great alfresco snack. ”",
+    servings: "Serves Makes 14",
+    time: {
+      prep: "",
+      cook: "1 hour 40 minutes plus resting",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 40 minutes plus resting",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Beef",
       "Alfresco",
       "Bonfire night recipes",
       "Snacks",
       "Starters",
-      "Pies & pastries"
+      "Pies & pastries",
     ],
-    "ingredients": [
+    ingredients: [
       "450 g sirloin steak",
       "olive oil",
       "2 cloves of garlic",
@@ -2280,9 +2209,9 @@
       "1 large free­-range egg",
       "500 g plain flour",
       "2 teaspoons baking powder",
-      "150 g unsalted butter (cold)"
+      "150 g unsalted butter (cold)",
     ],
-    "instructions": [
+    instructions: [
       "To make the pastry, combine the flour, baking powder and 1 teaspoon of sea salt in a large bowl. Finely chop or coarsely grate the butter, then rub into the dry mix until it resembles fine breadcrumbs.",
       "Mix in just enough cold water to bring it together, then wrap in clingfilm and pop in the fridge for 1 hour.",
       "Meanwhile, finely chop and add the sirloin with 1 tablespoon of oil to a large non-stick frying pan over a medium-high heat. Fry for 1 to 2 minutes, then remove to a plate.",
@@ -2293,47 +2222,46 @@
       "Preheat the oven to 190°C/375°F/gas 5.",
       "Divide the pastry into 14 equal pieces, then roll each portion into 14cm circles and the thickness of a pound coin – use a biscuit cutter or saucer for an accurate round.",
       "Spoon 2 tablespoons of the filling onto the middle of each pastry round, brush the edges with a little beaten egg, then fold them over the filling to make a semi-circle. Press the edges together with a fork to seal, then place onto a large, lightly greased baking tray.",
-      "Brush the empanadas with the beaten egg and bake in the hot oven for 25 to 30 minutes, or until golden and crisp. Leave to rest for a few minutes, then serve on a platter."
+      "Brush the empanadas with the beaten egg and bake in the hot oven for 25 to 30 minutes, or until golden and crisp. Leave to rest for a few minutes, then serve on a platter.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1570_2_1437661443.jpg",
-    "imageAlt": "Beef empanadas"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1570_2_1437661443.jpg",
+    imageAlt: "Beef empanadas",
   },
   {
-    "name": "Michela’s kale, ricotta & squash omelette",
-    "subName": "Perfectly portable snack ",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This healthy omelette of kale, squash and ricotta is a perfect dish for your baby (and you).",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Michela’s kale, ricotta & squash omelette",
+    subName: "Perfectly portable snack ",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This healthy omelette of kale, squash and ricotta is a perfect dish for your baby (and you).",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Bonfire night recipes",
       "Kale",
       "Brilliant breakfast recipes",
       "Healthy snack ideas",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large free-range eggs",
       "1 handful of fresh kale , or frozen kale powder (see below)",
       "2 tablespoons ricotta cheese",
       "150 g leftover roasted butternut squash",
       "olive oil",
-      "Parmesan cheese"
+      "Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Whisk the eggs in a large bowl.",
       "If using fresh kale, tear it into a blender (use a hand-held stick blender, if you prefer) and blitz until fine.",
       "Add the kale and ricotta to the eggs and whisk again.",
@@ -2342,38 +2270,39 @@
       "Place a small non-stick frying pan on a medium heat, drizzle with a little oil, then pour in the mixture. Tilt the pan to spread out the mixture and form an even layer, then let it cook for 1 to 2 minutes, or until the sides start to bubble and get golden.",
       "Grate a fine layer of Parmesan over one half of the omelette, then pop it under the grill for 3 to 5 minutes, or until golden and cooked through.",
       "Once cooked, carefully remove the omelette to a board and portion it up, keeping the side with the Parmesan for toddlers and adults only.",
-      "For babies, you can cut it into pieces or wedges, leave to cool, then let them explore holding the food with their hands or using a spoon to mash it up, if they like (for more information on stages of complementary feeding, click here)."
+      "For babies, you can cut it into pieces or wedges, leave to cool, then let them explore holding the food with their hands or using a spoon to mash it up, if they like (for more information on stages of complementary feeding, click here).",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1533_2_1431620918.jpg",
-    "imageAlt": "Michela’s kale, ricotta & squash omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1533_2_1431620918.jpg",
+    imageAlt: "Michela’s kale, ricotta & squash omelette",
   },
   {
-    "name": "Squash it sandwich",
-    "subName": "Colourful, seriously tasty & fun to make",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This is a really good hybrid - it's a kinda salad sandwich recipe that's packed with fresh and crunchy veggies, hummus & cottage cheese all in a bread roll.",
-    "description": "“Swap the roll for another type of bread, if you like, or leave it out altogether and eat it as a salad ”",
-    "servings": "Serves Makes 4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Squash it sandwich",
+    subName: "Colourful, seriously tasty & fun to make",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This is a really good hybrid - it's a kinda salad sandwich recipe that's packed with fresh and crunchy veggies, hummus & cottage cheese all in a bread roll.",
+    description:
+      "“Swap the roll for another type of bread, if you like, or leave it out altogether and eat it as a salad ”",
+    servings: "Serves Makes 4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "Cauliflower",
       "Fruit",
       "Cheap & cheerful",
       "Light meals",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 seeded wholegrain rolls",
       "4 radishes",
       "5 cm piece of cucumber",
@@ -2388,9 +2317,9 @@
       "1 handful of freshly podded peas",
       "1 tablespoon sunflower seeds",
       "2 tablespoons quality cottage cheese or cream cheese",
-      "2 tablespoons quality houmous"
+      "2 tablespoons quality houmous",
     ],
-    "instructions": [
+    instructions: [
       "On a chopping board, carefully halve the rolls across the middle using a bread knife, to give you a top and a base for each. Put to one side.",
       "Using an eating knife, cut each radish in half lengthways, then slice each radish half into 3 pieces and place into a large bowl.",
       "Cut the cucumber in half lengthways, scoop out the watery seeds with a teaspoon and discard. Slice each cucumber half into 4 pieces, then add to the bowl.",
@@ -2407,38 +2336,40 @@
       "Add the squashed vegetables to the bowl, then using the tips of your fingers, carefully toss them in the dressing so they’re nicely coated.",
       "Spread the base of each roll with the cottage or cream cheese, then spread the soft side of each top with the houmous.",
       "Divide the vegetable mixture equally between the base of each roll. Place the lids on top, houmous-side down, press lightly, then tuck in!",
-      "Jamie's top tip: When beetroot is in season, I like to add it here for extra colour and flavour. Feel free to swap in your own favourite seasonal veg – just make sure it has a bit of crunch!"
+      "Jamie's top tip: When beetroot is in season, I like to add it here for extra colour and flavour. Feel free to swap in your own favourite seasonal veg – just make sure it has a bit of crunch!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1491_1_1436889915.jpg",
-    "imageAlt": "Squash it sandwich"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1491_1_1436889915.jpg",
+    imageAlt: "Squash it sandwich",
   },
   {
-    "name": "Jools’ favourite smoothies & ice lollies",
-    "subName": "Simple smoothies you can freeze into delicious ice lollies, if you like",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Discover Jools' selection of fruit smoothies and ice lollies, find healthy and delicious frozen treats that are perfect for the whole family.",
-    "description": "“These are two of my favourite recipes, but feel free to have fun experimenting with different flavours ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight freezing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight freezing"
+    name: "Jools’ favourite smoothies & ice lollies",
+    subName:
+      "Simple smoothies you can freeze into delicious ice lollies, if you like",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Discover Jools' selection of fruit smoothies and ice lollies, find healthy and delicious frozen treats that are perfect for the whole family.",
+    description:
+      "“These are two of my favourite recipes, but feel free to have fun experimenting with different flavours ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight freezing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight freezing",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Desserts",
       "Freezer-friendly recipes",
       "Healthy snack ideas",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "for a berry smoothie:",
       "1 mug of frozen berries , (200g)",
       "1 mug of unsweetened almond milk , (300ml)",
@@ -2455,131 +2386,131 @@
       "1 tablespoon mixed seeds , (I like flaxseeds and sunflower seeds)",
       "3 sprigs of fresh mint",
       "2 ripe passion fruits",
-      "1 tablespoon desiccated coconut , optional"
+      "1 tablespoon desiccated coconut , optional",
     ],
-    "instructions": [
+    instructions: [
       "I like to use the bags of frozen fruit you can easily get in the supermarket – they’re so convenient, and a bit of a staple in the Oliver household. I use unsweetened almond milk in my smoothies, but you can use regular milk, or fresh juice (but bear in mind it will be sweeter), if you prefer. You can add all sorts of delicious extras to these smoothies: vanilla is really nice in the berry smoothie, and fresh ginger is fantastic in the mango, passion fruit and mint version.",
-      "Add all the ingredients to a blender (removing any herb stalks first), fasten the lid and whiz until nice and smooth – you might need to stop the blender and scrape down the sides to help it along. Pour into cups, then serve. At this point you could pour the mixture into ice-lolly moulds and freeze them – they’re always a big hit with my kids. Tricks & tips: For baby, serve for pudding with an extra spoon of yoghurt. For more information on stages of complimentary feeding, click here."
+      "Add all the ingredients to a blender (removing any herb stalks first), fasten the lid and whiz until nice and smooth – you might need to stop the blender and scrape down the sides to help it along. Pour into cups, then serve. At this point you could pour the mixture into ice-lolly moulds and freeze them – they’re always a big hit with my kids. Tricks & tips: For baby, serve for pudding with an extra spoon of yoghurt. For more information on stages of complimentary feeding, click here.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1481_2_1431944352.jpg",
-    "imageAlt": "Jools’ favourite smoothies & ice lollies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1481_2_1431944352.jpg",
+    imageAlt: "Jools’ favourite smoothies & ice lollies",
   },
   {
-    "name": "Fruity frozen yoghurt",
-    "subName": "Banana & seasonal ripe fruit",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Whiz up Jamie Oliver's fruity frozen yoghurt for a healthy snack or pud – it has just 146 calories per serving. Healthier than ice cream but just as delicious!",
-    "description": "“Healthier than ice cream... but just as delicious! Choose any flavour you like for a really tasty and refreshing snack – it’s great for keeping the kids happy ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes plus freezing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes plus freezing"
+    name: "Fruity frozen yoghurt",
+    subName: "Banana & seasonal ripe fruit",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Whiz up Jamie Oliver's fruity frozen yoghurt for a healthy snack or pud – it has just 146 calories per serving. Healthier than ice cream but just as delicious!",
+    description:
+      "“Healthier than ice cream... but just as delicious! Choose any flavour you like for a really tasty and refreshing snack – it’s great for keeping the kids happy ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "15 minutes plus freezing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes plus freezing",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Alfresco",
       "Wimbledon",
       "Australia day",
       "Desserts",
-      "Freezer-friendly recipes"
+      "Freezer-friendly recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe banana",
       "400 g ripe seasonal fruit, such as mangos, plums, pears, blueberries",
       "runny honey , to taste",
       "500 g natural yoghurt",
-      "150 g raspberries"
+      "150 g raspberries",
     ],
-    "instructions": [
+    instructions: [
       "Discard any stalks from all the fruit, and peel, if necessary, then cut into bite-sized chunks.",
       "Place the chopped fruit onto a tray in one even layer, then pop into the freezer for 2 hours, or until frozen.",
       "If serving in glasses, rather than ice cream cones, place 6 small glasses in the freezer to get extra cold.",
       "When you’re ready to go, place the honey and yoghurt into a food processor and blitz to combine.",
       "Add the frozen fruit to the processor, then blitz again until smooth.",
-      "Remove the glasses from the freezer (if using). Divide the raspberries between the glasses or ice cream cones, then spoon the frozen yoghurt over the top. Serve straight away – keep any leftovers in an airtight container and freeze for another day."
+      "Remove the glasses from the freezer (if using). Divide the raspberries between the glasses or ice cream cones, then spoon the frozen yoghurt over the top. Serve straight away – keep any leftovers in an airtight container and freeze for another day.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1473_1_1436794942.jpg",
-    "imageAlt": "Fruity frozen yoghurt"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1473_1_1436794942.jpg",
+    imageAlt: "Fruity frozen yoghurt",
   },
   {
-    "name": "Chocolate chip cookies",
-    "subName": "A super-easy cookie recipe",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A really easy chocolate chip cookies recipe from Jamie Oliver; a go-to favourite dessert, perfect for any occasion. Give them a go for some weekend baking.",
-    "description": "“You can’t beat a good homemade cookie. These ones are soft, chewy, delicious, and really simple to make ”",
-    "servings": "Serves Makes 20",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus chilling"
+    name: "Chocolate chip cookies",
+    subName: "A super-easy cookie recipe",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A really easy chocolate chip cookies recipe from Jamie Oliver; a go-to favourite dessert, perfect for any occasion. Give them a go for some weekend baking.",
+    description:
+      "“You can’t beat a good homemade cookie. These ones are soft, chewy, delicious, and really simple to make ”",
+    servings: "Serves Makes 20",
+    time: {
+      prep: "",
+      cook: "20 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus chilling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Afternoon tea",
       "Easter treats",
       "Father's day",
       "Christmas",
       "Gift",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g unsalted butter , slightly softened",
       "125 g golden caster sugar",
       "1 large free-range egg",
       "½ teaspoon vanilla extract",
       "200 g self-raising flour",
       "1 pinch of fine sea salt",
-      "100 g quality chocolate , (use a mixture of milk and dark, if you like)"
+      "100 g quality chocolate , (use a mixture of milk and dark, if you like)",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/325ºF/gas 3. Line two baking sheets with greaseproof paper.",
       "Beat the butter and sugar in a large bowl until pale and creamy. Crack in the egg, add the vanilla and mix well. Sift in and fold through the flour and salt. Roughly chop and stir in the chocolate.",
       "Roll tablespoons of the dough into balls and place onto the lined trays. Cover and chill in the fridge for 15 minutes.",
-      "Flatten the balls slightly with your fingers, then place in the hot oven for 10 to 12 minutes, or until lightly golden (make sure you don’t overdo them – the chewier the better). Leave to cool completely, then serve with a glass of cold milk."
+      "Flatten the balls slightly with your fingers, then place in the hot oven for 10 to 12 minutes, or until lightly golden (make sure you don’t overdo them – the chewier the better). Leave to cool completely, then serve with a glass of cold milk.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/98118493.jpg",
-    "imageAlt": "Chocolate chip cookies"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/98118493.jpg",
+    imageAlt: "Chocolate chip cookies",
   },
   {
-    "name": "Granola bars",
-    "subName": "Deliciously homemade",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy these granola bars from Jamie Oliver, a perfect mix of oaty, nutty, sweetness packed  into these easy to make and delicious snack  sized treats.",
-    "description": "“These oaty, nutty, sweet granola bars are a great alternative to the shop-bought versions, and they’re super-simple to rustle up, too! ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus cooling"
+    name: "Granola bars",
+    subName: "Deliciously homemade",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Enjoy these granola bars from Jamie Oliver, a perfect mix of oaty, nutty, sweetness packed  into these easy to make and delicious snack  sized treats.",
+    description:
+      "“These oaty, nutty, sweet granola bars are a great alternative to the shop-bought versions, and they’re super-simple to rustle up, too! ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "40 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Healthy snack ideas",
       "Snacks",
       "Baking",
       "Prep & go recipes",
-      "Healthy vegetarian recipes"
+      "Healthy vegetarian recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "vegetable oil",
       "75 g blanched almonds",
       "250 g rolled oats",
@@ -2591,9 +2522,9 @@
       "1 teaspoon ground cinnamon",
       "1 pinch of sea salt",
       "50 g sour cherries , or dried cranberries",
-      "50 g dried apricots"
+      "50 g dried apricots",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Lightly grease a 22cm-square baking dish with oil, then set aside.",
       "Roughly chop and add the almonds to a large baking tray with the oats and seeds. Spread them out into an even layer and place in the hot oven for 12 to 15 minutes, or until golden, stirring halfway through.",
       "Gently heat the honey and nut butter in a small pan over a low heat. Meanwhile, slit open the dates, pull out and discard the stones, then place into a blender with 100ml of warm water.",
@@ -2601,35 +2532,32 @@
       "Transfer the toasted oat mixture to a large bowl with the bran, cinnamon and salt. Roughly chop and stir in the dried fruit, then mix in the honey mixture until well combined.",
       "Spoon it into the prepared baking dish, using the back of a spoon to press it into an even layer.",
       "Bake in the hot oven for 15 minutes, or until golden and set.",
-      "Leave to cool slightly, turn it out onto a board and cut into squares, then set aside to cool completely. Store in an airtight container."
+      "Leave to cool slightly, turn it out onto a board and cut into squares, then set aside to cool completely. Store in an airtight container.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BbR-N9v24Ec8d4Bij7W9BJ.jpg",
-    "imageAlt": "Granola bars"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BbR-N9v24Ec8d4Bij7W9BJ.jpg",
+    imageAlt: "Granola bars",
   },
   {
-    "name": "Anzac biscuits",
-    "subName": "A brilliant teatime treat",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "These Anzac biscuits are an Australian classic – perfect for celebrating Australia Day. Any teatime treat with porridge oats, desiccated coconut and golden syrup is going to be a winner!",
-    "description": "“Celebrate Anzac Day with these Anzac biscuits – crisp on the outside and deliciously chewy in the middle, you’ll love them! ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus cooling"
+    name: "Anzac biscuits",
+    subName: "A brilliant teatime treat",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "These Anzac biscuits are an Australian classic – perfect for celebrating Australia Day. Any teatime treat with porridge oats, desiccated coconut and golden syrup is going to be a winner!",
+    description:
+      "“Celebrate Anzac Day with these Anzac biscuits – crisp on the outside and deliciously chewy in the middle, you’ll love them! ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "20 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Australia day",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Australia day", "Snacks", "Baking"],
+    ingredients: [
       "100 g unsalted butter",
       "2 tablespoons golden syrup",
       "1 teaspoon bicarbonate of soda",
@@ -2638,87 +2566,82 @@
       "100 g golden caster sugar",
       "80 g desiccated coconut",
       "1 teaspoon vanilla extract",
-      "1 orange , zest from"
+      "1 orange , zest from",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line 2 large baking trays with greaseproof paper.",
       "Melt the butter in a small pan over a low heat, then stir in the golden syrup. In a small bowl, combine the bicarbonate of soda with 3 tablespoons of boiling water, then stir it into the butter mixture.",
       "Combine the flour, oats, sugar and coconut in a medium bowl. Make a well in the middle, then add the butter mixture, vanilla extract and orange zest. Give the wet ingredients a good mix, then gradually stir in the dry ingredients to combine.",
-      "Place heaped tablespoons of the mixture onto the prepared baking trays, leaving a rough 3cm gap between each one. Place in the hot oven for around 10 minutes, or until golden, then transfer to a wire cooling rack to cool completely."
+      "Place heaped tablespoons of the mixture onto the prepared baking trays, leaving a rough 3cm gap between each one. Place in the hot oven for around 10 minutes, or until golden, then transfer to a wire cooling rack to cool completely.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1461_2_1429518853.jpg",
-    "imageAlt": "Anzac biscuits"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1461_2_1429518853.jpg",
+    imageAlt: "Anzac biscuits",
   },
   {
-    "name": "Ultimate flapjacks",
-    "subName": "With mixed nuts & dried fruit ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This Jamie Oliver recipes shows you how to make flapjacks with honey. This is a soft, chewy flapjack recipe, but you can bake them for longer if you like.",
-    "description": "“Deliciously chewy and oh-so buttery, this classic flapjack recipe is a winner every time ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus cooling"
+    name: "Ultimate flapjacks",
+    subName: "With mixed nuts & dried fruit ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This Jamie Oliver recipes shows you how to make flapjacks with honey. This is a soft, chewy flapjack recipe, but you can bake them for longer if you like.",
+    description:
+      "“Deliciously chewy and oh-so buttery, this classic flapjack recipe is a winner every time ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "1 hour plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Easter treats",
-      "Fruit",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Easter treats", "Fruit", "Snacks", "Baking"],
+    ingredients: [
       "250 g unsalted butter , plus extra for greasing",
       "250 g soft light brown sugar",
       "4 tablespoons runny honey",
       "1 pinch of sea salt",
       "100 g mixed nuts , such as hazelnuts and pistachios",
       "150 g mixed dried fruit , such as cranberries, apricots and figs",
-      "350 g rolled porridge oats"
+      "350 g rolled porridge oats",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 150ºC/300ºF/gas 2. Grease and line a rectangular cake tin (roughly 20cm x 30cm).",
       "Place the butter, sugar, honey and salt in a medium pan over a low heat, then allow the butter to melt, stirring occasionally. Meanwhile, roughly chop the nuts and any larger dried fruit, then stir them into the pan along with the oats.",
-      "Transfer the mixture to the prepared tin, smoothing it out into an even layer. Place in the hot oven for 35 to 40 minutes, or until golden around the edges. Leave to cool completely, then cut into squares and serve."
+      "Transfer the mixture to the prepared tin, smoothing it out into an even layer. Place in the hot oven for 35 to 40 minutes, or until golden around the edges. Leave to cool completely, then cut into squares and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1457_2_1429690554.jpg",
-    "imageAlt": "Ultimate flapjacks"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1457_2_1429690554.jpg",
+    imageAlt: "Ultimate flapjacks",
   },
   {
-    "name": "Vegan winter rolls",
-    "subName": "Kale, beansprouts & pickled ginger",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This recipe is based on the classic Vietnamese summer roll – rice paper parcels packed with vermicelli noodles, crunchy seasonal veg,  and then dunked in a delicious sauce. Give this seasonal twist a go!",
-    "description": "“Giving an established recipe a bit of a tweak is a fun thing to do - switch your fillings to match the season ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Vegan winter rolls",
+    subName: "Kale, beansprouts & pickled ginger",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This recipe is based on the classic Vietnamese summer roll – rice paper parcels packed with vermicelli noodles, crunchy seasonal veg,  and then dunked in a delicious sauce. Give this seasonal twist a go!",
+    description:
+      "“Giving an established recipe a bit of a tweak is a fun thing to do - switch your fillings to match the season ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Alfresco",
       "Christmas",
       "Dinner Party",
       "Thanksgiving",
-      "Asian"
+      "Asian",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g vermicelli rice noodles or glass noodles",
       "75 g kale",
       "50 g beansprouts , (ready to eat)",
@@ -2736,9 +2659,9 @@
       "2 limes",
       "4 tablespoons sweet chilli sauce",
       "2 teaspoons sesame oil",
-      "2 teaspoons low-salt soy sauce"
+      "2 teaspoons low-salt soy sauce",
     ],
-    "instructions": [
+    instructions: [
       "To make the dipping sauce, trim and finely chop the spring onion and chilli (scrape out the seeds if you can’t handle the heat), then finely chop the ginger. Place into a small bowl, squeeze in the juice of both limes, then add the remaining sauce ingredients and 1 tablespoon of water. Mix well, then taste and adjust the flavours, if needed.",
       "Prepare the noodles according to the packet instructions. Drain, then leave to cool. Cut away any tough stalky bits from the kale, finely slice and place into a large bowl with the cooled noodles and beansprouts.",
       "Peel and slice the carrot into thin batons, roughly 5cm in length, then add to the bowl. Finely slice and add the ginger.",
@@ -2746,40 +2669,39 @@
       "Dip one of the rice paper wrappers in a shallow bowl of warm water. Allow to soak for around 10 seconds until soft and pliable, drain on kitchen paper, then place onto a board.",
       "Spoon 1 heaped tablespoon of the filling onto the wrapper in a rough line, about 3cm from the edge nearest to you (be careful not to overfill them as they’ll be hard to roll).",
       "Fold the edge nearest to you over the filling, then tightly roll it away from you, tucking in the left and right edges as you go, then press down to seal.",
-      "Repeat with the remaining ingredients, halve each roll at an angle, then serve with the dipping sauce – enjoy!"
+      "Repeat with the remaining ingredients, halve each roll at an angle, then serve with the dipping sauce – enjoy!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1363_15_1442239632.jpg",
-    "imageAlt": "Vegan winter rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1363_15_1442239632.jpg",
+    imageAlt: "Vegan winter rolls",
   },
   {
-    "name": "Vegan mushroom rolls",
-    "subName": "Perfect finger food",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for some festive vegan pastry recipes? Look no further than Jamie's crispy vegan sausage rolls: they're sure to go down well at the Christmas party!",
-    "description": "“This is my twist on classic sausage rolls, with a herby mushroom filling surrounded by golden puff pastry ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Vegan mushroom rolls",
+    subName: "Perfect finger food",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Looking for some festive vegan pastry recipes? Look no further than Jamie's crispy vegan sausage rolls: they're sure to go down well at the Christmas party!",
+    description:
+      "“This is my twist on classic sausage rolls, with a herby mushroom filling surrounded by golden puff pastry ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Christmas",
       "Father's day",
       "Wimbledon",
       "Bonfire night recipes",
-      "Dinner Party"
+      "Dinner Party",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "2 stalks of celery",
       "olive oil",
@@ -2794,49 +2716,48 @@
       "2 sprigs of fresh thyme",
       "2 sheets of ready-rolled puff pastry , (640g) (we used Jus Rol)",
       "almond milk",
-      "2 teaspoons sesame seeds"
+      "2 teaspoons sesame seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6. Line a large baking tray with greaseproof paper.",
       "Peel and finely chop the onion, then trim and finely chop the celery. Heat 1 tablespoon of olive oil in a large frying pan over a medium-high heat, then add the chopped veg. Cook for 10 to 15 minutes, or until golden. Meanwhile, finely chop the mushrooms.",
       "Peel and crush in the garlic, then add the chopped mushrooms. Cook for a further 5 minutes, or until the mushrooms start to soften. Add the mustard and wine, season with salt and pepper, then reduce the heat to low. Cook for 5 to 10 minutes, or until all the liquid has boiled and bubbled away. Set aside to cool.",
       "Add the cooled mushroom mixture and breadcrumbs to a large bowl. Pick, finely chop and add the parsley leaves, then pick in the thyme leaves. Stir well to combine, then season to taste.",
       "Cut the sheets of puff pastry in half lengthways so you have four equal-sized pieces. Spoon a quarter of the mushroom mixture along the middle of one length of pastry, moulding it into a long sausage shape with the back of a spoon.",
       "Brush the almond milk along the pastry edges, then carefully fold one of the long sides of the pastry up over the filling. Press the edges to seal, then crimp with a fork. Repeat with the remaining ingredients until you have four long rolls, then cut each length into four pieces.",
-      "Place the rolls on the prepared baking tray, brush with the almond milk and sprinkle over the sesame seeds. Pop on the bottom shelf of the hot oven for 25 to 30 minutes, or until golden, then serve."
+      "Place the rolls on the prepared baking tray, brush with the almond milk and sprinkle over the sesame seeds. Pop on the bottom shelf of the hot oven for 25 to 30 minutes, or until golden, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1341_1_1436961298.jpg",
-    "imageAlt": "Vegan mushroom rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1341_1_1436961298.jpg",
+    imageAlt: "Vegan mushroom rolls",
   },
   {
-    "name": "Mini vegan doughnuts",
-    "subName": "With a quick raspberry dip",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A great mini vegan donut recipe with a raspberry dip from Jamie Oliver. A great vegan baking idea that everyone can enjoy! Recipe from jamieoliver.com.",
-    "description": "“Hot, crisp and sweet, these doughnuts are a fantastic sweet treat that everyone will love ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Mini vegan doughnuts",
+    subName: "With a quick raspberry dip",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A great mini vegan donut recipe with a raspberry dip from Jamie Oliver. A great vegan baking idea that everyone can enjoy! Recipe from jamieoliver.com.",
+    description:
+      "“Hot, crisp and sweet, these doughnuts are a fantastic sweet treat that everyone will love ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Fruit",
       "Easter treats",
       "Halloween recipes",
       "Bonfire night recipes",
       "Christmas",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g dairy-free margarine",
       "120 ml organic soya milk",
       "1.5 litres sunflower oil",
@@ -2849,46 +2770,47 @@
       "½ orange",
       "For the vanilla sugar",
       "1 vanilla pod",
-      "50 g caster sugar"
+      "50 g caster sugar",
     ],
-    "instructions": [
+    instructions: [
       "Melt the margarine, soya milk and 2 tablespoons of the sunflower oil in a small pan over a medium heat. Meanwhile, combine the flour, baking powder, salt and sugar in a large bowl. Make a well in the middle, then tip in the melted mixture.",
       "Gradually bring the mixture together with a fork until it forms a wet, thick dough, then divide and roll into 24 golf-ball sized balls.",
       "Heat the remaining sunflower oil in a medium-sized deep pan over a high heat. To test if the oil is hot enough, drop a piece of bread into the pan – if the bread floats to the surface, sizzles and turns golden, it’s about right. Reduce the heat to medium, then use a slotted spoon to carefully lower six dough balls into the hot oil. Cook for 3 to 5 minutes, or until golden, cooked through and they’ve floated to the surface, turning occasionally.",
       "Meanwhile, make the vanilla sugar. Halve the vanilla pod lengthways and scrape out the seeds. Bash the seeds and half the sugar in a pestle and mortar, then place into a large bowl with the remaining sugar.",
       "Transfer the cooked doughnuts to a double layer of kitchen paper to drain. Allow to cool for a few minutes, roll in the vanilla sugar to coat, then place on a tray. Repeat with the remaining dough balls.",
-      "Meanwhile, make the raspberry dip. Place the raspberries, icing sugar and a squeeze of orange juice into a bowl, then crush well with the back of a fork. Serve the mini doughnuts with the raspberry dip, then tuck in!"
+      "Meanwhile, make the raspberry dip. Place the raspberries, icing sugar and a squeeze of orange juice into a bowl, then crush well with the back of a fork. Serve the mini doughnuts with the raspberry dip, then tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1332_1_1436866373.jpg",
-    "imageAlt": "Mini vegan doughnuts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1332_1_1436866373.jpg",
+    imageAlt: "Mini vegan doughnuts",
   },
   {
-    "name": "Devil's double choc malt cookies",
-    "subName": "With Maltesers & white chocolate",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Who can resist Jamie Oliver's Devil's double choc malt cookies? Chocolaty and crispy but chewy in the middle, they're super easy to make too – time to get baking!",
-    "description": "“I was very young when the realisation of the joy of the cookie hit me. I’ve never really met anyone that doesn’t like a freshly baked cookie, and if anything, since I was a kid it’s just become easier to get pre-made commercial, average, frankly boring cookies. So for me, baking your own is the only way to pass that perfection down the family to the next generation. The problem is, what flavour to choose – there’s so many. Well, I’ve made it easy for you – this, in my view, is the best flavour combo. Bake these, and your face will hurt because you’ll be smiling, chewing and gurning for another one. ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus chilling"
+    name: "Devil's double choc malt cookies",
+    subName: "With Maltesers & white chocolate",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Who can resist Jamie Oliver's Devil's double choc malt cookies? Chocolaty and crispy but chewy in the middle, they're super easy to make too – time to get baking!",
+    description:
+      "“I was very young when the realisation of the joy of the cookie hit me. I’ve never really met anyone that doesn’t like a freshly baked cookie, and if anything, since I was a kid it’s just become easier to get pre-made commercial, average, frankly boring cookies. So for me, baking your own is the only way to pass that perfection down the family to the next generation. The problem is, what flavour to choose – there’s so many. Well, I’ve made it easy for you – this, in my view, is the best flavour combo. Bake these, and your face will hurt because you’ll be smiling, chewing and gurning for another one. ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "40 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus chilling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Comfort Food",
       "Easter treats",
       "Halloween recipes",
       "Desserts",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g unsalted butter",
       "200 g quality dark chocolate (70%)",
       "1 x 396 g tin of condensed milk",
@@ -2896,9 +2818,9 @@
       "2 heaped teaspoons Horlicks",
       "200 g self-raising flour",
       "100 g Maltesers",
-      "50 g quality white chocolate"
+      "50 g quality white chocolate",
     ],
-    "instructions": [
+    instructions: [
       "Melt the butter and chocolate in a pan on a low heat until smooth and combined, stirring occasionally.",
       "Remove from the heat and stir in the condensed milk, followed by the almonds and Horlicks.",
       "Sift in the flour and a pinch of sea salt, mix together, then chill in the fridge for 20 to 30 minutes (no longer).",
@@ -2906,41 +2828,39 @@
       "Preheat the oven to 170°C/325°F/gas 3.",
       "Divide the mixture into 24 equal-sized balls and place on a couple of large baking trays lined with greaseproof paper.",
       "Flatten each a little – like squashed golf balls (you can freeze them at this stage to bake another day if you like) – then bake for around 12 minutes, or until chewy in the middle and firm at the edges. Leave to sit in the tray for 5 minutes, then transfer to a wire rack to cool.",
-      "If you want to take these devilish cookies to another level, either sandwich 2 cookies with a good spoonful of your favourite ice cream, or even some homemade marshmallow, and squeeze… heaven, or simply drizzle all the cookies with melted chocolate while they cool… amazing!"
+      "If you want to take these devilish cookies to another level, either sandwich 2 cookies with a good spoonful of your favourite ice cream, or even some homemade marshmallow, and squeeze… heaven, or simply drizzle all the cookies with melted chocolate while they cool… amazing!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1314_1_1436786134.jpg",
-    "imageAlt": "Devil's double choc malt cookies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1314_1_1436786134.jpg",
+    imageAlt: "Devil's double choc malt cookies",
   },
   {
-    "name": "Gluten-free chocolate brownies",
-    "subName": "Gooey, delicious & vegan too",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a gluten free brownie recipe? Look no further than Jamie Oliver's gooey, delicious gluten free chocolate brownie recipe - they're vegan too!",
-    "description": "“Aduki beans are used in Japan to make a creamy paste called anko, here they form the base of these deliciously gooey brownies. Serve them warm for choccy heaven! ”",
-    "servings": "Serves Makes 9",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Gluten-free chocolate brownies",
+    subName: "Gooey, delicious & vegan too",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Looking for a gluten free brownie recipe? Look no further than Jamie Oliver's gooey, delicious gluten free chocolate brownie recipe - they're vegan too!",
+    description:
+      "“Aduki beans are used in Japan to make a creamy paste called anko, here they form the base of these deliciously gooey brownies. Serve them warm for choccy heaven! ”",
+    servings: "Serves Makes 9",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Dinner Party",
       "Easter treats",
       "Mother's day",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "75 ml sunflower oil , plus extra for greasing",
       "6 tbsp ground flaxseed",
       "1 x 400g tin of aduki beans",
@@ -2953,9 +2873,9 @@
       "For the coconut whip:",
       "200 ml coconut cream",
       "3 tbsp icing sugar",
-      "1/2 tsp vanilla extract"
+      "1/2 tsp vanilla extract",
     ],
-    "instructions": [
+    instructions: [
       "The day before you make your brownies, place the carton of coconut cream in the fridge and leave for 24 hours to thicken up.",
       "Preheat the oven to 180°C/350°F/gas 4. Lightly grease a 23cm square brownie tin with sunflower oil and line with baking paper.",
       "In a bowl, combine the ground flaxseed with 9 tablespoons of water, stir well and leave to one side to thicken up. (The flaxseed will absorb all of the liquid, acting as a binder for the brownies.)",
@@ -2963,41 +2883,39 @@
       "Roughly chop the dark chocolate into small chunks, add to the mixture and pulse briefly just to incorporate the chocolate.",
       "Spoon the batter into the prepared brownie tin and bake for 55 to 60 minutes, covering the brownies loosely in tin foil halfway through cooking to stop them catching. Remove from the oven and set aside to cool just a little.",
       "In a bowl, whisk the chilled coconut cream, icing sugar and vanilla extract until thick and creamy. Slice the brownie into squares and serve with the coconut whip for drizzling.",
-      "Find more gluten-free recipes"
+      "Find more gluten-free recipes",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1285_1_1437994479.jpg",
-    "imageAlt": "Gluten-free chocolate brownies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1285_1_1437994479.jpg",
+    imageAlt: "Gluten-free chocolate brownies",
   },
   {
-    "name": "Gluten-free lemon millet biscuits",
-    "subName": "Topped with coconut",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Make these crumbly, gluten–free and vegan lemon biscuits for afternoon tea or just to fill the biscuit tin. They millet flakes are great for slow energy release as well.",
-    "description": "“Millet flakes are naturally gluten free, so a great way to get some texture in your gluten-free biscuits – these ones are delicious ”",
-    "servings": "Serves Makes 20",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Gluten-free lemon millet biscuits",
+    subName: "Topped with coconut",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Make these crumbly, gluten–free and vegan lemon biscuits for afternoon tea or just to fill the biscuit tin. They millet flakes are great for slow energy release as well.",
+    description:
+      "“Millet flakes are naturally gluten free, so a great way to get some texture in your gluten-free biscuits – these ones are delicious ”",
+    servings: "Serves Makes 20",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Easter treats",
       "Mother's day",
       "Christmas",
       "Gift",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "125 ml olive oil",
       "4 tablespoons soya yoghurt , plus extra",
       "3 lemons",
@@ -3005,45 +2923,46 @@
       "165 g gluten-free plain flour",
       "75 g gluten-free oats",
       "40 g millet flakes , plus extra to top",
-      "40 g unsweetened desiccated coconut , plus extra to top"
+      "40 g unsweetened desiccated coconut , plus extra to top",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Combine the olive oil, yoghurt, juice of 1 lemon and zest of 2 lemons in a bowl. In a separate bowl, mix all the dry ingredients.",
       "Pour the wet ingredients into the dry and mix until you have a soft, doughy consistency. If it’s too dry, add a little more yoghurt.",
       "Roll into 20 evenly sized balls, then place on a baking tray and press down lightly to flatten. Sprinkle with the extra millet flakes and coconut, and grate over the remaining lemon zest.",
-      "Bake for 10 to 15 minutes, until golden. The biscuits will be soft when they come out, but will harden as they cool."
+      "Bake for 10 to 15 minutes, until golden. The biscuits will be soft when they come out, but will harden as they cool.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1273_23_1437995727.jpg",
-    "imageAlt": "Gluten-free lemon millet biscuits"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1273_23_1437995727.jpg",
+    imageAlt: "Gluten-free lemon millet biscuits",
   },
   {
-    "name": "Gluten-free mince pies",
-    "subName": "With gluten-free mincemeat & zesty pastry",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Looking for gluten free mince pies? Look no further than Jamie's simple yet tasty gluten free mince pie recipe made with delicious crumbly gluten free pastry.",
-    "description": "“No one will know the difference with these gluten-free mince pies, filled with brilliant homemade mincemeat. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus chilling and overnight soaking",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus chilling and overnight soaking"
+    name: "Gluten-free mince pies",
+    subName: "With gluten-free mincemeat & zesty pastry",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Looking for gluten free mince pies? Look no further than Jamie's simple yet tasty gluten free mince pie recipe made with delicious crumbly gluten free pastry.",
+    description:
+      "“No one will know the difference with these gluten-free mince pies, filled with brilliant homemade mincemeat. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "40 minutes plus chilling and overnight soaking",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus chilling and overnight soaking",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "British",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "75 g rice flour",
       "40 g tapioca , or gluten-free flour",
       "40 g chickpea flour",
@@ -3065,46 +2984,41 @@
       "80 g dried sour cherries",
       "80 g dried cranberries",
       "80 g dried blueberries",
-      "2 tbsp brandy , (optional)"
+      "2 tbsp brandy , (optional)",
     ],
-    "instructions": [
+    instructions: [
       "To make the fruit filling, mash the banana and pop into a bowl with all the ingredients. Mix well and leave covered in the fridge overnight for the flavours to develop.",
       "To make the pastry, mix all the dry ingredients together in a large bowl. Cube the butter, then use your fingers to rub it in to form breadcrumbs. Split the vanilla pod and scrape in the seeds. Grate in the lemon or orange zest, then mix in the sugar.",
       "Add 2 tablespoons cold water to the mix, then quickly and gently work it into a dough. Wrap in clingfilm and chill in the fridge for 30 minutes.",
       "Remove the pastry from the fridge. Place a large sheet of greaseproof paper in front of you, put the chilled dough on top, place another sheet on top and thinly roll out the pastry (this will stop you needing any more flour).",
       "Preheat the oven to 180°C/350°F/gas 4, grease your pie tin well and take the fruit filling out of the fridge. Cut out 12 pastry circles, big enough for your tin and 12 star lids (if you don’t have a star cutter, just make round lids).",
       "Place a round in each of the pie moulds, before filling with the fruit and topping with a lid. Brush with a little milk to help them colour.",
-      "Bake for 15 to 20 minutes, until golden. Allow to cool before taking out of the tins. Once completely cooled, dust with icing sugar."
+      "Bake for 15 to 20 minutes, until golden. Allow to cool before taking out of the tins. Once completely cooled, dust with icing sugar.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1272_30_1437995763.jpg",
-    "imageAlt": "Gluten-free mince pies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1272_30_1437995763.jpg",
+    imageAlt: "Gluten-free mince pies",
   },
   {
-    "name": "Gluten-free cottage cheese muffins",
-    "subName": "With sun-dried tomatoes & Parmesan",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Savoury muffins are amazing things, and this cottage cheese muffin recipe is light and moreish, with that lovely sweet hit from the tomatoes. And gluten-free too!",
-    "description": "“Savoury muffins are amazing things, and this recipe is light and moreish, with that lovely sweet hit from the tomatoes. And gluten-free too! ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Gluten-free cottage cheese muffins",
+    subName: "With sun-dried tomatoes & Parmesan",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Savoury muffins are amazing things, and this cottage cheese muffin recipe is light and moreish, with that lovely sweet hit from the tomatoes. And gluten-free too!",
+    description:
+      "“Savoury muffins are amazing things, and this recipe is light and moreish, with that lovely sweet hit from the tomatoes. And gluten-free too! ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Muffin",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Muffin", "Snacks", "Baking"],
+    ingredients: [
       "150 g whole blanched almonds",
       "225 g plain cottage cheese",
       "100 g gluten-free flour",
@@ -3113,47 +3027,46 @@
       "75 g Parmesan cheese",
       "a few sprigs of fresh thyme",
       "4 large free-range eggs",
-      "3 tablespoons vegetable oil , (or other light oil)"
+      "3 tablespoons vegetable oil , (or other light oil)",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6. Line a 12-hole muffin pan with a double layer of paper cases.",
       "Whiz the almonds in a food processor until really fine, then put in a bowl with the cottage cheese, flour, sun-dried tomatoes and baking powder. Grate in most of the Parmesan and pick in most of the thyme leaves.",
       "Lightly beat the eggs and add with the oil and 1 tablespoon of water. Season then lightly combine.",
       "Spoon the batter into the cases and grate over the remaining Parmesan and pick over the remaining thyme leaves.",
-      "Bake for 30 to 35 minutes, or until risen and golden brown. Serve while warm or at room temperature."
+      "Bake for 30 to 35 minutes, or until risen and golden brown. Serve while warm or at room temperature.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1269_29_1438676890.jpg",
-    "imageAlt": "Gluten-free cottage cheese muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1269_29_1438676890.jpg",
+    imageAlt: "Gluten-free cottage cheese muffins",
   },
   {
-    "name": "Gluten-free apple, almond & cardamom cupcakes",
-    "subName": "Easy to make, but super impressive",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "These gluten-free cupcakes are simply delicious and packed with apple, almond and cardamom, they're easy to make yet impressive in flavour.",
-    "description": "“These gluten-free cakes are so simple to knock up but rammed with flavour – the cardamom really makes them sing ”",
-    "servings": "Serves Makes 20-24",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Gluten-free apple, almond & cardamom cupcakes",
+    subName: "Easy to make, but super impressive",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "These gluten-free cupcakes are simply delicious and packed with apple, almond and cardamom, they're easy to make yet impressive in flavour.",
+    description:
+      "“These gluten-free cakes are so simple to knock up but rammed with flavour – the cardamom really makes them sing ”",
+    servings: "Serves Makes 20-24",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Afternoon tea",
       "Christmas",
       "Easter treats",
       "Mother's day",
-      "Halloween recipes"
+      "Halloween recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g gluten-free flour",
       "100 g ground almonds",
       "1 pinch of salt",
@@ -3162,47 +3075,47 @@
       "5 large free-range eggs",
       "2 tablespoons vegetable oil",
       "200 g sugar",
-      "2 Gala apples"
+      "2 Gala apples",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4 and line two 12-hole muffin trays with cupcake cases.",
       "Combine the dry ingredients in a bowl.",
       "Core and chop the apples.",
       "Beat the eggs, vegetable oil and sugar together till light and fluffy.",
       "Beat in the dry ingredients then stir in the chopped apple.",
-      "Spoon the batter into the cupcake cases and bake for 20 to 30 minutes till firm and lightly golden."
+      "Spoon the batter into the cupcake cases and bake for 20 to 30 minutes till firm and lightly golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1266_1_1439213222.jpg",
-    "imageAlt": "Gluten-free apple, almond & cardamom cupcakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1266_1_1439213222.jpg",
+    imageAlt: "Gluten-free apple, almond & cardamom cupcakes",
   },
   {
-    "name": "Gluten-free citrus shortbread",
-    "subName": "A teatime treat everyone can enjoy",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This zesty lemon, orange and lime gluten-free shortbread recipe is perfect for afternoon tea with your favourite hot drink.",
-    "description": "“This melt-in-the-mouth gluten-free treat is perfect for afternoon tea with your favourite hot drink. ”",
-    "servings": "20",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Gluten-free citrus shortbread",
+    subName: "A teatime treat everyone can enjoy",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This zesty lemon, orange and lime gluten-free shortbread recipe is perfect for afternoon tea with your favourite hot drink.",
+    description:
+      "“This melt-in-the-mouth gluten-free treat is perfect for afternoon tea with your favourite hot drink. ”",
+    servings: "20",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Easter treats",
       "Mother's day",
       "British",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g butter , softened, plus extra for greasing",
       "125 g icing sugar",
       "½ an orange",
@@ -3210,48 +3123,47 @@
       "1 lime",
       "350 g gluten-free flour",
       "1 teaspoon gluten-free baking powder",
-      "sugar , to serve"
+      "sugar , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190°C/375°F/gas 5. Grease a flat baking tray, then line with a sheet of baking paper.",
       "Beat the butter, then grate in the orange, lemon and lime zests. Cream the butter and zests with the icing sugar until light and fluffy.",
       "Fold in the flour and baking powder, then use your hands to form a dough – do not overmix.",
       "For rectangular shortbread, roll out to about 1cm thick and cut into fingers. For round biscuits, roll into 20 even-sized balls. Prick the surface of each. Reroll any scraps and repeat.",
       "Put your shortbread onto the tray, then chill in the fridge for 10 to 15 minutes, before baking in the oven for 12 to 15 minutes until pale and crisp.",
-      "Remove from the oven and allow to cool for 5 minutes, then transfer to a cooling rack and sprinkle with sugar. This shortbread will keep for up to a week in an airtight container."
+      "Remove from the oven and allow to cool for 5 minutes, then transfer to a cooling rack and sprinkle with sugar. This shortbread will keep for up to a week in an airtight container.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EwnNfHFAq2e9cJUwVSoLrq.jpg",
-    "imageAlt": "Gluten-free citrus shortbread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EwnNfHFAq2e9cJUwVSoLrq.jpg",
+    imageAlt: "Gluten-free citrus shortbread",
   },
   {
-    "name": "Gluten-free blondies",
-    "subName": "Gooey, delicious & dairy-free too!",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Gluten-free, dairy-free or vegan? These deliciously gooey blondies are for you – and anyone you choose to share them with! They're super easy to make too. Perfect.",
-    "description": "“Using honey and soya yoghurt makes these blondies super sticky in the centre. Make them vegan by changing the honey to maple syrup ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Gluten-free blondies",
+    subName: "Gooey, delicious & dairy-free too!",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Gluten-free, dairy-free or vegan? These deliciously gooey blondies are for you – and anyone you choose to share them with! They're super easy to make too. Perfect.",
+    description:
+      "“Using honey and soya yoghurt makes these blondies super sticky in the centre. Make them vegan by changing the honey to maple syrup ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Easter treats",
       "Halloween recipes",
       "Christmas",
       "American",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g gluten-free flour",
       "1 teaspoon gluten-free baking powder",
       "½ teaspoon fine sea salt",
@@ -3259,107 +3171,104 @@
       "½ a vanilla pod",
       "2 tablespoons honey , or maple syrup",
       "250 g light brown sugar",
-      "200 g vegan chocolate (70%)"
+      "200 g vegan chocolate (70%)",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4 and line a 23cm square brownie tin with greaseproof paper.",
       "Sift together the flour, baking powder and sea salt into a bowl.",
       "Split the vanilla pod lengthways and scrape the seeds into a large bowl. Add the soya yoghurt, honey and sugar, and mix until well combined.",
       "Gently fold the dry ingredients into the wet ingredients. Roughly chop the chocolate and fold in.",
       "Pour the batter into the prepared brownie pan and evenly spread over the pan with a spoon or spatula. Bake in the oven for 30 to 35 minutes, or until the top of the blondie is firm and brown.",
-      "Let the blondie cool completely in the pan. Cut into 12 pieces and serve."
+      "Let the blondie cool completely in the pan. Cut into 12 pieces and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1262_29_1405684920.jpg",
-    "imageAlt": "Gluten-free blondies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1262_29_1405684920.jpg",
+    imageAlt: "Gluten-free blondies",
   },
   {
-    "name": "Dairy-free chocolate & nut cookies",
-    "subName": "With pecans, hazelnuts & cocoa",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Love cookies? Look no further than Jamie Oliver's chocolate and nut dairy-free cookies;  packed with pecans and hazelnuts they're a decedent dairy-free treat. ",
-    "description": "“An amazing cross between crunchy cookies and gooey brownies – you will love these. ”",
-    "servings": "Serves Makes 20",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes plus cooling"
+    name: "Dairy-free chocolate & nut cookies",
+    subName: "With pecans, hazelnuts & cocoa",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Love cookies? Look no further than Jamie Oliver's chocolate and nut dairy-free cookies;  packed with pecans and hazelnuts they're a decedent dairy-free treat. ",
+    description:
+      "“An amazing cross between crunchy cookies and gooey brownies – you will love these. ”",
+    servings: "Serves Makes 20",
+    time: {
+      prep: "",
+      cook: "25 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Easter treats",
       "Father's day",
       "Mother's day",
       "Christmas",
       "Gift",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g pecan nuts",
       "150 g hazelnuts",
       "400 g icing sugar",
       "100 g cocoa powder",
       "½ a teaspoon fine sea salt",
       "1 tablespoon vanilla paste",
-      "4 large free-range eggs"
+      "4 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160ºC/325ºF/gas 3. Line two large baking trays with greaseproof paper.",
       "Toast the nuts in a large frying pan over a medium heat for a few minutes, or until golden. Leave to cool, then roughly chop.",
       "Sieve the icing sugar, cocoa powder and salt into a large bowl, then add the chopped nuts and vanilla paste.",
       "In another bowl, separate the egg whites (save the yolks for another day), then whisk for 3 to 5 minutes, or until soft peaks form. Fold the egg whites into the dry mixture until combined.",
       "Scoop ½ a tablespoon of the mixture onto one of the prepared trays, then repeat with the remaining mixture, making sure you leave a rough 4cm gap between each spoonful (you may need to do this in batches if your trays aren’t big enough).",
       "Place in the hot oven for 10 to 15 minutes, or until crisp on the outside, but still slightly gooey in the middle.",
-      "Leave to cool for 5 minutes before transferring to a wire rack to cool completely."
+      "Leave to cool for 5 minutes before transferring to a wire rack to cool completely.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1261_15_1436779070.jpg",
-    "imageAlt": "Dairy-free chocolate & nut cookies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1261_15_1436779070.jpg",
+    imageAlt: "Dairy-free chocolate & nut cookies",
   },
   {
-    "name": "Dairy-free chocolate truffles",
-    "subName": "Desiccated coconut, mixed nuts & cocoa",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Our dairy-free chocolate truffles are great for dinner parties as these tasty dairy free chocolate truffles can me made in advance and can be enjoyed by all!",
-    "description": "“Truffles make the perfect edible gift for family and friends – add a pinch of chilli to spice things up, or finely grate in some orange zest for fresh, citrussy zing! ”",
-    "servings": "Serves Makes 45",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes plus setting",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes plus setting"
+    name: "Dairy-free chocolate truffles",
+    subName: "Desiccated coconut, mixed nuts & cocoa",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Our dairy-free chocolate truffles are great for dinner parties as these tasty dairy free chocolate truffles can me made in advance and can be enjoyed by all!",
+    description:
+      "“Truffles make the perfect edible gift for family and friends – add a pinch of chilli to spice things up, or finely grate in some orange zest for fresh, citrussy zing! ”",
+    servings: "Serves Makes 45",
+    time: {
+      prep: "",
+      cook: "30 minutes plus setting",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes plus setting",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "Dinner Party",
       "Easter treats",
       "Mother's day",
       "Romantic meals",
-      "Gift"
+      "Gift",
     ],
-    "ingredients": [
+    ingredients: [
       "240 ml light coconut milk",
       "300 g dairy-free dark chocolate",
       "3 tablespoons coconut oil",
       "1 teaspoon vanilla bean paste , or vanilla extract",
       "1 handful of desiccated coconut",
       "1 handful of mixed nuts , such as pecans, hazelnuts, macadamias",
-      "2 tablespoons quality cocoa powder"
+      "2 tablespoons quality cocoa powder",
     ],
-    "instructions": [
+    instructions: [
       "Pour the coconut milk into a small pan over a low heat and heat through.",
       "Snap the chocolate into a bowl, add the coconut oil, then pour over the coconut milk and stir gently to combine – it’s important not to mix too quickly.",
       "Stir in the vanilla, then cover the bowl with clingfilm and place in the fridge to set for at least 4 hours.",
@@ -3367,40 +3276,39 @@
       "Return the pan to the heat, scatter in the nuts and toast for 2 minutes, or until golden. Leave to cool for a few minutes, then finely chop and place onto a second plate.",
       "Spread the cocoa powder over a third plate.",
       "Using a teaspoon, scoop out little balls of the truffle mixture and roll in the palm of your hands, placing them onto a tray as you go. It’s totally up to you how you decorate them – roll the balls in the toasted coconut or chopped nuts, or for a simple finish, roll them in cocoa powder.",
-      "Return the decorated truffles to the fridge for around 10 minutes to firm up, then serve."
+      "Return the decorated truffles to the fridge for around 10 minutes to firm up, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1259_15_1436779277.jpg",
-    "imageAlt": "Dairy-free chocolate truffles"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1259_15_1436779277.jpg",
+    imageAlt: "Dairy-free chocolate truffles",
   },
   {
-    "name": "Vegan ginger cupcakes",
-    "subName": "Vegan tea-time treats",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A brilliant vegan ginger cupcake recipe from Jamie Oliver; these vegan cupcakes are topped with a decadently rich cream cheese topping.",
-    "description": "“Simple spiced cupcakes, topped with a deliciously rich cream cheese icing ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling"
+    name: "Vegan ginger cupcakes",
+    subName: "Vegan tea-time treats",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A brilliant vegan ginger cupcake recipe from Jamie Oliver; these vegan cupcakes are topped with a decadently rich cream cheese topping.",
+    description:
+      "“Simple spiced cupcakes, topped with a deliciously rich cream cheese icing ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Afternoon tea",
       "Easter treats",
       "Mother's day",
       "Halloween recipes",
       "Christmas",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "350 g plain flour",
       "2 teaspoons baking powder",
       "1 teaspoon bicarbonate of soda",
@@ -3415,47 +3323,46 @@
       "ICING",
       "200 g icing sugar",
       "55 g dairy-free margarine",
-      "200 g dairy-free cream cheese"
+      "200 g dairy-free cream cheese",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a 12-hole cupcake tray with paper cases.",
       "Sieve the flour, baking powder, bicarbonate of soda, ground ginger, cinnamon and salt into a large bowl.",
       "In another bowl, whisk the oil, golden syrup, yoghurt and milk together until well combined. Finely chop and add the stem ginger, along with 1 tablespoon of syrup from the jar. Fold in the flour mixture until smooth and combined.",
       "Divide the cake mixture between the paper cases, then place in the hot oven for 15 to 20 minutes, or until golden and an inserted skewer comes out clean. Leave to cool for a few minutes, then transfer to a wire rack to cool completely.",
-      "Meanwhile, make the icing. Sieve the icing sugar into a large bowl, add the margarine, then beat until pale and fluffy. Add the cream cheese and whisk well until smooth and combined. Decorate the cooled cupcakes with the icing, dust with a little ground ginger, then tuck in."
+      "Meanwhile, make the icing. Sieve the icing sugar into a large bowl, add the margarine, then beat until pale and fluffy. Add the cream cheese and whisk well until smooth and combined. Decorate the cooled cupcakes with the icing, dust with a little ground ginger, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1253_1_1436961159.jpg",
-    "imageAlt": "Vegan ginger cupcakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1253_1_1436961159.jpg",
+    imageAlt: "Vegan ginger cupcakes",
   },
   {
-    "name": "Vegan chocolate brownies",
-    "subName": "Crunchy pecans, vanilla & sea salt",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Easy vegan brownies – they're chocolaty, gooey, and can be enjoyed by all. Just follow Jamie's simple vegan brownie recipe for a seriously good treat! ",
-    "description": "“Gooey, nutty and seriously chocolaty, these vegan brownies are a total joy to eat ”",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Vegan chocolate brownies",
+    subName: "Crunchy pecans, vanilla & sea salt",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Easy vegan brownies – they're chocolaty, gooey, and can be enjoyed by all. Just follow Jamie's simple vegan brownie recipe for a seriously good treat! ",
+    description:
+      "“Gooey, nutty and seriously chocolaty, these vegan brownies are a total joy to eat ”",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Easter treats",
       "Mother's day",
       "Christmas",
       "Gift",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "5 tablespoons sunflower oil , plus extra for greasing",
       "200 g dairy-free dark chocolate",
       "170 g self-raising flour",
@@ -3464,46 +3371,46 @@
       "sea salt",
       "1 vanilla pod",
       "230 ml unsweetened organic soya milk",
-      "200 g pecan nuts"
+      "200 g pecan nuts",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Grease a square baking tin (roughly 20cm) with a little oil, then line with greaseproof paper.",
       "Place a heatproof bowl over a pan of simmering water, making sure the base doesn’t touch the water. Break 150g of chocolate into the bowl and allow it to melt, then set aside to cool slightly.",
       "Meanwhile, sieve the flour and cocoa powder into a large bowl, then stir in the sugar and a pinch of salt. Halve the vanilla pod lengthways, scrape out the seeds, then add them to the bowl. Stir in the oil, soya milk and melted chocolate until combined.",
       "Roughly chop and stir in the remaining chocolate and most of the pecans, reserving a few for the top. Pour the mixture into the prepared tin, spreading it out evenly. Sprinkle over the remaining pecans, then place into the hot oven for 20 to 25 minutes, or until cooked on the outside, but still gooey in the middle.",
-      "Leave to cool for around 5 minutes, turn out onto a wire cooling rack, then serve warm with a scoop of vanilla ice cream, if you’re feeling extra indulgent."
+      "Leave to cool for around 5 minutes, turn out onto a wire cooling rack, then serve warm with a scoop of vanilla ice cream, if you’re feeling extra indulgent.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1248_1_1436958992.jpg",
-    "imageAlt": "Vegan chocolate brownies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1248_1_1436958992.jpg",
+    imageAlt: "Vegan chocolate brownies",
   },
   {
-    "name": "Gluten-free oat & raisin cookies",
-    "subName": "Deliciously crunchy",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a great recipe for oat and raisin gluten free cookies from Jamie Oliver; these deliciously crunchy gluten free cookies can be enjoyed by all!",
-    "description": "“Everyone loves a good biscuit to dunk in their tea, and you just can’t beat the homemade variety ”",
-    "servings": "Serves Makes 20",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling"
+    name: "Gluten-free oat & raisin cookies",
+    subName: "Deliciously crunchy",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Find a great recipe for oat and raisin gluten free cookies from Jamie Oliver; these deliciously crunchy gluten free cookies can be enjoyed by all!",
+    description:
+      "“Everyone loves a good biscuit to dunk in their tea, and you just can’t beat the homemade variety ”",
+    servings: "Serves Makes 20",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "American",
       "Gift",
       "Fruit",
       "Beautiful baking recipes",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g unsalted butter",
       "100 g golden caster sugar",
       "125 g dark brown soft sugar",
@@ -3513,48 +3420,48 @@
       "½ teaspoon bicarbonate of soda",
       "100 g raisins",
       "200 g gluten-free porridge oats",
-      "1 teaspoon ground cinnamon"
+      "1 teaspoon ground cinnamon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line two large baking trays with greaseproof paper, then set aside.",
       "Melt the butter in a pan over a low heat. Combine the sugars in a large bowl, pour in the melted butter and stir to combine.",
       "Beat the egg in a separate bowl, then stir into the mixture with the buttermilk.",
       "Sieve in the flour and bicarbonate of soda and fold through, then stir in the remaining ingredients.",
       "Place heaped tablespoons of the mixture onto the prepared tray, flattening them slightly with your fingers and making sure you leave a 4cm gap between each.",
       "Place in the hot oven for around 14 minutes, or until golden and crisp.",
-      "Leave to cool for 5 minutes before transferring to a wire rack to cool completely. Enjoy with a glass of cold milk or a cup of steaming hot tea."
+      "Leave to cool for 5 minutes before transferring to a wire rack to cool completely. Enjoy with a glass of cold milk or a cup of steaming hot tea.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1243_30_1436797895.jpg",
-    "imageAlt": "Gluten-free oat & raisin cookies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1243_30_1436797895.jpg",
+    imageAlt: "Gluten-free oat & raisin cookies",
   },
   {
-    "name": "Gluten-free carrot cake",
-    "subName": "With zesty cream-cheese icing",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This easy carrot cake recipe also happens to be a gluten free carrot cake. Packed with ground ginger and cinnamon and topped with zesty cream cheese icing.",
-    "description": "“Deliciously spiced gluten-free carrot cake – perfect with a nice cup of tea ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus cooling"
+    name: "Gluten-free carrot cake",
+    subName: "With zesty cream-cheese icing",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This easy carrot cake recipe also happens to be a gluten free carrot cake. Packed with ground ginger and cinnamon and topped with zesty cream cheese icing.",
+    description:
+      "“Deliciously spiced gluten-free carrot cake – perfect with a nice cup of tea ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Alfresco",
       "Dinner Party",
       "Mother's day",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "unsalted butter , for greasing",
       "225 g gluten-free self-raising flour , plus extra for dusting",
       "2 large free-range eggs",
@@ -3572,44 +3479,39 @@
       "100 g icing sugar",
       "1 orange , zest only",
       "75 g cream cheese",
-      "50 g walnuts"
+      "50 g walnuts",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/375ºF/gas 5. Grease a springform cake tin (roughly 20cm) with butter, line the base with greaseproof paper, then dust the sides with gluten-free flour.",
       "Lightly beat the eggs in a large bowl, add the sugar and oil, then mix to combine. Sieve in the flour and spices, then fold through. Peel and grate the apple (core and all) and carrots, then stir into the mixture along with the orange zest and juice and sultanas. Roughly chop and add the walnuts, if using.",
       "Pour the mixture into the prepared cake tin, then place on the middle shelf of the oven for 30 to 35 minutes, or until golden and an inserted skewer comes out clean. Leave the cake to cool in the tin for around 5 minutes, before turning it out onto a wire cooling rack to cool completely.",
       "Meanwhile, make the icing. Beat the butter, icing sugar and most of the orange zest until pale and smooth, then stir in the cream cheese until just combined.",
-      "Once cooled, decorate the cake with the icing. Lightly crush the walnuts in a pestle and mortar and sprinkle on top. Finish with a grating of orange zest, then serve."
+      "Once cooled, decorate the cake with the icing. Lightly crush the walnuts in a pestle and mortar and sprinkle on top. Finish with a grating of orange zest, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1242_1_1436798820.jpg",
-    "imageAlt": "Gluten-free carrot cake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1242_1_1436798820.jpg",
+    imageAlt: "Gluten-free carrot cake",
   },
   {
-    "name": "Dairy-free banana loaf",
-    "subName": "The perfect afternoon treat",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Whether you call it bread or a loaf Jamie's dairy free banana bread recipe is an all around crowd pleaser; irresistibly moreish and super easy to make!",
-    "description": "“An unbelievably moreish banana loaf that’s super-easy to make. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Dairy-free banana loaf",
+    subName: "The perfect afternoon treat",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Whether you call it bread or a loaf Jamie's dairy free banana bread recipe is an all around crowd pleaser; irresistibly moreish and super easy to make!",
+    description:
+      "“An unbelievably moreish banana loaf that’s super-easy to make. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Desserts",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Desserts", "Snacks", "Baking"],
+    ingredients: [
       "175 g dairy-free margarine , (suitable for baking), plus extra for greasing",
       "175 g self-raising flour",
       "1 teaspoon baking powder",
@@ -3617,46 +3519,46 @@
       "175 g golden caster sugar",
       "200 g ground almonds",
       "2 large free-range eggs",
-      "3 ripe bananas"
+      "3 ripe bananas",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/325ºF/gas 5. Grease a 1.5 litre loaf tin with dairy-free margarine and line with greaseproof paper.",
       "Sieve the flour into a food processor, then add all the remaining ingredients (except the bananas). Blitz well until combined.",
       "Peel the bananas, roughly mash in a bowl, then add to the food processor. Pulse briefly to combine, then scrape the mixture into the prepared loaf tin.",
       "Place the tin and bake for 50 to 55 minutes, or until golden and an inserted skewer comes out clean.",
-      "Leave to cool slightly in the tin, then turn it out onto a wire rack to cool completely. Enjoy with a drizzle of honey and a few extra slice of banana, if you like."
+      "Leave to cool slightly in the tin, then turn it out onto a wire rack to cool completely. Enjoy with a drizzle of honey and a few extra slice of banana, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1240_15_1436778938.jpg",
-    "imageAlt": "Dairy-free banana loaf"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1240_15_1436778938.jpg",
+    imageAlt: "Dairy-free banana loaf",
   },
   {
-    "name": "Dairy-free apple muffins",
-    "subName": "Chopped hazelnuts & cinnamon",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a recipe for dairy free apple muffins from Jamie Oliver; whether you're after a breakfast treat or a snack, these dairy free muffins are a real crowd pleaser.",
-    "description": "“Whether it’s breakfast muffins you’re after, or an afternoon snack, this recipe is just the ticket. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Dairy-free apple muffins",
+    subName: "Chopped hazelnuts & cinnamon",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Find a recipe for dairy free apple muffins from Jamie Oliver; whether you're after a breakfast treat or a snack, these dairy free muffins are a real crowd pleaser.",
+    description:
+      "“Whether it’s breakfast muffins you’re after, or an afternoon snack, this recipe is just the ticket. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Mother's day",
       "Christmas",
       "Afternoon tea",
       "Muffin",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g dairy-free margarine , (suitable for baking)",
       "125 g golden caster sugar",
       "1 large free-range egg",
@@ -3666,47 +3568,48 @@
       "125 g ground almonds",
       "100 g hazelnuts",
       "1 eating apple",
-      "1 teaspoon vanilla extract"
+      "1 teaspoon vanilla extract",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a 12-hole muffin tray with paper cases.",
       "Beat the margarine and sugar in a large bowl until pale and fluffy. Beat the egg in another bowl, then stir it into the margarine mixture.",
       "Sieve in the flour, baking powder and cinnamon, then fold through (don’t mix too much at this stage). Stir in the ground almonds.",
       "Roughly chop the hazelnuts, then halve, core and chop the apple into rough 1cm chunks. Add the apple to the bowl along with half the hazelnuts and the vanilla extract, then stir briefly to combine.",
       "Divide the mixture between the paper cases and sprinkle over the remaining hazelnuts.",
       "Bake on the middle shelf for 20 minutes, or until golden and an inserted skewer comes out clean.",
-      "Leave to cool completely on a wire rack, then tuck in."
+      "Leave to cool completely on a wire rack, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1239_15_1421663688.jpg",
-    "imageAlt": "Dairy-free apple muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1239_15_1421663688.jpg",
+    imageAlt: "Dairy-free apple muffins",
   },
   {
-    "name": "Spiced doughnuts",
-    "subName": "Hot cross buns in doughnut form",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "You’ve got to try this recipe – our genius half-doughnut, half-hot-cross-bun hybrids make the perfect Easter treat. They taste amazing, and make a great centrepiece, too. ",
-    "description": "“A fun spin on a holiday favourite, these zesty, spiced doughnuts are a perfect spring treat ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Spiced doughnuts",
+    subName: "Hot cross buns in doughnut form",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "You’ve got to try this recipe – our genius half-doughnut, half-hot-cross-bun hybrids make the perfect Easter treat. They taste amazing, and make a great centrepiece, too. ",
+    description:
+      "“A fun spin on a holiday favourite, these zesty, spiced doughnuts are a perfect spring treat ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Easter treats",
       "Halloween recipes",
       "Christmas",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "140 ml milk",
       "1 tablespoon dried yeast",
       "475 g strong plain flour , plus extra for dusting",
@@ -3720,9 +3623,9 @@
       "melted chocolate , (white, milk or dark)",
       "freeze-dried berries",
       "caster sugar",
-      "250 g icing sugar"
+      "250 g icing sugar",
     ],
-    "instructions": [
+    instructions: [
       "Gently warm the milk without letting it boil, then pour it into a bowl. Dissolve the yeast in the milk with 2 tablespoons of warm water. Whisk together, then leave for 15 minutes, or until frothy.",
       "Sift the flour, mixed spice and 1 teaspoon of sea salt into a separate bowl. Tip 150g of it into another bowl, along with 1 tablespoon each of the sugar and the yeast liquid. Mix to a smooth paste and leave to rise for 15 minutes.",
       "When the batter has risen, slowly incorporate small pieces of the butter. Once it is all mixed in, beat the eggs and pour in, then grate in the zest of the orange and stir to combine. Add the rest of the flour and caster sugar and mix well.",
@@ -3730,38 +3633,39 @@
       "Transfer the dough to a floured surface and knock it back by kneading lightly. Divide into 4 and roll each piece into a long sausage. Cut each one in half, then each half into thirds, to give you 24 pieces.",
       "Roll each piece into a ball and pierce a hole in the middle with your thumb. Pop them on a tray lined with greaseproof paper and leave to rise in a warm place for 1 hour, or until doubled in size.",
       "Fill a deep saucepan two-thirds full with vegetable oil and place over a medium heat, until it reaches 160°C (if you don’t have a thermometer, drop in a piece of bread – when it sizzles and turns brown the oil is ready). Stretch the doughnuts back into a ring, then fry them, in batches, for 1 minute on each side, or until golden. Then leave to drain on kitchen paper.",
-      "To decorate your doughnuts, roll them in caster sugar or drizzle with melted chocolate and roughly chop freeze-dried berries to sprinkle over. Make a glaze by sieving the icing sugar and whisking in a little water, then brush this over your doughnuts."
+      "To decorate your doughnuts, roll them in caster sugar or drizzle with melted chocolate and roughly chop freeze-dried berries to sprinkle over. Make a glaze by sieving the icing sugar and whisking in a little water, then brush this over your doughnuts.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1235_1_1436889055.jpg",
-    "imageAlt": "Spiced doughnuts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1235_1_1436889055.jpg",
+    imageAlt: "Spiced doughnuts",
   },
   {
-    "name": "Mixed nut & honey baklava",
-    "subName": "Sweet filo pastry treats",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Baklava – this Greek classic combines nuts, crunchy filo, sweet honey and spices to make an absolutely delicious pastry treat. Nowhere near as hard as it looks!",
-    "description": "“This Greek classic is a heady combination of nuts, honey, citrus and spices, sandwiched between crispy filo layers ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Mixed nut & honey baklava",
+    subName: "Sweet filo pastry treats",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Baklava – this Greek classic combines nuts, crunchy filo, sweet honey and spices to make an absolutely delicious pastry treat. Nowhere near as hard as it looks!",
+    description:
+      "“This Greek classic is a heady combination of nuts, honey, citrus and spices, sandwiched between crispy filo layers ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Greek",
       "Desserts",
       "Snacks",
-      "Pies & pastries"
+      "Pies & pastries",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g walnuts",
       "100 g almonds",
       "100 g pistachios",
@@ -3772,46 +3676,47 @@
       "300 g sugar",
       "100 ml Greek honey",
       "1 cinnamon stick",
-      "2 strips of orange zest"
+      "2 strips of orange zest",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Place all the syrup ingredients in a medium saucepan with 300ml of water and bring to a gentle simmer. Let it bubble away, stirring occasionally, for 15 minutes or until the liquid has reduced by a third. Leave to cool. (The syrup must be cool when it is poured over the pastry otherwise the pastry will go soggy.)",
       "Blitz the nuts in a food processor until coarse, then tip into a bowl and stir through the cinnamon and cloves.",
       "Melt the butter, using a little of it to lightly grease a 40 x 25cm shallow tin with a pastry brush. Gently unfold the filo and cover with a damp tea towel to stop it cracking.",
       "Layer sheets of filo in the tin and brush each layer with melted butter. After 4 layers, scatter over half the nut mixture; repeat with 4 layers of filo, then the rest of the nuts. Top with the last 4 layers of filo, then generously butter the top. Cut into diamonds with a sharp knife – ensure the blade goes right to the bottom.",
       "Bake on the middle shelf of the oven on a hot baking sheet for 30–35 minutes, or until golden brown and crisp, reducing the temperature to 170ºC/325ºF/gas 3 if the baklava looks as though it is browning too quickly.",
-      "Remove the baklava from the oven and spoon half the cooled syrup over the top. Leave for 5 minutes, then spoon over the remaining syrup. Allow the baklava to cool before removing the individual pieces from the dish with a palette knife."
+      "Remove the baklava from the oven and spoon half the cooled syrup over the top. Leave for 5 minutes, then spoon over the remaining syrup. Allow the baklava to cool before removing the individual pieces from the dish with a palette knife.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1232_1_1436866679.jpg",
-    "imageAlt": "Mixed nut & honey baklava"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1232_1_1436866679.jpg",
+    imageAlt: "Mixed nut & honey baklava",
   },
   {
-    "name": "Jaffa cakes",
-    "subName": "A homemade version of a classic",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Make your own delicious version of the classic jaffa cakes using marmalade instead of orange jelly. Great for Easter, Mother's Day, Father's Day, or any day… So much easier than you'd think - give it a go!",
-    "description": "“Based on the famous cakes, these chocolaty spongy wonders are made with marmalade and a bit of patience ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Jaffa cakes",
+    subName: "A homemade version of a classic",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Make your own delicious version of the classic jaffa cakes using marmalade instead of orange jelly. Great for Easter, Mother's Day, Father's Day, or any day… So much easier than you'd think - give it a go!",
+    description:
+      "“Based on the famous cakes, these chocolaty spongy wonders are made with marmalade and a bit of patience ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Easter treats",
       "Father's day",
       "Bonfire night recipes",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 free-range egg",
       "50 g white caster sugar",
       "65 g self-raising flour",
@@ -3819,49 +3724,48 @@
       "250 g marmalade",
       "100 g quality dark chocolate (70%)",
       "2 tsp vegetable oil , (optional)",
-      "½ an orange"
+      "½ an orange",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Whisk the egg and sugar with an electric hand whisk until thick and creamy. Sift in the flour and stir in.",
       "Grease a 12-hole jam tart tin and put 1 tablespoon of mixture in each hole.",
       "Bake in the oven for about 10 minutes, until golden brown, then remove to a wire rack to cool.",
       "Once cool, cut the cakes in half horizontally, so you have 2 thin cakes.",
       "Gently heat the marmalade in a saucepan for a few minutes, until it has thickened but is still spreadable. Sift to remove any peel, if you want a smooth centre. Allow to cool, then spoon a dollop of marmalade onto the centre of each cake.",
-      "Chop the chocolate and melt with the oil (if using) and 1 tablespoon of water in a heatproof bowl over a pan of boiling water. Grate in the orange zest, stirring well. Cool until the chocolate starts to thicken, and spoon over the marmalade-topped cakes. Leave to set."
+      "Chop the chocolate and melt with the oil (if using) and 1 tablespoon of water in a heatproof bowl over a pan of boiling water. Grate in the orange zest, stirring well. Cool until the chocolate starts to thicken, and spoon over the marmalade-topped cakes. Leave to set.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1192_37_1438004540.jpg",
-    "imageAlt": "Jaffa cakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1192_37_1438004540.jpg",
+    imageAlt: "Jaffa cakes",
   },
   {
-    "name": "Jemma’s vegan vanilla fudge cupcakes",
-    "subName": "Butter free & egg free",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Cupcake Jemma's recipe for vegan sponge cupcakes, topped with vegan vanilla fudge icing is brilliant no-dairy bake",
-    "description": "“Some vegan cakes are even better than normal ones, and these naughty vanilla cupcakes certainly are! ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes plus cooling"
+    name: "Jemma’s vegan vanilla fudge cupcakes",
+    subName: "Butter free & egg free",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Cupcake Jemma's recipe for vegan sponge cupcakes, topped with vegan vanilla fudge icing is brilliant no-dairy bake",
+    description:
+      "“Some vegan cakes are even better than normal ones, and these naughty vanilla cupcakes certainly are! ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "45 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Afternoon tea",
       "Easter treats",
       "Mother's day",
       "Desserts",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g caster sugar",
       "150 ml sunflower oil",
       "1 teaspoon vanilla extract",
@@ -3873,42 +3777,43 @@
       "For the vegan vanilla icing",
       "200 g dairy-free soya spread , chilled",
       "660 g icing sugar",
-      "½ teaspoon vanilla extract"
+      "½ teaspoon vanilla extract",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170°C fan/375°F/gas 5. Place the sugar, oil and vanilla extract in a large bowl, then beat with an electric mixer (I prefer the free-standing type) for 1 to 2 minutes, until well combined. Mix the yoghurt and vinegar together in a bowl, then add to the mixture and beat for 1 to 2 minutes. Add the remaining cupcake ingredients and 1 teaspoon of fine sea salt, then whisk until smooth and just combined. Fill the paper cases two-thirds full with mixture, but don’t bother to smooth it out. Bake for 20 minutes, or until they spring back when touched. Leave to cool, transferring to a wire cooling rack after 5 minutes.",
-      "Meanwhile, make the icing. Beat the soya spread with an electric mixer for 1 to 2 minutes, or until smooth. Sift the icing sugar into a large bowl, then add to the soya spread in two stages, beating well between each. Add the vanilla extract and a small splash of water, then whisk for a further few minutes, or until silky smooth – if it’s too stiff, add a splash more water to loosen. Once the cupcakes are cool, decorate them with the icing and add a few sprinkles too if you like – whatever takes your fancy – then enjoy."
+      "Meanwhile, make the icing. Beat the soya spread with an electric mixer for 1 to 2 minutes, or until smooth. Sift the icing sugar into a large bowl, then add to the soya spread in two stages, beating well between each. Add the vanilla extract and a small splash of water, then whisk for a further few minutes, or until silky smooth – if it’s too stiff, add a splash more water to loosen. Once the cupcakes are cool, decorate them with the icing and add a few sprinkles too if you like – whatever takes your fancy – then enjoy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1155_1_1436804247.jpg",
-    "imageAlt": "Jemma’s vegan vanilla fudge cupcakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1155_1_1436804247.jpg",
+    imageAlt: "Jemma’s vegan vanilla fudge cupcakes",
   },
   {
-    "name": "Jemma's PB & J Cupcakes",
-    "subName": "For you peanut butter & jam lovers",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Cupcake Jemma's wickedly simple peanut butter and jam cupcakes look incredible and will amaze your friends",
-    "description": "“These wickedly simple peanut butter and jam cupcakes look incredible and will amaze your friends ”",
-    "servings": "Serves Makes 24",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus cooling"
+    name: "Jemma's PB & J Cupcakes",
+    subName: "For you peanut butter & jam lovers",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Cupcake Jemma's wickedly simple peanut butter and jam cupcakes look incredible and will amaze your friends",
+    description:
+      "“These wickedly simple peanut butter and jam cupcakes look incredible and will amaze your friends ”",
+    servings: "Serves Makes 24",
+    time: {
+      prep: "",
+      cook: "50 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Easter treats",
       "Mother's day",
       "American",
       "Fruit",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "For the cupcakes",
       "250 g self-raising flour",
       "250 g caster sugar",
@@ -3925,42 +3830,45 @@
       "300 g unsalted butter , softened",
       "120 g peanut butter",
       "540 g icing sugar",
-      "4 tablespoons whole milk"
+      "4 tablespoons whole milk",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170°C fan/375°F/gas 5. Sift the dry cupcake ingredients and 1 pinch of fine sea salt into a large bowl, add the butter, eggs and peanut butter, then beat for 60 seconds with an electric mixer (I prefer the free-standing type). Pour in the milk and whisk for 20 seconds, or until well combined. Scrape down the sides of the bowl with a spatula, then give the mix a final blast for 30 seconds to make sure it’s all incorporated. Fill the paper cases two-thirds full with mixture, but don’t bother to smooth it out. Bake for 20 minutes, or until they spring back when touched. Leave to cool slightly, transferring to a wire cooling rack after 5 minutes.",
       "Meanwhile, make the peanut crumb. Place the peanut butter in a food processor, sift in the icing sugar and whiz for 1 to 2 minutes to make small,delicious crumbs, then set aside.",
       "For the icing, beat the butter and peanut butter with an electric mixer for 5 to 6 minutes, or until pale and fluffy. Sift the icing sugar into a large bowl, then add to the butter in two stages, beating well between each. Pour in the milk and beat for a further 3 to 5 minutes, or until well combined. Once the cupcakes are cool, poke a hole into the middle of each with a chopstick, twist to widen the hole, then use a piping bag to fill each one with a good squeeze of jam. Decorate with the icing, top with a blob of jam, if you like, and a sprinkling of peanut crumb to finish, then enjoy.",
-      "Tip Turning classic treats into cupcakes is one of my favourite things to do and this is the star of the show. Feel free to use smooth or crunchy peanut butter – whichever you prefer."
+      "Tip Turning classic treats into cupcakes is one of my favourite things to do and this is the star of the show. Feel free to use smooth or crunchy peanut butter – whichever you prefer.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1151_1_1436804203.jpg",
-    "imageAlt": "Jemma's PB & J Cupcakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1151_1_1436804203.jpg",
+    imageAlt: "Jemma's PB & J Cupcakes",
   },
   {
-    "name": "Spicy pasties",
-    "subName": "A brilliant twist on traditional Cornish pasties",
-    "specialDiets": [],
-    "metaDescription": "Two British favourites meet in this curried twist on a pasty - it's immense! The spice-packed filling of mutton, chickpeas and cauliflower is a real winner. Enjoy!",
-    "description": "“Bringing together two of Britain’s favourite dishes – pasties and curry! Cornish pasties are a proper classic. Add in some wicked spices and less traditional veg for the filling and you've got a real treat. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Spicy pasties",
+    subName: "A brilliant twist on traditional Cornish pasties",
+    specialDiets: [],
+    metaDescription:
+      "Two British favourites meet in this curried twist on a pasty - it's immense! The spice-packed filling of mutton, chickpeas and cauliflower is a real winner. Enjoy!",
+    description:
+      "“Bringing together two of Britain’s favourite dishes – pasties and curry! Cornish pasties are a proper classic. Add in some wicked spices and less traditional veg for the filling and you've got a real treat. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Alfresco",
       "Bonfire night recipes",
       "Indian",
       "Chicken",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "1 clove of garlic",
       "1 thumb-sized piece of ginger",
       "1 fresh red chilli",
@@ -3982,9 +3890,9 @@
       "1 soft round lettuce",
       "1 small bunch of fresh mint",
       "plain yoghurt",
-      "½ lemon"
+      "½ lemon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Peel and finely chop the garlic and ginger, then finely chop the chilli.",
       "Drizzle the oil into a small frying pan, then add the garlic, chilli and ginger, and fry for about 1 minute, until softening, but not coloured.",
@@ -3996,38 +3904,39 @@
       "Place an even amount of filling on one side of each pastry sheet and brush the edges of the pastry with a little beaten egg. Pull the other half of the pastry over, feel where the filling is and use your thumb to press down and seal around the edges. Brush the pasties all over with the beaten egg, place on an oiled baking tray and cook in the hot oven for 30 to 35 minutes, or until golden.",
       "Meanwhile, prepare the salad. Scrub the carrots and quarter lengthways. Discard the outer leaves of the lettuce, then cut it into slices.",
       "Toss the carrot and lettuce in a bowl. Chop the mint and stir into the yoghurt in another bowl with a pinch of sea salt and black pepper. Squeeze over a little lemon juice.",
-      "Serve the pasties hot, with the salad and dressing on the side."
+      "Serve the pasties hot, with the salad and dressing on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1139_1_1436889219.jpg",
-    "imageAlt": "Spicy pasties"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1139_1_1436889219.jpg",
+    imageAlt: "Spicy pasties",
   },
   {
-    "name": "Ultimate quesadillas",
-    "subName": "Cheese, chilli & zesty sides",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Gooey cheese and chilli quesadillas are so moreish and easy to make. They're great party snacks, too. Try the fruity pineapple salsa and colourful guacamole for delicious dips. ",
-    "description": "“Gooey melted cheese and sweet chillies… what's not to love? ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Ultimate quesadillas",
+    subName: "Cheese, chilli & zesty sides",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Gooey cheese and chilli quesadillas are so moreish and easy to make. They're great party snacks, too. Try the fruity pineapple salsa and colourful guacamole for delicious dips. ",
+    description:
+      "“Gooey melted cheese and sweet chillies… what's not to love? ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Aussie Christmas",
       "Dinner Party",
       "Mexican",
-      "Bread"
+      "Bread",
     ],
-    "ingredients": [
+    ingredients: [
       "1 yellow pepper",
       "1 red pepper",
       "1 red chilli",
@@ -4049,9 +3958,9 @@
       "2 limes",
       "Dip",
       "250 g cottage cheese",
-      "½ lime"
+      "½ lime",
     ],
-    "instructions": [
+    instructions: [
       "For the salsa, deseed and finely chop the chilli. Chop the pineapple rings and reserve the juice.",
       "Add a little oil, the mustard seeds and chilli to a small pan over a medium-high heat. When it’s fragrant, add the pineapple and juice, and a big pinch of black pepper. Cook for 5 minutes, till thick and sticky. Squeeze in the lime juice, then put in a serving bowl.",
       "For the guacamole, halve and stone the avocados and finely grate the onion. Deseed and chop the chilli, then roughly chop the tomatoes.",
@@ -4059,36 +3968,39 @@
       "For another delicious dip, put the cottage cheese in a bowl, squeeze in the juice of the lime half, and stir through with a pinch of salt and pepper.",
       "For the filling, deseed and finely chop the peppers and chilli. Pick the coriander leaves and grate the Cheddar.",
       "To assemble, mix the peppers, chilli and coriander with the Cheddar. Scatter across two tortillas, then top with the remaining tortillas.",
-      "Cook in a non-stick pan for 2 to 3 minutes each side, or till the tortillas are golden and the cheese melts. Cut into quarters and serve with those delicious sides."
+      "Cook in a non-stick pan for 2 to 3 minutes each side, or till the tortillas are golden and the cheese melts. Cut into quarters and serve with those delicious sides.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1137_1_1436958546.jpg",
-    "imageAlt": "Ultimate quesadillas"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1137_1_1436958546.jpg",
+    imageAlt: "Ultimate quesadillas",
   },
   {
-    "name": "Causa croquettes",
-    "subName": "Stuffed with spicy seafood",
-    "specialDiets": [],
-    "metaDescription": "These deep-fried Peruvian croquettes are great for parties. Stuffed with spicy seafood and with an avocado dressing, these little beauties won't be around for long!",
-    "description": "“These deep-fried Peruvian croquettes are perfect for parties ”",
-    "servings": "15",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Causa croquettes",
+    subName: "Stuffed with spicy seafood",
+    specialDiets: [],
+    metaDescription:
+      "These deep-fried Peruvian croquettes are great for parties. Stuffed with spicy seafood and with an avocado dressing, these little beauties won't be around for long!",
+    description:
+      "“These deep-fried Peruvian croquettes are perfect for parties ”",
+    servings: "15",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Peruvian",
       "Seafood",
       "Potato",
-      "Prawns"
+      "Prawns",
     ],
-    "ingredients": [
+    ingredients: [
       "750 g potatoes",
       "1 large knob of unsalted butter",
       "1 red onion",
@@ -4106,9 +4018,9 @@
       "1 red onion",
       "1 ripe tomato",
       "1 bunch of fresh coriander , (30g)",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Peel and cut the potatoes into even-sized chunks, then place in a large pan of cold salted water. Bring to the boil, then cook over a medium heat for 15 to 20 minutes, or until the potatoes are tender.",
       "Drain and steam dry, then mash the potatoes until really smooth (use a potato ricer if you have one). Season well and mash in the butter.",
       "For the guacamole-style dressing, halve and destone the avocados, then scrape the flesh into a medium bowl. Season with sea salt and black pepper and squeeze over the lime juice.",
@@ -4121,36 +4033,39 @@
       "Roll each croquette in the flour, dip it into the egg (letting the excess drip off), then coat in breadcrumbs.",
       "Pour the vegetable oil into a large pan and gently heat to 180°C (a cube of bread dropped into the oil will turn brown within 1 minute).",
       "Gently lower the croquettes into the oil with a slotted spoon and fry for around 4 minutes, or until golden and crisp – you’ll need to do this in batches.",
-      "Drain the cooked croquettes on kitchen paper, then serve hot on a plate smeared with the guacamole."
+      "Drain the cooked croquettes on kitchen paper, then serve hot on a plate smeared with the guacamole.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1134_1_1436968512.jpg",
-    "imageAlt": "Causa croquettes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1134_1_1436968512.jpg",
+    imageAlt: "Causa croquettes",
   },
   {
-    "name": "Chilli sausage rolls",
-    "subName": "A spicy twist on a classic",
-    "specialDiets": [],
-    "metaDescription": "Add a little heat to a party classic with chilli sausage rolls – these will definitely be snapped up at Christmas, or on Father's Day, or on a picnic… You might want to make a double batch!",
-    "description": "“You can’t beat a warm, flaky sausage roll, and with the mild chilli heat this is a heavenly warming treat. ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Chilli sausage rolls",
+    subName: "A spicy twist on a classic",
+    specialDiets: [],
+    metaDescription:
+      "Add a little heat to a party classic with chilli sausage rolls – these will definitely be snapped up at Christmas, or on Father's Day, or on a picnic… You might want to make a double batch!",
+    description:
+      "“You can’t beat a warm, flaky sausage roll, and with the mild chilli heat this is a heavenly warming treat. ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Christmas",
       "Father's day",
       "St. George's Day",
-      "Bonfire night recipes"
+      "Bonfire night recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "3-4 red chillies , (depending on heat – we added 6 but we're chilli fiends!)",
       "500 g higher-welfare pork sausage meat",
       "½ tsp smoked paprika",
@@ -4158,50 +4073,48 @@
       "500 g puff pastry",
       "2 free-range egg yolks",
       "1 splash of milk",
-      "1 tbsp whole cumin seeds"
+      "1 tbsp whole cumin seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Pierce the chillies, then toast over a gas flame or under a hot grill until black and blistered. Place in a bowl, cover with clingfilm and leave to cool. When cool enough to handle, pull off and discard the skins, then scoop out the seeds – or leave in if you want fireworks!",
       "Chop the chilli flesh and mix with the sausage, paprika and a pinch of black pepper.",
       "Sprinkle a work surface with flour. Cut the block of pastry in half and roll out into 2 strips, 50cm x 15cm each. Shape the sausage meat into 2 sausage shapes and place along the middle of each strip.",
       "Beat the egg yolks with a splash of milk, then coat the pastry either side of the sausage with the egg mixture. Fold the pastry over and press down to seal.",
       "Brush the tops of the sausage rolls with the egg wash, sprinkle with cumin seeds and sea salt. Cut into 5cm lengths and place on a non-stick baking sheet.",
-      "Bake for 20 minutes, until risen, puffed and golden brown."
+      "Bake for 20 minutes, until risen, puffed and golden brown.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1131_1_1436970270.jpg",
-    "imageAlt": "Chilli sausage rolls"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1131_1_1436970270.jpg",
+    imageAlt: "Chilli sausage rolls",
   },
   {
-    "name": "Vegan Victoria sponge",
-    "subName": "Vegan, gluten-free, dairy-free & delicious",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a brilliant vegan Victoria sponge recipe which is also gluten and dairy free; dusted with icing sugar this vegan Victoria sponge can be enjoyed by all!",
-    "description": "“If you want a Victoria sponge recipe that tastes incredible, but is vegan, gluten-free and dairy-free too, then this is the one for you! ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus cooling"
+    name: "Vegan Victoria sponge",
+    subName: "Vegan, gluten-free, dairy-free & delicious",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Find a brilliant vegan Victoria sponge recipe which is also gluten and dairy free; dusted with icing sugar this vegan Victoria sponge can be enjoyed by all!",
+    description:
+      "“If you want a Victoria sponge recipe that tastes incredible, but is vegan, gluten-free and dairy-free too, then this is the one for you! ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "50 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Afternoon tea",
       "Dinner Party",
       "Easter treats",
       "Mother's day",
-      "St. George's Day"
+      "St. George's Day",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g dairy-free margarine (suitable for baking) , plus extra for greasing",
       "300 g gluten-free plain flour , plus extra for dusting",
       "300 g golden caster sugar",
@@ -4215,9 +4128,9 @@
       "200 g icing sugar , plus extra for dusting",
       "100 g dairy-free margarine",
       "100 g fresh raspberries",
-      "4 tablespoons raspberry jam"
+      "4 tablespoons raspberry jam",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/375ºF/gas 5. Grease two springform cake tins (roughly 20cm) with the margarine, then line the bottom with greaseproof paper and dust the sides with gluten-free flour.",
       "In a bowl, beat the margarine and sugar for around 5 minutes, or until light and fluffy.",
       "Halve the vanilla pods lengthways then, using the tip of a sharp knife, scrape out the seeds. Add the seeds to the margarine mixture, along with the yoghurt and lemon zest, then mix until combined.",
@@ -4226,85 +4139,83 @@
       "Leave to cool for 5 minutes, before turning the cakes out onto a wire cooling rack, then leave to cool completely while you make the icing.",
       "Sieve the icing sugar into a large bowl, then add the margarine and beat until smooth. If it’s a little thick, add a splash of milk to loosen.",
       "Once cooled, place one of the sponges on a plate or cake stand. Carefully spread the butter icing on top and scatter over most of the raspberries.",
-      "Spread the jam onto the second sponge and place, jam side down, on top of the iced sponge, pressing down slightly. Dust the top with a little icing sugar and decorate with a few raspberries, if you like, then serve."
+      "Spread the jam onto the second sponge and place, jam side down, on top of the iced sponge, pressing down slightly. Dust the top with a little icing sugar and decorate with a few raspberries, if you like, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1119_2_1421156128.jpg",
-    "imageAlt": "Vegan Victoria sponge"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1119_2_1421156128.jpg",
+    imageAlt: "Vegan Victoria sponge",
   },
   {
-    "name": "Gluten-free peanut butter & chocolate chip cookies",
-    "subName": "Dairy-free, too",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find dairy free and gluten free peanut butter and chocolate chip cookies from Jamie Oliver; an indulgent treat for when you need a little pick me up!",
-    "description": "“These lovely, rustic gluten free chocolate chip cookies are perfect for dunking in tea or a cold glass of milk ”",
-    "servings": "Serves Makes 25",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling"
+    name: "Gluten-free peanut butter & chocolate chip cookies",
+    subName: "Dairy-free, too",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Find dairy free and gluten free peanut butter and chocolate chip cookies from Jamie Oliver; an indulgent treat for when you need a little pick me up!",
+    description:
+      "“These lovely, rustic gluten free chocolate chip cookies are perfect for dunking in tea or a cold glass of milk ”",
+    servings: "Serves Makes 25",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "Easter treats",
       "Halloween recipes",
       "American",
       "Gift",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g dairy-free margarine , (suitable for baking), plus extra for greasing",
       "100 g crunchy peanut butter",
       "200 g golden caster sugar",
       "200 g gluten-free plain flour",
       "200 g ground almonds",
       "2 large free-range eggs",
-      "125 g dairy-free milk chocolate"
+      "125 g dairy-free milk chocolate",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Grease two large baking trays with a little margarine and line with greaseproof paper.",
       "In a bowl, beat the margarine, peanut butter and sugar for around 5 minutes, or until light and fluffy. Beat the eggs in a separate bowl, then fold into the mixture with the flour and ground almonds. Roughly chop and fold through the chocolate.",
-      "Place heaped teaspoons of the mixture onto the prepared trays, leaving a rough 4cm gap between each. Lightly pat the mixture to flatten slightly, then pop in the hot oven for 12 to 15 minutes, or until golden. Leave to cool for 5 minutes, before transferring to a wire rack to cool completely. Serve with a glass of cold milk or a nice cup of tea."
+      "Place heaped teaspoons of the mixture onto the prepared trays, leaving a rough 4cm gap between each. Lightly pat the mixture to flatten slightly, then pop in the hot oven for 12 to 15 minutes, or until golden. Leave to cool for 5 minutes, before transferring to a wire rack to cool completely. Serve with a glass of cold milk or a nice cup of tea.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1117_2_1437996909.jpg",
-    "imageAlt": "Gluten-free peanut butter & chocolate chip cookies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1117_2_1437996909.jpg",
+    imageAlt: "Gluten-free peanut butter & chocolate chip cookies",
   },
   {
-    "name": "Gluten-free lemon cake",
-    "subName": "With lemon & orange drizzle",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian",
-      "Dairy-free"
-    ],
-    "metaDescription": "This gluten free lemon drizzle cake is a real crowd pleaser; not only is it gluten free but it's also a dairy free lemon cake with a citrus icing on top. ",
-    "description": "“This is the ultimate gluten- and dairy-free lemon sponge cake. With citrus icing drizzled on top, you’re guaranteed to love it. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes plus cooling"
+    name: "Gluten-free lemon cake",
+    subName: "With lemon & orange drizzle",
+    specialDiets: ["Gluten-free", "Vegetarian", "Dairy-free"],
+    metaDescription:
+      "This gluten free lemon drizzle cake is a real crowd pleaser; not only is it gluten free but it's also a dairy free lemon cake with a citrus icing on top. ",
+    description:
+      "“This is the ultimate gluten- and dairy-free lemon sponge cake. With citrus icing drizzled on top, you’re guaranteed to love it. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Afternoon tea",
       "Dinner Party",
       "Easter treats",
       "Mother's day",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g dairy-free margarine (suitable for baking, at room temperature)",
       "300 g gluten-free plain flour , plus extra for dusting",
       "300 g golden caster sugar",
@@ -4313,48 +4224,48 @@
       "2 oranges",
       "2 teaspoons gluten-free baking powder",
       "½ teaspoon xanthan gum",
-      "100 g icing sugar"
+      "100 g icing sugar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Grease a 20cm square cake tin with the margarine, then line the bottom with greaseproof paper and dust the sides with gluten-free flour.",
       "In a bowl, beat the margarine and sugar for around 5 minutes, or until light and fluffy.",
       "Crack in the eggs, finely grate and add the zest from 2 lemons and 1 orange, then mix to combine.",
       "Sieve the flour, baking powder and xanthan gum into the bowl, then fold through. Stir in the juice from 1 lemon and ½ an orange until you have a nice, smooth mixture.",
       "Pour the mixture into the cake tin, smooth out to the edges, then place on the middle shelf of the hot oven for 35 minutes, or until golden and an inserted skewer comes out clean.",
       "Leave to cool for 5 minutes, before turning the cake out onto a wire cooling rack, then leave to cool completely while you make the icing.",
-      "Combine the icing sugar with the zest and juice from ½ a lemon and ¼ of an orange. Once the cake has cooled, drizzle the icing on top, grate over a little lemon and orange zest, then serve."
+      "Combine the icing sugar with the zest and juice from ½ a lemon and ¼ of an orange. Once the cake has cooled, drizzle the icing on top, grate over a little lemon and orange zest, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1115_1_1439300324.jpg",
-    "imageAlt": "Gluten-free lemon cake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1115_1_1439300324.jpg",
+    imageAlt: "Gluten-free lemon cake",
   },
   {
-    "name": "Gluten-free chocolate cake",
-    "subName": "Decadent and delicious",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Try this delicious homemade gluten-free chocolate cake recipe from Jamie Oliver, topped with buttercream icing and fresh raspberries. Perfect for a party!",
-    "description": "“Whether you’re gluten intolerant or not, this delicious gluten-free chocolate cake with scrumptious buttercream icing and a hit of fresh raspberries is a real winner! ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus cooling"
+    name: "Gluten-free chocolate cake",
+    subName: "Decadent and delicious",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Try this delicious homemade gluten-free chocolate cake recipe from Jamie Oliver, topped with buttercream icing and fresh raspberries. Perfect for a party!",
+    description:
+      "“Whether you’re gluten intolerant or not, this delicious gluten-free chocolate cake with scrumptious buttercream icing and a hit of fresh raspberries is a real winner! ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "50 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Dinner Party",
       "Easter treats",
       "Christmas",
       "Gift",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g unsalted butter , plus extra for greasing",
       "300 g gluten-free plain flour , plus extra for dusting",
       "300 g golden caster sugar",
@@ -4370,49 +4281,47 @@
       "100 g unsalted butter",
       "100 g cream cheese",
       "70 g fresh raspberries",
-      "quality dark chocolate (75% cocoa solids) , to serve"
+      "quality dark chocolate (75% cocoa solids) , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Before you start, remove the butter from the fridge and allow to come up to room temperature.",
       "Preheat the oven to 190ºC/375ºF/gas 5. Grease two springform cake tins (roughly 20cm) with butter, then line the bottom with greaseproof paper and dust the sides with gluten-free flour.",
       "In a bowl, beat the butter and sugar for around 5 minutes, or until light and fluffy. Crack in the eggs, then mix in the vanilla extract until combined. Sieve the flour, baking powder, xanthan gum and cocoa powder into the bowl, then fold through. Add the milk and stir briefly until you have a nice, smooth batter.",
       "Carefully divide the mixture between the cake tins, then place on the middle shelf of the hot oven for 15 to 20 minutes, or until an inserted skewer comes out clean. Leave to cool for 5 minutes, before turning the cakes out onto a wire cooling rack, then leave to cool completely while you make the icing.",
       "Sieve the icing sugar and cocoa powder into a large bowl, then add the butter and beat until smooth. Stir in the cream cheese until combined. If it’s a little thick, add a splash of milk to loosen.",
-      "Once cooled, place one of the sponges on a plate or cake stand. Carefully spread over half the butter icing. In a bowl, crush the raspberries with a fork, then scatter on top. Sandwich the second sponge on top and press down slightly, then carefully spread over the remaining icing and finish with a few shavings of chocolate."
+      "Once cooled, place one of the sponges on a plate or cake stand. Carefully spread over half the butter icing. In a bowl, crush the raspberries with a fork, then scatter on top. Sandwich the second sponge on top and press down slightly, then carefully spread over the remaining icing and finish with a few shavings of chocolate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1114_1_1439300278.jpg",
-    "imageAlt": "Gluten-free chocolate cake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1114_1_1439300278.jpg",
+    imageAlt: "Gluten-free chocolate cake",
   },
   {
-    "name": "Epic vegan chocolate cake",
-    "subName": "Vegan, gluten-free & dairy-free, too!",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A dairy-free, gluten-free, vegan chocolate cake recipe from Jamie Oliver. This makes a brilliant birthday cake to anybody with dietary needs – a great free-from cake.",
-    "description": "“Chocolate cake is a hit with everyone, so whether you’re vegan, or gluten or dairy intolerant – or you just love a good cake – this one’s for you ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Epic vegan chocolate cake",
+    subName: "Vegan, gluten-free & dairy-free, too!",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A dairy-free, gluten-free, vegan chocolate cake recipe from Jamie Oliver. This makes a brilliant birthday cake to anybody with dietary needs – a great free-from cake.",
+    description:
+      "“Chocolate cake is a hit with everyone, so whether you’re vegan, or gluten or dairy intolerant – or you just love a good cake – this one’s for you ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Christmas",
       "Dinner Party",
       "Easter treats",
       "Mother's day",
       "Fruit",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g dairy-free margarine (suitable for baking) , plus extra for greasing",
       "300 g gluten-free plain flour , plus extra for dusting",
       "300 g golden caster sugar",
@@ -4428,9 +4337,9 @@
       "200 g icing sugar",
       "4 tablespoons cocoa powder",
       "100 g dairy-free margarine",
-      "2 tablespoons organic soya yoghurt"
+      "2 tablespoons organic soya yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/375ºF/gas 5. Grease two springform cake tins (roughly 20cm) with margarine, then line the bottom with greaseproof paper and dust the sides with gluten-free flour.",
       "In a bowl, beat the margarine and sugar for around 5 minutes, or until light and fluffy. Add the vanilla extract and yoghurt, then mix until combined.",
       "Sieve the flour, baking powder, xanthan gum and cocoa powder into the bowl, then fold through. Add the milk and stir briefly until you have a nice, smooth batter.",
@@ -4438,39 +4347,39 @@
       "Leave to cool for 5 minutes, before turning the cakes out onto a wire cooling rack, then leave to cool completely while you make the icing.",
       "Sieve the icing sugar and cocoa powder into a large bowl, then add the margarine and beat until smooth. Stir in the soya yoghurt to combine.",
       "Once cooled, place one of the sponges on a plate or cake stand. Carefully spread half the butter icing on top, then scatter over most of the raspberries.",
-      "Sandwich the second sponge on top and press down lightly, then carefully spread the remaining icing over the top and finish with a scattering of berries and a few shavings of chocolate."
+      "Sandwich the second sponge on top and press down lightly, then carefully spread the remaining icing over the top and finish with a scattering of berries and a few shavings of chocolate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1111_1_1436789368.jpg",
-    "imageAlt": "Epic vegan chocolate cake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1111_1_1436789368.jpg",
+    imageAlt: "Epic vegan chocolate cake",
   },
   {
-    "name": "Gluten-free chocolate & blueberry muffins",
-    "subName": "The perfect gluten-free treat",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a delicious recipe for chocolate and blueberry gluten free muffins from Jamie Oliver;  an indulgent treat that everyone can enjoy.",
-    "description": "“Delicious gluten-free blueberry muffins with little hits of white chocolate for an extra touch of indulgence ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus cooling"
+    name: "Gluten-free chocolate & blueberry muffins",
+    subName: "The perfect gluten-free treat",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Find a delicious recipe for chocolate and blueberry gluten free muffins from Jamie Oliver;  an indulgent treat that everyone can enjoy.",
+    description:
+      "“Delicious gluten-free blueberry muffins with little hits of white chocolate for an extra touch of indulgence ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "40 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Easter treats",
       "Mother's day",
       "Fruit",
       "Muffin",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g gluten-free plain flour",
       "1 teaspoon xanthan gum",
       "175 g ground almonds",
@@ -4479,44 +4388,38 @@
       "6 large free-range eggs",
       "50 g white chocolate",
       "200 g blueberries",
-      "200 g unsalted butter"
+      "200 g unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a 12-hole muffin tray with paper cases.",
       "Melt the butter in a small pan over a medium heat, then leave to cool slightly. Meanwhile, sieve the flour and xanthan gum into a bowl, then stir in the ground almonds and sugar. Add the melted butter and vanilla extract, then fold through.",
       "In another bowl, separate the egg whites (keep the yolks for another day). Whisk the whites well for 1 to 2 minutes, or until they start to froth. Then, using a metal spoon, stir the egg whites into the flour mixture a little at a time – you want to keep it as light and airy as possible so make sure you don’t stir too much. Roughly chop and add the white chocolate, along with half the blueberries, then stir briefly to combine.",
-      "Divide the mixture between the paper cases, then sprinkle over the remaining blueberries. Place on the middle shelf of the hot oven for 15 to 20 minutes, or until golden and an inserted skewer comes out clean. Leave to cool on a wire cooling rack, then serve."
+      "Divide the mixture between the paper cases, then sprinkle over the remaining blueberries. Place on the middle shelf of the hot oven for 15 to 20 minutes, or until golden and an inserted skewer comes out clean. Leave to cool on a wire cooling rack, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1110_1_1439300233.jpg",
-    "imageAlt": "Gluten-free chocolate & blueberry muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1110_1_1439300233.jpg",
+    imageAlt: "Gluten-free chocolate & blueberry muffins",
   },
   {
-    "name": "Banana bread",
-    "subName": "A gorgeous afternoon tea treat ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Who doesn’t love banana bread?! This easy banana bread recipe from Jamie Oliver is perfect for a bit of weekend baking, plus, it’s a great way to use up overripe bananas.",
-    "description": "“This is a super-tasty treat and a great way to use up overripe bananas – eat this with a nice, hot cup of tea and you’ll be in heaven. Banana bread is a great recipe to make with kids, and they’ll enjoy tucking into it, too! ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes plus cooling"
+    name: "Banana bread",
+    subName: "A gorgeous afternoon tea treat ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Who doesn’t love banana bread?! This easy banana bread recipe from Jamie Oliver is perfect for a bit of weekend baking, plus, it’s a great way to use up overripe bananas.",
+    description:
+      "“This is a super-tasty treat and a great way to use up overripe bananas – eat this with a nice, hot cup of tea and you’ll be in heaven. Banana bread is a great recipe to make with kids, and they’ll enjoy tucking into it, too! ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Easter treats",
-      "Bread",
-      "Desserts",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Easter treats", "Bread", "Desserts", "Snacks", "Baking"],
+    ingredients: [
       "125 g unsalted butter , plus extra for greasing (at room temperature)",
       "2 large free-range eggs",
       "4 ripe bananas",
@@ -4524,9 +4427,9 @@
       "2 tablespoons unsweetened apple juice",
       "250 g self-raising flour , plus extra for dusting",
       "1 big pinch of ground cinnamon",
-      "50 g pecans , optional"
+      "50 g pecans , optional",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Lightly grease the bottom and sides of a 1-litre loaf tin with a little butter – I use a folded-up piece of kitchen paper to do this.",
       "In a large bowl, use a wooden spoon to beat the soft butter until creamy.",
@@ -4536,38 +4439,38 @@
       "If using, chop the pecans on a chopping board using the cross-chop method (or you could bash them with a rolling pin), then fold them through the mixture.",
       "Spoon all the mixture into the loaf tin, then peel and slice the remaining banana and poke into the top. Bake for 40 to 50 minutes, or until golden and cooked through. To check if it’s done, stick a cocktail stick or skewer into the middle of the loaf, remove it after 5 seconds and if it comes out clean the loaf’s cooked; if it’s slightly sticky it needs a bit longer.",
       "Allow the loaf to cool slightly, then carefully turn out on to a wire rack to cool completely.",
-      "Transfer to a nice plate, cut into slices, then serve. It’s delicious spread with butter, honey, your favourite jam or even chocolate spread. Have fun!"
+      "Transfer to a nice plate, cut into slices, then serve. It’s delicious spread with butter, honey, your favourite jam or even chocolate spread. Have fun!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/107316501.jpg",
-    "imageAlt": "Banana bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/107316501.jpg",
+    imageAlt: "Banana bread",
   },
   {
-    "name": "Rainbow salad wrap",
-    "subName": "A kid-friendly favourite",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Grate carrot, beetroot and pear, add fresh herbs and feta, and wrap up in a tortilla",
-    "description": "“This is colourful, seriously tasty and fun to make. Feel free to use other firm fruit and vegetables that are in season where you live. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Rainbow salad wrap",
+    subName: "A kid-friendly favourite",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Grate carrot, beetroot and pear, add fresh herbs and feta, and wrap up in a tortilla",
+    description:
+      "“This is colourful, seriously tasty and fun to make. Feel free to use other firm fruit and vegetables that are in season where you live. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Bread",
       "Fruit",
       "Feta",
       "Healthy meals",
-      "Light meals"
+      "Light meals",
     ],
-    "ingredients": [
+    ingredients: [
       "2 small raw beetroots , different colours if possible (roughly 150g)",
       "2 carrots",
       "150 g white cabbage",
@@ -4580,9 +4483,9 @@
       "5 tablespoons natural yogurt",
       "½ teaspoon English mustard",
       "3 teaspoons cider vinegar",
-      "2 tablespoons extra virgin olive oil"
+      "2 tablespoons extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Wash the beetroots and carrots under cold running water, scrubbing with a scrubber to get rid of any dirt (there’s no need to peel them).",
       "Pick off and discard the wispy ends from the beetroots.",
       "Hold a box grater steady on a chopping board, then gripping the root end, coarsely grate the carrots, stopping before your fingers or knuckles get too close to the grater. Place the grated carrots into a large bowl.",
@@ -4595,36 +4498,32 @@
       "Have a taste and see whether you think it needs a bit more yoghurt, vinegar or oil – you want it to be slightly too acidic, so that it’s still nice and zingy once you’ve dressed your rainbow salad.",
       "Drizzle most of the dressing over the salad – just remember you can always add more but you can’t take it away, so be cautious.",
       "Divide the salad between the tortilla wraps, then crumble a little feta over each.",
-      "Roll up the wraps, tucking them in at the sides as you go, then serve."
+      "Roll up the wraps, tucking them in at the sides as you go, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1102_1_1436881017.jpg",
-    "imageAlt": "Rainbow salad wrap"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1102_1_1436881017.jpg",
+    imageAlt: "Rainbow salad wrap",
   },
   {
-    "name": "Hot cross buns",
-    "subName": "Glazed with honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "You can’t have Easter without hot cross buns! This is Jamie magazine’s best hot cross bun recipe – cinnamon, mixed spice, stem ginger, sultanas, raisins, dried cranberries and mixed peel. Yum!",
-    "description": "“When it comes to Easter, you can’t beat indulging in a lovely, sticky hot cross bun. Give this recipe a go – I promise you’ll never buy the shop bought versions again. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 30 minutes"
+    name: "Hot cross buns",
+    subName: "Glazed with honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "You can’t have Easter without hot cross buns! This is Jamie magazine’s best hot cross bun recipe – cinnamon, mixed spice, stem ginger, sultanas, raisins, dried cranberries and mixed peel. Yum!",
+    description:
+      "“When it comes to Easter, you can’t beat indulging in a lovely, sticky hot cross bun. Give this recipe a go – I promise you’ll never buy the shop bought versions again. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "2 hours 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Bread",
-      "Easter treats",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Bread", "Easter treats", "Snacks"],
+    ingredients: [
       "200 ml semi-skimmed milk",
       "55 g unsalted butter",
       "2 x 7 g sachets of dried yeast",
@@ -4639,9 +4538,9 @@
       "55 g sultanas or raisins",
       "30 g dried cranberries",
       "2 tablespoons mixed peel",
-      "runny honey"
+      "runny honey",
     ],
-    "instructions": [
+    instructions: [
       "Add the milk and 50ml water to a small pan and place over a low heat for a few minutes, or until slightly warm – you should be able to dip your finger in without scalding it.",
       "Add the butter to a separate pan and place over a low heat for a few minutes, or until melted, then set aside.",
       "Transfer the warmed milk mixture to a medium bowl and stir in the yeast.",
@@ -4657,40 +4556,39 @@
       "Gently pat down the risen buns then use the batter to carefully trace a cross over the top with a piping bag or spoon.",
       "Place the buns into the preheated oven for 15 to 20 minutes, or until golden brown.",
       "Transfer to a wire cooling rack, brush over a little honey to glaze, then leave to cool.",
-      "Slice open the sticky hot cross buns, spread with a little butter and serve – delicious"
+      "Slice open the sticky hot cross buns, spread with a little butter and serve – delicious",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1067_1_1438003929.jpg",
-    "imageAlt": "Hot cross buns"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1067_1_1438003929.jpg",
+    imageAlt: "Hot cross buns",
   },
   {
-    "name": "Crunchy carrot pittas",
-    "subName": "A fun & tasty lunchbox filler",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": " Make these crunchy carrot pitta breads for lunch – they’re a fun twist on standard sandwiches that the kids will love making. And the recipe’s meat-free and healthy, too – win-win!",
-    "description": "“This simple, fresh lunch is great for kids – get them involved in the prep and you’re sure to have clean plates all round. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Crunchy carrot pittas",
+    subName: "A fun & tasty lunchbox filler",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      " Make these crunchy carrot pitta breads for lunch – they’re a fun twist on standard sandwiches that the kids will love making. And the recipe’s meat-free and healthy, too – win-win!",
+    description:
+      "“This simple, fresh lunch is great for kids – get them involved in the prep and you’re sure to have clean plates all round. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Bread",
       "Cheap & cheerful",
       "Prep & go recipes",
       "Quick & easy recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "6 medium carrots",
       "a bunch of fresh coriander",
       "2 tablespoons sesame seeds",
@@ -4700,9 +4598,9 @@
       "2 lemons",
       "extra virgin olive oil",
       "sea salt",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 130°C/250°F /gas ½.",
       "Use a Y-shaped peeler to peel the carrots on a chopping board.",
       "Pick the coriander leaves and finely chop them, discarding the stalks.",
@@ -4714,47 +4612,47 @@
       "Cut the lemons in half and squeeze in the juice from 1½ lemons, then add 5 tablespoons of extra virgin olive oil.",
       "Add a tiny pinch of salt and pepper, then mix well with a fork.",
       "Pour the dressing into the salad bowl and toss everything together well, adding a squeeze more lemon juice if you think it needs it.",
-      "Use oven gloves to remove the pittas from the oven, then serve with the zingy salad and some homemade houmous and let everyone stuff and build their own pittas."
+      "Use oven gloves to remove the pittas from the oven, then serve with the zingy salad and some homemade houmous and let everyone stuff and build their own pittas.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1059_1_1438877726.jpg",
-    "imageAlt": "Crunchy carrot pittas"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1059_1_1438877726.jpg",
+    imageAlt: "Crunchy carrot pittas",
   },
   {
-    "name": "Minty yoghurt dip",
-    "subName": "A super-simple fresh and zingy dip",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This is a great recipe to make with kids because it’s so easy! Whip up a batch of yoghurt and mint dip, and serve with some crunchy veg for a healthy snack.",
-    "description": "“This dip is delicious, much tastier than the shop-bought ones you can get, and you know exactly what’s gone into it. Plus, it's so easy to whip up, just serve with some crinkle-cut veggies to dip for a fun snack. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Minty yoghurt dip",
+    subName: "A super-simple fresh and zingy dip",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This is a great recipe to make with kids because it’s so easy! Whip up a batch of yoghurt and mint dip, and serve with some crunchy veg for a healthy snack.",
+    description:
+      "“This dip is delicious, much tastier than the shop-bought ones you can get, and you know exactly what’s gone into it. Plus, it's so easy to whip up, just serve with some crinkle-cut veggies to dip for a fun snack. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Christmas",
       "Easter treats",
       "Healthy snack ideas",
       "Quick fixes",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "4 sprigs of fresh mint",
       "1 lemon",
       "¼ clove of garlic",
       "200 g natural yoghurt",
       "sea salt",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "Pick and finely chop the mint leaves on a chopping board, discarding the stalks, then add them to a mixing bowl.",
       "Use a microplane to finely grate the zest of half a lemon onto the board, then transfer to the bowl.",
       "Cut the lemon in half.",
@@ -4762,40 +4660,32 @@
       "Peel and very finely chop the garlic on a board, then scoop it up and add to the bowl.",
       "Add the yoghurt and a tiny pinch of salt and pepper, then stir everything together.",
       "Have a taste and add a squeeze more lemon juice, if you think it needs it.",
-      "Transfer to a serving bowl, and serve with a platter of veggies for dipping."
+      "Transfer to a serving bowl, and serve with a platter of veggies for dipping.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1058_1_1439207551.jpg",
-    "imageAlt": "Minty yoghurt dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1058_1_1439207551.jpg",
+    imageAlt: "Minty yoghurt dip",
   },
   {
-    "name": "Indian pani puri",
-    "subName": "Perfect party food",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Vegan"
-    ],
-    "metaDescription": "Here's a dish to impress – crispy homemade Indian puri, loaded up with beautifully flavoured pani, green salsa, spiced chickpeas and chopped veg. Vegan, dairy-free and delicious!",
-    "description": "“Crispy Indian puri, loaded up with beautifully flavoured pani, green salsa, spiced chickpeas and chopped veg – delicious! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Indian pani puri",
+    subName: "Perfect party food",
+    specialDiets: ["Vegetarian", "Dairy-free", "Vegan"],
+    metaDescription:
+      "Here's a dish to impress – crispy homemade Indian puri, loaded up with beautifully flavoured pani, green salsa, spiced chickpeas and chopped veg. Vegan, dairy-free and delicious!",
+    description:
+      "“Crispy Indian puri, loaded up with beautifully flavoured pani, green salsa, spiced chickpeas and chopped veg – delicious! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
-      "Vegetables",
-      "Dinner Party",
-      "Indian",
-      "Curry",
-      "Mains",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Showing off",
+    tags: ["Vegetables", "Dinner Party", "Indian", "Curry", "Mains", "Snacks"],
+    ingredients: [
       "200 g fine semolina",
       "4 tablespoons plain flour , plus extra for dusting",
       "fine sea salt and freshly ground black pepper",
@@ -4826,9 +4716,9 @@
       "1 handful of curry leaves",
       "1 pinch of ground cinnamon",
       "1 x 400 g tin of chickpeas , drained",
-      "1 tablespoon tamarind paste or chutney"
+      "1 tablespoon tamarind paste or chutney",
     ],
-    "instructions": [
+    instructions: [
       "To make the puris, place the semolina, flour and a pinch of salt in a bowl, then gradually add the soda water, stirring continuously until the mixture comes together to form a stiff dough. Place into a flour-dusted bowl, cover with a damp tea towel and leave to stand for 30 minutes.",
       "Meanwhile, blitz all the pani ingredients, ½ a bunch of coriander, a pinch of salt and pepper and 200ml of water in a liquidiser until smooth. Line a sieve with a double layer of muslin, place over a large bowl, then pour in the tomato mixture and leave to strain – you’ll end up with a beautiful, intense, flavoured water.",
       "Meanwhile, make the green salsa. Roughly chop and add the ginger to a liquidiser with the remaining salsa ingredients. Blitz until smooth, then season to taste and transfer to a small bowl.",
@@ -4836,79 +4726,81 @@
       "Shape the puri dough on a flour-dusted surface into a long sausage shape, roughly 40cm in length, then take small lumps of dough and roll into rough grape-sized pieces with your hands. Roll the dough out into thin, flat circles, roughly 7cm in diameter.",
       "Place a large, deep pan over a high heat, add the vegetable oil and allow it to get really hot. To test if it’s hot enough, drop a tiny piece of dough into the pan – if it floats to the surface and starts to sizzle, it’s about right. Using a slotted spoon, carefully lower 3 to 4 dough circles into the pan. Fry for 2 to 3 minutes, or until puffed up, using the spoon to push them under the oil, then carefully flip them over and continue cooking for 2 minutes, or until golden and crisp. Transfer to a double layer of kitchen paper to drain, then repeat with the remaining dough.",
       "Meanwhile, finely chop the fennel, radishes, onion and cucumber, then place into separate bowls.",
-      "To serve the puris, smash a hole in the top and spoon some chickpeas, green salsa and chopped vegetables inside. Drizzle in a little of the pani, pick over a few of the remaining coriander leaves and tuck in."
+      "To serve the puris, smash a hole in the top and spoon some chickpeas, green salsa and chopped vegetables inside. Drizzle in a little of the pani, pick over a few of the remaining coriander leaves and tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46335113.jpg",
-    "imageAlt": "Indian pani puri"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46335113.jpg",
+    imageAlt: "Indian pani puri",
   },
   {
-    "name": "Bad-ass cheesy corn on the cob",
-    "subName": "With lime & paprika mayo",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Griddled sweetcorn cobs rolled in lime-spiked paprika mayo, topped with Cheddar cheese. Jamie Oliver's recipe is a great BBQ side dish.",
-    "description": "“Griddled corn on the cob, dipped into lime-spiked mayo and grated cheese – this is naughty and really nice. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus soaking time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus soaking time"
+    name: "Bad-ass cheesy corn on the cob",
+    subName: "With lime & paprika mayo",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Griddled sweetcorn cobs rolled in lime-spiked paprika mayo, topped with Cheddar cheese. Jamie Oliver's recipe is a great BBQ side dish.",
+    description:
+      "“Griddled corn on the cob, dipped into lime-spiked mayo and grated cheese – this is naughty and really nice. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "35 minutes plus soaking time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus soaking time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Christmas",
       "Dinner Party",
       "Bonfire night recipes",
       "Mexican",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "6 corn on the cob , with husks intact",
       "4 tablespoons Hellmann's Mayonnaise",
       "extra virgin olive oil",
       "2 limes",
       "1 teaspoon smoked paprika or cayenne pepper",
-      "90 g mild, hard cheese, such as Parmesan, Zamorano or Pecorino"
+      "90 g mild, hard cheese, such as Parmesan, Zamorano or Pecorino",
     ],
-    "instructions": [
+    instructions: [
       "Soak the corn (husks and all) in cold water for at least 30 minutes – if you can’t find cobs with the husks intact, you don’t need to do this. Meanwhile, place the mayo into a bowl with a drizzle of extra virgin olive oil, the zest from the limes and the juice from 1. Mix well, taste and add a squeeze more juice, if needed. Spread the mayo onto a plate, then dust with the paprika or cayenne pepper and put to one side. Grate the cheese onto another large plate, then set aside also.",
       "Preheat a griddle pan over a high heat. Add the corn and griddle for 12 to 15 minutes, or until the husks are black and charred all over, turning occasionally – the husks will help to steam the corn until tender.",
-      "Peel back the husks, keeping them intact at the base, then roll each cob into the lime-spiked mayo, before rolling into the cheese. Shake off any excess and get stuck in."
+      "Peel back the husks, keeping them intact at the base, then roll each cob into the lime-spiked mayo, before rolling into the cheese. Shake off any excess and get stuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1022_1_1438244352.jpg",
-    "imageAlt": "Bad-ass cheesy corn on the cob"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1022_1_1438244352.jpg",
+    imageAlt: "Bad-ass cheesy corn on the cob",
   },
   {
-    "name": "Party squid & harissa mayo",
-    "subName": "The ultimate crowd pleaser",
-    "specialDiets": [],
-    "metaDescription": "Jamie's party squid recipe is sure to be a crowd please at any party; beautifully crisp and delicate squid dunked in a bold harissa mayo - delicious.",
-    "description": "“Fresh, crispy squid dunked into this beautifully bold harissa mayo – perfect for feeding a crowd. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Party squid & harissa mayo",
+    subName: "The ultimate crowd pleaser",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's party squid recipe is sure to be a crowd please at any party; beautifully crisp and delicate squid dunked in a bold harissa mayo - delicious.",
+    description:
+      "“Fresh, crispy squid dunked into this beautifully bold harissa mayo – perfect for feeding a crowd. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Aussie Christmas",
       "Christmas",
       "Dinner Party",
       "Seafood",
       "Sides",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "3 lemons",
       "3 sprigs of flowering oregano",
       "2 tablespoons fennel seeds",
@@ -4921,49 +4813,47 @@
       "1 clove of garlic",
       "3 heaped tablespoons Hellmann's Mayonnaise",
       "4 teaspoons harissa paste",
-      "1½ teaspoons rose water"
+      "1½ teaspoons rose water",
     ],
-    "instructions": [
+    instructions: [
       "To make the harissa mayo, peel and bash the garlic in a pestle and mortar with a little sea salt, then muddle in the mayo. Add 2 teaspoons of harissa, followed by the zest and juice from ½ a lemon, then mix well, taste and add a little more lemon juice, if needed. Transfer to a bowl, drizzle over the rosewater and ripple through the remaining harissa. Set aside.",
       "Scrunch the oregano flowers into a liquidiser and discard the stalks, then add the fennel and a teaspoon each of salt and white pepper. Blitz to a fine powder, then place into a large bowl with the flour and stir to combine.",
       "Wash and pat dry the squid, then slice and open out the tubes like a book. Cut a criss-cross pattern onto the surface, then add to the flour along with the tentacles and toss well to coat.",
       "Place a large, deep saucepan over a medium-high heat. Fill three-quarters full with vegetable oil and allow to heat up. To test if the oil is hot enough, drop a piece of bread into the pan – if the bread floats to the surface, sizzles and turns golden, it's about right. Shake off any excess flour from the squid, then use a slotted spoon to carefully lower into the hot oil (you’ll need to do this in batches). Cook for 3 to 4 minutes, or until golden, crisp and cooked through. Transfer to a double layer of kitchen paper to drain, then repeat with the remaining squid.",
       "Rinse the parsley sprigs under cold running water, shake off any excess water, then pick the leaves into the flour. Toss to coat, then lower into the hot oil for a few seconds, or until crisp. Transfer to kitchen paper, then slice 1 lemon horizontally into thin discs, dip into the flour and place in the hot oil for around 1 minute, or until crisp.",
-      "Scatter the crispy parsley and lemon slices over the squid, then serve with extra lemon wedges for squeezing over and harissa mayo for dunking."
+      "Scatter the crispy parsley and lemon slices over the squid, then serve with extra lemon wedges for squeezing over and harissa mayo for dunking.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1021_7_1385724058.jpg",
-    "imageAlt": "Party squid & harissa mayo"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1021_7_1385724058.jpg",
+    imageAlt: "Party squid & harissa mayo",
   },
   {
-    "name": "Corn salsa",
-    "subName": "Zingy lime, chilli & tomato",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This corn salsa recipe from Jamie Oliver really is a crowd-pleaser. Sweetcorn is so kid-friendly and this corn salsa is a sure-fire winner with little ones.",
-    "description": "“Sweetcorn is so kid-friendly and this corn salsa is a sure-fire winner with little ones. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Corn salsa",
+    subName: "Zingy lime, chilli & tomato",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This corn salsa recipe from Jamie Oliver really is a crowd-pleaser. Sweetcorn is so kid-friendly and this corn salsa is a sure-fire winner with little ones.",
+    description:
+      "“Sweetcorn is so kid-friendly and this corn salsa is a sure-fire winner with little ones. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Dinner Party",
       "Bonfire night recipes",
       "Mexican",
       "Tomato",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 corn on the cob",
       "½ a bunch of fresh coriander",
       "½ a fresh red chilli",
@@ -4971,39 +4861,40 @@
       "3 ripe tomatoes",
       "sea salt",
       "2 limes",
-      "1 tablespoon extra virgin olive oil"
+      "1 tablespoon extra virgin olive oil",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1018_1_1438866113.jpg",
-    "imageAlt": "Corn salsa"
+    instructions: [],
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1018_1_1438866113.jpg",
+    imageAlt: "Corn salsa",
   },
   {
-    "name": "Rainbow jam tarts",
-    "subName": "Exciting childhood treats",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Get all nostalgic and make a British childhood classic - jam tarts! Create a pretty rainbow effect by using all sorts of jams, marmalades and fruity curds for the fillings. It's playtime!",
-    "description": "“Jam tarts are humble, cheap to make and such a pretty little treat. This is a great recipe to do with the kids. ”",
-    "servings": "Serves Makes 30 roughly",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Rainbow jam tarts",
+    subName: "Exciting childhood treats",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Get all nostalgic and make a British childhood classic - jam tarts! Create a pretty rainbow effect by using all sorts of jams, marmalades and fruity curds for the fillings. It's playtime!",
+    description:
+      "“Jam tarts are humble, cheap to make and such a pretty little treat. This is a great recipe to do with the kids. ”",
+    servings: "Serves Makes 30 roughly",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Great Britain",
       "Fruit",
       "Afternoon tea",
       "Easter treats",
       "Mother's day",
-      "St. George's Day"
+      "St. George's Day",
     ],
-    "ingredients": [
+    ingredients: [
       "SWEET PASTRY",
       "250 g plain flour , plus extra for dusting",
       "250 g icing sugar",
@@ -5012,45 +4903,46 @@
       "1 orange or lemon",
       "a splash of milk",
       "FILLINGS",
-      "30 heaped teaspoons of your favourite jams, curds, marmalades and jellies"
+      "30 heaped teaspoons of your favourite jams, curds, marmalades and jellies",
     ],
-    "instructions": [
+    instructions: [
       "Jam tarts are definitely a part of my childhood. They are humble, cheap to make and such a pretty little treat. It’s funny how simple pastry with a blob of jam can turn into something so exciting, with chewy bits, bubbling bits, crunchy bits and jammy jelly bits. Even if you cheat a little, and buy ready-made pastry, just the ritual of filling these tarts with your favourite jams and then baking them can be really relaxing. The beauty of these for me is playing with the different jam or jelly flavours so you get a rainbow of colours. Just about every supermarket in Britain stocks a great selection of posh jams: strawberry, blackberry, blueberry, gooseberry, apricot, cranberry ... the sheer number of fillings available now makes these even more exciting than the ones I had as a kid.",
       "Put the flour, sugar and butter into a food processor with a pinch of sea salt and pulse until you have a mixture that looks like breadcrumbs. Crack in the egg, grate in the zest from your orange or lemon and pulse again, adding a little splash of milk to bring everything together, if needed. Wrap the dough in clingfilm and pop it into the fridge to rest for 30 minutes.",
       "Preheat the oven to 180°C/350°F/gas 4. Dust a clean surface and a rolling pin with flour and roll out the pastry so it’s 0.5cm thick. Get yourself a few 12-hole jam tart trays (or cook the tarts in batches) and a fluted pastry cutter just a little bigger than the holes of the tray (normally around 6cm). Cut out rounds of pastry and gently push them into the wells so they come up the sides. Any leftover pastry can be gently pushed back into a ball and rolled out to make a few more tarts. Put 1 heaped teaspoon of filling into each jam tart, interspersing and alternating the flavours of jams, curds or jellies.",
       "Pop the trays on the middle shelf of the oven and cook for around 12 to 15 minutes, or until the pastry is golden and the filling is thick and bubbling. Remove from the oven, leave in the tray to firm slightly, then transfer to a wire rack and leave to cool for a few minutes before serving.",
-      "PS: I know this might sound a bit girly, but if you can track down a lovely old tart tin from an antique shop, then serve these straight out of the tin – it looks really good, as the old tins are really cute. See, I told you it was girly!"
+      "PS: I know this might sound a bit girly, but if you can track down a lovely old tart tin from an antique shop, then serve these straight out of the tin – it looks really good, as the old tins are really cute. See, I told you it was girly!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1008_1_1436880980.jpg",
-    "imageAlt": "Rainbow jam tarts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1008_1_1436880980.jpg",
+    imageAlt: "Rainbow jam tarts",
   },
   {
-    "name": "Scottish shortbread",
-    "subName": "A beautiful, humble shortbread recipe",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This Scottish shortbread recipe from Jamie Oliver is a brilliantly easy shortbread recipe. Perfect with a cup of tea, or dip them in melted chocolate!",
-    "description": "“The simplicity of these biscuits makes them wonderful in desserts, but for me the best way to celebrate this biscuit is with a cup of tea. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus cooling time"
+    name: "Scottish shortbread",
+    subName: "A beautiful, humble shortbread recipe",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This Scottish shortbread recipe from Jamie Oliver is a brilliantly easy shortbread recipe. Perfect with a cup of tea, or dip them in melted chocolate!",
+    description:
+      "“The simplicity of these biscuits makes them wonderful in desserts, but for me the best way to celebrate this biscuit is with a cup of tea. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "40 minutes plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus cooling time",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Great Britain",
       "Afternoon tea",
       "Burns Night Specials",
       "Christmas",
       "Dinner Party",
-      "Easter treats"
+      "Easter treats",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g plain flour , plus extra for dusting",
       "50 g caster sugar , plus extra for sprinkling over",
       "125 g unsalted butter",
@@ -5064,43 +4956,44 @@
       "Lemon thyme & vanilla",
       "½ a small bunch of fresh lemon thyme , leaves picked",
       "1 lemon , zest of",
-      "1 teaspoon vanilla extract or paste"
+      "1 teaspoon vanilla extract or paste",
     ],
-    "instructions": [
+    instructions: [
       "I know you can buy shortbreads everywhere these days, but great as some of those biscuits can be, nothing comes close to a batch cooked that day, or even that week. It’s having the real version of something, rather than the ‘buy one get one free’ version, that makes us appreciate it. The simplicity of these biscuits makes them a wonderful base for desserts with cream and fruit, or a crumbly topping for trifles and stewed fruits. But for me the very best way to celebrate this humble biscuit is with a cup of tea. You can have these biscuits plain, or scent them with everything from lemon or tangerine, to lavender, lemon thyme or caraway seeds. Just don’t go mad with these flavours, because a little goes a long way and these are nicest when the flavours are subtle.",
       "Preheat the oven to 170°C/325°F/gas 3. Mix the flour and sugar together in a mixing bowl. Rub in the butter with your thumb and forefinger, then add your chosen flavourings (if you’re using chocolate or seeds you might want to push these into the dough at the end, after you’ve rolled it out) and squash, pat and push it into a dough. Don’t knead it, you just want to pat it down flat. Push or roll it out until it’s 1cm thick – do this directly on to a baking sheet lined with greaseproof paper so you don’t have to move it. Once it’s in the shape you like – which could be square, round, or a few small finger-shapes – feel free to thumb or pinch the edges. If it splits or tears, just press it back together – but remember, the less you work the dough, the shorter and better these biscuits will be.",
-      "If you want to score lines on the shortbread so that you can click the biscuits off into pieces later, you can. Sprinkle over some caster sugar, then pop the baking sheet into the oven and cook for 20 to 30 minutes. Keep an eye on it – you want a lovely light golden colour (unless you’re making the lavenderhoney version, which will be darker). Leave to cool, then put away in a tin or serve. These will be delicious for two or three days and make a lovely present for someone special."
+      "If you want to score lines on the shortbread so that you can click the biscuits off into pieces later, you can. Sprinkle over some caster sugar, then pop the baking sheet into the oven and cook for 20 to 30 minutes. Keep an eye on it – you want a lovely light golden colour (unless you’re making the lavenderhoney version, which will be darker). Leave to cool, then put away in a tin or serve. These will be delicious for two or three days and make a lovely present for someone special.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1004_1_1436885015.jpg",
-    "imageAlt": "Scottish shortbread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1004_1_1436885015.jpg",
+    imageAlt: "Scottish shortbread",
   },
   {
-    "name": "Easy flatbreads",
-    "subName": "A simple bread recipe for kids to learn",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A brilliant easy flatbread recipe for cooking with kids – get them to roll their sleeves up and get stuck in, and they'll learn how to make flatbreads.",
-    "description": "“Kneading the dough to make this flatbread recipe is a fun and much-loved task for little ones. Super-tasty, super-fun! ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Easy flatbreads",
+    subName: "A simple bread recipe for kids to learn",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A brilliant easy flatbread recipe for cooking with kids – get them to roll their sleeves up and get stuck in, and they'll learn how to make flatbreads.",
+    description:
+      "“Kneading the dough to make this flatbread recipe is a fun and much-loved task for little ones. Super-tasty, super-fun! ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "Alfresco",
       "Bonfire night recipes",
       "Cheap & cheerful",
       "Freezer-friendly recipes",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "FLATBREADS",
       "350 g self-raising flour , plus extra for dusting",
       "1 teaspoon baking powder",
@@ -5108,9 +5001,9 @@
       "GARLIC AND HERB BUTTER (OPTIONAL)",
       "2 cloves of garlic",
       "a bunch of fresh soft herbs, such as flat-leaf parsley, tarragon, basil, dill",
-      "40 g unsalted butter"
+      "40 g unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Add all the flatbread ingredients to a mixing bowl and mix together with a spoon, then use clean hands to pat and bring everything together.",
       "Dust a clean work surface with flour, then tip out the dough.",
       "Knead for a minute or so to bring it all together (this isn’t a traditional bread recipe, so you don’t need to knead it for long – just enough time to bring everything together).",
@@ -5122,81 +5015,79 @@
       "With your hands, pat and flatten the dough, then use a rolling pin to roll each piece into 12cm rounds, roughly 2mm to 3mm thick.",
       "Use a knife to cut 6 lines into the centre of each round, leaving about 3cm at each end.",
       "Place the griddle pan on a high heat, then once hot, cook each one for 1 to 2 minutes on each side, or until bar-marked and puffed up, turning with tongs.",
-      "Brush the flatbreads all over with herby garlic butter as they come off the griddle, then pile onto a serving board so everyone can dig in and help themselves."
+      "Brush the flatbreads all over with herby garlic butter as they come off the griddle, then pile onto a serving board so everyone can dig in and help themselves.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/999_2_1438877892.jpg",
-    "imageAlt": "Easy flatbreads"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/999_2_1438877892.jpg",
+    imageAlt: "Easy flatbreads",
   },
   {
-    "name": "Scrambled eggs",
-    "subName": "A failsafe classic breakfast ",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
-    "description": "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Scrambled eggs",
+    subName: "A failsafe classic breakfast ",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
+    description:
+      "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Bread",
       "Breakfast",
       "Cheap & cheerful",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
-      "8 large eggs",
-      "1 small knob of unsalted butter"
-    ],
-    "instructions": [
+    ingredients: ["8 large eggs", "1 small knob of unsalted butter"],
+    instructions: [
       "Crack the eggs into a measuring jug.",
       "Add a tiny pinch of sea salt and black pepper, then use a fork to beat them together well.",
       "Put a medium saucepan over a low heat and add the butter.",
       "Leave it to melt slowly, then when it starts to bubble carefully pour in the eggs.",
       "Stir slowly with a wooden spoon, or a spatula if you’ve got one, so you can get right to the edges of the pan.",
       "Keep gently stirring until the eggs still look silky, slightly runny and slightly underdone, and then remove from the heat – the heat of the pan will continue to cook the eggs to perfection.",
-      "Serve with lightly buttered toast."
+      "Serve with lightly buttered toast.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
-    "imageAlt": "Scrambled eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
+    imageAlt: "Scrambled eggs",
   },
   {
-    "name": "Wonderful Welsh cakes",
-    "subName": "Jammed with summer berries & vanilla cream",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "If you want to know how to make Welsh cakes, use this foolproof recipe – crisp on the outside, and soft but slightly crumbly inside, they're to die for. Best served warm!",
-    "description": "“I completely fell in love with Welsh cakes after Jim gave me my first taste of one in Pontypridd market. The Welsh cooks of old did a lot of cooking on bakestones, which are essentially round cast iron skillets. They'd place them over a fire in their home, and use them for things like these sweet little cakes, which have a crisp outside and a soft, slightly crumbly inside that is to die for. You can replicate that bakestone style of cooking using a heavy-bottomed non-stick pan. I love serving these warm as they are or filled with a spoonful of cream and a few berries. Jim was using chunks of chocolate, different dried fruits and even sprinkles of desiccated coconut, so feel free to experiment once you’ve mastered the basic recipe. ”",
-    "servings": "Serves Makes 35 to 40",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Wonderful Welsh cakes",
+    subName: "Jammed with summer berries & vanilla cream",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "If you want to know how to make Welsh cakes, use this foolproof recipe – crisp on the outside, and soft but slightly crumbly inside, they're to die for. Best served warm!",
+    description:
+      "“I completely fell in love with Welsh cakes after Jim gave me my first taste of one in Pontypridd market. The Welsh cooks of old did a lot of cooking on bakestones, which are essentially round cast iron skillets. They'd place them over a fire in their home, and use them for things like these sweet little cakes, which have a crisp outside and a soft, slightly crumbly inside that is to die for. You can replicate that bakestone style of cooking using a heavy-bottomed non-stick pan. I love serving these warm as they are or filled with a spoonful of cream and a few berries. Jim was using chunks of chocolate, different dried fruits and even sprinkles of desiccated coconut, so feel free to experiment once you’ve mastered the basic recipe. ”",
+    servings: "Serves Makes 35 to 40",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Great Britain",
       "Fruit",
       "Afternoon tea",
       "Easter treats",
       "Father's day",
-      "Mother's day"
+      "Mother's day",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g self-raising flour , plus extra for dusting",
       "75 g caster sugar , plus extra to serve",
       "1 heaped teaspoon mixed spice",
@@ -5209,9 +5100,9 @@
       "1 heaped tablespoon caster sugar , plus extra for sprinkling",
       "1 teaspoon vanilla bean paste",
       "400 g fresh berries , such as raspberries, strawberries, blackberries",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Sieve the flour into a large mixing bowl, then add the sugar and mixed spice.",
       "Cut the butter into cubes and add to the bowl with a pinch of sea salt.",
       "Use your hands to rub it all together until you get a fine breadcrumb consistency, then toss in the dried fruit.",
@@ -5221,168 +5112,159 @@
       "While it’s heating up, dust a clean surface and a rolling pin with flour and roll the dough out until it’s about 1cm thick. Use a 5cm pastry cutter to cut out as many rounds as you can. Scrunch the remaining scraps of dough together, then roll out and cut out a few more.",
       "To test the temperature, cook one Welsh cake in the pan for a few minutes to act as a thermometer. If the surface is blonde, turn the heat up a little; if it’s black, turn the heat down – leave for a few minutes for the heat to correct itself, then try again. When you've got a golden cake after 4 minutes on each side, you're in a really good place and you can cook the rest in batches. It’s all about control.",
       "As soon as they come off the pan, put them on a wire rack to cool and sprinkle them with caster sugar. You can serve them just like this, as they are. Or, if you want to do what I've done, gently cut each cake in half while turning so you get a top and a bottom.",
-      "Whip the cream, sugar and vanilla paste together until you have soft peaks. Put the berries into a bowl, slicing up any big ones, and toss them with the juice of 1 lemon and a sprinkling of sugar. Open the cakes up, and add a little dollop of cream and a few berries to each one."
+      "Whip the cream, sugar and vanilla paste together until you have soft peaks. Put the berries into a bowl, slicing up any big ones, and toss them with the juice of 1 lemon and a sprinkling of sugar. Open the cakes up, and add a little dollop of cream and a few berries to each one.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/965_1_1436963901.jpg",
-    "imageAlt": "Wonderful Welsh cakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/965_1_1436963901.jpg",
+    imageAlt: "Wonderful Welsh cakes",
   },
   {
-    "name": "Royal Georgie snap biscuits",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie made this biscuits recipe to celebrate the birth of Prince George; they're lovely and snappy, light and crumbly, with delicious sour apricot jam.",
-    "description": "",
-    "servings": "Serves Makes 16",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Royal Georgie snap biscuits",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie made this biscuits recipe to celebrate the birth of Prince George; they're lovely and snappy, light and crumbly, with delicious sour apricot jam.",
+    description: "",
+    servings: "Serves Makes 16",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Easter treats",
       "Mother's day",
       "St. George's Day",
       "British",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g dried apricots",
       "300 g plain flour , plus extra for dusting",
       "100 g ground almonds",
       "100 g caster sugar , plus extra for sprinkling",
       "250 g cold unsalted butter , cubed",
-      "250 g good-quality apricot jam"
+      "250 g good-quality apricot jam",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/325ºF/gas 3. Put the dried apricots into a small bowl, cover with boiling water and leave to plump up and soften slightly.",
       "Meanwhile, mix the flour, ground almonds and caster sugar together in a bowl. Add the butter and rub together to make a soft dough – this isn't as crumbly as shortbread, so keep mixing until everything comes together nicely. Divide the dough into 4 pieces, flatten slightly, wrap in cling film and chill in the fridge for 30 minutes.",
       "Drain the apricots, then pulse in a food processor until coarsely chopped. Tip into a small pan over a low heat and add the apricot jam, then allow to bubble and reduce slightly until you have a sticky, but spreadable mix. Set aside and leave to cool.",
       "Line 2 baking sheets with greaseproof paper. Once the dough is chilled, lightly dust a work surface with plain flour. Unwrap the first ball of dough and roll into a disc, roughly the thickness of a pound coin. Take a 6cm fluted pastry cutter and cut out 8 rounds (4 bases and 4 tops). Use a 2cm heart-shaped cutter to cut out the middle of half the biscuits. Place all the biscuits and the little hearts onto the lined baking sheets, then repeat with the other 3 pieces of dough.",
       "Place the trays in the hot oven and bake for around 15 minutes, or until lightly golden and cooked through. Remove the trays from the oven and quickly sprinkle over a few big pinches of caster sugar, then carefully transfer the biscuits onto wire cooling racks and leave to cool completely.",
-      "To assemble, turn the base biscuits so they’re sugary-side down and dollop a little apricot filling into the centre of each one. Place the top biscuits sugary-side up on top and press lightly to sandwich together – you can mix and match using the little heart cut outs as tops too, if you like. Wrap up nicely and present to the parents of the new arrival with a bow or curtsy."
+      "To assemble, turn the base biscuits so they’re sugary-side down and dollop a little apricot filling into the centre of each one. Place the top biscuits sugary-side up on top and press lightly to sandwich together – you can mix and match using the little heart cut outs as tops too, if you like. Wrap up nicely and present to the parents of the new arrival with a bow or curtsy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/918_1_1374747561.jpg",
-    "imageAlt": "Royal Georgie snap biscuits"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/918_1_1374747561.jpg",
+    imageAlt: "Royal Georgie snap biscuits",
   },
   {
-    "name": "Welsh rarebit with attitude",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie Oliver's easy Welsh rarebit recipe has some serious attitude, perfect for lunch, a snack, or with a couple of beers. It packs a real flavour punch.",
-    "description": "",
-    "servings": "Serves Makes 4 slices",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Welsh rarebit with attitude",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie Oliver's easy Welsh rarebit recipe has some serious attitude, perfect for lunch, a snack, or with a couple of beers. It packs a real flavour punch.",
+    description: "",
+    servings: "Serves Makes 4 slices",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Bread",
       "Christmas",
       "British",
       "Cheap & cheerful",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large egg yolks",
       "150 g crème fraîche",
       "1 level teaspoon English mustard powder",
       "100 g freshly grated Cheddar cheese",
       "4 tablespoons Cheeky chilli-pepper chutney , or shop-bought chilli jam, to taste",
       "4 x 2 cm thick slices of good-quality bread , (use sourdough or country style)",
-      "Worcestershire sauce"
+      "Worcestershire sauce",
     ],
-    "instructions": [
+    instructions: [
       "Preheat your grill and get it nice and hot.",
       "Whisk the egg yolks with the crème fraîche and mustard powder. Stir in the cheese and season with sea salt and black pepper.",
       "Now, I’m rather hoping you’ve had a go at making my Cheeky chilli-pepper chutney, but if you haven’t then you can cheat by using a good shop-bought version, or simply chop up a little fresh chilli, to your taste.",
       "Lightly toast your slices of bread on both sides. Smear a good tablespoon of your chutney on to each slice, right to the edge, followed by a quarter of your rarebit mixture. By spreading it right to the edge, the crust won’t burn.",
-      "Grill until melted and bubbling. Divide on to plates. With a knife, criss-cross the topping and drizzle with Worcestershire sauce."
+      "Grill until melted and bubbling. Divide on to plates. With a knife, criss-cross the topping and drizzle with Worcestershire sauce.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/897_1_1436963250.jpg",
-    "imageAlt": "Welsh rarebit with attitude"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/897_1_1436963250.jpg",
+    imageAlt: "Welsh rarebit with attitude",
   },
   {
-    "name": "Smoothie ice lollies",
-    "subName": "Sweet treats for the kids",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Smoothie ice lollies make really healthy children's treats in the summer; or for a naughtier option try coating them in chocolate - wow!",
-    "description": "“These lollies with fresh and frozen fruit, oats, juice and chocolate are perfect for the holidays ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus freezing time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus freezing time"
+    name: "Smoothie ice lollies",
+    subName: "Sweet treats for the kids",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Smoothie ice lollies make really healthy children's treats in the summer; or for a naughtier option try coating them in chocolate - wow!",
+    description:
+      "“These lollies with fresh and frozen fruit, oats, juice and chocolate are perfect for the holidays ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "20 minutes plus freezing time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus freezing time",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Desserts",
-      "Snacks",
-      "Puddings & desserts"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Desserts", "Snacks", "Puddings & desserts"],
+    ingredients: [
       "1 large banana , or 2 small bananas",
       "300 g frozen mixed berries",
       "50 g porridge oats",
       "400 ml pure organic apple juice",
       "honey , optional",
-      "200 g good-quality white chocolate , broken up, optional"
+      "200 g good-quality white chocolate , broken up, optional",
     ],
-    "instructions": [
+    instructions: [
       "Place the bananas, berries, oats and apple juice in a liquidizer. Blitz for a few minutes until the berries and banana are completely smooth and the porridge oats are whizzed up. Taste for sweetness – if the bananas are lovely and ripe the mixture should be sweet enough, if not, add honey to taste. Divide the smoothie mixture into 12 ice-lolly moulds and freeze for at least 2 hours.",
       "To give the lollies a chocolate coating, place the chocolate in a heatproof bowl over a small pan of simmering water. Make sure the water isn’t boiling and the bottom of the bowl doesn’t touch the water, or you will burn the chocolate. Stir until completely smooth, then take off the heat and leave for 5 minutes.",
       "Wiggle the lolly sticks to loosen the lollies and lift them out. One by one, dip the tips of the lollies in the white chocolate and leave to set for a few minutes before serving.",
-      "A fun, pretty way to serve these lollies is to cover some flower-arranging oasis with fresh flowers, tinfoil or coloured tissue paper, and stick the lollies in. For an extra-special entrance, pop in a few sparklers – but be careful!"
+      "A fun, pretty way to serve these lollies is to cover some flower-arranging oasis with fresh flowers, tinfoil or coloured tissue paper, and stick the lollies in. For an extra-special entrance, pop in a few sparklers – but be careful!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/742_1_1436887556.jpg",
-    "imageAlt": "Smoothie ice lollies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/742_1_1436887556.jpg",
+    imageAlt: "Smoothie ice lollies",
   },
   {
-    "name": "Proper Scotch eggs",
-    "subName": "Serve with lovely Scottish cheese & pickle",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A cracking recipe that shows you how to make perfect scotch eggs from scratch. Perfect for a picnic or a party. Just add crunchy pickles and some salad.",
-    "description": "“I like my Scotch eggs a little runny in the middle, but if you prefer a hard-boiled centre, leave the eggs in to boil for an extra couple of minutes at the start. These are the ultimate picnic snack. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Proper Scotch eggs",
+    subName: "Serve with lovely Scottish cheese & pickle",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A cracking recipe that shows you how to make perfect scotch eggs from scratch. Perfect for a picnic or a party. Just add crunchy pickles and some salad.",
+    description:
+      "“I like my Scotch eggs a little runny in the middle, but if you prefer a hard-boiled centre, leave the eggs in to boil for an extra couple of minutes at the start. These are the ultimate picnic snack. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
-      "Eggs",
-      "Wimbledon",
-      "British",
-      "Pork",
-      "Sausage",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Showing off",
+    tags: ["Eggs", "Wimbledon", "British", "Pork", "Sausage", "Snacks"],
+    ingredients: [
       "10 large free-range eggs",
       "8 higher-welfare sausages",
       "½ a bunch of fresh chives",
@@ -5391,9 +5273,9 @@
       "1 tablespoon English mustard",
       "plain flour , for dusting",
       "150 g fresh white breadcrumbs",
-      "2 litres vegetable oil"
+      "2 litres vegetable oil",
     ],
-    "instructions": [
+    instructions: [
       "Put 8 eggs into a pan of cold water and bring to the boil. Boil for 3 to 4 minutes, then transfer to a bowl of cold water. Once cooled, carefully peel them.",
       "Squeeze the sausages out of their skins and into a bowl.",
       "Pick and finely chop the herb leaves, add to the sausage meat along with a good grating of nutmeg, the mustard and a good pinch of sea salt and black pepper. Give it all a good mix together then divide into 8 balls.",
@@ -5403,81 +5285,71 @@
       "Roll the meat-wrapped egg in the flour, shake off any excess, then dip into the beaten egg, followed by the breadcrumbs. Roll in the egg and breadcrumbs again for a really good coating.",
       "Heat the oil in a deep pan or deep fat fryer to about 150ºC/300ºF. If you have a cooking thermometer it’s a good idea to use it. Otherwise, test if the oil is hot enough by adding a piece of raw potato and leaving it for about 1 minute – if it sizzles and browns, it’s ready.",
       "Carefully lower the eggs into the pan and cook for 4 minutes, or until golden, turning them every so often. Remove with a slotted spoon and drain on kitchen paper (if you’re worried about the meat being under-cooked, deep-fry the scotch eggs until they’re golden and crispy, then pop them in a hot oven for a couple of minutes.)",
-      "Cool the Scotch eggs slightly, then arrange on board with a good piece of Scottish Cheddar, some pickle and a few pickled onions. Heaven."
+      "Cool the Scotch eggs slightly, then arrange on board with a good piece of Scottish Cheddar, some pickle and a few pickled onions. Heaven.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/741_1_1436874936.jpg",
-    "imageAlt": "Proper Scotch eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/741_1_1436874936.jpg",
+    imageAlt: "Proper Scotch eggs",
   },
   {
-    "name": "Savoury scones",
-    "subName": "With a hint of mustard and topped with cheese",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Savoury scones are dead easy to make and taste amazing topped with cheese and with a slightly spicy hint of mustard; serve simply with butter.",
-    "description": "“I love these cheesy, slightly spicy scones with a ploughman's lunch or simply just a bit of butter ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Savoury scones",
+    subName: "With a hint of mustard and topped with cheese",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Savoury scones are dead easy to make and taste amazing topped with cheese and with a slightly spicy hint of mustard; serve simply with butter.",
+    description:
+      "“I love these cheesy, slightly spicy scones with a ploughman's lunch or simply just a bit of butter ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Afternoon tea",
-      "British",
-      "Snacks",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Afternoon tea", "British", "Snacks", "Baking"],
+    ingredients: [
       "450 g self-raising flour",
       "150 g butter",
       "2 free-range eggs",
       "4 tablespoons milk , plus a little more for brushing",
       "½ teaspoon mustard powder",
       "½ teaspoon ground cumin",
-      "50 g Cheddar , grated"
+      "50 g Cheddar , grated",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Pulse the flour and butter in a food processor until they start to look like breadcrumbs. Tip into a bowl and make a well in the middle.",
       "In another bowl, beat the eggs and milk with a fork, add a good pinch of salt and pepper and pour into the well. Mix the flour into the eggs and milk, adding a little more milk if needed, until you have a soft, dry dough.",
       "Split the dough evenly into 3 pieces. Press each piece out flat on your work surface and sprinkle 1 piece with mustard powder, 1 with cumin powder and the last with grated cheese. Roll up each piece and knead lightly until the flavouring is just mixed in, trying not to handle the mixture too much.",
-      "Press or roll the dough pieces flat again, until they are about 2.5cm thick. Cut out 2 circles from each piece with an 8cm cutter or the rim of a glass, and place upside down on a baking sheet. Brush the top of each scone with the extra milk and bake in the oven for 15 minutes, until risen and brown."
+      "Press or roll the dough pieces flat again, until they are about 2.5cm thick. Cut out 2 circles from each piece with an 8cm cutter or the rim of a glass, and place upside down on a baking sheet. Brush the top of each scone with the extra milk and bake in the oven for 15 minutes, until risen and brown.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/701_1_1441271969.jpg",
-    "imageAlt": "Savoury scones"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/701_1_1441271969.jpg",
+    imageAlt: "Savoury scones",
   },
   {
-    "name": "The best chorizo sandwich",
-    "subName": "Smashed chickpeas, peppery rocket & fresh chilli",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Chorizo is such a gorgeous and versatile meat and this chorizo sandwich recipe is beautiful with chickpeas, rocket and chilli, it also has a little bite.",
-    "description": "“Up your sandwich game with this fantastic fiery combination. The smoky charred chorizo is lovely with the creamy smashed chickpeas, and the chilli gives a great extra kick. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "The best chorizo sandwich",
+    subName: "Smashed chickpeas, peppery rocket & fresh chilli",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Chorizo is such a gorgeous and versatile meat and this chorizo sandwich recipe is beautiful with chickpeas, rocket and chilli, it also has a little bite.",
+    description:
+      "“Up your sandwich game with this fantastic fiery combination. The smoky charred chorizo is lovely with the creamy smashed chickpeas, and the chilli gives a great extra kick. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Pork",
-      "Spanish",
-      "Chorizo",
-      "Tomato",
-      "Quick fixes",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Pork", "Spanish", "Chorizo", "Tomato", "Quick fixes", "Snacks"],
+    ingredients: [
       "1 fresh red chilli",
       "4 ripe plum tomatoes",
       "extra virgin olive oil",
@@ -5485,83 +5357,83 @@
       "½ a lemon",
       "3 medium quality iberico chorizo sausages",
       "4 bread rolls",
-      "1 handful of wild rocket"
+      "1 handful of wild rocket",
     ],
-    "instructions": [
+    instructions: [
       "Trim and finely slice the chilli (deseed if you like). Deseed and dice the tomatoes, then mix with most of the chilli and a lug of oil. Season with a pinch of sea salt.",
       "Place a pan on a medium-high heat. Drain and rinse the chickpeas, then tip into the pan, stirring until warmed through. Season with salt and black pepper, then finely grate in half the lemon zest, and drizzle over a lug of oil.",
       "Tip the chickpeas into a food processor and pulse until smooth, or mash by hand, then stir in the tomato mixture.",
       "Preheat a griddle pan to high. Slice the chorizo at an angle, about 5mm thick, then griddle for 3 to 5 minutes, or until charred around the edges.",
-      "Halve the rolls and fill with the chickpea mixture and grilled chorizo. Add the rocket leaves and sprinkle with the remaining chilli slices, then tuck in."
+      "Halve the rolls and fill with the chickpea mixture and grilled chorizo. Add the rocket leaves and sprinkle with the remaining chilli slices, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/690_1_1439309296.jpg",
-    "imageAlt": "The best chorizo sandwich"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/690_1_1439309296.jpg",
+    imageAlt: "The best chorizo sandwich",
   },
   {
-    "name": "Strawberry ice lollies",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Strawberry ice lollies are quick and easy to make and the children will love them on a hot summer's day!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes plus freezing time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes plus freezing time"
+    name: "Strawberry ice lollies",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Strawberry ice lollies are quick and easy to make and the children will love them on a hot summer's day!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "5 minutes plus freezing time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes plus freezing time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Alfresco",
       "Desserts",
       "Freezer-friendly recipes",
       "Prep & go recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g strawberries",
       "100 ml natural yoghurt , or apple or orange juice",
-      "1 teaspoon honey"
+      "1 teaspoon honey",
     ],
-    "instructions": [
-      "Whizz up 250g ripe strawberries, 100ml natural yoghurt (or apple or orange juice) and 1 teaspoon honey in a blender or food processor. Taste, and add a little more honey if you think you need to. Divide the strawberry mixture between 4 ice lolly moulds, then pop a stick into each one. Put the ice lollies in the freezer for at least 4 hours or until solid."
+    instructions: [
+      "Whizz up 250g ripe strawberries, 100ml natural yoghurt (or apple or orange juice) and 1 teaspoon honey in a blender or food processor. Taste, and add a little more honey if you think you need to. Divide the strawberry mixture between 4 ice lolly moulds, then pop a stick into each one. Put the ice lollies in the freezer for at least 4 hours or until solid.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/672_1_1436890020.jpg",
-    "imageAlt": "Strawberry ice lollies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/672_1_1436890020.jpg",
+    imageAlt: "Strawberry ice lollies",
   },
   {
-    "name": "Ultimate gingerbread",
-    "subName": "Gorgeous with ice cream, or as a cheesecake base",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's gingerbread recipe is the best ever, the versatile dish can be eaten as is or sprinkled over yogurt; it makes a great cheesecake base too! ",
-    "description": "“Inspired by a secret gingerbread recipe (they wouldn't share!), my version's up there with the best. ”",
-    "servings": "Serves Makes 8 to 10 pieces",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes plus cooling time"
+    name: "Ultimate gingerbread",
+    subName: "Gorgeous with ice cream, or as a cheesecake base",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's gingerbread recipe is the best ever, the versatile dish can be eaten as is or sprinkled over yogurt; it makes a great cheesecake base too! ",
+    description:
+      "“Inspired by a secret gingerbread recipe (they wouldn't share!), my version's up there with the best. ”",
+    servings: "Serves Makes 8 to 10 pieces",
+    time: {
+      prep: "",
+      cook: "25 minutes plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes plus cooling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Cook with Jamie",
       "Bread",
       "Christmas",
       "British",
       "Baking",
-      "Gift"
+      "Gift",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g quality shortbread",
       "170 g demerara sugar",
       "3 level teaspoons ground ginger",
@@ -5571,47 +5443,48 @@
       "1 pinch of baking powder",
       "40 g golden syrup",
       "40 g treacle",
-      "70 g unsalted butter"
+      "70 g unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4 and line a 20cm x 35cm baking tray with greaseproof paper.",
       "Put the shortbread, sugar and 2 teaspoons of the ground ginger into a food processor and whiz to fine crumbs. Remove 100g of the mix and keep this to one side.",
       "Add the remaining teaspoon of ginger to the processor, then roughly chop and add the mixed peel and ginger, followed by the flour and baking powder. Pulse until well mixed.",
       "Melt the syrup, treacle and butter together in a large pan. Once melted, stir in the mixture from the food processor until thoroughly combined.",
       "Tip onto the baking tray and spread out evenly. Press the mixture down into the tray, using your fingers or the back of a spoon. When the mix is a flat, dense and even layer, pop the tray in the preheated oven for 8 to 10 minutes.",
       "Take the tray out of the oven and sprinkle the hot gingerbread with the reserved crumbs, pressing them down really well with a potato masher or spatula.",
-      "Carefully cut into good-sized pieces with a sharp knife, and leave to cool in the tray before eating."
+      "Carefully cut into good-sized pieces with a sharp knife, and leave to cool in the tray before eating.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/B2cT2UrQq0o9jTvSoCIr0G.jpg",
-    "imageAlt": "Ultimate gingerbread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/B2cT2UrQq0o9jTvSoCIr0G.jpg",
+    imageAlt: "Ultimate gingerbread",
   },
   {
-    "name": "Sticky toffee cupcakes with chocolate topping",
-    "subName": "An epic combo",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Cupcakes are amazing and so is sticky toffee pudding; Jamie put them together to make these brilliant sticky toffee cupcakes with a chocolate topping!",
-    "description": "“This to-die-for result of mucking about with a sticky toffee pudding recipe always makes me smile ”",
-    "servings": "Serves Makes about 12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling time"
+    name: "Sticky toffee cupcakes with chocolate topping",
+    subName: "An epic combo",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Cupcakes are amazing and so is sticky toffee pudding; Jamie put them together to make these brilliant sticky toffee cupcakes with a chocolate topping!",
+    description:
+      "“This to-die-for result of mucking about with a sticky toffee pudding recipe always makes me smile ”",
+    servings: "Serves Makes about 12",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Afternoon tea",
       "Easter treats",
       "Father's day",
       "Halloween recipes",
       "Bonfire night recipes",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "30 g sultanas",
       "30 g dried apricots",
       "30 g dates",
@@ -5626,43 +5499,43 @@
       "40 g butter",
       "40 g caster sugar",
       "40 g good-quality dark chocolate (70% cocoa solids)",
-      "70 ml double cream"
+      "70 ml double cream",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6. In a food processor, blitz the sultanas, apricots, dates, baking powder and a little of the flour (just enough to stop the fruit sticking to the blades). If you don’t have a food processor, you can chop it very finely. Put this mixture into a bowl with the muscovado sugar, the golden syrup, the egg and the melted butter and stir together. Then add the very hot water and the remaining flour and mix well with a whisk. Divide the mixture between 12 cupcake papers (I like to double up the papers to give the mixture a bit more hold) and place on a baking tray. Bake in the preheated oven for about 15 minutes.",
-      "Meanwhile, melt all the chocolate topping ingredients in a saucepan and bubble for a while until darkened in colour slightly. Remove from the heat and let the sauce cool until it thickens. Then put a blob on top of each cupcake."
+      "Meanwhile, melt all the chocolate topping ingredients in a saucepan and bubble for a while until darkened in colour slightly. Remove from the heat and let the sauce cool until it thickens. Then put a blob on top of each cupcake.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/550_1_1438704696.jpg",
-    "imageAlt": "Sticky toffee cupcakes with chocolate topping"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/550_1_1438704696.jpg",
+    imageAlt: "Sticky toffee cupcakes with chocolate topping",
   },
   {
-    "name": "Spiced sugar & Christmas popcorn",
-    "subName": "A little festive treat",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This spiced sugar & Christmas popcorn recipe makes a cheap festive treat or even a cute gift with the spiced sugar acting as delicious popcorn seasoning.",
-    "description": "“Homemade popcorn is a great, cheap snack and makes a cute gift too ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus drying time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus drying time"
+    name: "Spiced sugar & Christmas popcorn",
+    subName: "A little festive treat",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This spiced sugar & Christmas popcorn recipe makes a cheap festive treat or even a cute gift with the spiced sugar acting as delicious popcorn seasoning.",
+    description:
+      "“Homemade popcorn is a great, cheap snack and makes a cute gift too ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "20 minutes plus drying time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus drying time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Cooks Christmas",
       "Christmas",
       "American",
       "Cheap & cheerful",
       "Desserts",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "1 vanilla pod , halved lengthways",
       "1 kg unrefined caster sugar",
       "olive oil",
@@ -5674,9 +5547,9 @@
       "2 lemons , finely grated zest of",
       "6 whole cloves",
       "½ teaspoon ground cinnamon",
-      "10 gratings whole nutmeg"
+      "10 gratings whole nutmeg",
     ],
-    "instructions": [
+    instructions: [
       "What’s mad about this is that, even though all of these spices and flavours are so pungent on their own, they actually taste like tutti frutti sweets when together.",
       "You can use this sugar for so many things; from a sweetener for porridge, sprinkled over baked bananas, or to make a gorgeous Chantilly cream. It will keep for a while, so if you’re going to make it, you may as well make a batch and keep it in an airtight container.",
       "Whack the bay leaves, orange and lemon zest and all of your spices into a food processor and give it a good whiz. Once that’s well blended add your sugar and whiz again so you’ve got a lovely spiced sugar. Because there’s quite a bit of moistness in the zest and vanilla pod it’s a good idea to pour the sugar onto a baking tray, spread it out evenly then leave it to dry for a few hours.",
@@ -5684,38 +5557,39 @@
       "Spiced Christmas popcorn",
       "Popcorn only takes a few minutes to make but it smells, sounds and tastes brilliant; it’s a great thing to have going on in your home. If you’re feeling a bit creative you can divide the popcorn between some little sandwich bags, tie them with ribbons then give them out as a bit of a Christmas treat to adults and kids. If the sugar settles on the bottom of the bag just give the bag a shake before tucking in.",
       "Put a few lugs of oil and your butter in a large pan over a high heat. Once the butter has melted, add the popcorn and stir well to coat the kernels. Put the lid on straight away and leave it for a few minutes. It will take a few minutes to get going so be patient. As the popcorn gets going give the pan a shake every 30 seconds or so to make sure the kernels all get popped. Put your spiced sugar in a large bowl and when the popcorn is ready add it to the bowl and quickly toss it and stir it into the sugar so the hot popcorn picks up those lovely spiced flavours.",
-      "Serve the popcorn in a big bowl or in little bowls dotted about the house. I can honestly say, hand on heart, that this is one of the nicest popcorns I’ve ever had. It’s delicious and has to be better for you than caramels, toffees or cheap artificial sweets."
+      "Serve the popcorn in a big bowl or in little bowls dotted about the house. I can honestly say, hand on heart, that this is one of the nicest popcorns I’ve ever had. It’s delicious and has to be better for you than caramels, toffees or cheap artificial sweets.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/525_1_1439310760.jpg",
-    "imageAlt": "Spiced sugar & Christmas popcorn"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/525_1_1439310760.jpg",
+    imageAlt: "Spiced sugar & Christmas popcorn",
   },
   {
-    "name": "Mother's Day rhubarb and ginger muffins",
-    "subName": "A lovely homemade gift",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Your mum will love you for trying this rhubarb muffin recipe with ginger, orange and lemon; and your rhubarb and ginger muffins will make a great gift too!",
-    "description": "“If you can resist gobbling up all these rhubarb muffins yourself, they make a great pressie ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Mother's Day rhubarb and ginger muffins",
+    subName: "A lovely homemade gift",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Your mum will love you for trying this rhubarb muffin recipe with ginger, orange and lemon; and your rhubarb and ginger muffins will make a great gift too!",
+    description:
+      "“If you can resist gobbling up all these rhubarb muffins yourself, they make a great pressie ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Mother's day",
       "Easter treats",
       "British",
       "Rhubarb",
-      "Muffin"
+      "Muffin",
     ],
-    "ingredients": [
+    ingredients: [
       "350 g plain flour",
       "1 teaspoon baking powder",
       "½ teaspoon salt",
@@ -5726,85 +5600,76 @@
       "2 pieces of stem ginger , finely chopped",
       "1 large free-range egg",
       "100 g butter , plus 1 tablespoon extra, melted",
-      "300 g rhubarb , finely chopped"
+      "300 g rhubarb , finely chopped",
     ],
-    "instructions": [
+    instructions: [
       "These rhubarb muffins are a great thing to pull out of the bag on Mother’s Day, especially if, like me, you sometimes forget to pick up a present! Your mum will love them!",
       "Preheat the oven to 180ºC/350ºF/gas 4 and line a muffin tray with muffin cases.",
       "In a large mixing bowl place the flour, baking powder, salt and 225g of the brown sugar. Mix, then make a well in the centre.",
       "Squeeze a few drops of lemon juice into the milk and set aside for a couple of minutes. Place the orange zest, half the stem ginger, the egg, 100g of melted butter and the milk mixture into the bowl and beat thoroughly. Fold in the chopped rhubarb. Spoon the mixture into the muffin cases, filling each one to the top.",
       "In a small bowl place the remaining 100g of brown sugar, the extra tablespoon of melted butter and the rest of the stem ginger. Mix until it looks like a crumble topping, then sprinkle over the muffins.",
-      "Bake for 25 minutes so the sugar turns golden and crispy and the muffins are cooked through. Serve warm with custard or crème fraîche for a lovely pudding."
+      "Bake for 25 minutes so the sugar turns golden and crispy and the muffins are cooked through. Serve warm with custard or crème fraîche for a lovely pudding.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/348_1_1436867017.jpg",
-    "imageAlt": "Mother's Day rhubarb and ginger muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/348_1_1436867017.jpg",
+    imageAlt: "Mother's Day rhubarb and ginger muffins",
   },
   {
-    "name": "Lollipops",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Have you ever made your own fruit ice lollies before? Well, give this lollipop recipe by Jamie Oliver a go! It’s a great way to get the kids into the kitchen. Let them pick their favourite fruit juice",
-    "description": "",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes plus freezing time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes plus freezing time"
+    name: "Lollipops",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Have you ever made your own fruit ice lollies before? Well, give this lollipop recipe by Jamie Oliver a go! It’s a great way to get the kids into the kitchen. Let them pick their favourite fruit juice",
+    description: "",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "5 minutes plus freezing time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes plus freezing time",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Desserts",
-      "Snacks",
-      "Puddings & desserts"
-    ],
-    "ingredients": [
-      "juice"
-    ],
-    "instructions": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Desserts", "Snacks", "Puddings & desserts"],
+    ingredients: ["juice"],
+    instructions: [
       "My lovely nan and grandad used to run a village pub called the Plough and Snail in Paglesham in Essex. When I was a kid they used to send me and my sister, Anna-Marie, a huge box of about 200 ice lollies at the start of the summer holidays every year.",
       "The ice lollies would arrive with the deliveries from the same butcher that we’ve always shared and we would keep them in the big chest freezer outside the store shed. This was great, as it meant I had a constant supply I could help myself to whenever I wanted. I was always quite popular with the local kids because of this.",
       "So much so that my supplies would dwindle very quickly. So, I started to make my own lolly pops. The nice thing about them was that they weren’t full of a thousand E numbers because I would make them out of apple juice, orange juice, lemonade, pineapple juice – all sorts of stuff. Even cocktail combinations are good. I would also sneak into the pub for some cider shandy to make lolly pops!",
-      "All you need to do to make lolly pops is buy a couple of those really cheap ice lolly sets. You can find them in most kitchen shops. Fill them up with your chosen juice and put the stick in before freezing. It’s nice to have something cold and fruity to hand in your freezer when it’s a scorcher outside."
+      "All you need to do to make lolly pops is buy a couple of those really cheap ice lolly sets. You can find them in most kitchen shops. Fill them up with your chosen juice and put the stick in before freezing. It’s nice to have something cold and fruity to hand in your freezer when it’s a scorcher outside.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/321_1_1439310407.jpg",
-    "imageAlt": "Lollipops"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/321_1_1439310407.jpg",
+    imageAlt: "Lollipops",
   },
   {
-    "name": "Lemon butter biscuits",
-    "subName": "Lovely with a good cup of tea",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "For a super easy lemon biscuit recipe, try Jamie's Lemon Butter Biscuits; they make a deliciously simple gift and can be easily jazzed up for Christmas! ",
-    "description": "“These little lemon biscuits are so delicious and easy – you'll never need to buy biccies again! ”",
-    "servings": "30",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Lemon butter biscuits",
+    subName: "Lovely with a good cup of tea",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "For a super easy lemon biscuit recipe, try Jamie's Lemon Butter Biscuits; they make a deliciously simple gift and can be easily jazzed up for Christmas! ",
+    description:
+      "“These little lemon biscuits are so delicious and easy – you'll never need to buy biccies again! ”",
+    servings: "30",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Easter treats",
       "Mother's day",
       "British",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "125 g butter , at room temperature",
       "100 g caster sugar",
       "1 free-range egg",
@@ -5813,42 +5678,43 @@
       "¼ teaspoon baking powder",
       "1 pinch sea salt",
       "plain flour , for dusting",
-      "3 tablespoons demerara sugar"
+      "3 tablespoons demerara sugar",
     ],
-    "instructions": [
+    instructions: [
       "These biscuits are dead easy to make and perfect for a simple gift. If you fancy jazzing them up for Christmas, try using an orange in place of the lemons and add a pinch of cinnamon to your demerara – lovely and festive!",
-      "Beat the butter and sugar in a bowl with an electric mixer until creamy. Beat in the egg until the mixture is light and fluffy. Add the flour, lemon zest, baking powder and salt and mix until you have a ball of dough. Cover and place in the fridge for 2 hours, or until firm. Preheat your oven to 180°C/350°F/gas 4. Roll out the dough on a floured surface until ½cm thick. Cut out shapes and place on a greaseproofed tray. Sprinkle with demerara sugar and bake for 10 to 12 minutes until the edges are light brown. Transfer to a wire rack to cool."
+      "Beat the butter and sugar in a bowl with an electric mixer until creamy. Beat in the egg until the mixture is light and fluffy. Add the flour, lemon zest, baking powder and salt and mix until you have a ball of dough. Cover and place in the fridge for 2 hours, or until firm. Preheat your oven to 180°C/350°F/gas 4. Roll out the dough on a floured surface until ½cm thick. Cut out shapes and place on a greaseproofed tray. Sprinkle with demerara sugar and bake for 10 to 12 minutes until the edges are light brown. Transfer to a wire rack to cool.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/311_1_1436805247.jpg",
-    "imageAlt": "Lemon butter biscuits"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/311_1_1436805247.jpg",
+    imageAlt: "Lemon butter biscuits",
   },
   {
-    "name": "Jamie's baked figs",
-    "subName": "Plus a few brilliant ways to enjoy them",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "There are loads of ways to enjoy Baked Figs, especially at Christmas time; for inspiration check out Jamie's baked fig recipes including fig bruschetta.",
-    "description": "“This baked figs recipe is a festive favourite of mine – incredible on bruschetta with goat's cheese ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "4 hours 5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "4 hours 5 minutes"
+    name: "Jamie's baked figs",
+    subName: "Plus a few brilliant ways to enjoy them",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "There are loads of ways to enjoy Baked Figs, especially at Christmas time; for inspiration check out Jamie's baked fig recipes including fig bruschetta.",
+    description:
+      "“This baked figs recipe is a festive favourite of mine – incredible on bruschetta with goat's cheese ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "4 hours 5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "4 hours 5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Cooks Christmas",
       "Fruit",
       "Christmas",
       "Gift",
       "Leftovers",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "For the baked figs",
       "24 figs , halved",
       "2 clementines",
@@ -5860,44 +5726,40 @@
       "1 handful walnuts",
       "runny honey",
       "To store",
-      "1 large jar runny honey"
+      "1 large jar runny honey",
     ],
-    "instructions": [
+    instructions: [
       "You should have no problem getting nice figs at Christmas time and they’re wonderful to make in so many ways so when you see them, buy them up! Here’s one really gorgeous way to have them. I promise you won’t get bored of these; there are so many lovely ways of using them up.",
       "Personally, I like to make a sort of bruschetta with them or put them out on a platter with some nice cheese. As it’s Christmas and your kitchen is probably well-stocked, you’ll hopefully have the ingredients for the bruschetta on hand already. If not, you can always improvise with whatever you’ve got in the fridge.",
       "Preheat your oven to 110ºC/225ºF/gas ¼. Lay your figs, cut-side up, in a baking tray. Using a fine grater, zest your clementines over the figs then dust the figs with a sprinkling of cinnamon and a teaspoon of sugar. My flavoured sugar is also great for this so if you’ve made a batch of that, feel free to use that instead.",
       "Pop the figs in the oven to bake for 4 hours, checking on them every hour or so. When they come out of the oven you’ll have semi-dehydrated figs, which will be a bit like wine gums.",
       "Fig bruschetta\nGet yourself a few slices of nice warm bread, crumble over some lumps of cheese, and a few pieces of walnut then put a few fig halves and a drizzle of runny honey over the top to finish it off. I think the combination of salty goat’s cheese with these figs and a bit of honey is absolute heaven.",
-      "Figs in honey\nYou’ll be able to put any leftover figs to good use in all sorts of ways. A really nice way of using them at Christmas is to turn them into a bit of a gift by popping a stack of them in a sterilised jar, covering them completely with honey then sealing the jar with an airtight lid. They’ll be beautiful as part of a cheese platter, baked in a tart, a sticky toffee pud, or even thrown into a roasting tray with some pork or other meat for a bit of added sweetness. Give them to your mates when you go round to theirs for dinner. They’ll love getting something unique, especially when you explain all the different things they can do with them."
+      "Figs in honey\nYou’ll be able to put any leftover figs to good use in all sorts of ways. A really nice way of using them at Christmas is to turn them into a bit of a gift by popping a stack of them in a sterilised jar, covering them completely with honey then sealing the jar with an airtight lid. They’ll be beautiful as part of a cheese platter, baked in a tart, a sticky toffee pud, or even thrown into a roasting tray with some pork or other meat for a bit of added sweetness. Give them to your mates when you go round to theirs for dinner. They’ll love getting something unique, especially when you explain all the different things they can do with them.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/289_1_1438866573.jpg",
-    "imageAlt": "Jamie's baked figs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/289_1_1438866573.jpg",
+    imageAlt: "Jamie's baked figs",
   },
   {
-    "name": "Hush puppies",
-    "subName": "US-style savoury doughnuts",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's hush puppies recipe for US-style cheesy, beer-battered savoury doughnuts makes naughty but nice party food.",
-    "description": "“These cheesy, beer-battered hush puppies are a great little treat now and then, and great party food ”",
-    "servings": "25",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Hush puppies",
+    subName: "US-style savoury doughnuts",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's hush puppies recipe for US-style cheesy, beer-battered savoury doughnuts makes naughty but nice party food.",
+    description:
+      "“These cheesy, beer-battered hush puppies are a great little treat now and then, and great party food ”",
+    servings: "25",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie's America",
-      "American",
-      "Snacks",
-      "Starters"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie's America", "American", "Snacks", "Starters"],
+    ingredients: [
       "1 litre vegetable oil",
       "smoked paprika",
       "300 g fine cornmeal or polenta",
@@ -5905,46 +5767,45 @@
       "330 ml beer",
       "100 g fresh or frozen sweetcorn",
       "4 spring onions , trimmed or finely sliced",
-      "120 g Cheddar cheese , freshly and finely grated"
+      "120 g Cheddar cheese , freshly and finely grated",
     ],
-    "instructions": [
+    instructions: [
       "Hush puppies are little savoury doughnuts and I think they’re quite cool. I was told their name comes from the time of the Great Depression, when loads of people were going hungry. When they did get a bit of food, their hungry dogs would hang around whining, so they’d throw these little buns to them to keep them quiet. That might be an old wives’ tale, but if it is, I don’t care because I like the story. OK, they’re not the healthiest things on the planet, but every now and then . . . they’re not going to hurt you.",
       "Put the cornmeal and flour into a bowl, add your beer, and leave to sit for a few minutes. Add the corn, sliced spring onions, grated cheese and a pinch of sea salt and black pepper and use a fork or a spoon to mix it up really well. Once your batter is ready, pour your vegetable oil into a large sturdy pan and put it on a high heat. Please make sure you don’t move the pan about and that no one is running around the kitchen while you’re doing this, as hot oil can burn quite badly.",
       "You want the oil to reach about 180ºC, so if you don’t have a thermometer get a small piece of potato and drop it into the pan. When it turns crisp and golden and rises to the top, the oil is ready to go. Get a tablespoonful of mix and carefully drop it into the hot oil. In Georgia they roll their batter into round balls, but I say just let it drop off the spoon: a bit scruffy and rustic feels right to me. You’ll need to cook them in batches.",
-      "Keep your eye on them and let them fry for about 3 to 4 minutes, then remove with a slotted spoon and drain on a plate lined with kitchen paper. Sprinkle over a tiny bit of sea salt and a hit of paprika to finish them off, and serve right away, either on their own or as they do at roadside restaurants, as part of a meal with the amazing pork and slaw. Naughty but nice!"
+      "Keep your eye on them and let them fry for about 3 to 4 minutes, then remove with a slotted spoon and drain on a plate lined with kitchen paper. Sprinkle over a tiny bit of sea salt and a hit of paprika to finish them off, and serve right away, either on their own or as they do at roadside restaurants, as part of a meal with the amazing pork and slaw. Naughty but nice!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/276_1_1434099517.jpg",
-    "imageAlt": "Hush puppies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/276_1_1434099517.jpg",
+    imageAlt: "Hush puppies",
   },
   {
-    "name": "Humble home-cooked beans",
-    "subName": "It's beans on toast, but not as you know it",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Vegan"
-    ],
-    "metaDescription": " Once you've learned how to make beans on toast properly, like this, then you won't look back; you can also apply the method to all sort of other beans. ",
-    "description": "“This recipe's inspired by a wonderful Italian dish – the most amazing beans you'll ever taste ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes plus soaking time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes plus soaking time"
+    name: "Humble home-cooked beans",
+    subName: "It's beans on toast, but not as you know it",
+    specialDiets: ["Vegetarian", "Dairy-free", "Vegan"],
+    metaDescription:
+      " Once you've learned how to make beans on toast properly, like this, then you won't look back; you can also apply the method to all sort of other beans. ",
+    description:
+      "“This recipe's inspired by a wonderful Italian dish – the most amazing beans you'll ever taste ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes plus soaking time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes plus soaking time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Vegetables",
       "British",
       "Bread",
       "Healthy meals",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g dried borlotti or cannellini beans , soaked in cold water for at least 12 hours",
       "3 cloves garlic , unpeeled",
       "a few sprigs fresh thyme",
@@ -5956,45 +5817,38 @@
       "extra virgin olive oil",
       "red wine vinegar",
       "a few sprigs fresh flat-leaf parsley , chopped",
-      "4 slices sourdough bread"
+      "4 slices sourdough bread",
     ],
-    "instructions": [
+    instructions: [
       "Drain your soaked beans, then give them a good wash. Place them in a deep pot and cover them with cold water. Throw in your garlic, herb sprigs, bay leaves, celery stick, potato and tomatoes.",
       "Place the beans on the heat and slowly bring to the boil. Cover with a lid and simmer very gently for 45 minutes to an hour, depending on whether you’re using fresh or dried, until soft and cooked nicely. Skim if necessary, topping up with boiling water from the kettle if you need to.",
       "When the beans are cooked, drain them in a colander, reserving enough of the cooking water to cover them halfway up when put back in the pot. Remove the garlic, herbs, celery, potato and tomatoes from the beans. Squeeze the garlic cloves out of their skins and pinch the skin off the tomatoes.",
-      "Put the garlic, tomatoes and potato on to a plate, mash them with a fork and stir back into the beans. Season well with salt and pepper, and pour in three generous lugs of extra virgin olive oil and a few splashes of vinegar. Stir in the parsley and serve on some toasted sourdough bread."
+      "Put the garlic, tomatoes and potato on to a plate, mash them with a fork and stir back into the beans. Season well with salt and pepper, and pour in three generous lugs of extra virgin olive oil and a few splashes of vinegar. Stir in the parsley and serve on some toasted sourdough bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/274_1_1436801859.jpg",
-    "imageAlt": "Humble home-cooked beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/274_1_1436801859.jpg",
+    imageAlt: "Humble home-cooked beans",
   },
   {
-    "name": "Fruit smoothie",
-    "subName": "Mango, lime, banana & coconut",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Fruit smoothies make delicious summer drinks; try Jamie's fruit smoothie recipe with banana, mango, coconut milk, cardamom and lime for an exotic treat!",
-    "description": "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Fruit smoothie",
+    subName: "Mango, lime, banana & coconut",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Fruit smoothies make delicious summer drinks; try Jamie's fruit smoothie recipe with banana, mango, coconut milk, cardamom and lime for an exotic treat!",
+    description:
+      "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Breakfast",
-      "Juices and smoothies",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Breakfast", "Juices and smoothies", "Snacks"],
+    ingredients: [
       "1 banana",
       "2 ripe mangos",
       "400 g tin of light coconut milk",
@@ -6003,83 +5857,80 @@
       "1 handful of ice cubes",
       "GARNISH",
       "lime zest",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "Peel the banana and roughly chop it.",
       "Skin the mangos, remove the stones and roughly chop the flesh.",
       "Put the fruit in a food processor or liquidizer and blend together with the rest of the ingredients. Make sure you blend the mixture really well, then pour the fruit smoothie into a tall, chilled glass.",
-      "Sprinkle over a bit of lime zest and some freshly ground black pepper. Drink straight away."
+      "Sprinkle over a bit of lime zest and some freshly ground black pepper. Drink straight away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Aot7m3ydKcK9Y9auF_ElXd.jpg",
-    "imageAlt": "Fruit smoothie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Aot7m3ydKcK9Y9auF_ElXd.jpg",
+    imageAlt: "Fruit smoothie",
   },
   {
-    "name": "Frozen fruit smoothies",
-    "subName": "With oats & nuts",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try Jamie's frozen fruit smoothie recipe for a healthy and tasty breakfast alternative, with yoghurt, fruit, and oats and nuts to keep you energised.",
-    "description": "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Frozen fruit smoothies",
+    subName: "With oats & nuts",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try Jamie's frozen fruit smoothie recipe for a healthy and tasty breakfast alternative, with yoghurt, fruit, and oats and nuts to keep you energised.",
+    description:
+      "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Freezer-friendly recipes",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe banana",
       "1 glass frozen fruit",
       "2 heaped tablespoons natural yoghurt",
       "1 small handful of oats",
       "1 small handful of mixed nuts",
       "1 glass of organic soya milk, skimmed milk or apple juice",
-      "honey , to taste, optional"
+      "honey , to taste, optional",
     ],
-    "instructions": [
-      "Peel and slice your banana and put it into a blender with your frozen fruit and the yoghurt. Whiz it up and add the oats and nuts. Add the soya milk, skimmed milk, or apple juice and whiz again, until nice and smooth. If it's a bit too thick for you, just add a splash more milk or juice and whiz around again. Give it a good stir, then have a taste. Rarely with a frozen fruit smoothie should you need to sweeten it, but if you think it needs a bit of extra sweetness you can add a little honey to taste — you won't need much."
+    instructions: [
+      "Peel and slice your banana and put it into a blender with your frozen fruit and the yoghurt. Whiz it up and add the oats and nuts. Add the soya milk, skimmed milk, or apple juice and whiz again, until nice and smooth. If it's a bit too thick for you, just add a splash more milk or juice and whiz around again. Give it a good stir, then have a taste. Rarely with a frozen fruit smoothie should you need to sweeten it, but if you think it needs a bit of extra sweetness you can add a little honey to taste — you won't need much.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/219_1_1436794575.jpg",
-    "imageAlt": "Frozen fruit smoothies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/219_1_1436794575.jpg",
+    imageAlt: "Frozen fruit smoothies",
   },
   {
-    "name": "Flying Steak Sandwich",
-    "subName": "Delicious pigeon breasts with caramelised onions",
-    "specialDiets": [],
-    "metaDescription": "Also known as a flying steak sandwich, this pigeon breast sandwich is gorgeous; pigeon meat is so under used and underrated, you should try it today! ",
-    "description": "“If you can get hold of some decent pigeon meat, this take on a steak sandwich is the business ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Flying Steak Sandwich",
+    subName: "Delicious pigeon breasts with caramelised onions",
+    specialDiets: [],
+    metaDescription:
+      "Also known as a flying steak sandwich, this pigeon breast sandwich is gorgeous; pigeon meat is so under used and underrated, you should try it today! ",
+    description:
+      "“If you can get hold of some decent pigeon meat, this take on a steak sandwich is the business ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie's Great Britain",
-      "Game",
-      "Steak",
-      "Beef",
-      "Bread",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie's Great Britain", "Game", "Steak", "Beef", "Bread", "Snacks"],
+    ingredients: [
       "2 red onions , peeled and finely sliced",
       "olive oil",
       "1 teaspoon soft brown sugar",
@@ -6093,54 +5944,54 @@
       "Worcestershire sauce",
       "English mustard , to serve",
       "1 large handful watercress , to serve",
-      "cottage cheese , to serve"
+      "cottage cheese , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Pigeon gets a bad rap, but good wild country birds (not the mangy kind you see wandering around cities!) produce one of the most delicious and underrated meats in the world (as long as it’s cooked medium rare). In the past, I’ve seared pigeon breast, put it inside some lovely bread and had people tell me it’s the best steak sandwich they’ve ever had! So here’s how it’s done ... This makes a brilliant casual lunch, dinner or snack with a nice salad.",
       "Turn the oven to 180°C/350°F/gas 4. Put the onions into a large pan on a medium low heat and add a lug of olive oil, a pinch of sea salt and white pepper, the sugar and the thyme leaves. Put the lid on and cook for 30 minutes, stirring occasionally. After this time, remove the lid, turn the heat up to high and give the onions a good stir, then add the vinegar and stir again. Leave the lid off and continue to cook down until the onions are really sticky and slightly golden. Keep your eye on them.",
       "Put the ciabatta into the hot oven. Heat a large non-stick pan on a high heat. Finely chop the rosemary leaves and put them into a mixing bowl. Add the pigeon breasts, drizzle over some olive oil, season with salt and pepper and grate over a few scrapings of nutmeg. Toss the pigeon until coated. Once the pan is really hot, add a lug of olive oil and the bay leaves and put in the breasts, skin side down so they crisp up nicely. Cook for around 2½ minutes on the skin side and 1 minute on the other side for tender and blushing medium- rare meat, which trust me is what you want – anything over that and it will be tough and boring. As you remove the pan from the heat, shake in a few good drizzles of Worcestershire sauce, then toss the meat in the juices. Move to a board and slice thinly at an angle.",
-      "Get the warm bread out of the oven, open it out with a serrated knife, put it on a nice board and spread as much mustard as you dare on one side (be confident – you can spread a little butter on if you want, but I don’t because the meat juices are enough). Put big pinches of watercress and those sticky onions down one side. Arrange the slices of pigeon around the sandwich, then dollop small amounts of cottage cheese in and around the meat. Push the top of the sandwich down and hold it for a couple of seconds so it sucks up all those juices. You can stab a knife through the sandwich to hold it together when you take it to the table. Serve next to a pint of good British ale."
+      "Get the warm bread out of the oven, open it out with a serrated knife, put it on a nice board and spread as much mustard as you dare on one side (be confident – you can spread a little butter on if you want, but I don’t because the meat juices are enough). Put big pinches of watercress and those sticky onions down one side. Arrange the slices of pigeon around the sandwich, then dollop small amounts of cottage cheese in and around the meat. Push the top of the sandwich down and hold it for a couple of seconds so it sucks up all those juices. You can stab a knife through the sandwich to hold it together when you take it to the table. Serve next to a pint of good British ale.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/213_1_1436794337.jpg",
-    "imageAlt": "Flying Steak Sandwich"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/213_1_1436794337.jpg",
+    imageAlt: "Flying Steak Sandwich",
   },
   {
-    "name": "Cool crudite veggies with a minted pea and yoghurt dip",
-    "subName": "A fresh and light sharer",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Crunchy vegetable crudites and a minty yoghurt dip make a great party dish",
-    "description": "“Pick your favourite veggies, whiz together this super-fresh homemade dip and get dunking ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Cool crudite veggies with a minted pea and yoghurt dip",
+    subName: "A fresh and light sharer",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Crunchy vegetable crudites and a minty yoghurt dip make a great party dish",
+    description:
+      "“Pick your favourite veggies, whiz together this super-fresh homemade dip and get dunking ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Dinners",
       "Vegetables",
       "Healthy snack ideas",
       "Snacks",
       "Vegetable sides",
-      "Healthy vegetarian recipes"
+      "Healthy vegetarian recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "320 g fresh veg , such as baby carrots, radishes, romaine lettuce, radicchio, young asparagus, celery",
       "Minted yoghurt dip",
       "200 ml fat-free natural yoghurt",
       "1-2 handfuls of fresh mint",
       "2 handfuls of fresh podded peas",
       "1 handful of Parmesan cheese , freshly grated",
-      "½ lemon"
+      "½ lemon",
     ],
-    "instructions": [
+    instructions: [
       "This dish is only as good as the vegetables you buy, so use that as your starting point and you'll be on to an absolute winner! Here are some tips on buying and preparing a selection of veg...",
       "In most supermarkets these days you can get fresh baby carrots with their green tops. Leave about an inch of the tops on and just give the carrots a scrub.",
       "Do the same with some lovely radishes. You can get some marbled pink and white oval ones now, which are crunchy and peppery. Again, leave the tops on as these make good handles when it comes to dipping.",
@@ -6148,34 +5999,32 @@
       "If you've got some young asparagus that's just come into season, it's really nice eaten raw. Feel free to use your imagination on the veggie side. Little fingers of celery or celeriac are also good. However, you often come across people who use raw cauliflower with dips – I personally would prefer colonic irrigation! I think cauliflower and broccoli are just awful eaten raw, so I wouldn't suggest using them here.",
       "Put the yoghurt in a food processor, pick in the mint leaves and whiz up for half a minute or so. Add the peas and the Parmesan, and whiz again – the peas will break down and the yoghurt will become green.",
       "Put the dip in a bowl, correcting the seasoning with sea salt, freshly ground black pepper and a good squeeze of lemon juice. When you add the lemon juice and peas to the yoghurt, quite often it splits and turns into a kind of cheese, but this is absolutely fine. It depends on the type of yoghurt you use and how acidic your lemon is. Just pour away any excess water. Usually, though, it doesn't split and is more like a purée, but both ways are good.",
-      "Serve your veggies on a big board or in a big bowl next to the dip. And have some salt and pepper to hand in case you need it. It's a good sociable way to start a meal."
+      "Serve your veggies on a big board or in a big bowl next to the dip. And have some salt and pepper to hand in case you need it. It's a good sociable way to start a meal.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/150_30_1439915379.jpg",
-    "imageAlt": "Cool crudite veggies with a minted pea and yoghurt dip"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/150_30_1439915379.jpg",
+    imageAlt: "Cool crudite veggies with a minted pea and yoghurt dip",
   },
   {
-    "name": "Chocolate fridge cake",
-    "subName": "With pecan & meringues",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Chocolate fridge cake is such a great no-bake cake recipe as you don't need an oven but still get a delicious cake at the end of it!",
-    "description": "“This no-bake fridge cake is genius, and very easy to customise – have a bit of fun and swap in things like popcorn, stem ginger, marshmallows or desiccated coconut. ”",
-    "servings": "16",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Chocolate fridge cake",
+    subName: "With pecan & meringues",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Chocolate fridge cake is such a great no-bake cake recipe as you don't need an oven but still get a delicious cake at the end of it!",
+    description:
+      "“This no-bake fridge cake is genius, and very easy to customise – have a bit of fun and swap in things like popcorn, stem ginger, marshmallows or desiccated coconut. ”",
+    servings: "16",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Bonfire night recipes",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Bonfire night recipes", "Snacks"],
+    ingredients: [
       "200 g digestive biscuits",
       "100 g pecans",
       "110 g shelled pistachio nuts",
@@ -6183,90 +6032,91 @@
       "2 free-range meringue nests",
       "200 g quality dark chocolate (70%)",
       "150 g unsalted butter",
-      "1 tablespoon golden syrup"
+      "1 tablespoon golden syrup",
     ],
-    "instructions": [
+    instructions: [
       "Snap the biscuits into small pieces and roughly chop the pecans, then place in a large bowl.",
       "Add the pistachios, tear in the cherries, then smash up and add the meringue.",
       "Snap the chocolate into a heatproof bowl, roughly chop and add the butter, and drizzle in the golden syrup, then either melt over a pan of gently simmering water or in a microwave, stirring regularly.",
       "Mix the contents of both bowls together, stirring well to combine.",
       "Get yourself a container that will act as a mould, and line it with clingfilm, leaving plenty of extra at the edges to fold over the top.",
       "Spoon the mixture into the container, then place in the fridge to firm up.",
-      "Once firm, use the clingfilm to help you turn it out, then cut into chunky slices – this will keep for up to 5 days in an airtight container (if you can resist it for that long!)."
+      "Once firm, use the clingfilm to help you turn it out, then cut into chunky slices – this will keep for up to 5 days in an airtight container (if you can resist it for that long!).",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/68371131.jpg",
-    "imageAlt": "Chocolate fridge cake"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/68371131.jpg",
+    imageAlt: "Chocolate fridge cake",
   },
   {
-    "name": "Chocolate biscuits with soft chocolate centres",
-    "subName": "Rustic gooey chocolate treats",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This chocolate biscuit recipe with soft chocolate centres are simple, tasty and good fun, the perfect chocolate biscuit to make with kids.",
-    "description": "“Kids (and grown-ups) love these gorgeous chocolate biscuits – you just can't keep your hands off 'em ”",
-    "servings": "Serves Makes 30 biscuits",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes plus chilling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes plus chilling time"
+    name: "Chocolate biscuits with soft chocolate centres",
+    subName: "Rustic gooey chocolate treats",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This chocolate biscuit recipe with soft chocolate centres are simple, tasty and good fun, the perfect chocolate biscuit to make with kids.",
+    description:
+      "“Kids (and grown-ups) love these gorgeous chocolate biscuits – you just can't keep your hands off 'em ”",
+    servings: "Serves Makes 30 biscuits",
+    time: {
+      prep: "",
+      cook: "30 minutes plus chilling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes plus chilling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Halloween recipes",
       "Bonfire night recipes",
       "British",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "140 g butter",
       "140 g caster sugar",
       "2 free-range egg yolks",
       "255 g self-raising flour",
       "30 g cocoa powder",
-      "30 squares good-quality chocolate (milk, white or plain)"
+      "30 squares good-quality chocolate (milk, white or plain)",
     ],
-    "instructions": [
+    instructions: [
       "This is a great recipe to make with kids as a treat, as it’s very simple and good fun putting the top circle over the chocolate and squashing the edges gently together to stop the chocolate escaping when it cooks.",
       "This is quite a dry mixture, but don’t worry, they are meant to look a bit cracked and rustic, so you can’t really go wrong! If you eat these when they have just been cooked the chocolate is quite runny, and if you eat them cold they are nice and gooey. You’ll need two cutters, one about 4cm and the other about 5cm.",
       "Grease a large baking sheet. Cream the butter and sugar together until pale. Beat in the egg yolks, then add the flour and cocoa powder to make a dough. Turn out and knead, then pop it into the fridge for a while. Preheat the oven to 190ºC/375ºF/gas 5.",
       "On a lightly floured surface, roll about a third of the dough out thinly, then cut out about 30 circles with the smaller cutter (you can do fewer if you want the biscuits bigger). Spread them out on the baking sheet and put a square of chocolate in the middle of each one – make sure you use all the chocolate however many you do. Then roll the rest of the dough out (I always add the leftovers from the first lot of cutting to it and knead it a bit). Cut out the same number of circles with the larger cutter and pop them on top of the chocolate, pressing gently all the way round to seal the edge and keep all the chocolate in.",
-      "Cook in the preheated oven for 10 minutes, and eat them hot or cold."
+      "Cook in the preheated oven for 10 minutes, and eat them hot or cold.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/133_1_1441120256.jpg",
-    "imageAlt": "Chocolate biscuits with soft chocolate centres"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/133_1_1441120256.jpg",
+    imageAlt: "Chocolate biscuits with soft chocolate centres",
   },
   {
-    "name": "Butternut squash muffins with a frosty top",
-    "subName": "A perfect naughty-but-nice treat",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This butternut squash muffins recipe is easy and delicious; they taste a bit like carrot cake and are a great way to get your kids to eat some squash! ",
-    "description": "“These muffins are a great way to get the kids eating squash and taste absolutely delicious ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling time"
+    name: "Butternut squash muffins with a frosty top",
+    subName: "A perfect naughty-but-nice treat",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This butternut squash muffins recipe is easy and delicious; they taste a bit like carrot cake and are a great way to get your kids to eat some squash! ",
+    description:
+      "“These muffins are a great way to get the kids eating squash and taste absolutely delicious ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Vegetables",
       "Mother's day",
       "Halloween recipes",
       "Bonfire night recipes",
-      "Muffin"
+      "Muffin",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g butternut squash , skin on, deseeded and roughly chopped",
       "350 g light soft brown sugar",
       "4 large free-range eggs",
@@ -6282,59 +6132,54 @@
       "140 ml soured cream",
       "2 heaped tablespoons icing sugar , sifted",
       "lavender flowers or rose petals , optional",
-      "1 vanilla pod , split lengthways and seeds scraped out"
+      "1 vanilla pod , split lengthways and seeds scraped out",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4. Line your muffin tins with paper cases.",
       "Whiz the squash in a food processor until finely chopped. Add the sugar, and crack in the eggs. Add a pinch of salt, the flour, baking powder, walnuts, cinnamon and olive oil and whiz together until well beaten. You may need to pause the machine at some point to scrape the mix down the sides with a rubber spatula. Try not to overdo it with the mixing – you want to just combine everything and no more.",
       "Fill the paper cases with the cake mixture. Bake in the preheated oven for 20 to 25 minutes. Check to see whether they are cooked properly by sticking a wooden skewer or a knife right into one of the cakes – if it comes out clean, they’re done. If it’s a bit sticky, pop them back into the oven for a little longer. Remove from the oven and leave the cakes to cool on a wire rack.",
       "As soon as the muffins are in the oven, make your runny frosted topping. Place most of the clementine zest, all the lemon zest and the lemon juice in a bowl. Add the soured cream, icing sugar and vanilla seeds and mix well. Taste and have a think about it – adjust the amount of lemon juice or icing sugar to balance the sweet and sour. Put into the fridge until your cakes have cooled down, then spoon the topping on to the cakes.",
-      "Serve on a lovely plate (or on a cake stand if you’re feeling elegant, or on a rustic slab if you’re more of a hunter-gatherer type!), with the rest of the clementine zest sprinkled over. For an interesting flavour and look, a few dried lavender flowers or rose petals are fantastic."
+      "Serve on a lovely plate (or on a cake stand if you’re feeling elegant, or on a rustic slab if you’re more of a hunter-gatherer type!), with the rest of the clementine zest sprinkled over. For an interesting flavour and look, a few dried lavender flowers or rose petals are fantastic.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/103_1_1421150628.jpg",
-    "imageAlt": "Butternut squash muffins with a frosty top"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/103_1_1421150628.jpg",
+    imageAlt: "Butternut squash muffins with a frosty top",
   },
   {
-    "name": "Baked Alaska mince pies",
-    "subName": "With gooey homemade meringue",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This is Jamie's twist on the basic mince pie recipe, made with mincemeat, shortcrust pastry and a baked Alaska meringue and ice-cream topping.",
-    "description": "“These ice cream-filled mince pies are fun and a little bit naughty – guests absolutely love them. It's best to make the meringue and to brown it as close to the time when you want to serve the pies as possible. ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus cooling time"
+    name: "Baked Alaska mince pies",
+    subName: "With gooey homemade meringue",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This is Jamie's twist on the basic mince pie recipe, made with mincemeat, shortcrust pastry and a baked Alaska meringue and ice-cream topping.",
+    description:
+      "“These ice cream-filled mince pies are fun and a little bit naughty – guests absolutely love them. It's best to make the meringue and to brown it as close to the time when you want to serve the pies as possible. ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "1 hour plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus cooling time",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Fruit",
-      "Christmas",
-      "Dinner Party",
-      "British",
-      "Mince",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Fruit", "Christmas", "Dinner Party", "British", "Mince", "Baking"],
+    ingredients: [
       "flour , for dusting",
       "300 g shortcrust pastry",
       "300 g mincemeat",
       "2 egg whites",
       "100 g caster sugar",
-      "1 small tub good-quality vanilla ice cream"
+      "1 small tub good-quality vanilla ice cream",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Dust a clean work surface and rolling pin with flour, and roll out the pastry until it is a little thicker than a £1 coin – about 4mm thick. Carefully cut out 10 circles of pastry large enough to line 7–8cm individual fluted tart tins. (Alternatively, cut out smaller circles and line a 12-hole bun tray.)",
       "Spoon the mincemeat into the pastries and bake for 20 minutes, until cooked through and golden, and the mincemeat is bubbling hot. Set aside on a wire rack to cool completely.",
       "In a clean bowl, whisk the egg whites with 1 tablespoon of caster sugar until it thickens and you have stiff peaks. Gradually whisk in the rest of the sugar and keep whisking for a few more minutes until the meringue turns thick and glossy.",
-      "Cover each mince pie with a shallow scoop of ice cream and then top with a dollop of meringue. Fork the meringue up a bit so it gets little peaks all over it, then brown briefly under a hot grill before serving."
+      "Cover each mince pie with a shallow scoop of ice cream and then top with a dollop of meringue. Fork the meringue up a bit so it gets little peaks all over it, then brown briefly under a hot grill before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/37_1_1384250262.jpg",
-    "imageAlt": "Baked Alaska mince pies"
-  }
-]
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/37_1_1384250262.jpg",
+    imageAlt: "Baked Alaska mince pies",
+  },
+];

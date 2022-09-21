@@ -1,32 +1,31 @@
-[
+export const breakfast = [
   {
-    "name": "Crispy rice pancakes",
-    "subName": "Curried chickpeas, eggs & coconut salsa",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Comforting chickpeas add great taste and texture in this Crispy rice pancake recipe.",
-    "description": "“Comforting chickpeas add great taste and texture in this brekkie, plus they’re high in folic acid, a B vitamin we need for psychological function, basically allowing us to think properly! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Crispy rice pancakes",
+    subName: "Curried chickpeas, eggs & coconut salsa",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Comforting chickpeas add great taste and texture in this Crispy rice pancake recipe.",
+    description:
+      "“Comforting chickpeas add great taste and texture in this brekkie, plus they’re high in folic acid, a B vitamin we need for psychological function, basically allowing us to think properly! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
       "Healthy dinner ideas",
-      "Healthy lunch ideas"
+      "Healthy lunch ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "½ x 7 g sachet of yeast",
       "125 g rice flour",
       "olive oil",
@@ -41,47 +40,47 @@
       "2 tablespoons unsweetened desiccated coconut flakes",
       "½ a bunch of fresh coriander , (15g)",
       "4 large free-range eggs",
-      "4 heaped tablespoons natural yoghurt"
+      "4 heaped tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "In a bowl, whisk ½ a 7g sachet of yeast yeast into 250ml of lukewarm water, then gradually whisk in 125g of rice flour and a pinch of sea salt until smooth. Put aside.",
       "Place a frying pan on a medium heat with 1 teaspoon of oil and 1 heaped teaspoon of jalfrezi curry paste.",
       "Finely slice half the fresh red chilli (whether you're using ½ or 1 chilli, to your taste) and just the top green halves of 1 bunch of spring onions and add to the pan. Cook and stir for 5 minutes, then add ½ x 660g jar of chickpeas (juice and all), and 100g of baby spinach. Bring to the boil, then simmer on a low heat until needed.",
       "To make the salsa, trim and finely slice the whites of the spring onions, along with the remaining chilli and place in a bowl. Peel and finely grate in a 4cm piece of ginger. Quarter and deseed 2 ripe tomatoes, then finely dice and add the flesh to the bowl. Finely grate over the zest and squeeze in the juice from 1 lime, add 2 tablespoons of unsweetened desiccated coconut flakes and the leaves from ½ a bunch of fresh coriander (15g). Mix well, then taste and season to perfection.",
       "For the pancakes, place a small non-stick frying pan on a medium heat, drizzle with a little oil, then carefully wipe it around and out with a ball of kitchen paper.",
       "Stirring your batter well each time, add a quarter to the pan, swiftly swirling it around and up the sides to create extra crispy bits. Cook for about 5 minutes on the underside only, until dark golden – have faith, and when it’s coloured, use a spatula to ease it away from the sides and slide it out. Repeat with the remaining batter, and just before you start the last pancake, poach 4 eggs to your liking in a large pan of simmering water.",
-      "Serve each pancake with a spoonful of curried chickpeas and coconut salsa, 1 heaped tablespoon of natural yoghurt, and with a poached egg sitting proudly on top."
+      "Serve each pancake with a spoonful of curried chickpeas and coconut salsa, 1 heaped tablespoon of natural yoghurt, and with a poached egg sitting proudly on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134655533.jpg",
-    "imageAlt": "Crispy rice pancakes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134655533.jpg",
+    imageAlt: "Crispy rice pancakes",
   },
   {
-    "name": "Superfruit sundaes",
-    "subName": "With oats, chia seeds, yoghurt & lime",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "The beauty of this healthy breakfast is that all the prep takes place the night before for a quick and easy start to the day.",
-    "description": "“The beauty of this breakfast is that all the prep takes place the night before, so you can enjoy a speedy, healthy start to the day – grab a spoon and dig in. ”",
-    "servings": "Serves Makes 4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Superfruit sundaes",
+    subName: "With oats, chia seeds, yoghurt & lime",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "The beauty of this healthy breakfast is that all the prep takes place the night before for a quick and easy start to the day.",
+    description:
+      "“The beauty of this breakfast is that all the prep takes place the night before, so you can enjoy a speedy, healthy start to the day – grab a spoon and dig in. ”",
+    servings: "Serves Makes 4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Breakfast",
       "Healthy breakfast ideas",
       "Brilliant breakfast recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe mango",
       "3 ripe passion fruits",
       "80 ml coconut milk",
@@ -93,9 +92,9 @@
       "250 g frozen berries",
       "1 slice of wholemeal bread",
       "100 g natural or soy yoghurt",
-      "300 g mixed fresh fruits , such as cherries, blueberries, apricots, pineapple"
+      "300 g mixed fresh fruits , such as cherries, blueberries, apricots, pineapple",
     ],
-    "instructions": [
+    instructions: [
       "The night before you want to eat this, peel and destone 1 ripe mango, cutting the flesh into chunks. Add to a blender, then halve and scoop in the flesh of 1 passion fruit, pour in 80ml of coconut milk and blitz to a pulp.",
       "Tip the pulp into a bowl and stir in 40g of chia seeds, finely grate in the zest from 1 lime and squeeze in half the juice.",
       "Divide the mixture between glasses or jars, cover and leave in the fridge overnight.",
@@ -103,290 +102,287 @@
       "Tip the oats, nuts and seeds into a bowl, drizzle over 1 tablespoon of runny honey, then mix to coat. Allow to cool, then cover and leave overnight.",
       "In the morning, place 250g of frozen berries in a food processor, tear in 1 slice of wholemeal bread and add 50g of yoghurt. Blitz until everything has come together into a rough ice cream.",
       "Take the glasses out of the fridge, divide the blitzed ice cream over the top (using a piping bag, if you like), add a dollop of yoghurt and sprinkle over the sticky oats.",
-      "Slice the 2 remaining passion fruits in half and pop one on the top of each sundae, along with the rest of your chosen fresh fruit."
+      "Slice the 2 remaining passion fruits in half and pop one on the top of each sundae, along with the rest of your chosen fresh fruit.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449929.jpg",
-    "imageAlt": "Superfruit sundaes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449929.jpg",
+    imageAlt: "Superfruit sundaes",
   },
   {
-    "name": "Gluten-free one-cup pancakes",
-    "subName": "Super-simple",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This one-cup method is a quick and easy way to make beautiful, fluffy gluten-free pancakes.",
-    "description": "“My one-cup method is a quick and easy way to make beautiful, fluffy gluten-free pancakes. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Gluten-free one-cup pancakes",
+    subName: "Super-simple",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This one-cup method is a quick and easy way to make beautiful, fluffy gluten-free pancakes.",
+    description:
+      "“My one-cup method is a quick and easy way to make beautiful, fluffy gluten-free pancakes. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Pancake day",
       "Breakfast",
       "Healthy breakfast ideas",
       "Brilliant breakfast recipes",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 heaped cup of gluten-free self-raising flour , (250g)",
       "1 cup of milk , (300ml)",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Crack 1 large egg into a large mixing bowl then add 1 heaped cup of gluten-free self-raising flour (250g), 1 cup of milk (300ml) and a tiny pinch of sea salt.",
       "Whisk everything together until you have a lovely smooth batter.",
       "Drizzle ½ a tablespoon of olive oil into a large non-stick frying pan over a medium heat, carefully tilting the pan to spread the oil out evenly.",
       "Add a few ladles of batter to the pan, leaving space between each one so they have room to spread out slightly – each ladleful will make one pancake, and you’ll need to work in batches.",
       "Cook for 1 to 2 minutes, or until little bubbles appear on the surface and the bases are golden, then carefully flip them over.",
       "When the pancakes are golden on both sides, remove to a plate.\nRepeat with the remaining batter, adding a little more olive oil to the pan between batches, if needed.",
-      "Serve the pancakes while they’re still hot, with your favourite toppings."
+      "Serve the pancakes while they’re still hot, with your favourite toppings.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134450314.jpg",
-    "imageAlt": "Gluten-free one-cup pancakes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134450314.jpg",
+    imageAlt: "Gluten-free one-cup pancakes",
   },
   {
-    "name": "Shiitake bacon",
-    "subName": "",
-    "specialDiets": [
-      "Vegan"
-    ],
-    "metaDescription": "From Timothy Pakron's book Mississippi Vegan, these mushroom slices are crispy and chewy at the very same time, replicating that distinct bacony texture.",
-    "description": "“There is an art form to creating the perfect batch of shiitake bacon. I can only attempt to show you how, the best way that I can. The rest is up to you. Please remember, every oven is different. Cooking times will vary. The ultimate goal? To bake the mushroom slices until they are crispy and chewy at the very same time, replicating that distinct bacony texture we all know and love. Good luck! ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Shiitake bacon",
+    subName: "",
+    specialDiets: ["Vegan"],
+    metaDescription:
+      "From Timothy Pakron's book Mississippi Vegan, these mushroom slices are crispy and chewy at the very same time, replicating that distinct bacony texture.",
+    description:
+      "“There is an art form to creating the perfect batch of shiitake bacon. I can only attempt to show you how, the best way that I can. The rest is up to you. Please remember, every oven is different. Cooking times will vary. The ultimate goal? To bake the mushroom slices until they are crispy and chewy at the very same time, replicating that distinct bacony texture we all know and love. Good luck! ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Mushroom",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Mushroom", "Breakfast"],
+    ingredients: [
       "1 pound stemmed shiitake mushroom caps , (about 2 pounds before trimming)",
       "¾ cup peanut oil",
       "½ cup tamari , or soy sauce",
       "½ cup + ½ teaspoon nutritional yeast , plus some for dusting",
-      "1 teaspoon liquid smoke , plus more to taste"
+      "1 teaspoon liquid smoke , plus more to taste",
     ],
-    "instructions": [
+    instructions: [
       "Position racks in the centre and bottom third of the oven and preheat the oven to 190°C/375°F/gas 5. Line two large baking sheets with parchment paper.",
       "Rinse the shiitake caps and dry them thoroughly in a salad spinner or pat them dry with a paper towel. Cut the caps into ¼-inch-thick slices (the goal here is to have similar-size pieces so that they cook evenly). Transfer them to a large bowl.",
       "In a small bowl, whisk together the peanut oil, tamari, ½ cup of the nutritional yeast, and the liquid smoke. Pour this mixture over the sliced shiitakes. Delicately toss them until all the pieces are coated. Divide the mushrooms evenly onto the baking sheets, arranging them into a single layer.",
       "Sprinkle the remaining ½ teaspoon nutritional yeast on top of the shiitakes and coat the tops with a healthy amount of cooking oil spray. (The goal here is to basically oven-fry the shiitakes, so please don’t hold back—this isn’t a low-fat recipe. We are replicating bacon, people.)",
       "Place the sheets in the oven, one in the centre, one on the bottom. Bake for 40 minutes. Remove from the oven and toss with a thin spatula. Spread the mushrooms back out evenly and coat them again with a good amount of cooking oil spray, and another dusting of nutritional yeast. Return the trays to the oven, switching racks. Bake until the mushrooms become crispy on the edges, about 15 minutes (less if you think they might burn). Remove from the oven.",
       "At this point you could make or break the bacon. And because each oven is different, you have to play with it yourself. What you are trying to do is push the mushrooms to their crispiest point without burning them. As my mother would say, you must “Watch them like a hawk!” Coat the mushrooms once more with some cooking oil spray and return to the oven for an additional 5 to 10 minutes. Remove from the oven and let sit for a few minutes. Taste one. If it is still not crispy, bake for an additional 5 to 10 minutes. If you are scared to keep pushing it, try only baking a few to see how far you can take them. This way you won’t burn the whole batch.",
-      "One baking sheet may be done before the other; just remove them at separate times. Some pieces may also be stubborn and take longer than others. It’s okay if a few pieces are chewier than others. Like the recipe implies, making shiitake bacon is an art. It takes practice to perfect this exquisite food."
+      "One baking sheet may be done before the other; just remove them at separate times. Some pieces may also be stubborn and take longer than others. It’s okay if a few pieces are chewier than others. Like the recipe implies, making shiitake bacon is an art. It takes practice to perfect this exquisite food.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/129244400.jpg",
-    "imageAlt": "Shiitake bacon"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/129244400.jpg",
+    imageAlt: "Shiitake bacon",
   },
   {
-    "name": "Granola Dust waffles",
-    "subName": "A brilliant start to the day",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "These wicked waffles are super-easy and take just 10 minutes to make. Top with whatever you fancy, but yoghurt, fresh fruit and a drizzle of honey is my fave.",
-    "description": "“These wicked waffles are super-easy and take just 10 minutes to make. Top with whatever you fancy, but yoghurt, fresh fruit and a drizzle of honey is my fave. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Granola Dust waffles",
+    subName: "A brilliant start to the day",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "These wicked waffles are super-easy and take just 10 minutes to make. Top with whatever you fancy, but yoghurt, fresh fruit and a drizzle of honey is my fave.",
+    description:
+      "“These wicked waffles are super-easy and take just 10 minutes to make. Top with whatever you fancy, but yoghurt, fresh fruit and a drizzle of honey is my fave. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Breakfast",
       "Fruit",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g Granola Dust",
       "100 g self-raising flour",
       "½ teaspoon baking powder",
       "1 large free-range egg",
       "220 ml semi-skimmed milk",
       "olive oil",
-      "fresh fruit , natural yoghurt, runny honey (optional, to serve)"
+      "fresh fruit , natural yoghurt, runny honey (optional, to serve)",
     ],
-    "instructions": [
+    instructions: [
       "To make the waffle batter, mix all the dry ingredients together in a large bowl. Crack in the egg, then whisk in the milk to combine.",
       "Get your waffle machine ready. Once it’s hot, spray with a little olive oil, ladle in the batter mixture and seal, following the machine instructions, and cook until golden. (Mine took 3 to 4 minutes.)",
-      "Delicious served with fresh fruit, a dollop of yoghurt and a little honey, if you fancy it."
+      "Delicious served with fresh fruit, a dollop of yoghurt and a little honey, if you fancy it.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/124048444.jpg",
-    "imageAlt": "Granola Dust waffles"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/124048444.jpg",
+    imageAlt: "Granola Dust waffles",
   },
   {
-    "name": "Mango & yoghurt layer pots",
-    "subName": "With vanilla & Granola Dust",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "These little pots of sunshine make a brilliant breakfast – or healthy pud – to enjoy on the go.",
-    "description": "“These little pots of sunshine make a brilliant breakfast – or healthy pud – to enjoy on the go. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Mango & yoghurt layer pots",
+    subName: "With vanilla & Granola Dust",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "These little pots of sunshine make a brilliant breakfast – or healthy pud – to enjoy on the go.",
+    description:
+      "“These little pots of sunshine make a brilliant breakfast – or healthy pud – to enjoy on the go. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Fruit",
       "Breakfast",
       "Prep & go recipes",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe mango",
       "1 teaspoon vanilla extract",
       "180 g natural yoghurt",
-      "100 g Granola Dust"
+      "100 g Granola Dust",
     ],
-    "instructions": [
+    instructions: [
       "Peel and destone the mango, place in a food processor and blitz until smooth. (Alternatively, roughly chop the mango into bite-sized pieces.)",
       "Mix together the vanilla and yoghurt in a small bowl.",
       "Layer 2 lidded, portable pots with a little of the vanilla yoghurt, then a little of the mango purée and a dusting of Granola Dust. Repeat until everything is used up.",
-      "Pop on the lids and go!"
+      "Pop on the lids and go!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/124048424.jpg",
-    "imageAlt": "Mango & yoghurt layer pots"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/124048424.jpg",
+    imageAlt: "Mango & yoghurt layer pots",
   },
   {
-    "name": "Apple & pear overnight oats",
-    "subName": "With Granola Dust & cinnamon",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Overnight oats is one of my favourite ways to enjoy oats at breakfast time, and these have the added bonus of Granola Dust for extra nutrition and flavour.",
-    "description": "“Overnight oats is one of my favourite ways to enjoy oats at breakfast time, and these have the added bonus of Granola Dust for extra nutrition and flavour. Pop into portable containers and enjoy on the go. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight soaking",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight soaking"
+    name: "Apple & pear overnight oats",
+    subName: "With Granola Dust & cinnamon",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Overnight oats is one of my favourite ways to enjoy oats at breakfast time, and these have the added bonus of Granola Dust for extra nutrition and flavour.",
+    description:
+      "“Overnight oats is one of my favourite ways to enjoy oats at breakfast time, and these have the added bonus of Granola Dust for extra nutrition and flavour. Pop into portable containers and enjoy on the go. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight soaking",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight soaking",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Breakfast",
       "Fruit",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g rolled oats",
       "200 g Granola Dust",
       "ground cinnamon",
       "500 ml semi-skimmed milk",
       "2 apples",
       "2 pears",
-      "natural yoghurt , to serve"
+      "natural yoghurt , to serve",
     ],
-    "instructions": [
+    instructions: [
       "The night before, place the oats, Granola Dust and a pinch of cinnamon into a lidded container. Pour over the milk, mix well then cover and pop in the fridge overnight.",
       "In the morning, grate in most of the apple and pear and give the mixture a good stir, adding a splash more milk to loosen, if needed.",
-      "Transfer to bowls or portable containers, and top with a little more grated fruit, a sprinkle of cinnamon and a dollop of yoghurt."
+      "Transfer to bowls or portable containers, and top with a little more grated fruit, a sprinkle of cinnamon and a dollop of yoghurt.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/124046698.jpg",
-    "imageAlt": "Apple & pear overnight oats"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/124046698.jpg",
+    imageAlt: "Apple & pear overnight oats",
   },
   {
-    "name": "Giant crumpets",
-    "subName": "The teatime favourite – super-sized",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This method is slightly easier than the traditional method, simply cut into quarters and serve with your favourite toppings.",
-    "description": "“This method is slightly easier than the traditional method, simply cut into quarters and serve with your favourite toppings. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus proving"
+    name: "Giant crumpets",
+    subName: "The teatime favourite – super-sized",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This method is slightly easier than the traditional method, simply cut into quarters and serve with your favourite toppings.",
+    description:
+      "“This method is slightly easier than the traditional method, simply cut into quarters and serve with your favourite toppings. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "50 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Breakfast",
       "Beautiful baking recipes",
       "Baking",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "400 ml milk",
       "1 tablespoon dried yeast",
       "1 teaspoon caster sugar",
       "300 g strong white flour",
       "½ teaspoon bicarbonate of soda",
-      "vegetable oil , for greasing"
+      "vegetable oil , for greasing",
     ],
-    "instructions": [
+    instructions: [
       "Gently warm the milk, then pour into a large bowl with 100ml of tepid water. Stir in the yeast and sugar to dissolve. Leave in a warm place for 15 minutes, or until frothy.",
       "Sift the flour, bicarbonate of soda and 1 teaspoon of fine sea salt into a large bowl. Make a well in the centre and pour in the yeast mixture.",
       "Whisk from the centre outwards until the consistency of double cream – this will take a few minutes. Add a splash more water, if needed.",
       "Cover with a damp tea towel and set aside for 45 minutes, or until little bubbles form on the surface.",
       "Wipe a little oil around a 24cm non-stick frying pan and place over a medium heat.",
       "Once hot, pour half of the batter into the pan, and cook for 6 minutes until little bubbles appear on the surface. Once the bubbles have burst, carefully flip the crumpet over to cook for a further 4 minutes until it’s begun to brown on the other side.",
-      "Transfer to a board and repeat with the remaining batter. Cut the giant crumpets into quarters and serve with your favourite toppings."
+      "Transfer to a board and repeat with the remaining batter. Cut the giant crumpets into quarters and serve with your favourite toppings.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/123539756.jpg",
-    "imageAlt": "Giant crumpets"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/123539756.jpg",
+    imageAlt: "Giant crumpets",
   },
   {
-    "name": "Avocado & bacon eggy crumpets",
-    "subName": "With a minty jalapeño dressing & topped with a fried egg",
-    "specialDiets": [],
-    "metaDescription": "These are crumpets like you've never seen before. We're talking chilli, eggy crumpet goodness, topped with crispy bacon, creamy avocado, and my Parmesan crown.",
-    "description": "“Now these are crumpets like you've never seen before. We are talking chilli, eggy crumpet goodness, topped with crispy bacon and creamy avocado – plus my Parmesan crown and green chilli sauce trick for some next-level brunching. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Avocado & bacon eggy crumpets",
+    subName: "With a minty jalapeño dressing & topped with a fried egg",
+    specialDiets: [],
+    metaDescription:
+      "These are crumpets like you've never seen before. We're talking chilli, eggy crumpet goodness, topped with crispy bacon, creamy avocado, and my Parmesan crown.",
+    description:
+      "“Now these are crumpets like you've never seen before. We are talking chilli, eggy crumpet goodness, topped with crispy bacon and creamy avocado – plus my Parmesan crown and green chilli sauce trick for some next-level brunching. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Pork",
       "Tomato",
       "Meals for one",
       "Brilliant breakfast recipes",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 220 g jar of pickled jalapeños",
       "1 bunch of fresh mint , (30g)",
       "¼ of a fresh red chilli , optional",
@@ -396,9 +392,9 @@
       "50 g ripe cherry tomatoes",
       "extra virgin olive oil",
       "2 slices of higher-welfare smoked streaky bacon",
-      "10 g Parmesan cheese"
+      "10 g Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Tip the jalapeños and most of their brine into a blender and pick in most of the mint leaves (save the pretty little ones for later). Blitz until smooth, then pour back into the jar.",
       "Finely chop the chilli (if using) and place in a shallow bowl. Crack in one of the eggs, add a pinch of black pepper and whisk together with a fork.",
       "Soak the crumpet in the chilli and egg mixture for a couple of minutes, pressing it down and turning halfway.",
@@ -407,38 +403,38 @@
       "Push the bacon to one side and finely grate the Parmesan cheese into the pan in a pile slightly larger than the diameter of your crumpet. Press the soaked crumpet topside down onto the cheese and pour over any remaining egg mixture, then cook for 2 minutes, until the Parmesan is golden and crispy.",
       "Carefully loosen the edges of the Parmesan with a spatula, then lift up the crumpet, pulling the Parmesan with it. Hold for a few seconds so it sets, then turn it back over into the pan, leaving you with a crispy crown on the top.",
       "Crack in the remaining egg alongside and cook to your liking.",
-      "Transfer the crowned crumpet to a plate, top with the salsa and spoon some of the jalapeño dressing on the side with the crispy bacon. Top with the fried egg and serve."
+      "Transfer the crowned crumpet to a plate, top with the salsa and spoon some of the jalapeño dressing on the side with the crispy bacon. Top with the fried egg and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/118444983.jpg",
-    "imageAlt": "Avocado & bacon eggy crumpets"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/118444983.jpg",
+    imageAlt: "Avocado & bacon eggy crumpets",
   },
   {
-    "name": "Chocolate & banana French toast",
-    "subName": "With crushed hazelnuts, yoghurt & a drizzle of honey ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This beautiful twist on French toast makes the most amazing breakfast or brunch, or could even turned into dessert with a little scoop of ice cream. ",
-    "description": "“Here’s my beautiful twist on French toast. This could be the most amazing breakfast or brunch, or even turned into dessert with a little scoop of ice cream. Either way, it’s a brilliant thing to make for the one you love, so what are you waiting for? ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Chocolate & banana French toast",
+    subName: "With crushed hazelnuts, yoghurt & a drizzle of honey ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This beautiful twist on French toast makes the most amazing breakfast or brunch, or could even turned into dessert with a little scoop of ice cream. ",
+    description:
+      "“Here’s my beautiful twist on French toast. This could be the most amazing breakfast or brunch, or even turned into dessert with a little scoop of ice cream. Either way, it’s a brilliant thing to make for the one you love, so what are you waiting for? ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Fruit",
       "Bread",
       "Honey",
       "Breakfast",
       "Desserts",
-      "Puddings & desserts"
+      "Puddings & desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "2 bananas",
       "2 large free-range eggs",
       "½ a teaspoon vanilla extract",
@@ -448,9 +444,9 @@
       "a small knob of unsalted butter , or olive oil",
       "40 g dark chocolate , (minimum 70% solids)",
       "2 teaspoons icing sugar",
-      "2 tablespoons Greek-style yoghurt , to serve"
+      "2 tablespoons Greek-style yoghurt , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the banana in half lengthways and set aside. Crack the eggs into a shallow bowl, add the vanilla and cinnamon then whisk together with a fork.",
       "Soak the bread slices in the egg mixture for a couple of minutes, turning halfway.",
       "Place a large dry frying pan on a medium heat and toast the hazelnuts until golden, then tip into a pestle and mortar and bash until fine.",
@@ -459,46 +455,46 @@
       "Use a spatula to carefully flip the bread and banana slices and cook for a further 2 minutes, until light golden on both sides.",
       "Lightly dust the top of the sandwich with the icing sugar and flip back over for a few seconds to caramelise.",
       "Carefully slide the sandwich onto a board (the caramel will be very hot!), cut in half diagonally, then transfer to a plate.",
-      "To serve, place half a sandwich on each plate, top with 2 pieces of caramelised banana and a dollop of yoghurt, and finish with a good dusting of crushed hazelnuts."
+      "To serve, place half a sandwich on each plate, top with 2 pieces of caramelised banana and a dollop of yoghurt, and finish with a good dusting of crushed hazelnuts.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/118445036.jpg",
-    "imageAlt": "Chocolate & banana French toast"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/118445036.jpg",
+    imageAlt: "Chocolate & banana French toast",
   },
   {
-    "name": "One-pan breakfast",
-    "subName": "Great for brekkie, lunch or dinner",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Inspired by my old-favourite Midnight pan-cooked breakfast, this recipe is all about the principle of cooking breakfast in one pan. ",
-    "description": "“Inspired by my old-favourite Midnight pan-cooked breakfast, this recipe is all about the principle of cooking breakfast in one pan. This dish serves three lucky people, but the quantities are easy to scale up and down, just change your pan size accordingly, and embrace the ingredients you’ve got. This is the food of champions. ”",
-    "servings": "3",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "One-pan breakfast",
+    subName: "Great for brekkie, lunch or dinner",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Inspired by my old-favourite Midnight pan-cooked breakfast, this recipe is all about the principle of cooking breakfast in one pan. ",
+    description:
+      "“Inspired by my old-favourite Midnight pan-cooked breakfast, this recipe is all about the principle of cooking breakfast in one pan. This dish serves three lucky people, but the quantities are easy to scale up and down, just change your pan size accordingly, and embrace the ingredients you’ve got. This is the food of champions. ”",
+    servings: "3",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Breakfast",
       "Sausage",
       "Pork",
       "Bread",
       "Keep Cooking and Carry On",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "3 rashers of higher-welfare smoked streaky bacon",
       "4 higher-welfare chipolatas",
       "olive oil",
       "160 g ripe tomatoes",
       "4 large free-range eggs",
-      "3 slices of bread"
+      "3 slices of bread",
     ],
-    "instructions": [
+    instructions: [
       "Put a large non-stick (about 26cm) frying pan on a medium heat.",
       "Lay in the bacon and sausages and add ½ a tablespoon of olive oil. Fry for 10 to 12 minutes, until the bacon is beautifully golden and the sausages are cooked through, turning occasionally.",
       "When they’re done, use tongs to move the bacon and sausages out of the pan, leaving the fat behind.",
@@ -506,43 +502,40 @@
       "Crack the eggs into the pan, using the tongs to move the tomatoes randomly on top of them as you go.",
       "As the eggs are frying, slice up your bacon and sausages, and return them to the pan, spacing them about so everyone will get a nice portion.",
       "Season with black pepper, then cover with a lid until the eggs are cooked to your liking. Toast the bread.",
-      "Use a fish slice or spatula to loosen the eggs around the edges, then slide the whole thing onto a board or platter, like a frisbee, ready to serve in the middle of the table. Line up your hot toast, get your condiments out, and tuck in."
+      "Use a fish slice or spatula to loosen the eggs around the edges, then slide the whole thing onto a board or platter, like a frisbee, ready to serve in the middle of the table. Line up your hot toast, get your condiments out, and tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/105676627.jpg",
-    "imageAlt": "One-pan breakfast"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/105676627.jpg",
+    imageAlt: "One-pan breakfast",
   },
   {
-    "name": "Eggy bread muffins",
-    "subName": "The perfect breakfast on-the-go",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "These lovely little muffins are a great way to use up stale bread while providing a perfectly balanced bite. Pack in the veg for extra goodness. Enjoy!",
-    "description": "“These lovely little muffins are a great way to use up stale bread while providing a perfectly balanced bite. Pack in the veg for extra goodness. Enjoy! ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes plus chopping",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes plus chopping"
+    name: "Eggy bread muffins",
+    subName: "The perfect breakfast on-the-go",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "These lovely little muffins are a great way to use up stale bread while providing a perfectly balanced bite. Pack in the veg for extra goodness. Enjoy!",
+    description:
+      "“These lovely little muffins are a great way to use up stale bread while providing a perfectly balanced bite. Pack in the veg for extra goodness. Enjoy! ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "45 minutes plus chopping",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes plus chopping",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Tesco Community Cookery School with Jamie Oliver",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Tesco Community Cookery School with Jamie Oliver", "Breakfast"],
+    ingredients: [
       "400 g Mediterranean veg",
       "150 g leafy green veg",
       "25 ml vegetable oil",
       "400 g white or brown stale bread",
       "8 free-range eggs",
       "350 ml milk",
-      "125 g hard cheese"
+      "125 g hard cheese",
     ],
-    "instructions": [
+    instructions: [
       "Recipe kindly shared by the Tesco Community Cookery School with Jamie Oliver. The recipe has been written to be flexible and scalable up to 50 portions. Note: all veg weights are for trimmed, prepped vegetables.",
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Line a 12-hole muffin tin with paper cases or 15cm folded squares of greaseproof paper.",
@@ -552,37 +545,37 @@
       "Roughly chop the bread into small cubes and place into a large bowl.",
       "Whisk the eggs with the milk until combined. Pour half the egg mixture over the cubed bread, then grate in the cheese and give everything a good mix. Set aside for 10 minutes, or until the bread has absorbed all the egg.",
       "Stir the cooled veg through the eggy bread, season with a little sea salt and black pepper, then divide the mixture between the prepared muffin cases, topping each one up with the remaining beaten egg.",
-      "Bake for 25 minutes or until golden and set. Enjoy warm from the oven or at room temperature."
+      "Bake for 25 minutes or until golden and set. Enjoy warm from the oven or at room temperature.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/105276849.jpg",
-    "imageAlt": "Eggy bread muffins"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/105276849.jpg",
+    imageAlt: "Eggy bread muffins",
   },
   {
-    "name": "Buddy’s one-cup pancakes",
-    "subName": "The simplest pancakes ever ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Fluffy, soft and easy to make, this method uses a cup instead of weighing scales to keep things nice and simple. Get creative with your toppings, and enjoy! Breakfast never looked so good.",
-    "description": "“Fluffy, soft and easy to make, this method uses a cup instead of weighing scales to keep things nice and simple. Get creative with your toppings, and enjoy! Breakfast never looked so good. ”",
-    "servings": "4 adults",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Buddy’s one-cup pancakes",
+    subName: "The simplest pancakes ever ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Fluffy, soft and easy to make, this method uses a cup instead of weighing scales to keep things nice and simple. Get creative with your toppings, and enjoy! Breakfast never looked so good.",
+    description:
+      "“Fluffy, soft and easy to make, this method uses a cup instead of weighing scales to keep things nice and simple. Get creative with your toppings, and enjoy! Breakfast never looked so good. ”",
+    servings: "4 adults",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Pancake day",
       "Breakfast",
       "Healthy breakfast ideas",
-      "Honey"
+      "Honey",
     ],
-    "ingredients": [
+    ingredients: [
       "Pancakes",
       "1 cup of self-raising flour",
       "1 cup of semi-skimmed milk",
@@ -593,52 +586,47 @@
       "banana , peeled and sliced",
       "apple or pear , peeled and grated",
       "runny honey or maple syrup",
-      "natural yoghurt"
+      "natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Fill the cup with the flour and tip into a large bowl. Fill the same cup with milk and pour that into the bowl too, then crack in the egg. Whisk everything together until it’s nice and smooth.",
       "Place a large non-stick frying pan on a medium heat. Once hot, add a small knob of butter then, once the butter has melted and starts to sizzle, add large spoonfuls of batter to the pan – you’ll need to cook your pancakes in batches.",
       "Wait for little bubbles to form on the surface of the pancakes, about 1 to 2 minutes, then use a fish slice to flip them over to cook for another 1 to 2 minutes on the other side, or until golden again.",
       "Carefully wipe out the pan with a ball of kitchen paper, then add another small knob of butter and cook the next batch.",
-      "Serve the pancakes right away with your favourite toppings – I like a bit of fruit and a drizzle of honey."
+      "Serve the pancakes right away with your favourite toppings – I like a bit of fruit and a drizzle of honey.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/103741730.jpg",
-    "imageAlt": "Buddy’s one-cup pancakes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/103741730.jpg",
+    imageAlt: "Buddy’s one-cup pancakes",
   },
   {
-    "name": "Midnight pan-cooked breakfast",
-    "subName": "Crispy bacon, runny eggs & crusty bread",
-    "specialDiets": [],
-    "metaDescription": "This brilliant fry-up recipe from Jamie Oliver makes the perfect brunch or late-night snack. Use sausages, eggs, mushrooms and whatever else you've got!",
-    "description": "“Me and this dish go back a long way. To the pre-shaving days of being an under-age drinker down the Wagon and Horses in Saffron Walden with a fake ID and all my village mates. Only once in a while of course. But seriously, without trying to sound like a lagered-up geezer, I think everyone’s experienced the need for food around midnight, whether the binge was small or large, otherwise why would kebab shops be so popular in Britain? Anyway, I always used to have three or four friends back to my house for munchies or to stay the night and this dish was devised so we didn’t have too much trouble making it or too much washing up to do. In actual fact, I only had to wipe the non-stick pan clean. It also makes its way from the pan to the plate quite quickly, as patience isn’t a virtue at that time of night with my mates! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Midnight pan-cooked breakfast",
+    subName: "Crispy bacon, runny eggs & crusty bread",
+    specialDiets: [],
+    metaDescription:
+      "This brilliant fry-up recipe from Jamie Oliver makes the perfect brunch or late-night snack. Use sausages, eggs, mushrooms and whatever else you've got!",
+    description:
+      "“Me and this dish go back a long way. To the pre-shaving days of being an under-age drinker down the Wagon and Horses in Saffron Walden with a fake ID and all my village mates. Only once in a while of course. But seriously, without trying to sound like a lagered-up geezer, I think everyone’s experienced the need for food around midnight, whether the binge was small or large, otherwise why would kebab shops be so popular in Britain? Anyway, I always used to have three or four friends back to my house for munchies or to stay the night and this dish was devised so we didn’t have too much trouble making it or too much washing up to do. In actual fact, I only had to wipe the non-stick pan clean. It also makes its way from the pan to the plate quite quickly, as patience isn’t a virtue at that time of night with my mates! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Eggs",
-      "Breakfast",
-      "Sausage",
-      "Tomato",
-      "Mushroom",
-      "Pork"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Eggs", "Breakfast", "Sausage", "Tomato", "Mushroom", "Pork"],
+    ingredients: [
       "mushrooms",
       "higher-welfare smoked or unsmoked bacon",
       "ripe tomatoes",
       "higher-welfare sausages",
       "large free-range eggs",
       "olive oil",
-      "crusty bread , preferably sourdough"
+      "crusty bread , preferably sourdough",
     ],
-    "instructions": [
+    instructions: [
       "First of all, get the biggest non-stick pan available, and preheat it on a high heat while you gather your ingredients. Obviously you wouldn’t be organised at this point so it’s a matter of using what you’ve got, but ideally I like to have mushrooms, bacon, tomatoes, sausages and eggs.",
       "By the time you have got these together the pan will be hot, so slice your sausages in half lengthways and pat them out flat so they cook quickly. Place in the pan at one side.",
       "On the other side of the pan, put a tiny lug of oil and place a pile of mushrooms over it which you can rip up or leave whole.",
@@ -646,34 +634,31 @@
       "Cook for a couple more minutes until the bacon is crisp and golden. Shake the pan and turn the bacon over. Now is the time to put a round of toast into the toaster.",
       "At this stage you should respect the rustic and authentic look and shuffle everything about so that it’s all mixed together and add 2 or 3 eggs at different ends of the pan. The whites of the eggs will dribble in and around the sausages, bacon, tomatoes and mushrooms.",
       "Turn the heat down a little and continue to cook for another minute before placing the pan under the grill and finishing the eggs to your liking.",
-      "Using a non-stick pan I’ve always found the removal of this dish to the plate extremely easy – it will resemble a frisbee and will slide on to your plate with no trouble at all. Doesn’t that sound appetising? But honestly, it really is a gem."
+      "Using a non-stick pan I’ve always found the removal of this dish to the plate extremely easy – it will resemble a frisbee and will slide on to your plate with no trouble at all. Doesn’t that sound appetising? But honestly, it really is a gem.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/90246160.jpg",
-    "imageAlt": "Midnight pan-cooked breakfast"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/90246160.jpg",
+    imageAlt: "Midnight pan-cooked breakfast",
   },
   {
-    "name": "Martin Freeman’s Eggs royale",
-    "subName": "Smoked salmon, spinach & hollandaise ",
-    "specialDiets": [],
-    "metaDescription": "A delicious Eggs Royale recipe from Jamie Oliver, with buttery spinach and homemade hollandaise sauce. As made seen on Jamie and Jimmy's Friday Night Feast.",
-    "description": "“Making your own muffins is such an easy, rewarding thing to do and the taste is next-level delicious. This recipe makes more than you need, but who doesn’t love a cheeky toasted muffin with a cuppa? Here, I’ve buddied them up with spinach, smoked salmon and eggs, but they’re also great with ham, halloumi or avocado. Anything goes! ”",
-    "servings": "4 with leftover muffins and hollandaise",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes plus proving"
+    name: "Martin Freeman’s Eggs royale",
+    subName: "Smoked salmon, spinach & hollandaise ",
+    specialDiets: [],
+    metaDescription:
+      "A delicious Eggs Royale recipe from Jamie Oliver, with buttery spinach and homemade hollandaise sauce. As made seen on Jamie and Jimmy's Friday Night Feast.",
+    description:
+      "“Making your own muffins is such an easy, rewarding thing to do and the taste is next-level delicious. This recipe makes more than you need, but who doesn’t love a cheeky toasted muffin with a cuppa? Here, I’ve buddied them up with spinach, smoked salmon and eggs, but they’re also great with ham, halloumi or avocado. Anything goes! ”",
+    servings: "4 with leftover muffins and hollandaise",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes plus proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Eggs",
-      "Spinach",
-      "Breakfast",
-      "Brilliant breakfast recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Eggs", "Spinach", "Breakfast", "Brilliant breakfast recipes"],
+    ingredients: [
       "olive oil",
       "4 spring onions",
       "½ a clove of garlic",
@@ -696,9 +681,9 @@
       "4 large free-range egg yolks",
       "½ a lemon",
       "2 teaspoons Dijon mustard",
-      "white wine vinegar"
+      "white wine vinegar",
     ],
-    "instructions": [
+    instructions: [
       "To make the muffins, place the milk in a jug, stir in the yeast and sugar, and leave for a couple of minutes until frothy.",
       "Place the flour and 2 teaspoons of fine sea salt into a large mixing bowl and make a well in the middle. Pour in the milk mixture and mix well to form a dough. Shape into a ball and knead with clean hands or in a freestanding mixer until smooth and elastic. Place in an oiled bowl, cover with a clean damp tea towel and leave to prove in a warm place for 1 hour or until doubled in size.",
       "Knock back the dough and roll out on a flour-dusted surface to about 2cm thick. Stamp out 10 level circles with an 8cm round cutter, rerolling as necessary.",
@@ -711,37 +696,37 @@
       "Place a large frying pan on a medium-low heat with a little drizzle of olive oil, add the spring onions, garlic and spinach, then pick in the marjoram. Finely grate over some nutmeg, then add a pinch of sea salt and some freshly ground black pepper. Cook for 5 minutes or until the spinach is dark and delicious. Add lemon juice to taste and keep warm until ready to serve.",
       "Place a large, shallow pan of water on a medium heat and bring to the boil.",
       "Grease four tea cups with butter and crack an egg into each. Place the cups in the pan of water, then cover and poach for 4 to 5 minutes or until the eggs are cooked to your liking.",
-      "To assemble, halve 4 warm muffins and divide the spinach and smoked salmon between each. Top with a perfectly poached egg, lightly season, then spoon a tablespoon of hollandaise over each one. Finish with a final grating of nutmeg and a few sprigs of chervil, if you like."
+      "To assemble, halve 4 warm muffins and divide the spinach and smoked salmon between each. Top with a perfectly poached egg, lightly season, then spoon a tablespoon of hollandaise over each one. Finish with a final grating of nutmeg and a few sprigs of chervil, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/83653972.jpg",
-    "imageAlt": "Martin Freeman’s Eggs royale"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/83653972.jpg",
+    imageAlt: "Martin Freeman’s Eggs royale",
   },
   {
-    "name": "Roll-and-go omelette wrap",
-    "subName": "With tomato salad",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A delicious breakfast recipe by Jamie Oliver for busy people who are on-the-go. Melting Cheddar cheese, seeded tortilla wrap, fresh basil, ripe tomatoes, perfectly cooked eggs and a hit of chilli sauce.",
-    "description": "“This super-tasty wrap contains a source of protein to promote muscle repair, so it’s perfect for morning gym-goers. Finish with a dash of chilli sauce to really wake up your taste buds. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Roll-and-go omelette wrap",
+    subName: "With tomato salad",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A delicious breakfast recipe by Jamie Oliver for busy people who are on-the-go. Melting Cheddar cheese, seeded tortilla wrap, fresh basil, ripe tomatoes, perfectly cooked eggs and a hit of chilli sauce.",
+    description:
+      "“This super-tasty wrap contains a source of protein to promote muscle repair, so it’s perfect for morning gym-goers. Finish with a dash of chilli sauce to really wake up your taste buds. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Breakfast",
       "Sandwiches & wraps",
       "Brilliant breakfast recipes",
-      "Tomato"
+      "Tomato",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large free-range eggs",
       "olive oil",
       "10 g mature Cheddar cheese",
@@ -749,9 +734,9 @@
       "½ a bunch of fresh basil",
       "chilli sauce",
       "200 g ripe tomatoes",
-      "30 g rocket"
+      "30 g rocket",
     ],
-    "instructions": [
+    instructions: [
       "Crack 2 large eggs into a bowl or jug, season lightly with sea salt and black pepper, then whisk with a fork until well combined.",
       "Drizzle a little olive oil into a medium non-stick frying pan over a medium heat, then carefully wipe it around and out with a ball of kitchen paper. Pour in the egg, and as it starts to cook at the edges, push it into the centre with a spatula, tilting the pan to let the raw egg run to the edges – repeat for 1 to 2 minutes, or until the omelette is almost cooked.",
       "Finely grate over 10g mature Cheddar cheese from a height, leave for 30 seconds to 1 minute to melt, then slide carefully onto a plate.",
@@ -759,83 +744,81 @@
       "Pick and tear over the leaves from ½ a bunch of fresh basil (15g), then generously drizzle with chilli sauce.",
       "Slice 100g of ripe tomatoes and arrange on top, scatter over 30g of rocket, then season to taste with salt and pepper.",
       "Tear off a 30cm piece of greaseproof paper and place flat on your work surface. Carefully slide the tortilla on top, then use the greaseproof paper to help roll up the wrap. Twist the ends of the paper to secure.",
-      "Cut the wrap in half through the paper, when you’re ready to tuck in."
+      "Cut the wrap in half through the paper, when you’re ready to tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/70064531.jpg",
-    "imageAlt": "Roll-and-go omelette wrap"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/70064531.jpg",
+    imageAlt: "Roll-and-go omelette wrap",
   },
   {
-    "name": "Awesome granola dust",
-    "subName": "Nuts, seeds, oats & fruit galore",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A healthy breakfast recipe, packed with nuts, seeds, oats and dried fruit – try it with yoghurt, in smoothies, turn it into porridge, or even pancakes!",
-    "description": "“Mornings will be amazingly fast and convenient with this epic megamix of brilliant ingredients, giving us loads of nutritional benefits from the nuts, seeds, oats and fruit. Me and my wife get really frustrated about how so many – in fact most – breakfast cereals are full of added sugar, and nutritionally aren’t the best start to the day. So, with my nutrition team, I developed this delicious recipe for us all to enjoy – make a big batch and it’ll last a couple of weeks (or more!). ”",
-    "servings": "Serves Makes 32 portions",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Awesome granola dust",
+    subName: "Nuts, seeds, oats & fruit galore",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A healthy breakfast recipe, packed with nuts, seeds, oats and dried fruit – try it with yoghurt, in smoothies, turn it into porridge, or even pancakes!",
+    description:
+      "“Mornings will be amazingly fast and convenient with this epic megamix of brilliant ingredients, giving us loads of nutritional benefits from the nuts, seeds, oats and fruit. Me and my wife get really frustrated about how so many – in fact most – breakfast cereals are full of added sugar, and nutritionally aren’t the best start to the day. So, with my nutrition team, I developed this delicious recipe for us all to enjoy – make a big batch and it’ll last a couple of weeks (or more!). ”",
+    servings: "Serves Makes 32 portions",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Everyday Super Food",
       "Pancake day",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg porridge oats",
       "250 g unsalted mixed nuts , such as walnuts, Brazils, hazelnuts, pecans, pistachios, cashews",
       "100 g mixed seeds , such as chia, poppy, sunflower, sesame, linseed, pumpkin",
       "250 g mixed dried fruit , such as blueberries, cranberries, sour cherries, mango, apricots, figs, sultanas",
       "3 tablespoons quality cocoa powder",
       "1 tablespoon freshly ground coffee",
-      "1 large orange"
+      "1 large orange",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Place the oats, nuts and seeds in your largest roasting tray. Toss together and roast for 15 minutes, stirring halfway.",
       "Stir the dried fruit, cocoa and coffee into the mix, finely grate over the orange zest, then, in batches, simply blitz to a rough powder in a food processor, tipping it into a large airtight jar as you go for safekeeping.",
-      "To serve, you can have loads of fun – the simplest way is 50g of granola dust per person, either with cold cow’s, goat’s, soya, nut or oat milk or 2 tablespoons of natural yoghurt, and a handful of fresh fruit (80g is one of our 5-a-day). You can make porridge using 50g of granola dust to 200ml of milk, then top with fresh fruit, and this ratio also works for a smoothie – I like to chuck 1 ripe banana and 1 handful of frozen raspberries into the mix too. It’s even a great base for pancakes – simply beat 2 heaped tablespoons of granola dust with 1 heaped tablespoon of wholemeal self-raising flour, 1 mashed banana and 1 large free-range egg, then cook as normal. And in winter, try a hot drink – heat 25g of granola dust with 200ml of your favourite milk to your desired consistency."
+      "To serve, you can have loads of fun – the simplest way is 50g of granola dust per person, either with cold cow’s, goat’s, soya, nut or oat milk or 2 tablespoons of natural yoghurt, and a handful of fresh fruit (80g is one of our 5-a-day). You can make porridge using 50g of granola dust to 200ml of milk, then top with fresh fruit, and this ratio also works for a smoothie – I like to chuck 1 ripe banana and 1 handful of frozen raspberries into the mix too. It’s even a great base for pancakes – simply beat 2 heaped tablespoons of granola dust with 1 heaped tablespoon of wholemeal self-raising flour, 1 mashed banana and 1 large free-range egg, then cook as normal. And in winter, try a hot drink – heat 25g of granola dust with 200ml of your favourite milk to your desired consistency.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/64972625.jpg",
-    "imageAlt": "Awesome granola dust"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/64972625.jpg",
+    imageAlt: "Awesome granola dust",
   },
   {
-    "name": "Cardamom clementine morning buns",
-    "subName": "Spices & citrus in a buttery, flaky dough",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Perfect for the Christmas holidays, this morning bun recipe, livened up with citrus and spice, are a real festive treat.",
-    "description": "“An indulgent croissant-cinnamon bun hybrid, spiced with the season’s most fragrant citrus. Make these the day before and bake in the oven for a lazy Christmas Eve morning. The dough takes a little planning, but you’ll be surprised how simple it really is. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 35 minutes plus chilling and proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 35 minutes plus chilling and proving"
+    name: "Cardamom clementine morning buns",
+    subName: "Spices & citrus in a buttery, flaky dough",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Perfect for the Christmas holidays, this morning bun recipe, livened up with citrus and spice, are a real festive treat.",
+    description:
+      "“An indulgent croissant-cinnamon bun hybrid, spiced with the season’s most fragrant citrus. Make these the day before and bake in the oven for a lazy Christmas Eve morning. The dough takes a little planning, but you’ll be surprised how simple it really is. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "1 hour 35 minutes plus chilling and proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 35 minutes plus chilling and proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Baking",
       "Beautiful baking recipes",
       "Desserts",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g plain flour , plus extra for dusting",
       "50 g caster sugar",
       "2 x 7 g sachets of dried yeast",
@@ -847,9 +830,9 @@
       "100 g light brown muscovado sugar",
       "90 g caster sugar , plus 3 tablespoons",
       "8 clementines",
-      "50 g unsalted butter"
+      "50 g unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Mix the flour, sugar and 2 teaspoons of sea salt in a large bowl, make a well in the centre and add the yeast.",
       "Warm the milk and pour over the yeast. Let it sit for a few minutes, then mix quickly with a knife to form a dough.",
       "Knead for 3 to 4 minutes, or until smooth, then shape into a rough rectangle. Wrap in clingfilm and chill for 2 hours.",
@@ -861,37 +844,37 @@
       "Place the pieces of dough cut-side up in the muffin tin, cover loosely with oiled clingfilm and leave to prove at room temperature for 1 hour, or until risen by half. Chill the tin of buns in the fridge for 30 minutes, or overnight.",
       "Preheat the oven to 190ºC/375ºF/gas 5.",
       "Place the muffin tin on a tray in the centre of the oven and bake for 30 to 35 minutes, rotating halfway, or until golden. Cover with foil for the final 10 minutes if they are browning too much.",
-      "Flip onto a wire rack, then scatter over the 3 tablespoons of caster sugar to serve."
+      "Flip onto a wire rack, then scatter over the 3 tablespoons of caster sugar to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/60037502.jpg",
-    "imageAlt": "Cardamom clementine morning buns"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/60037502.jpg",
+    imageAlt: "Cardamom clementine morning buns",
   },
   {
-    "name": "Sticky cinnamon fig & yoghurt breakfast bowls",
-    "subName": "Warm roasted fruit, creamy yoghurt & pistachios",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a lovely alternative to porridge? This recipe is it: cool creamy yoghurt, warm and sticky baked fruit and a handful of granola. A great start to the day!",
-    "description": "“A perfect autumnal start to the day for weekends and weekdays alike. Enjoy the roasted fruit warm from the oven against the cold, creamy yoghurt and crunchy granola, or prep ahead for an easy-to-assemble breakfast on the go. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Sticky cinnamon fig & yoghurt breakfast bowls",
+    subName: "Warm roasted fruit, creamy yoghurt & pistachios",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Looking for a lovely alternative to porridge? This recipe is it: cool creamy yoghurt, warm and sticky baked fruit and a handful of granola. A great start to the day!",
+    description:
+      "“A perfect autumnal start to the day for weekends and weekdays alike. Enjoy the roasted fruit warm from the oven against the cold, creamy yoghurt and crunchy granola, or prep ahead for an easy-to-assemble breakfast on the go. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
-      "Honey"
+      "Honey",
     ],
-    "ingredients": [
+    ingredients: [
       "8 ripe figs",
       "¼ teaspoon cinnamon",
       "4 tablespoons fresh unsweetened orange juice",
@@ -899,142 +882,141 @@
       "150 g blackberries",
       "600 g Greek yoghurt",
       "4 tablespoons granola",
-      "2 tabelspoons unsalted pistachio nuts"
+      "2 tabelspoons unsalted pistachio nuts",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Halve the figs and arrange cut-side up on a lined non-stick baking tray, so that they fit snugly.",
       "In a small bowl, whisk the cinnamon, orange juice and honey until combined, then spoon over the figs. Roast in the oven for 15 minutes, or until tender and sticky.",
       "Scatter the blackberries over the figs and return to the oven for a final 2 to 3 minutes.",
       "Divide the yoghurt between four breakfast pots or bowls. Top with the roasted fruit, reserving the juices in the tray.",
-      "Scatter the granola and pistachios over the pots and drizzle with the reserved juices to finish."
+      "Scatter the granola and pistachios over the pots and drizzle with the reserved juices to finish.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/56393296.jpg",
-    "imageAlt": "Sticky cinnamon fig & yoghurt breakfast bowls"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/56393296.jpg",
+    imageAlt: "Sticky cinnamon fig & yoghurt breakfast bowls",
   },
   {
-    "name": "Egg & mango chutney flatbreads",
-    "subName": "With a kick of fresh chilli",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A corker of a breakfast flatbread recipe from Jamie Oliver. It's a soft boiled egg on flatbread with mango chutney, chilli and yoghurt. Perfect for brunch!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "12 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "12 minutes"
+    name: "Egg & mango chutney flatbreads",
+    subName: "With a kick of fresh chilli",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A corker of a breakfast flatbread recipe from Jamie Oliver. It's a soft boiled egg on flatbread with mango chutney, chilli and yoghurt. Perfect for brunch!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "12 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "12 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Bread",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Lunch & dinner recipes",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "4 large eggs",
       "100 g self-raising flour , plus extra for dusting",
       "6 tablespoons natural yoghurt",
       "2 tablespoons mango chutney",
-      "1 fresh red chilli"
+      "1 fresh red chilli",
     ],
-    "instructions": [
+    instructions: [
       "Lower the eggs into a pan of vigorously simmering water and boil for 5½ minutes exactly, then refresh under cold water until cool enough to handle, and peel.",
       "Meanwhile, put a large non-stick frying pan on a medium-high heat.",
       "In a bowl, mix the flour with a little pinch of sea salt, 4 tablespoons of yoghurt and 1 tablespoon of olive oil until you have a dough. Halve, then roll out each piece on a flour-dusted surface until just under ½cm thick.",
       "Cook for 3 minutes, or until golden, turning halfway.",
       "Dot the mango chutney and remaining yoghurt over the breads.",
       "Halve the soft-boiled eggs and arrange on top, smashing them in with a fork, if you like.",
-      "Finely slice the chilli and scatter over (as much as you dare!), drizzle with a little extra virgin olive oil and season with salt and black pepper from a height."
+      "Finely slice the chilli and scatter over (as much as you dare!), drizzle with a little extra virgin olive oil and season with salt and black pepper from a height.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/55846381.jpg",
-    "imageAlt": "Egg & mango chutney flatbreads"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/55846381.jpg",
+    imageAlt: "Egg & mango chutney flatbreads",
   },
   {
-    "name": "Mini super-fruit breakfast wraps",
-    "subName": "With berries & toasted seeds",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This speedy, healthy breakfast recipe is great for morning’s when you’re in a hurry. They’re also super-easy to make, so you can get the kids involved – they can choose their favourite fruit!",
-    "description": "“This brilliantly quick recipe is easy to make in the morning before school, and will fuel your body in the right way. Blueberries and raspberries are a fantastic choice here, but feel free to swap in your favourite fruit, or whatever you have at home. Enjoy! ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Mini super-fruit breakfast wraps",
+    subName: "With berries & toasted seeds",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This speedy, healthy breakfast recipe is great for morning’s when you’re in a hurry. They’re also super-easy to make, so you can get the kids involved – they can choose their favourite fruit!",
+    description:
+      "“This brilliantly quick recipe is easy to make in the morning before school, and will fuel your body in the right way. Blueberries and raspberries are a fantastic choice here, but feel free to swap in your favourite fruit, or whatever you have at home. Enjoy! ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Breakfast",
       "Jamie's Food Revolution",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Sandwiches & wraps"
+      "Sandwiches & wraps",
     ],
-    "ingredients": [
+    ingredients: [
       "1 satsuma",
       "1 wholemeal tortilla wrap",
       "1 teaspoon quality cocoa powder",
       "2 tablespoons natural yoghurt",
       "1 ripe banana",
       "1 handful fresh berries , such as raspberries, bluberries",
-      "1 teaspoon mixed toasted seeds"
+      "1 teaspoon mixed toasted seeds",
     ],
-    "instructions": [
+    instructions: [
       "On a chopping board, slice the satsuma in half across the middle, then remove to a plate and pat the board dry with kitchen paper, if needed.",
       "Spoon the cocoa powder into a jam jar, then squeeze in half the satsuma juice (save the rest for another day).",
       "Put the lid securely on the jar and shake well. Add the yoghurt, pop the lid back on, and give it another shake.",
       "Lay the wrap flat in the middle of the chopping board, then spread the cocoa yoghurt evenly over the wrap.",
       "Peel and place the banana in the middle of the wrap, then gently mash with a fork, spreading it around as evenly as possible.",
       "Sprinkle the berries and seeds over the mashed banana.",
-      "Cut into quarters, then tuck in, folding or wrapping up each quarter as you go."
+      "Cut into quarters, then tuck in, folding or wrapping up each quarter as you go.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430773.jpg",
-    "imageAlt": "Mini super-fruit breakfast wraps"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430773.jpg",
+    imageAlt: "Mini super-fruit breakfast wraps",
   },
   {
-    "name": "Boiled eggs & asparagus soldiers",
-    "subName": "With crispy pancetta & grilled toast",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Pimp up your boiled eggs with asparagus soldiers wrapped in pancetta – you'll be upping your veg intake in the most indulgent, nostalgic way possible! It'll be on the table in 20 minutes too. Perfect.",
-    "description": "“Think of this as the perfect boiled egg, but stepped up a gear. As well enriching your body with a tasty, nutritious combo of egg and wholemeal toast, the super-charged asparagus soldiers are a genius way to up your veg intake. Happy days! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Boiled eggs & asparagus soldiers",
+    subName: "With crispy pancetta & grilled toast",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Pimp up your boiled eggs with asparagus soldiers wrapped in pancetta – you'll be upping your veg intake in the most indulgent, nostalgic way possible! It'll be on the table in 20 minutes too. Perfect.",
+    description:
+      "“Think of this as the perfect boiled egg, but stepped up a gear. As well enriching your body with a tasty, nutritious combo of egg and wholemeal toast, the super-charged asparagus soldiers are a genius way to up your veg intake. Happy days! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Jamie's Food Revolution"
+      "Jamie's Food Revolution",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large bunch of asparagus , (16 spears)",
       "8 slices of higher-welfare pancetta",
       "4 large free-range eggs",
-      "4 slices of wholemeal bread , (50g each)"
+      "4 slices of wholemeal bread , (50g each)",
     ],
-    "instructions": [
+    instructions: [
       "Place a griddle pan over a high heat to heat up.",
       "Snap the woody ends off the asparagus and discard.",
       "Fill a medium saucepan three-quarters of the way up with water, add a pinch of sea salt, then place over a high heat and bring to a fast boil.",
@@ -1044,46 +1026,46 @@
       "Cook the eggs for 5½ minutes so that they’re runny for dunking – set a timer.",
       "Carefully remove the eggs from the water and place into egg cups set on a plate, then divide up the asparagus.",
       "Meanwhile, quickly toast the bread on the griddle for 30 seconds on each side. Remove from the pan, slice into soldiers on a clean board and divide between your plates.",
-      "Lightly tap and remove the top of each egg, season with black pepper, then tuck in."
+      "Lightly tap and remove the top of each egg, season with black pepper, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430772.jpg",
-    "imageAlt": "Boiled eggs & asparagus soldiers"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430772.jpg",
+    imageAlt: "Boiled eggs & asparagus soldiers",
   },
   {
-    "name": "One-cup pancakes with blueberries",
-    "subName": "And a dollop of natural yoghurt",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This easy one-cup pancake recipe is a great one to make with kids – no scales needed, just a cup! Add blueberries and natural yoghurt for a delicious weekend breakfast or brunch.",
-    "description": "“Super-easy to make and ready in just 15 minutes, these pancakes make the perfect weekend breakfast or brunch — a great way to get the whole family together! Get creative with sweet or savoury toppings. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "One-cup pancakes with blueberries",
+    subName: "And a dollop of natural yoghurt",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This easy one-cup pancake recipe is a great one to make with kids – no scales needed, just a cup! Add blueberries and natural yoghurt for a delicious weekend breakfast or brunch.",
+    description:
+      "“Super-easy to make and ready in just 15 minutes, these pancakes make the perfect weekend breakfast or brunch — a great way to get the whole family together! Get creative with sweet or savoury toppings. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Fruit",
       "Breakfast",
       "Jamie's Food Revolution",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 cup of self-raising flour",
       "1 cup of milk",
       "200 g blueberries",
       "olive oil",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Crack the egg into a large mixing bowl, add the flour, milk and a tiny pinch of sea salt.",
       "Whisk everything together until you have a lovely smooth batter, then fold through the blueberries.",
       "Heat ½ a tablespoon of olive oil in a large non-stick frying pan over a medium heat, carefully tilting the pan to spread the oil out evenly.",
@@ -1091,38 +1073,38 @@
       "Cook for 1 to 2 minutes, or until little bubbles appear on the surface and the bases are golden, then carefully flip them over.",
       "When the pancakes are golden on both sides, remove to a plate.",
       "Repeat with the remaining batter, adding a little more oil to the pan between batches, if needed.",
-      "Serve the pancakes while they’re still hot, with a dollop of yoghurt and some extra fresh berries, if you like."
+      "Serve the pancakes while they’re still hot, with a dollop of yoghurt and some extra fresh berries, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430777.jpg",
-    "imageAlt": "One-cup pancakes with blueberries"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430777.jpg",
+    imageAlt: "One-cup pancakes with blueberries",
   },
   {
-    "name": "Silky masala eggs",
-    "subName": "With fresh chilli & warm chapatis",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jazz up scrambled eggs with fragrant spices and fresh herbs with this masala eggs recipe. Wrap up in warm wholemeal chapatis for a nutritious, flavour-packed breakfast in next to no time.",
-    "description": "“Jazz up your scrambled eggs with a hit of fragrant spices and fresh herbs. Served up with warm wholemeal chapatis, you can wrap, roll or fold your way to a nutritious, flavour-packed brekkie in next to no time. It’s a great way to keep that mid-morning hunger at bay until lunch. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Silky masala eggs",
+    subName: "With fresh chilli & warm chapatis",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jazz up scrambled eggs with fragrant spices and fresh herbs with this masala eggs recipe. Wrap up in warm wholemeal chapatis for a nutritious, flavour-packed breakfast in next to no time.",
+    description:
+      "“Jazz up your scrambled eggs with a hit of fragrant spices and fresh herbs. Served up with warm wholemeal chapatis, you can wrap, roll or fold your way to a nutritious, flavour-packed brekkie in next to no time. It’s a great way to keep that mid-morning hunger at bay until lunch. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Indian",
       "Bread",
       "Breakfast",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small red onion",
       "1 fresh red or green chilli",
       "1 clove of garlic",
@@ -1133,9 +1115,9 @@
       "½ teaspoon cumin seeds",
       "1 teaspoon garam masala",
       "½ teaspoon ground turmeric",
-      "6 large free-range eggs"
+      "6 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160ºC/325ºF/gas 3.",
       "On a chopping board, peel and finely slice the onion, deseed and finely slice the chilli, then peel and crush the garlic.",
       "Pick and roughly chop the coriander leaves, finely chopping the stalks.",
@@ -1146,38 +1128,38 @@
       "Meanwhile, crack the eggs into a bowl, add a pinch of sea salt and black pepper, then beat with a fork.",
       "Scatter the chopped tomatoes into the pan, cook for a further 2 minutes, then pour in the eggs and reduce the heat to low.",
       "Stir slowly until you’ve got beautiful silky strips of just cooked egg, surrounded by softer, custardy egg, then remove from the heat – the residual heat of the pan will continue to cook the eggs.",
-      "Stir the coriander leaves into the eggs, then serve with warm chapatis and a little extra chilli scattered over, if you like."
+      "Stir the coriander leaves into the eggs, then serve with warm chapatis and a little extra chilli scattered over, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430774.jpg",
-    "imageAlt": "Silky masala eggs"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430774.jpg",
+    imageAlt: "Silky masala eggs",
   },
   {
-    "name": "Banana & cinnamon porridge",
-    "subName": "With toasted almonds & poppy seeds",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Customise the basic porridge recipe with banana, cinnamon and poppy seeds",
-    "description": "“Porridge is a good staple breakfast; it’s cheap, it’s filling and it’s nutritious, plus it’s super-simple to customise to keep things interesting. Have fun with your combos! ”",
-    "servings": "4 children",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Banana & cinnamon porridge",
+    subName: "With toasted almonds & poppy seeds",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Customise the basic porridge recipe with banana, cinnamon and poppy seeds",
+    description:
+      "“Porridge is a good staple breakfast; it’s cheap, it’s filling and it’s nutritious, plus it’s super-simple to customise to keep things interesting. Have fun with your combos! ”",
+    servings: "4 children",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Ministry of Food",
       "Breakfast",
       "Fruit",
       "Jamie's Food Revolution",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "BASIC PORRIDGE",
       "160 g rolled oats",
       "600 ml milk or organic soya milk",
@@ -1186,134 +1168,129 @@
       "30 g flaked almonds",
       "½ teaspoon ground cinnamon",
       "2 tablespoons poppy seeds",
-      "maple syrup or runny honey"
+      "maple syrup or runny honey",
     ],
-    "instructions": [
+    instructions: [
       "For the basic porridge, place the oats and the milk (or 600ml water) into a large pan over a medium heat, and add a tiny pinch of sea salt.",
       "Bring to a steady simmer for 5 to 6 minutes, stirring often to give you a smooth, creamy porridge, and loosening with extra milk, if needed.",
       "Serve as is, or while it’s blipping away in the pan, follow the next steps to prepare the banana and cinnamon topping.",
       "Peel and slice the bananas at an angle.",
       "Toast the almonds in a dry non-stick frying pan over a medium heat for 3 to 4 minutes, or until lightly golden.",
       "Stir the cinnamon, poppy seeds and a little maple syrup or honey through the porridge, then divide between bowls.",
-      "Scatter the bananas and almonds on top, then drizzle with a little extra maple syrup or honey, if you like."
+      "Scatter the bananas and almonds on top, then drizzle with a little extra maple syrup or honey, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430779.jpg",
-    "imageAlt": "Banana & cinnamon porridge"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430779.jpg",
+    imageAlt: "Banana & cinnamon porridge",
   },
   {
-    "name": "Apple & pecan porridge",
-    "subName": "With maple syrup",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Porridge is a real crowd-pleaser of a breakfast recipe, and adding toasted pecans, grated apple and maple syrup into the mix makes this recipe from Jamie Oliver totally irresistible!",
-    "description": "“Porridge is a good staple breakfast; it’s cheap, it’s filling and it’s nutritious, plus it’s super-simple to customise to keep things interesting. Have fun with your combos! ”",
-    "servings": "4 children",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Apple & pecan porridge",
+    subName: "With maple syrup",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Porridge is a real crowd-pleaser of a breakfast recipe, and adding toasted pecans, grated apple and maple syrup into the mix makes this recipe from Jamie Oliver totally irresistible!",
+    description:
+      "“Porridge is a good staple breakfast; it’s cheap, it’s filling and it’s nutritious, plus it’s super-simple to customise to keep things interesting. Have fun with your combos! ”",
+    servings: "4 children",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Ministry of Food",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Jamie's Food Revolution"
+      "Jamie's Food Revolution",
     ],
-    "ingredients": [
+    ingredients: [
       "BASIC PORRIDGE",
       "160 g rolled oats",
       "600 ml milk or organic soya milk",
       "APPLE & PECAN TOPPING",
       "30 g unsalted pecans",
       "1 eating apple",
-      "maple syrup"
+      "maple syrup",
     ],
-    "instructions": [
+    instructions: [
       "For the basic porridge, place the oats and the milk (or 600ml water) into a large pan over a medium heat, and add a tiny pinch of sea salt.",
       "Bring to a steady simmer for 5 to 6 minutes, stirring often to give you a smooth, creamy porridge, and loosening with extra milk, if needed.",
       "Serve as is, or while it’s blipping away in the pan, follow the next steps to prepare the apple and pecan topping.",
       "Snap the pecans up into little pieces, then toast in a small dry non-stick frying pan over a medium heat for 3 to 4 minutes, or until lightly golden.",
       "Remove the apple stalk, then use a box grater to coarsely grate it onto a chopping board (core and all).",
       "Stir the grated apple and a little maple syrup through then porridge, then divide between bowls.",
-      "Scatter the pecans on top, then drizzle with a little extra maple syrup, if you like."
+      "Scatter the pecans on top, then drizzle with a little extra maple syrup, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51430780.jpg",
-    "imageAlt": "Apple & pecan porridge"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51430780.jpg",
+    imageAlt: "Apple & pecan porridge",
   },
   {
-    "name": "Oat, pear & cardamom smoothie",
-    "subName": "Gently spiced & refreshing",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Wake yourself up with an oat, pear and cardamom smoothie. Freezing the pear overnight means you don't need ice but it's still super refreshing first thing. Cheers! ",
-    "description": "“I have a love/hate relationship with smoothies. The idea of people replacing a meal full of different textures and flavours with a drink makes me squirm – yet a cold sweet-and-sour fruit smoothie in the morning can be hard to beat. Frozen fruit gives smoothies a nice coldness without requiring ice and helps make use of over-ripe fruit that’s on the way out. Smoothies are also the perfect vehicle for natural nutrient powders, so feel free to add a teaspoon here if you are so inclined. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes plus overnight freezing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes plus overnight freezing"
+    name: "Oat, pear & cardamom smoothie",
+    subName: "Gently spiced & refreshing",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Wake yourself up with an oat, pear and cardamom smoothie. Freezing the pear overnight means you don't need ice but it's still super refreshing first thing. Cheers! ",
+    description:
+      "“I have a love/hate relationship with smoothies. The idea of people replacing a meal full of different textures and flavours with a drink makes me squirm – yet a cold sweet-and-sour fruit smoothie in the morning can be hard to beat. Frozen fruit gives smoothies a nice coldness without requiring ice and helps make use of over-ripe fruit that’s on the way out. Smoothies are also the perfect vehicle for natural nutrient powders, so feel free to add a teaspoon here if you are so inclined. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes plus overnight freezing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes plus overnight freezing",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Fruit",
-      "Breakfast",
-      "Juices and smoothies"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Fruit", "Breakfast", "Juices and smoothies"],
+    ingredients: [
       "2 pears",
       "6 cardamom pods",
       "500 ml oat milk",
       "100 g natural yoghurt",
       "2 teaspoons runny honey",
-      "2 teaspoons bee pollen"
+      "2 teaspoons bee pollen",
     ],
-    "instructions": [
+    instructions: [
       "The night before you want to make your smoothie, peel and core the pears. Pop them into the freezer.",
       "Open the cardamom pods and extract the seeds, then crush up in a pestle and mortar.",
       "Tip the crushed seeds into a blender, then add the frozen pears, oat milk, yoghurt and honey. Blitz until smooth.",
-      "Divide between two glasses and sprinkle over the bee pollen."
+      "Divide between two glasses and sprinkle over the bee pollen.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/49213400.jpg",
-    "imageAlt": "Oat, pear & cardamom smoothie"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/49213400.jpg",
+    imageAlt: "Oat, pear & cardamom smoothie",
   },
   {
-    "name": "Black rice pudding",
-    "subName": "Mango, lime, passion fruit & coconut",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This healthy rice pudding recipe makes a brilliant breakfast – topped with mango and coconut, this rice pudding is a real treat for the taste buds.",
-    "description": "“This healthy rice pudding recipe is super-tasty for breakfast. Fortified hazelnut milk contains vitamin B12, helping us to think properly and stay alert, while hazelnuts are super-high in vitamin E, protecting our cells against damage. Enjoy! ”",
-    "servings": "Serves Makes 4 jars",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Black rice pudding",
+    subName: "Mango, lime, passion fruit & coconut",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This healthy rice pudding recipe makes a brilliant breakfast – topped with mango and coconut, this rice pudding is a real treat for the taste buds.",
+    description:
+      "“This healthy rice pudding recipe is super-tasty for breakfast. Fortified hazelnut milk contains vitamin B12, helping us to think properly and stay alert, while hazelnuts are super-high in vitamin E, protecting our cells against damage. Enjoy! ”",
+    servings: "Serves Makes 4 jars",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Fruit",
       "Breakfast",
       "Healthy breakfast ideas",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g black rice",
       "1 ripe mango",
       "1 lime",
@@ -1324,46 +1301,46 @@
       "1 tablespoon vanilla extract",
       "manuka honey , optional",
       "4 heaped tablespoons natural yoghurt",
-      "2 wrinkly passion fruit"
+      "2 wrinkly passion fruit",
     ],
-    "instructions": [
+    instructions: [
       "Cook the black rice according to the packet instructions, overcooking it slightly so it’s plump and sticky, then drain and cool.",
       "Meanwhile, peel and destone the mango, blitz the flesh in a blender with the lime juice until smooth, and pour into a bowl.",
       "Separately, toast the hazelnuts and coconut in a dry frying pan until lightly golden, then bash up in a pestle and mortar.",
       "Peel the bananas and tear into the blender, then blitz with the hazelnut milk, vanilla extract and two-thirds of the black rice – depending on the sweetness of your bananas, you could also add a teaspoon of honey.",
       "Once smooth, stir that back through the rest of the rice – this will give you great texture and colour. Divide between four nice jars or bowls.",
-      "Spoon over the blitzed mango, squeeze half a passion fruit over each one, then delicately spoon over the yoghurt and sprinkle with the hazelnuts and coconut."
+      "Spoon over the blitzed mango, squeeze half a passion fruit over each one, then delicately spoon over the yoghurt and sprinkle with the hazelnuts and coconut.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/53243811.jpg",
-    "imageAlt": "Black rice pudding"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/53243811.jpg",
+    imageAlt: "Black rice pudding",
   },
   {
-    "name": "Breakfast doughnuts",
-    "subName": "Honey, jammy blueberries & yoghurt",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Breakfast doughnuts? Yep, it's a thing! This breakfast recipe is packed with good stuff – Medjool dates, wholemeal flour, ground almonds, and loads of juicy blueberries. A delicious start to the day. ",
-    "description": "“Beautiful blueberries add a vibrant pop of colour to these tasty homemade doughnuts, while also giving us a vitamin C boost, helping us absorb the iron found in both flours ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Breakfast doughnuts",
+    subName: "Honey, jammy blueberries & yoghurt",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Breakfast doughnuts? Yep, it's a thing! This breakfast recipe is packed with good stuff – Medjool dates, wholemeal flour, ground almonds, and loads of juicy blueberries. A delicious start to the day. ",
+    description:
+      "“Beautiful blueberries add a vibrant pop of colour to these tasty homemade doughnuts, while also giving us a vitamin C boost, helping us absorb the iron found in both flours ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Fruit",
       "Breakfast",
       "Healthy breakfast ideas",
       "Brilliant breakfast recipes",
-      "Honey"
+      "Honey",
     ],
-    "ingredients": [
+    ingredients: [
       "100g Medjool dates",
       "100g wholemeal self-raising flour",
       "100g self-raising flour , plus extra for dusting",
@@ -1383,9 +1360,9 @@
       "11 oz blueberries",
       "1 tablespoon liquid honey",
       "4 tablespoons Greek yoghurt",
-      "optional: ground cinnamon"
+      "optional: ground cinnamon",
     ],
-    "instructions": [
+    instructions: [
       "Tear the stones out of the dates and place the flesh in a food processor with the flours, ground almonds, egg, a tiny pinch of sea salt and 70ml of water.",
       "Blitz until combined and forming a ball of dough, then roughly knead on a clean flour-dusted surface for just 2 minutes.",
       "Roll out the dough 1.5cm thick, then use an 8cm cutter (or a pint glass) to cut out two rounds. Use a 3cm cutter (or the end of a clingfilm roll!) to cut a hole in the centre of each one, then use those centre bits and the remaining cut-offs of dough to roll it out again, repeating the process until you have four doughnuts in total.",
@@ -1399,37 +1376,37 @@
       "Simmer the doughnuts in a large pan of gently boiling water for 5 minutes, very carefully turning them over halfway through.",
       "Place a large frying pan on a medium heat with 1 tablespoon of oil. Drain the doughnuts well, then carefully transfer them to the frying pan to get golden for 10 minutes, turning regularly to build up a nice crust.",
       "Once looking good, add the blueberries to the pan, then drizzle over the honey. Jiggle and shake the pan over the heat for a couple of minutes, using a spoon to keep turning the doughnuts in all that lovely jammy blueberry juice.",
-      "When it looks nice and shiny and the doughnuts are purple, ripple the yogurt through the pan and divide between your plates. Nice with a sprinkling of cinnamon, to finish."
+      "When it looks nice and shiny and the doughnuts are purple, ripple the yogurt through the pan and divide between your plates. Nice with a sprinkling of cinnamon, to finish.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51137594.jpg",
-    "imageAlt": "Breakfast doughnuts"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51137594.jpg",
+    imageAlt: "Breakfast doughnuts",
   },
   {
-    "name": "Pineapple pancake mess",
-    "subName": "Yoghurt, coconut, cashews & lime",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A healthy pancake recipe with caramelised pineapple, dollops of yoghurt and zingy lime zest.",
-    "description": "“Juicy, super-ripe, sweet pineapple is a great source of the mineral manganese, which is one of the nutrients our bodies need in order to keep our metabolic systems nice and healthy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Pineapple pancake mess",
+    subName: "Yoghurt, coconut, cashews & lime",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A healthy pancake recipe with caramelised pineapple, dollops of yoghurt and zingy lime zest.",
+    description:
+      "“Juicy, super-ripe, sweet pineapple is a great source of the mineral manganese, which is one of the nutrients our bodies need in order to keep our metabolic systems nice and healthy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Fruit",
       "Breakfast",
       "Healthy breakfast ideas",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "40g cashew nuts",
       "2 tablespoons unsweetened desiccated coconut flakes",
       "1 ripe pineapple",
@@ -1455,9 +1432,9 @@
       "olive oil",
       "4 tablespoons plain yogurt",
       "1 lime",
-      "optional: manuka honey"
+      "optional: manuka honey",
     ],
-    "instructions": [
+    instructions: [
       "Toast the cashews in a large non-stick frying pan on a medium heat until lightly golden, add the coconut for just 30 seconds, then tip both into a pestle and mortar and lightly crush.",
       "Trim the ends off the pineapple, cut off the skin, quarter it lengthways and cut away the core. Chop the flesh into 1cm slices.",
       "Return the dry pan to a medium-high heat and cook the pineapple for 5 to 10 minutes, or until caramelized, tossing regularly, then remove to a warm plate.",
@@ -1468,35 +1445,32 @@
       "Repeat until you’ve used up all the ingredients, then finely grate over the lime zest. Nice served with a drizzle of honey, if you fancy.",
       "Toast the cashews in a large non­stick frying pan on a medium heat until lightly golden, add the coconut for just 30 seconds, then tip both into a pestle and mortar and lightly crush. Trim the ends off the pineapple, cut off the skin, quarter it lengthways, and cut away the core. Chop the flesh into ½­inch slices. Return the dry pan to a medium ­high heat and cook the pineapple for 5 to 10 minutes, or until caramelized, tossing regularly, then remove to a warm plate.",
       "Meanwhile, crush the cardamom pods, putting just the inner seeds into a blender with the flour, milk, egg, vanilla extract, cinnamon, and a tiny pinch of sea salt. Blitz until smooth. Drizzle a little oil into the empty pineapple pan, then carefully wipe it around and out with a ball of paper towel. Add just enough batter to lightly cover the base of the pan, cook until golden on both sides, then remove to a second plate. Repeat the process, stacking up the pancakes as you go and covering with a kitchen towel to keep warm.",
-      "Either make up individual portions, or do a sharing platter for the middle of the table. Randomly tear, fold, and layer up the pancakes with the caramelized pineapple, spoonfuls of yogurt and sprinklings of crushed cashews and coconut. Repeat until you’ve used up all the ingredients, then finely grate over the lime zest. Nice served with a drizzle of honey, if you fancy."
+      "Either make up individual portions, or do a sharing platter for the middle of the table. Randomly tear, fold, and layer up the pancakes with the caramelized pineapple, spoonfuls of yogurt and sprinklings of crushed cashews and coconut. Repeat until you’ve used up all the ingredients, then finely grate over the lime zest. Nice served with a drizzle of honey, if you fancy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9o7oAnHNqEPA_Q3aRySGso.jpg",
-    "imageAlt": "Pineapple pancake mess"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9o7oAnHNqEPA_Q3aRySGso.jpg",
+    imageAlt: "Pineapple pancake mess",
   },
   {
-    "name": "Bombay omelette",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Grab a taste of India with this masala omelette recipe that will become a go-to dish for you and your family because of its punchy flavours and simplicity.",
-    "description": "“I had my first masala omelette on a trip to India and it totally converted me to eating punchy flavours in the morning. Breakfast in India isn’t a sweet affair – no sugary cereals or cakes, but spicy masala omelettes, dosas with sambal, meals that really will set you up for the day and don’t weigh you down. This is now a go-to dish in our house, and not just at breakfast time – it will often get made in the evening if we’re hungry and tired. It’s incredibly straightforward and easily adaptable, depending on what you have to hand. A perfect protein-packed start to the day. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Bombay omelette",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Grab a taste of India with this masala omelette recipe that will become a go-to dish for you and your family because of its punchy flavours and simplicity.",
+    description:
+      "“I had my first masala omelette on a trip to India and it totally converted me to eating punchy flavours in the morning. Breakfast in India isn’t a sweet affair – no sugary cereals or cakes, but spicy masala omelettes, dosas with sambal, meals that really will set you up for the day and don’t weigh you down. This is now a go-to dish in our house, and not just at breakfast time – it will often get made in the evening if we’re hungry and tired. It’s incredibly straightforward and easily adaptable, depending on what you have to hand. A perfect protein-packed start to the day. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Indian",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Indian", "Breakfast"],
+    ingredients: [
       "½ a red onion",
       "2 small vine tomatoes",
       "½ a bunch of fresh coriander",
@@ -1507,53 +1481,47 @@
       "½ teaspoon ground cumin",
       "50g baby spinach leaves",
       "½ a lemon",
-      "2 knobs of butter"
+      "2 knobs of butter",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the onion. Halve the tomatoes, scoop out the seeds with a teaspoon and discard, then finely chop the flesh.",
       "Finely chop the coriander stalks and leaves. Halve the chilli, deseed and finely slice.",
       "Whisk the eggs together until well combined, then season generously and whisk in the onion, tomatoes, coriander, chilli, turmeric, garam masala and cumin.",
       "Put the spinach leaves into a bowl, squeeze just enough lemon\nto coat, toss together, then leave to one side.",
       "Melt half the butter in a medium non-stick frying pan over a medium heat and ladle in half the omelette mixture. Swirl the eggs around for 2 minutes, pushing them to the middle and tilting the pan so that all the mixture has a chance to set.",
       "Leave it for a minute, then slip the omelette on to your serving plate. Top with half the dressed spinach and fold the omelette in half.",
-      "Serve straight away, and repeat with the remaining butter, omelette mix and spinach."
+      "Serve straight away, and repeat with the remaining butter, omelette mix and spinach.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46129318.jpg",
-    "imageAlt": "Bombay omelette"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46129318.jpg",
+    imageAlt: "Bombay omelette",
   },
   {
-    "name": "Brazilian breakfast dough balls",
-    "subName": "Pão de queijo",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Brazilian breakfast dough balls, or pão de queijo, are enjoyed for breakfast or as a snack all over Brazil – delicious crispy puffs of dough with a mild cheese flavour. Get the recipe here!",
-    "description": "“Crispy puffs of dough with a mild, cheesy flavour, pão de queijo are eaten for breakfast or as a snack all over Brasil. The secret to this addictive treat is the use of cassava flour (polvilho azedo), which gives the balls an irresistibly moist, chewy texture. The best ones we’ve ever tasted were from a tiny hole-in-the-wall bakery in São Paulo, and we like to think this recipe comes pretty close. ”",
-    "servings": "Serves Makes 25",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus chilling"
+    name: "Brazilian breakfast dough balls",
+    subName: "Pão de queijo",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Brazilian breakfast dough balls, or pão de queijo, are enjoyed for breakfast or as a snack all over Brazil – delicious crispy puffs of dough with a mild cheese flavour. Get the recipe here!",
+    description:
+      "“Crispy puffs of dough with a mild, cheesy flavour, pão de queijo are eaten for breakfast or as a snack all over Brasil. The secret to this addictive treat is the use of cassava flour (polvilho azedo), which gives the balls an irresistibly moist, chewy texture. The best ones we’ve ever tasted were from a tiny hole-in-the-wall bakery in São Paulo, and we like to think this recipe comes pretty close. ”",
+    servings: "Serves Makes 25",
+    time: {
+      prep: "",
+      cook: "1 hour plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Breakfast",
-      "Brilliant breakfast recipes",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Breakfast", "Brilliant breakfast recipes", "Snacks"],
+    ingredients: [
       "125ml whole milk",
       "50ml vegetable oil",
       "250g cassava flour , (or substitute tapioca flour)",
       "2 large free-range eggs",
-      "200g Parmesan or mature Cheddar cheese"
+      "200g Parmesan or mature Cheddar cheese",
     ],
-    "instructions": [
+    instructions: [
       "Put 125ml water, the milk, vegetable oil and 1 teaspoon of sea salt in a large pan and bring to the boil.",
       "As soon as it rises up the sides of the pan, remove it from the heat. Quickly tip in the flour and stir vigorously to combine. Keep stirring until the mixture comes together as a wet dough and comes away from the side of the pan.Transfer to the bowl of a stand mixer and leave to cool slightly.",
       "Crack the eggs into a bowl and beat together, then add to the dough and start mixing at a low speed. After 1 to 2 minutes, increase the speed to high and beat vigorously until all the egg has been incorporated and the dough is smooth.",
@@ -1562,36 +1530,38 @@
       "With damp or lightly oiled hands, roll tablespoons of the dough into small balls, about 25 to 30g each. You may need to wash your hands occasionally, as the dough is quite sticky. (If you have one, use a small ice-cream scoop to make this easier. Dip the scoop briefly in water, then flick away any excess water before scooping each ball.)",
       "Arrange the balls 2.5cm apart on the prepared baking sheet. You can prepare them a few hours ahead and put the tray in the fridge until you’re ready to bake.",
       "Preheat the oven to 200°C/400°F/gas 6.",
-      "Bake for 20 to 25 minutes, until puffed up and evenly golden brown. They should have a crisp exterior and a doughy, chewy centre. Serve immediately."
+      "Bake for 20 to 25 minutes, until puffed up and evenly golden brown. They should have a crisp exterior and a doughy, chewy centre. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46129327.jpg",
-    "imageAlt": "Brazilian breakfast dough balls"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46129327.jpg",
+    imageAlt: "Brazilian breakfast dough balls",
   },
   {
-    "name": "Toasted Popeye bread",
-    "subName": "Eggs, vine tomatoes & chilli sauce",
-    "specialDiets": [],
-    "metaDescription": "Spinach is a brilliant ingredient to embrace at breakfast time – enjoy spinach on toast with coddled eggs for a healthy breakfast.",
-    "description": "“Spinach is a brilliant ingredient to embrace at breakfast time – it’s super-high in vitamin K, which we need to keep our bones strong and healthy. Popeye knew what he was doing! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Toasted Popeye bread",
+    subName: "Eggs, vine tomatoes & chilli sauce",
+    specialDiets: [],
+    metaDescription:
+      "Spinach is a brilliant ingredient to embrace at breakfast time – enjoy spinach on toast with coddled eggs for a healthy breakfast.",
+    description:
+      "“Spinach is a brilliant ingredient to embrace at breakfast time – it’s super-high in vitamin K, which we need to keep our bones strong and healthy. Popeye knew what he was doing! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Eggs",
       "Bread",
       "Spinach",
       "Tomato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "160 g ripe cherry tomatoes , on the vine",
       "4 thin slices of wholemeal bread , (35g each)",
       "3 large free-range eggs",
@@ -1609,9 +1579,9 @@
       "tablespoons reduced­ fat (2%) milk",
       "1 heaping tablespoon cottage cheese",
       "extra virgin olive oil",
-      "hot chili sauce"
+      "hot chili sauce",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the grill to high.",
       "Lay the tomato vines in a large baking tray, prick each tomato with the tip of a sharp knife and grill for 4 minutes, then add the bread to the tray to toast on both sides.",
       "Meanwhile, crack 1 egg into a blender, add the ham, spinach, a good pinch of black pepper and the milk and blitz until smooth.",
@@ -1625,36 +1595,36 @@
       "Take the pan from under the grill and divide the green eggy mixture between the four pieces of toast, spreading it right out to the edges.",
       "Divide and dot over the cottage cheese, then pop back under the grill for another 4 minutes, or until starting to brown at the edges.",
       "Meanwhile, dry fry the remaining 2 eggs in a non­stick frying pan on a medium heat, covering the pan with a lid to steam and coddle the eggs on the top—cook to your liking.",
-      "Divide up the Popeye bread and serve each portion with an egg and half the grilled tomatoes. I like to finish with just a few drips of good oil, and a drizzle of chili sauce for a bit of a kick. Crush the tomatoes, tear up the bread, bust up the egg yolk, and devour."
+      "Divide up the Popeye bread and serve each portion with an egg and half the grilled tomatoes. I like to finish with just a few drips of good oil, and a drizzle of chili sauce for a bit of a kick. Crush the tomatoes, tear up the bread, bust up the egg yolk, and devour.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51137596.jpg",
-    "imageAlt": "Toasted Popeye bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51137596.jpg",
+    imageAlt: "Toasted Popeye bread",
   },
   {
-    "name": "Roasted stone fruit",
-    "subName": "Coconut, date & oat crumble",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A brilliantly versatile healthy fruit crumble recipe – brilliant for breakfast or a healthy pudding.",
-    "description": "“Two of our crumble ingredients here – mighty oats and beautifully sweet dates – are super- high in fibre, helping to keep our guts healthy and happy, and keeping us regular! ”",
-    "servings": "Serves Makes 12 portions",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Roasted stone fruit",
+    subName: "Coconut, date & oat crumble",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A brilliantly versatile healthy fruit crumble recipe – brilliant for breakfast or a healthy pudding.",
+    description:
+      "“Two of our crumble ingredients here – mighty oats and beautifully sweet dates – are super- high in fibre, helping to keep our guts healthy and happy, and keeping us regular! ”",
+    servings: "Serves Makes 12 portions",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Fruit",
       "Breakfast",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "6 oranges",
       "1 tablespoon balsamic vinegar",
       "1 vanilla pod",
@@ -1676,9 +1646,9 @@
       "extra virgin olive oil",
       "4½ lbs mixed seasonal stone fruit, such as plums, peaches, apricots, cherries",
       "PER PORTION",
-      "1 tablespoon plain yogurt"
+      "1 tablespoon plain yogurt",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Halve the oranges and squeeze all the juice into a large roasting dish with the balsamic. Halve the vanilla pod lengthways and scrape out the seeds, then add both pod and seeds to the dish.",
       "Grate in the strawberries, mix together, and pop into the oven to warm through while you prep your crumble and fruit.",
@@ -1696,38 +1666,39 @@
       "Pull the dish of warm, delicious juices out of the oven and gently stir in all the fruit. Return to the top rack of the oven, place the crumble on the rack underneath, and cook for 45 minutes, or until the fruit is soft and sticky and the crumble is nicely golden.",
       "Stir the crumble occasionally as it cooks to break it up and give it a nice even color.",
       "Serve up however many portions you want while it’s all warm, adding 1 tablespoon of yogurt to each one.",
-      "Once cool, decant the rest of the crumble portions into an airtight jar to enjoy in the days that follow, and pop the fruit into the fridge, where it will keep happily for up to 5 days."
+      "Once cool, decant the rest of the crumble portions into an airtight jar to enjoy in the days that follow, and pop the fruit into the fridge, where it will keep happily for up to 5 days.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/F9btPTaiKgQ95cf9NP01QL.jpg",
-    "imageAlt": "Roasted stone fruit"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/F9btPTaiKgQ95cf9NP01QL.jpg",
+    imageAlt: "Roasted stone fruit",
   },
   {
-    "name": "Chocolate porridge",
-    "subName": "Greek yoghurt & fresh seasonal fruit",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "You'd never believe that this delicious chocolate porridge is actually a healthy porridge recipe! Great for batch-cooking at the weekend, serve with fruit.",
-    "description": "“Quality cocoa powder creates a luxurious feeling of comforting chocolaty goodness in this porridge recipe, but without all the sugar and saturated fat we’d get from actually adding chocolate to the mix. ”",
-    "servings": "Serves Makes 12 portions",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Chocolate porridge",
+    subName: "Greek yoghurt & fresh seasonal fruit",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "You'd never believe that this delicious chocolate porridge is actually a healthy porridge recipe! Great for batch-cooking at the weekend, serve with fruit.",
+    description:
+      "“Quality cocoa powder creates a luxurious feeling of comforting chocolaty goodness in this porridge recipe, but without all the sugar and saturated fat we’d get from actually adding chocolate to the mix. ”",
+    servings: "Serves Makes 12 portions",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Healthy breakfast ideas",
-      "Quick & healthy recipes"
+      "Quick & healthy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g blanched hazelnuts",
       "200 g Medjool dates",
       "400 g porridge oats",
@@ -1749,9 +1720,9 @@
       "¾ cup + 5 teaspoons coconut water",
       "1 heaping tablespoon Greek yogurt",
       "3 oz fresh fruit, such as raspberries, blackberries, sliced banana, grated apple and pear, segments of orange",
-      "optional: 1 pinch of ground cinnamon or quality cocoa powder"
+      "optional: 1 pinch of ground cinnamon or quality cocoa powder",
     ],
-    "instructions": [
+    instructions: [
       "Toast the hazelnuts in a dry pan on a medium heat until golden, tossing often, then tip into a food processor.",
       "Tear the stones out of the dates and add the flesh to the processor with half the oats, the vanilla extract and cocoa powder.",
       "Finely grate in the orange zest and pulse until fine, then stir the mixture back through the rest of the oats. Pour into an airtight jar, ready to use.",
@@ -1761,80 +1732,80 @@
       "Tear the pits out of the dates and add the flesh to the processor with half the oats, the vanilla extract, and cocoa powder.",
       "Finely grate in the orange zest and pulse until fine, then stir the mixture back through the rest of the oats. Pour into an airtight jar, ready to use.",
       "When you want a portion, simply put 2 oz of the mixture into a sauce­ pan with the coconut water and heat gently over a medium­-low heat for 3 minutes, or until it’s the consistency that you like, stirring regularly and adding splashes of water to loosen, if needed.",
-      "Serve each portion with a spoonful of Greek yogurt and 3 oz of fresh fruit. It’s also nice finished with a pinch of cinnamon or a dusting of cocoa, if you like. And remember, if you up the number of portions you’re cooking at one time, simply adjust the cooking time accordingly. Chocolate porridge—how cool is that!"
+      "Serve each portion with a spoonful of Greek yogurt and 3 oz of fresh fruit. It’s also nice finished with a pinch of cinnamon or a dusting of cocoa, if you like. And remember, if you up the number of portions you’re cooking at one time, simply adjust the cooking time accordingly. Chocolate porridge—how cool is that!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51137595.jpg",
-    "imageAlt": "Chocolate porridge"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51137595.jpg",
+    imageAlt: "Chocolate porridge",
   },
   {
-    "name": "Hollandaise sauce",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This easy hollandaise sauce recipe is so silky and delicious, you'll never have to go out for brunch again! Just add poached eggs and toasted sourdough.",
-    "description": "",
-    "servings": "",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Hollandaise sauce",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This easy hollandaise sauce recipe is so silky and delicious, you'll never have to go out for brunch again! Just add poached eggs and toasted sourdough.",
+    description: "",
+    servings: "",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Christmas",
       "French",
       "Breakfast",
-      "Sauces & condiments"
+      "Sauces & condiments",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g unsalted butter",
       "2 large free-range egg yolks",
       "1 dessert spoon white wine vinegar",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Get a saucepan and a heatproof mixing bowl that will sit stably over the pan. Half-fill the pan with water and bring to a simmer. Turn down the heat as low as it can go but still have the water simmering.",
       "Place the butter in a medium pan over a low heat, so it starts to melt but doesn’t burn. When the butter has melted, take it off the heat.",
       "Place the egg yolks in your heatproof mixing bowl, which you should then place over the pan of just-simmering water. It’s important that the saucepan is on a low heat, or the eggs will scramble.",
       "Using a balloon whisk, start to beat your eggs, then whisk in your white wine vinegar.",
       "Keep whisking, and then start adding the melted butter by slowly drizzling it in, whisking all the time, till all the butter has been incorporated. The result should be a lovely, smooth, thick sauce.",
-      "Season carefully with sea salt and black pepper, and loosen if necessary with little squeezes of lemon juice. Keep tasting the sauce until the flavour is to your liking."
+      "Season carefully with sea salt and black pepper, and loosen if necessary with little squeezes of lemon juice. Keep tasting the sauce until the flavour is to your liking.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/FLUdOX-9KLaBqSmRnNRU_X.jpg",
-    "imageAlt": "Hollandaise sauce"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/FLUdOX-9KLaBqSmRnNRU_X.jpg",
+    imageAlt: "Hollandaise sauce",
   },
   {
-    "name": "Gallo pinto",
-    "subName": "Black-bean rice, scrambled eggs & tomato salsa",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Like a veggie kedgeree, this Costa Rican-inspired dish of black beans, rice, scrambled eggs and tomato salsa is great for breakfast, brunch or lunch. Enjoy!",
-    "description": "“Like a veggie kedgeree, this Costa Rican-inspired dish is great for breakfast. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Gallo pinto",
+    subName: "Black-bean rice, scrambled eggs & tomato salsa",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Like a veggie kedgeree, this Costa Rican-inspired dish of black beans, rice, scrambled eggs and tomato salsa is great for breakfast, brunch or lunch. Enjoy!",
+    description:
+      "“Like a veggie kedgeree, this Costa Rican-inspired dish is great for breakfast. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Breakfast",
       "Tomato",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "175 g brown rice",
       "1 clove of garlic",
       "1 x 400 g tin of black beans",
@@ -1845,9 +1816,9 @@
       "½ a bunch of fresh coriander",
       "2 limes",
       "4 spring onions",
-      "6 large free-range eggs"
+      "6 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Cook the rice according to the packet instructions. Once al dente, remove from the heat, drain and rinse under cold water, then set aside.",
       "Peel and finely chop the garlic, then drain the beans.",
       "Place a large frying pan over a medium heat, add the cumin seeds and toast for 1 minute.",
@@ -1855,38 +1826,38 @@
       "Roughly chop the tomatoes, then pick and finely chop the fresh coriander and mix together to make a salsa. Squeeze in the juice of 1 lime and season well.",
       "Stir the rice into the beans and fry for a further 5 minutes, or until piping hot, then finely slice and stir through the spring onions.",
       "Whisk the eggs, season, then cook in a non-stick pan over a low-medium heat, until scrambled and creamy.",
-      "Serve the rice topped with scrambled eggs and a spoonful of tomato salsa, with the remaining lime, cut in half, on the side for squeezing over."
+      "Serve the rice topped with scrambled eggs and a spoonful of tomato salsa, with the remaining lime, cut in half, on the side for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46266196.jpg",
-    "imageAlt": "Gallo pinto"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46266196.jpg",
+    imageAlt: "Gallo pinto",
   },
   {
-    "name": "Classic crumpets",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "If you've never made homemade crumpets, then you've got to give this crumpet recipe a go! They're even better with homemade butter. Recipe from Jamie magazine.",
-    "description": "“These require a little patience, but you just cannot beat a homemade crumpet. Making your own butter is optional, but it’s surprisingly simple and satisfying to do. ”",
-    "servings": "Serves Makes 12 crumpets",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus proving"
+    name: "Classic crumpets",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "If you've never made homemade crumpets, then you've got to give this crumpet recipe a go! They're even better with homemade butter. Recipe from Jamie magazine.",
+    description:
+      "“These require a little patience, but you just cannot beat a homemade crumpet. Making your own butter is optional, but it’s surprisingly simple and satisfying to do. ”",
+    servings: "Serves Makes 12 crumpets",
+    time: {
+      prep: "",
+      cook: "50 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus proving",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Afternoon tea",
       "Mother's day",
       "Christmas",
       "Breakfast",
-      "Bread"
+      "Bread",
     ],
-    "ingredients": [
+    ingredients: [
       "400 ml milk",
       "1 tablespoon dried yeast",
       "1 teaspoon caster sugar",
@@ -1894,9 +1865,9 @@
       "½ teaspoon bicarbonate of soda",
       "vegetable oil , for greasing",
       "HOMEMADE BUTTER",
-      "350 ml double cream"
+      "350 ml double cream",
     ],
-    "instructions": [
+    instructions: [
       "Gently warm the milk. In a bowl, dissolve the yeast and sugar in the warm milk and 100ml of tepid water. Leave in a warm place for 15 minutes, or until frothy.",
       "Sift the flour, bicarbonate of soda and 1 teaspoon of fine sea salt into a large bowl. Make a well in the centre and pour in the yeast mixture.",
       "Whisk from the centre outwards until the consistency of double cream – this will take a few minutes. Add a splash more water, if needed.",
@@ -1906,38 +1877,39 @@
       "Grease four 10cm egg rings with vegetable oil. Wipe a little oil around a large frying pan or iron skillet and place over a medium-high heat.",
       "Arrange the rings in the frying pan and, once hot, spoon 4 tablespoons of the batter into each ring. Cook for 5 minutes, or until little bubbles appear on the surface.",
       "Once the bubbles have burst, leaving little holes, use tongs to carefully lift off the rings and flip over the crumpets, then cook for 1 minute on the other side. Re-grease and reheat the rings and pan before cooking the next batch.",
-      "Serve the crumpets warm, with a slather of butter. If making them in advance, just toast lightly on both sides when you come to serve them."
+      "Serve the crumpets warm, with a slather of butter. If making them in advance, just toast lightly on both sides when you come to serve them.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4LxgG6x2q-1BCptsrs51pa.jpg",
-    "imageAlt": "Classic crumpets"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4LxgG6x2q-1BCptsrs51pa.jpg",
+    imageAlt: "Classic crumpets",
   },
   {
-    "name": "DIY oaty fruity cereal",
-    "subName": "Healthy cereal, two ways",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Kick-start the day with this tasty, nutritious breakfast of oaty, fruit cereal that can be made in big batches and kept in a container for up to four weeks. ",
-    "description": "“Eating a tasty, nutritious breakfast is a great way to help kick-start your day the best way you can. Make a big batch of healthy cereal, then store it in an\nairtight container for up to four weeks. I’ve given you two great ways to serve it here, but feel free to come up with your own ideas. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "DIY oaty fruity cereal",
+    subName: "Healthy cereal, two ways",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Kick-start the day with this tasty, nutritious breakfast of oaty, fruit cereal that can be made in big batches and kept in a container for up to four weeks. ",
+    description:
+      "“Eating a tasty, nutritious breakfast is a great way to help kick-start your day the best way you can. Make a big batch of healthy cereal, then store it in an\nairtight container for up to four weeks. I’ve given you two great ways to serve it here, but feel free to come up with your own ideas. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Quick & easy recipes",
-      "Quick & healthy recipes"
+      "Quick & healthy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "CEREAL",
       "100 g dried fruit, such as sultanas, raisins, dried apricots",
       "50 g mixed unsalted nuts, such as almonds, hazelnuts, walnuts",
@@ -1947,9 +1919,9 @@
       "milk or natural yoghurt , to serve",
       "BIRCHER (SERVES 4)",
       "1 eating apple",
-      "roughly 400 ml milk"
+      "roughly 400 ml milk",
     ],
-    "instructions": [
+    instructions: [
       "To make the basic cereal, roughly chop any larger dried fruit and nuts, then place into a large bowl along with the seeds, oats and cinnamon (if using).",
       "Tip into an airtight container.",
       "Now you have two choices. To serve your cereal as it is, place a handful of cereal (roughly 50g) per person into your serving bowls.",
@@ -1959,44 +1931,39 @@
       "Pour over enough milk to cover, then mix well.",
       "Cover the bowl with clingfilm, then pop in the fridge to soak overnight.",
       "When you’re ready to eat, give the bircher a good stir, divide between your bowls, then serve with chopped fresh fruit, if you like.",
-      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)"
+      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46287886.jpg",
-    "imageAlt": "DIY oaty fruity cereal"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46287886.jpg",
+    imageAlt: "DIY oaty fruity cereal",
   },
   {
-    "name": "Simple cheese omelette",
-    "subName": "Simple, quick and nutritious",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "An easy cheese omelette recipe shows you the easiest way to make an omelette. This is a great quick meal for any time of day! Delicious with a green salad.",
-    "description": "“This is a great quick meal at any time of the day. Eggs are a fantastic, affordable source of protein, helping our muscles to grow and repair and helping us to feel fuller for longer. Serve your omelette with wholemeal bread and a simple tomato salad for a healthy, balanced meal. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Simple cheese omelette",
+    subName: "Simple, quick and nutritious",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "An easy cheese omelette recipe shows you the easiest way to make an omelette. This is a great quick meal for any time of day! Delicious with a green salad.",
+    description:
+      "“This is a great quick meal at any time of the day. Eggs are a fantastic, affordable source of protein, helping our muscles to grow and repair and helping us to feel fuller for longer. Serve your omelette with wholemeal bread and a simple tomato salad for a healthy, balanced meal. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Eggs",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Family one-pan recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
-      "2 large eggs",
-      "olive oil",
-      "10 g Cheddar cheese"
-    ],
-    "instructions": [
+    ingredients: ["2 large eggs", "olive oil", "10 g Cheddar cheese"],
+    instructions: [
       "Crack the eggs into a mixing bowl, season with a pinch of sea salt and black pepper, then beat well with a fork until fully combined.",
       "Place a small non-stick frying pan on a low heat to warm up.",
       "Grate the cheese onto a board and set aside.",
@@ -2005,120 +1972,114 @@
       "When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the cheese.",
       "Using a spatula, ease around the edges of the omelette, then fold it over in half.",
       "When it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette onto a plate. Delicious with a tomato salad and wholemeal bread.",
-      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)"
+      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/0siQaM1MqTv8KwCQYOv41F.jpg",
-    "imageAlt": "Simple cheese omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/0siQaM1MqTv8KwCQYOv41F.jpg",
+    imageAlt: "Simple cheese omelette",
   },
   {
-    "name": "Almond, banana & passion fruit smoothie",
-    "subName": "The perfect tropical breakfast",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Try this deliciously creamy smoothie recipe made with almond milk, banana and passion fruit for the perfect exotic breakfast or snack.",
-    "description": "“Deliciously creamy, this quick and easy smoothie makes a delicious, fuss-free breakfast or snack! ”",
-    "servings": "Serves Makes 1 litre",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Almond, banana & passion fruit smoothie",
+    subName: "The perfect tropical breakfast",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Try this deliciously creamy smoothie recipe made with almond milk, banana and passion fruit for the perfect exotic breakfast or snack.",
+    description:
+      "“Deliciously creamy, this quick and easy smoothie makes a delicious, fuss-free breakfast or snack! ”",
+    servings: "Serves Makes 1 litre",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "British",
       "Breakfast",
       "Quick fixes",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large ripe banana",
       "500 ml almond milk",
       "1 teaspoon almond essence , optional",
-      "4 ripe passion fruit"
+      "4 ripe passion fruit",
     ],
-    "instructions": [
+    instructions: [
       "Peel the banana and place in a blender with the almond milk and almond essence (if using).",
       "Halve the passion fruit, then scrape most of the pulp into the blender and blitz to combine.",
-      "Serve in tall glasses, over ice if you like, with the remaining passion fruit pulp spooned over the top."
+      "Serve in tall glasses, over ice if you like, with the remaining passion fruit pulp spooned over the top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46264527.jpg",
-    "imageAlt": "Almond, banana & passion fruit smoothie"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46264527.jpg",
+    imageAlt: "Almond, banana & passion fruit smoothie",
   },
   {
-    "name": "Irish mackerel breakfast",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Irish mackerel breakfast",
+    subName: "",
+    specialDiets: [],
+    metaDescription: "Check out more of our recipes!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "British",
       "Breakfast",
       "Lunch & dinner recipes",
       "Eggs",
-      "Mackerel"
+      "Mackerel",
     ],
-    "ingredients": [
+    ingredients: [
       "2 fillets of mackerel, from sustainable sources",
       "2 large free-range eggs",
       "2 large slices of soda bread",
       "extra-virgin olive oil",
       "red wine vinegar",
-      "a few fresh chives"
+      "a few fresh chives",
     ],
-    "instructions": [
+    instructions: [
       "Bring 2 pans of salted water to the boil and preheat your grill.",
       "Place your mackerel fillets in 1 pan and poach for 4 to 6 minutes, or until just cooked.",
       "Poach the eggs in the other pan for 3 minutes for a slightly runny yolk, or to your liking.",
       "Toast the soda bread, then drizzle with a little oil.",
-      "Place on a plate and top with the mackerel, a splash of vinegar and a poached egg. Season well, then finely chop and sprinkle with chopped chives."
+      "Place on a plate and top with the mackerel, a splash of vinegar and a poached egg. Season well, then finely chop and sprinkle with chopped chives.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/93ClkivMq4SBy2N4pb9v2G.jpg",
-    "imageAlt": "Irish mackerel breakfast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/93ClkivMq4SBy2N4pb9v2G.jpg",
+    imageAlt: "Irish mackerel breakfast",
   },
   {
-    "name": "Quick Mexican breakfast",
-    "subName": "Fried eggs, black beans & a speedy salsa",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Whip yourself up a quick Mexican breakfast with fried eggs, black beans and a zingy, speedy salsa. Super easy and on the table in 20 minutes – perfect for a relaxed weekend brunch.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Quick Mexican breakfast",
+    subName: "Fried eggs, black beans & a speedy salsa",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Whip yourself up a quick Mexican breakfast with fried eggs, black beans and a zingy, speedy salsa. Super easy and on the table in 20 minutes – perfect for a relaxed weekend brunch.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Eggs",
-      "Mexican",
-      "Breakfast",
-      "Quick fixes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Eggs", "Mexican", "Breakfast", "Quick fixes"],
+    ingredients: [
       "3 ripe tomatoes",
       "2 roasted red peppers from a jar",
       "4 spring onions",
@@ -2128,46 +2089,47 @@
       "olive oil",
       "8 small flour or corn tortillas",
       "4 large free-range eggs",
-      "1 knob of butter"
+      "1 knob of butter",
     ],
-    "instructions": [
+    instructions: [
       "Make a fast and simple salsa by chopping the tomatoes, peppers and spring onions together on a big board.",
       "Squeeze over the juice from half a lime, drizzle with extra virgin olive oil and season, then use the knife to chop and mix it all together. Taste and add more lime juice if needed.",
       "Drain and pour the black beans into a small saucepan, season, drizzle with olive oil and heat through gently.",
       "Meanwhile, heat a frying pan, toast the tortillas one at a time on both sides until charred, then keep warm under a clean tea towel or foil.",
       "Fry the eggs in a little butter and oil, keeping the yolks nice and soft.",
-      "Pop 2 tortillas on each plate and top with beans, salsa and an egg. Serve with salsa verde fresco for a bit of attitude."
+      "Pop 2 tortillas on each plate and top with beans, salsa and an egg. Serve with salsa verde fresco for a bit of attitude.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9w02A7m_KzXALZbZzZ-iEJ.jpg",
-    "imageAlt": "Quick Mexican breakfast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9w02A7m_KzXALZbZzZ-iEJ.jpg",
+    imageAlt: "Quick Mexican breakfast",
   },
   {
-    "name": "Coconut bread",
-    "subName": "With sweet banana & runny honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "In need of a reliable bread recipe? This coconut bread with a sweet twist of banana and honey works a treat every time. Delicious with mango, mint and yoghurt – get involved!",
-    "description": "“There’s nothing like freshly baked bread, especially when you add the sweet twist of coconut. If you’re feeling bleary eyed, make this in a stand mixer with a dough hook, and let it do the work. You’ll get two loaves so you can freeze one, after baking, to eat another time. ”",
-    "servings": "Serves Makes 2 loaves (each loaf serves 6 to 8)",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes plus proving",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes plus proving"
+    name: "Coconut bread",
+    subName: "With sweet banana & runny honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "In need of a reliable bread recipe? This coconut bread with a sweet twist of banana and honey works a treat every time. Delicious with mango, mint and yoghurt – get involved!",
+    description:
+      "“There’s nothing like freshly baked bread, especially when you add the sweet twist of coconut. If you’re feeling bleary eyed, make this in a stand mixer with a dough hook, and let it do the work. You’ll get two loaves so you can freeze one, after baking, to eat another time. ”",
+    servings: "Serves Makes 2 loaves (each loaf serves 6 to 8)",
+    time: {
+      prep: "",
+      cook: "55 minutes plus proving",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes plus proving",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Mother's day",
       "Breakfast",
       "Snacks",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 7 g sachet dried yeast",
       "2 tablespoons runny honey",
       "1 ripe banana",
@@ -2175,9 +2137,9 @@
       "800 g strong bread flour , plus extra for dusting",
       "1 400ml tin light coconut milk",
       "200 g desiccated coconut",
-      "unsalted butter , for greasing"
+      "unsalted butter , for greasing",
     ],
-    "instructions": [
+    instructions: [
       "Stir the yeast and honey into 200ml of tepid water, then leave for a couple of minutes to bubble up a bit.",
       "Peel and mash the banana. Crack the egg into a bowl and beat together.",
       "It’s best to use a stand mixer for this. Put the flour, mashed banana, beaten egg, coconut milk, coconut and a small pinch of sea salt in the bowl and combine using the dough hook.",
@@ -2188,86 +2150,84 @@
       "Divide the dough into 2 pieces and push into 2 greased 13cm x 18cm loaf tins. Cover the tins with a damp tea towel and prove in a warm place for 1 hour, or until doubled in size.",
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Cook the loaves for 30 to 35 minutes, or till the crusts are golden-brown, and sound hollow when tapped.",
-      "Transfer to a wire rack to cool a little. Delicious served warm with chopped mango, fresh mint and yoghurt hit with lime zest and juice, and honey."
+      "Transfer to a wire rack to cool a little. Delicious served warm with chopped mango, fresh mint and yoghurt hit with lime zest and juice, and honey.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260715.jpg",
-    "imageAlt": "Coconut bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260715.jpg",
+    imageAlt: "Coconut bread",
   },
   {
-    "name": "Potato & chorizo breakfast hash",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Potato & chorizo breakfast hash",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Father's day",
       "Christmas",
       "Sausage",
-      "Chorizo"
+      "Chorizo",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "1 clove of garlic",
       "120 g quality chorizo",
       "2-3 cooked potatoes",
       "1/2 bunch of fresh flat-leaf parsley",
       "olive oil",
-      "2 large free-range eggs"
+      "2 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Peel and finely chop the onion and garlic, chop the chorizo, dice up the cooked potato and pick and finely chop the parsley.",
       "Gently fry the onion and garlic in a little oil in an ovenproof pan until the onion is soft. Add the chorizo and fry for 2 to 3 minutes.",
       "Add the potatoes and cook for 5 minutes more, then crack the eggs on top.",
       "Transfer the pan to the preheated oven and bake for 8 minutes, or until the egg white is set but the yolk is still runny.",
-      "Sprinkle with sea salt, black pepper and the parsley, to serve."
+      "Sprinkle with sea salt, black pepper and the parsley, to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
-    "imageAlt": "Potato & chorizo breakfast hash"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
+    imageAlt: "Potato & chorizo breakfast hash",
   },
   {
-    "name": "Charred avo & eggs",
-    "subName": "Sweet potato, spring onion & red pepper",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Super-tasty and easy to knock together, this healthy egg breakfast, brunch or lunch is a real winner. Sure to become a weekend favourite - enjoy!",
-    "description": "“Super-tasty and easy to knock together, this healthy egg brekkie is a real winner. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Charred avo & eggs",
+    subName: "Sweet potato, spring onion & red pepper",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Super-tasty and easy to knock together, this healthy egg breakfast, brunch or lunch is a real winner. Sure to become a weekend favourite - enjoy!",
+    description:
+      "“Super-tasty and easy to knock together, this healthy egg brekkie is a real winner. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Fruit",
       "Breakfast",
       "Potato",
-      "Sweet potato"
+      "Sweet potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 red pepper",
       "4 spring onions",
       "½ a ripe avocado",
@@ -2276,45 +2236,40 @@
       "2 large free-range eggs",
       "2 tablespoons cottage cheese",
       "½ a fresh red chilli",
-      "a few sprigs of fresh soft herbs, such as parsley, mint, coriander"
+      "a few sprigs of fresh soft herbs, such as parsley, mint, coriander",
     ],
-    "instructions": [
+    instructions: [
       "Halve and deseed the pepper, then slice into fine strips. Trim and finely slice the spring onions, then destone, peel and chop the avocado.",
       "Heat 1 tablespoon of oil in a medium frying pan over a medium-high heat, add the spring onions, avocado and pepper and fry for 3 to 4 minutes, or until lightly charred.",
       "Using a speed-peeler, peel the skin from the sweet potato, then continue peeling into fine ribbons. Add to the pan, tossing with the charred veg, and fry for 3 minutes, or until the sweet potato ribbons start to char.",
       "Spread the veg evenly in the pan, then use the back of a spoon to push and dig out two pockets. Crack an egg into each one, then tilt the pan so the whites run into the veg and bind everything together.",
       "Season with sea salt and black pepper, cover with a lid or tin foil, then reduce the heat to medium–low and let the eggs cook for 3 to 5 minutes, depending on how runny you like your yolks.",
       "Meanwhile, deseed and finely chop the chilli, and pick and roughly chop the herbs.",
-      "Spoon the mixture onto a plate, dollop with cottage cheese and sprinkle over the chilli and herbs, then tuck in!"
+      "Spoon the mixture onto a plate, dollop with cottage cheese and sprinkle over the chilli and herbs, then tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259052.jpg",
-    "imageAlt": "Charred avo & eggs"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259052.jpg",
+    imageAlt: "Charred avo & eggs",
   },
   {
-    "name": "Poppy seed & ricotta pancakes",
-    "subName": "With yoghurt, berries & honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Wonderfully light and fluffy, these pancakes really are one of the nicest ways to start the day – they’re a great blank canvas for all sorts of delicious toppings.",
-    "description": "“Wonderfully light and fluffy, these pancakes really are one of the nicest ways to start the day – they’re a great blank canvas for all sorts of delicious toppings. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Poppy seed & ricotta pancakes",
+    subName: "With yoghurt, berries & honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Wonderfully light and fluffy, these pancakes really are one of the nicest ways to start the day – they’re a great blank canvas for all sorts of delicious toppings.",
+    description:
+      "“Wonderfully light and fluffy, these pancakes really are one of the nicest ways to start the day – they’re a great blank canvas for all sorts of delicious toppings. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Pancake day",
-      "Fruit",
-      "Breakfast",
-      "Quick & easy recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Pancake day", "Fruit", "Breakfast", "Quick & easy recipes"],
+    ingredients: [
       "150 g self-raising flour",
       "1 teaspoon bicarbonate of soda",
       "50 g golden caster sugar",
@@ -2326,49 +2281,46 @@
       "olive oil",
       "300 g mixed fresh berries",
       "runny honey",
-      "fat-free natural yoghurt"
+      "fat-free natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Place 150g of self-raising flour, 1 teaspoon of bicarbonate of soda, 50g of golden caster sugar, 1 tablespoon of poppy seeds, and a small pinch of sea salt into a large bowl, then mix together.",
       "Separate 1 large egg, then beat 150g of ricotta into the egg yolk – you want it to be lightly mashed up, but still with a bit of texture.",
       "Pour in 250ml of semi-skimmed milk, finely grate in the zest from 1 lemon and squeeze in the juice. Mix together, then gradually beat it into the dry ingredients.",
       "Whisk the egg white until light and fluffy, then fold it through the mixture.",
       "Preheat the oven to the lowest setting (if serving up all the pancakes at the same time).",
       "Drizzle a little olive oil into a non-stick frying pan over a medium heat, add a large spoonful of the batter, then cook for a couple of minutes on each side, flipping when nicely golden. Repeat with the remaining batter, adding a little extra oil, if needed.",
-      "Keep the pancakes warm in the oven until they’re all done, or serve up as and when they’re ready, with 300g of fresh berries, a drizzle of runny honey, a dollop of yoghurt and a pinch of extra poppy seeds."
+      "Keep the pancakes warm in the oven until they’re all done, or serve up as and when they’re ready, with 300g of fresh berries, a drizzle of runny honey, a dollop of yoghurt and a pinch of extra poppy seeds.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449918.jpg",
-    "imageAlt": "Poppy seed & ricotta pancakes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449918.jpg",
+    imageAlt: "Poppy seed & ricotta pancakes",
   },
   {
-    "name": "Mexican refried beans",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Discover this Mexican inspired refried beans recipe from Jamie Oliver, served with a poached egg; you can use whichever beans you fancy or have available.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Mexican refried beans",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Discover this Mexican inspired refried beans recipe from Jamie Oliver, served with a poached egg; you can use whichever beans you fancy or have available.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Breakfast",
       "Light meals",
       "Mains",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "1 fresh red chilli",
       "1 bunch of fresh coriander",
@@ -2376,43 +2328,46 @@
       "olive oil",
       "3 x 400 g tins of beans , such as cannellini, kidney",
       "4 large free-range eggs",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the garlic, deseed and finely slice the chilli and pick the coriander leaves and finely slice the stalks. Drain and finely chop the peppers.",
       "In a large frying pan, heat a splash of oil and fry the garlic, chilli and coriander stalks for 1 to 2 minutes, or until golden.",
       "Drain the beans, then add along with the peppers, then season to taste. Fry for 15 to 20 minutes on a low heat, stirring occasionally, until crispy.",
       "Poach the eggs. Finely chop the reserved coriander leaves, and cut the lime into wedges.",
-      "Serve a spoonful of beans topped with a poached egg, chopped coriander leaves and a wedge of lime for squeezing over."
+      "Serve a spoonful of beans topped with a poached egg, chopped coriander leaves and a wedge of lime for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/C5S0a_0MazgAzs2yTFHUWR.jpg",
-    "imageAlt": "Mexican refried beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/C5S0a_0MazgAzs2yTFHUWR.jpg",
+    imageAlt: "Mexican refried beans",
   },
   {
-    "name": "Smoked salmon toasts",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "A delightfully easy recipe to make, this smoked salmon on toast dish is complimented by fresh radishes and fragrant dills makes a perfect quick snack.",
-    "description": "“It’s almost as easy to make this pretty dish for 20 people as it is for two. The bite of the radishes and fragrance of the dill elevate a quick snack to something really special. ”",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Smoked salmon toasts",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "A delightfully easy recipe to make, this smoked salmon on toast dish is complimented by fresh radishes and fragrant dills makes a perfect quick snack.",
+    description:
+      "“It’s almost as easy to make this pretty dish for 20 people as it is for two. The bite of the radishes and fragrance of the dill elevate a quick snack to something really special. ”",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Mother's day",
       "Dinner Party",
       "Snacks",
       "Christmas",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe avocado",
       "1 tablespoon crème fraîche",
       "1 lemon",
@@ -2423,44 +2378,44 @@
       "200 g smoked salmon , from sustainable sources",
       "½ a punnet of cress",
       "1 handful of vein sorrel or other colourful baby leaves",
-      "rapeseed oil"
+      "rapeseed oil",
     ],
-    "instructions": [
+    instructions: [
       "Halve, stone and scoop out the avocado flesh, then mash with the crème fraîche until completely smooth. If you’re worried about it discolouring, add a small squeeze of lemon juice. Season with a little sea salt and ground black pepper, if you like.",
       "Finely slice the radishes, then pick and finely chop the dill. Toss the radish slices with the dill, vinegar and a little pinch of salt.",
       "Spread the avocado over the crispbread or rye toast slices, then top with slices of salmon.",
-      "Sprinkle over the radish slices, then finish with a scattering of the cress and leaves, and a drizzle of rapeseed oil. Serve with lemon wedges."
+      "Sprinkle over the radish slices, then finish with a scattering of the cress and leaves, and a drizzle of rapeseed oil. Serve with lemon wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/D808oTCl4DT9-vpiMYUaXk.jpg",
-    "imageAlt": "Smoked salmon toasts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/D808oTCl4DT9-vpiMYUaXk.jpg",
+    imageAlt: "Smoked salmon toasts",
   },
   {
-    "name": "Mushroom sourdough bruschettas",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a quick lunch or a delicious starter? These easy mushroom sourdough bruschettas will be on the table in just 15 minutes. Super-fancy mushrooms on toast - proper good!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Mushroom sourdough bruschettas",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Looking for a quick lunch or a delicious starter? These easy mushroom sourdough bruschettas will be on the table in just 15 minutes. Super-fancy mushrooms on toast - proper good!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Christmas",
       "Mushroom",
       "Breakfast",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "2 portobello mushrooms",
       "olive oil",
       "2 cloves of garlic",
@@ -2468,45 +2423,41 @@
       "2 slices of sourdough bread",
       "200 g mixed wild mushrooms , cleaned",
       "2 tablespoons fresh hollandaise",
-      "2 sprigs of fresh tarragon"
+      "2 sprigs of fresh tarragon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Place the portobello mushrooms on a baking tray, drizzle with 1 tablespoon of oil, crush and scatter over 1 clove of garlic and dot on half of the butter.",
       "Roast in the oven for 10 minutes, or until juicy.",
       "Heat a griddle pan over a high heat and chargrill the bread until you have deep golden grill-mark lines.",
       "Tear the wild mushrooms, peel and crush the remaining clove of garlic, then add to a frying pan over a medium-high heat with the remaining butter.",
       "Fry for 3 minutes, or until the mushrooms are cooked. Take off the heat and stir through the hollandaise.",
-      "Top each toast with a roasted portobello and a spoonful of the wild mushrooms. Serve with a scattering of roughly chopped tarragon and a crack of black pepper."
+      "Top each toast with a roasted portobello and a spoonful of the wild mushrooms. Serve with a scattering of roughly chopped tarragon and a crack of black pepper.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CREAqdjB46k9nL79VI2wVl.jpg",
-    "imageAlt": "Mushroom sourdough bruschettas"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CREAqdjB46k9nL79VI2wVl.jpg",
+    imageAlt: "Mushroom sourdough bruschettas",
   },
   {
-    "name": "Four-grain coconut porridge with autumnal fruit",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This four-grain coconut porridge is a super-delicious, healthy way to start the day. We're talking oats and quinoa in coconut milk, topped with chia seeds, toasted hazelnuts and fresh fruit – so tasty!",
-    "description": "“This is the most delicious porridge, and it’s very good for you, too. You won’t need all the porridge mix for this, but it’s a good idea to make a larger batch and keep the rest for another morning – either for another batch of this coconut porridge, or to mix it up with your favourite fruit and nut combos. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Four-grain coconut porridge with autumnal fruit",
+    subName: "",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "This four-grain coconut porridge is a super-delicious, healthy way to start the day. We're talking oats and quinoa in coconut milk, topped with chia seeds, toasted hazelnuts and fresh fruit – so tasty!",
+    description:
+      "“This is the most delicious porridge, and it’s very good for you, too. You won’t need all the porridge mix for this, but it’s a good idea to make a larger batch and keep the rest for another morning – either for another batch of this coconut porridge, or to mix it up with your favourite fruit and nut combos. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Fruit",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Fruit", "Breakfast"],
+    ingredients: [
       "200 g porridge mix (see below)",
       "350 ml unsweetened coconut milk",
       "1 orange",
@@ -2520,45 +2471,39 @@
       "200 g large porridge oats",
       "100 g oat bran",
       "100 g oatmeal",
-      "100 g quinoa"
+      "100 g quinoa",
     ],
-    "instructions": [
+    instructions: [
       "First make your porridge mix. Combine all the ingredients together in an airtight container and use as much mix as needed.",
       "Place 200g of the porridge mix in a medium saucepan. Add the coconut milk, 700ml of boiling water and the orange zest. Halve the vanilla pod lengthways, scrape out the seeds, then add both the pod and seeds to the pan.",
       "Cook over a medium heat for about 20 minutes, until the mixture has thickened and is creamy, stirring continuously.",
       "Coarsely grate the pears into a bowl (or grate one and finely slice the second into thin matchsticks to add some texture), then slice and gently toss in the blackberries.",
       "Toast the hazelnuts in a dry frying pan over a medium heat, then finely chop.",
-      "Remove the vanilla pod from the pan. Serve the porridge in bowls, topped with the fruit, chia seeds, hazelnuts and a drizzle of honey."
+      "Remove the vanilla pod from the pan. Serve the porridge in bowls, topped with the fruit, chia seeds, hazelnuts and a drizzle of honey.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/ArqgHQFRaoM8s6icR8-oOP.jpg",
-    "imageAlt": "Four-grain coconut porridge with autumnal fruit"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/ArqgHQFRaoM8s6icR8-oOP.jpg",
+    imageAlt: "Four-grain coconut porridge with autumnal fruit",
   },
   {
-    "name": "Cranberry granola",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a festive way to start your day? Try this Cranberry granola recipe from Jamie Oliver for a crunchy Christmas breakfast treat.",
-    "description": "",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Cranberry granola",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Looking for a festive way to start your day? Try this Cranberry granola recipe from Jamie Oliver for a crunchy Christmas breakfast treat.",
+    description: "",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Fruit",
-      "Christmas",
-      "Breakfast",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Fruit", "Christmas", "Breakfast", "Baking"],
+    ingredients: [
       "200 g mixed nuts, such as brazils, hazelnuts, walnuts",
       "400 g jumbo rolled oats",
       "100 g seeds, such as sunflower, pumpkin",
@@ -2566,51 +2511,53 @@
       "2 tablespoons vegetable oil",
       "500 g plain yoghurt",
       "1 teaspoon ground cinnamon",
-      "runny honey"
+      "runny honey",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Roughly chop the nuts, then mix with the oats, seeds, half the cranberries and the oil. Stir to coat.",
       "Divide between 2 baking sheets and cook for about 25 minutes or until crisp and golden.",
-      "Mix the yoghurt with the cinnamon, then serve the granola with the yoghurt, a drizzle of honey and the remaining cranberries."
+      "Mix the yoghurt with the cinnamon, then serve the granola with the yoghurt, a drizzle of honey and the remaining cranberries.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/1CRR-3FLK18ApYVROHHoJ-.jpg",
-    "imageAlt": "Cranberry granola"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/1CRR-3FLK18ApYVROHHoJ-.jpg",
+    imageAlt: "Cranberry granola",
   },
   {
-    "name": "Berry good pancakes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Try this berry pancake recipe from Jamie Oliver, great for making with kids and absolutely delicious served with crispy streaky bacon, they're berry good.",
-    "description": "",
-    "servings": "Serves Makes 6 pancakes, serves 3",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Berry good pancakes",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Try this berry pancake recipe from Jamie Oliver, great for making with kids and absolutely delicious served with crispy streaky bacon, they're berry good.",
+    description: "",
+    servings: "Serves Makes 6 pancakes, serves 3",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Father's day",
       "Mother's day",
       "Breakfast",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 cup self-raising flour",
       "1 teaspoon baking powder , optional",
       "1 cup milk",
       "20 g butter",
       "6 slices of higher-welfare streaky bacon",
-      "1 handful of blueberries"
+      "1 handful of blueberries",
     ],
-    "instructions": [
+    instructions: [
       "Have the kids get a mixing bowl, crack the egg on the side of it and put the egg in the bowl. If any shell gets in, they can use the larger eggshell to fish it out.",
       "Next, let them fill the same cup with flour, then add that to the bowl. Toss in the baking powder (if using). Fill the cup with milk and add that too, with a tiny pinch of sea salt.",
       "Now show them how to use a whisk to mix everything till smooth. Cover your bowl in clingfilm and put to one side.",
@@ -2618,38 +2565,38 @@
       "Put a large frying pan on a medium heat. Get the kids to halve the butter. Once it has melted and is starting to bubble, have them spoon the pancake batter into the pan so it is roughly the size of an orange. They should be able to make 2 to 3 pancakes in the pan.",
       "Cook the pancakes for 1 to 2 minutes, until little bubbles rise up to the top. Show older kids how to use a fish-slice or heatproof spatula to carefully turn them, but you might need to do this for little children.",
       "Get the kids to dot a handful of blueberries across the half-cooked pancakes, then finish cooking them till golden on both sides. When they are done, transfer them to a plate and cover with foil to keep warm.",
-      "Carefully wipe the pan clean with kitchen paper, then add the remaining butter and keep going until all the batter is used up. Serve with the bacon and a drizzle of maple syrup, if you like."
+      "Carefully wipe the pan clean with kitchen paper, then add the remaining butter and keep going until all the batter is used up. Serve with the bacon and a drizzle of maple syrup, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260568.jpg",
-    "imageAlt": "Berry good pancakes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260568.jpg",
+    imageAlt: "Berry good pancakes",
   },
   {
-    "name": "Avocado & slow-roasted tomatoes on toast",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's slow roasted tomatoes and avocado on toast recipe is inspired by breakfasts eaten in cafes in Australia, a beautiful summery start to the day.",
-    "description": "“This is the kind of breakfast that you find in cafés across Australia. You can’t beat the creamy nuttiness of avocado combined with tangy cheese and sweet tomato. Since avocado is the star of the show, accept nothing less than softly yielding, ripe perfection. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 10 minutes"
+    name: "Avocado & slow-roasted tomatoes on toast",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's slow roasted tomatoes and avocado on toast recipe is inspired by breakfasts eaten in cafes in Australia, a beautiful summery start to the day.",
+    description:
+      "“This is the kind of breakfast that you find in cafés across Australia. You can’t beat the creamy nuttiness of avocado combined with tangy cheese and sweet tomato. Since avocado is the star of the show, accept nothing less than softly yielding, ripe perfection. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "2 hours 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Mother's day",
       "Bread",
       "Fruit",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "4 plum or 12 cherry tomatoes",
       "olive oil",
       "1 bunch of fresh basil",
@@ -2657,86 +2604,88 @@
       "3 ripe avocados",
       "4 slices of sourdough bread",
       "150 g feta cheese",
-      "4 handfuls of rocket"
+      "4 handfuls of rocket",
     ],
-    "instructions": [
+    instructions: [
       "You can do this part the night before. Preheat the oven to 150ºC/gas 1. Halve and place the tomatoes cut-side up on a baking tray, season generously and drizzle with oil.",
       "Roast slowly for 1½–2 hours, or until they are sticky and dried out. You can make batches of these and keep them in the fridge as they’re good with pasta, salads, grilled meat – almost everything.",
       "When you’re ready for breakfast, pick the basil leaves, then pound in a pestle and mortar with a pinch of sea salt until you have a paste. Pour in a good splash of oil and squeeze in the juice of ½ lemon.",
       "Halve your avocados and scoop out the flesh. Place in a bowl, squeeze in the other lemon half and season with salt and pepper. Gently mash with a fork to bring it all together.",
       "Toast the bread, then divide between 4 plates and generously spread on the avocado and top with the tomatoes.",
-      "Top each serve with crumbled feta, a handful of rocket and a drizzle of basil oil."
+      "Top each serve with crumbled feta, a handful of rocket and a drizzle of basil oil.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257526.jpg",
-    "imageAlt": "Avocado & slow-roasted tomatoes on toast"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257526.jpg",
+    imageAlt: "Avocado & slow-roasted tomatoes on toast",
   },
   {
-    "name": "Asparagus frittata",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This delicious seasonal asparagus frittata recipe from Jamie Oliver is best when made with thin or wild asparagus such as sprue for a tasty vegetarian dish.",
-    "description": "“Use wild or thin asparagus such as sprue – the spears from the first picking. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Asparagus frittata",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This delicious seasonal asparagus frittata recipe from Jamie Oliver is best when made with thin or wild asparagus such as sprue for a tasty vegetarian dish.",
+    description:
+      "“Use wild or thin asparagus such as sprue – the spears from the first picking. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Light meals",
       "Mains",
       "Quick fixes",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "6 large free-range eggs",
       "1 tablespoon extra virgin olive oil",
       "1 knob of unsalted butter",
-      "1 bunch of small asparagus"
+      "1 bunch of small asparagus",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Beat the eggs with a little sea salt and black pepper.",
       "Heat the oil and butter in a 19cm ovenproof frying pan or cast-iron dish over a medium heat. Trim and add the asparagus for 5 minutes.",
       "Add the eggs, cook for 3 minutes then bake for 15 to 20 minutes, or until golden and fluffy.",
-      "Serve hot or cold, with a drizzle of hot sauce, such as harissa, if you like."
+      "Serve hot or cold, with a drizzle of hot sauce, such as harissa, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260725.jpg",
-    "imageAlt": "Asparagus frittata"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260725.jpg",
+    imageAlt: "Asparagus frittata",
   },
   {
-    "name": "Super scotch woodcock",
-    "subName": "Celery, scrambled eggs, anchovy paste & sourdough",
-    "specialDiets": [],
-    "metaDescription": "For a delicious twist on scrambled eggs, try this Super scotch woodcock recipe with celery, eggs, chilli and homemade anchovy paste on sourdough toast. A great late-night snack!",
-    "description": "“This recipe may seem unusual, but after a big night it makes complete sense. The ‘manchovy relish’ recipe makes one small pot, but you’ll only use a little here, so keep the rest in the fridge to use later. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Super scotch woodcock",
+    subName: "Celery, scrambled eggs, anchovy paste & sourdough",
+    specialDiets: [],
+    metaDescription:
+      "For a delicious twist on scrambled eggs, try this Super scotch woodcock recipe with celery, eggs, chilli and homemade anchovy paste on sourdough toast. A great late-night snack!",
+    description:
+      "“This recipe may seem unusual, but after a big night it makes complete sense. The ‘manchovy relish’ recipe makes one small pot, but you’ll only use a little here, so keep the rest in the fridge to use later. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Snacks",
       "Light meals",
       "Quick fixes",
-      "Bread"
+      "Bread",
     ],
-    "ingredients": [
+    ingredients: [
       "4 sticks of celery",
       "1 knob of unsalted butter",
       "4 large free-range eggs",
@@ -2749,47 +2698,41 @@
       "3 teaspoons panko breadcrumbs",
       "1 pinch of cayenne pepper",
       "2 pinches of freshly ground white pepper",
-      "2 pinches of freshly ground mace"
+      "2 pinches of freshly ground mace",
     ],
-    "instructions": [
+    instructions: [
       "For the relish, pound the anchovies (drain first), then the butter in a pestle and mortar until well mashed.",
       "Transfer to a food processor and blitz with the panko breadcrumbs, cayenne, white pepper and mace until smooth. Scoop into a ramekin dish and store, covered, in the fridge until needed.",
       "Peel and finely chop the celery, reserving and leaves. Melt the knob of butter in a small saucepan over a medium heat. Add the celery and sweat with the lid on until soft (around 5 minutes).",
       "Toast the bread. Meanwhile, crack the eggs into a bowl, season with a little celery salt and beat with a fork.",
       "Tip the eggs into the celery pan and cook, stirring with a spatula, until very lightly scrambled. When they’re still soft and just a little underdone, take off the heat.",
       "Thinly spread some manchovy relish over each slice of toast, and top with the scrambled eggs.",
-      "Finely chop the chilli, then use it to garnish with reserved celery leaves, and enjoy."
+      "Finely chop the chilli, then use it to garnish with reserved celery leaves, and enjoy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/FFgoF6q3KXL8XjGkZFsXOb.jpg",
-    "imageAlt": "Super scotch woodcock"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/FFgoF6q3KXL8XjGkZFsXOb.jpg",
+    imageAlt: "Super scotch woodcock",
   },
   {
-    "name": "Protein pancakes",
-    "subName": "Oats, banana & almond milk",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Packed with fibre and protein, this Protein pancake recipe is super-delicious. Top with nut butter and fresh fruit for a great high-protein breakfast recipe.",
-    "description": "“These oaty pancakes are packed with fibre and protein and are low in refined sugars. Top with your favourite fruits and nut butter. Tasty! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Protein pancakes",
+    subName: "Oats, banana & almond milk",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Packed with fibre and protein, this Protein pancake recipe is super-delicious. Top with nut butter and fresh fruit for a great high-protein breakfast recipe.",
+    description:
+      "“These oaty pancakes are packed with fibre and protein and are low in refined sugars. Top with your favourite fruits and nut butter. Tasty! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Eggs",
-      "Pancake day",
-      "Fruit",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Eggs", "Pancake day", "Fruit", "Breakfast"],
+    ingredients: [
       "100 g oats",
       "2 large free-range eggs",
       "100 g cottage cheese",
@@ -2804,44 +2747,47 @@
       "4 fresh figs",
       "1 pear",
       "1 eating apple",
-      "1 handful of pomegranate seeds"
+      "1 handful of pomegranate seeds",
     ],
-    "instructions": [
+    instructions: [
       "Blitz all the pancake ingredients (except the oil) in a blender until smooth, adding an extra splash of almond milk if it’s too thick.",
       "Prepare all your toppings in small bowls, slicing the figs. Core and coarsely grate the pear and apple, then toss with the pomegranate. Set aside.",
       "Heat a frying pan over a medium heat, brush with oil, then pour out any excess.",
       "Drop heaped tablespoons of the batter into the pan and cook for 3 minutes, or until little bubbles start to form on the surface.",
       "Carefully flip with a palette knife and cook for a few more minutes, or until the pancakes are lightly golden and cooked through. Transfer to a plate.",
-      "Layer the pancakes up with the fruit and almond butter, drizzle over the honey and spoon on the yoghurt."
+      "Layer the pancakes up with the fruit and almond butter, drizzle over the honey and spoon on the yoghurt.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/2520_f984o9BhvyZ0-wYXM.jpg",
-    "imageAlt": "Protein pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/2520_f984o9BhvyZ0-wYXM.jpg",
+    imageAlt: "Protein pancakes",
   },
   {
-    "name": "Irish potato cakes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie's Irish potato cakes recipe, served with smoked salmon or poached eggs, is a simple recipe which makes a delicious starter or light lunch.",
-    "description": "“This makes a delicious lunch when served with a fresh green salad. You need to use really dry potatoes for this, so, if you’re not using leftovers, be sure to let your spuds cool and lose as much moisture as possible before starting the recipe. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus chilling"
+    name: "Irish potato cakes",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's Irish potato cakes recipe, served with smoked salmon or poached eggs, is a simple recipe which makes a delicious starter or light lunch.",
+    description:
+      "“This makes a delicious lunch when served with a fresh green salad. You need to use really dry potatoes for this, so, if you’re not using leftovers, be sure to let your spuds cool and lose as much moisture as possible before starting the recipe. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Dinner Party",
       "Starters",
       "Potato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "80 g plain flour , plus extra for dusting",
       "250 g leftover boiled, steamed or baked potatoes",
       "1 large free-range egg yolk",
@@ -2852,85 +2798,86 @@
       "extra virgin olive oil",
       "olive oil",
       "100 g smoked salmon, from sustainable sources , or 4 free-range eggs, to serve",
-      "1 handful of watercress"
+      "1 handful of watercress",
     ],
-    "instructions": [
+    instructions: [
       "Liberally dust a clean work surface with flour. Mash the leftover potatoes or push through a sieve, then season with sea salt and black pepper.",
       "Beat the egg yolk and chop the wild garlic or chives, then add to the potatoes with the flour. Mix well.",
       "Lightly knead, then place the soft dough on the floured surface and roll out to about ½cm thick.",
       "Divide the dough into 4 and shape into rounds.",
       "Allow to chill in the fridge for at least 30 minutes, or until needed.\nMeanwhile, finely grate the horseradish (if using fresh) and combine with the crème fraîche. Add a squeeze of lemon juice, pepper and a dash of extra virgin olive oil.",
       "Preheat a flat griddle or non-stick frying pan until very hot, then cook the potato cakes in a little olive oil for 4 to 5 minutes on each side until golden, crisp and hot all the way through.",
-      "Serve with slices of smoked salmon – or poach the eggs to your liking (2 minutes for soft or 4 minutes for firm) – along with picked watercress leaves dressed with a squeeze of lemon and extra virgin olive oil and a side salad, if you like."
+      "Serve with slices of smoked salmon – or poach the eggs to your liking (2 minutes for soft or 4 minutes for firm) – along with picked watercress leaves dressed with a squeeze of lemon and extra virgin olive oil and a side salad, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4g64hU6rK1t96jg78whU5s.jpg",
-    "imageAlt": "Irish potato cakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4g64hU6rK1t96jg78whU5s.jpg",
+    imageAlt: "Irish potato cakes",
   },
   {
-    "name": "Omelette aux fines herbes",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "“The original, and best, simple Sunday supper for one. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Omelette aux fines herbes",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription: "Check out more of our recipes!",
+    description: "“The original, and best, simple Sunday supper for one. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "French",
       "Mains",
       "Meals for one",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large free-range eggs , at room temperature",
       "a few sprigs of mixed herbs, such as chives, tarragon, chervil and parsley",
-      "1 large knob of butter"
+      "1 large knob of butter",
     ],
-    "instructions": [
+    instructions: [
       "Break the eggs into a bowl and whisk lightly with a fork. Chop and add the herbs and season with sea salt and black pepper.",
       "Heat the butter in a 23cm non-stick or cast-iron pan over a medium-high heat until foaming.",
       "Once the foam dies down, pour in the egg mixture and gently shake the pan to distribute. Cook for 20 seconds or so, until it begins to bubble, then draw it into the centre with a wooden spoon and shake the pan again to redistribute the uncooked egg.",
       "Cook the omelette until the base is set, but it is still slightly runny in the middle (unless you don’t like that).",
-      "Remove the pan from the heat and fold 2 sides into the middle. Shake the pan so the edges roll together then turn the omelette onto a plate, folding it over in the process. Serve with crusty bread."
+      "Remove the pan from the heat and fold 2 sides into the middle. Shake the pan so the edges roll together then turn the omelette onto a plate, folding it over in the process. Serve with crusty bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CtvjX5FWK6v8CK0HTX8OaM.jpg",
-    "imageAlt": "Omelette aux fines herbes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CtvjX5FWK6v8CK0HTX8OaM.jpg",
+    imageAlt: "Omelette aux fines herbes",
   },
   {
-    "name": "Breakfast couscous",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Get the perfect start to the day with this healthy, high protein breakfast of couscous, raisins, silvered almonds, pine nuts and pistachios in warm milk.",
-    "description": "“Couscous lends itself perfectly to being eaten for breakfast. It can be steamed in a couscoussière or simply left to soak in boiling water for 10 minutes, then fluffed up with a fork. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Breakfast couscous",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Get the perfect start to the day with this healthy, high protein breakfast of couscous, raisins, silvered almonds, pine nuts and pistachios in warm milk.",
+    description:
+      "“Couscous lends itself perfectly to being eaten for breakfast. It can be steamed in a couscoussière or simply left to soak in boiling water for 10 minutes, then fluffed up with a fork. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Breakfast",
       "Couscous",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g couscous",
       "30 g raisins",
       "30 g flaked almonds",
@@ -2940,88 +2887,89 @@
       "2-4 tablespoons icing sugar , (more or less to taste)",
       "1 teaspoon rose water , optional",
       "1 orange , optional",
-      "200 ml skimmed milk"
+      "200 ml skimmed milk",
     ],
-    "instructions": [
+    instructions: [
       "Prepare the couscous by placing it in a bowl and covering it with 500ml boiling water. Let it stand for 10 minutes until the water is absorbed, then fluff up with a fork.",
       "Soak the raisins in lukewarm water for 15 minutes until softened, then drain.",
       "Toast the almonds and pine nuts by placing them in a dry frying pan over a medium heat and stirring for 2 to 3 minutes, until golden brown.",
       "Roughly chop the pistachios and add to the couscous. Add the raisins, almonds, pine nuts, cinnamon, sugar and rosewater (if using) and gently toss together.",
-      "Serve warm or at room temperature with a few gratings of orange zest (if using) to garnish. Warm and serve the milk on the side for pouring over."
+      "Serve warm or at room temperature with a few gratings of orange zest (if using) to garnish. Warm and serve the milk on the side for pouring over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258112.jpg",
-    "imageAlt": "Breakfast couscous"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258112.jpg",
+    imageAlt: "Breakfast couscous",
   },
   {
-    "name": "Easy pancakes",
-    "subName": "Simple crêpe-style pancakes",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie Oliver's easy pancake recipe is ideal for making elegantly thin crêpes. Delicious with fresh fruit, lemon and sugar; or try a savoury pancake with ham and cheese.",
-    "description": "“Take this versatile crêpe recipe in a sweet or savoury direction, depending on what you fancy. ”",
-    "servings": "Serves Makes 8",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes plus resting",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes plus resting"
+    name: "Easy pancakes",
+    subName: "Simple crêpe-style pancakes",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie Oliver's easy pancake recipe is ideal for making elegantly thin crêpes. Delicious with fresh fruit, lemon and sugar; or try a savoury pancake with ham and cheese.",
+    description:
+      "“Take this versatile crêpe recipe in a sweet or savoury direction, depending on what you fancy. ”",
+    servings: "Serves Makes 8",
+    time: {
+      prep: "",
+      cook: "15 minutes plus resting",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes plus resting",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Father's day",
       "Mother's day",
       "Pancake day",
       "French",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "3 large free-range eggs",
       "125 g plain flour",
       "250 ml milk",
-      "unsalted butter"
+      "unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Crack the eggs into a blender, then add the flour, milk and 1 pinch of sea salt, and blitz until smooth.",
       "Pour into a bowl and leave to stand for 15 minutes.",
       "Melt the butter (or a drizzle of oil if you want to be a bit healthier) in a large non-stick frying pan on a medium heat, then tilt the pan so the butter coats the surface.",
       "Pour in 1 ladle of batter and tilt again, so that the batter spreads all over the base, then cook for 1 to 2 minutes, or until it starts to come away from the sides.",
       "Once golden underneath, flip the pancake over and cook for 1 further minute, or until cooked through.",
-      "Serve straightaway with your favourite topping."
+      "Serve straightaway with your favourite topping.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/48itVf79aCuA93dIsnCBf3.jpg",
-    "imageAlt": "Easy pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/48itVf79aCuA93dIsnCBf3.jpg",
+    imageAlt: "Easy pancakes",
   },
   {
-    "name": "Dutch baby pancakes with roasted plums",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Follow this easy Dutch pancake recipe from Jamie Oliver to create your own Dutch Baby Pancakes with Roasted Plums, a lovely treat for a weekend brunch. ",
-    "description": "“Also known as German pancakes, these oven-baked delights puff up like sweet Yorkshire puddings. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Dutch baby pancakes with roasted plums",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Follow this easy Dutch pancake recipe from Jamie Oliver to create your own Dutch Baby Pancakes with Roasted Plums, a lovely treat for a weekend brunch. ",
+    description:
+      "“Also known as German pancakes, these oven-baked delights puff up like sweet Yorkshire puddings. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Pancake day",
       "Christmas",
       "Breakfast",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "20 g butter",
       "2 large free-range eggs",
       "100 ml single cream",
@@ -3032,9 +2980,9 @@
       "ROASTED PLUMS",
       "3 plums",
       "½ orange",
-      "2 tablespoons golden caster sugar"
+      "2 tablespoons golden caster sugar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6 and insert a baking sheet to heat up.",
       "Start by roasting the plums. Halve, destone and slice them into wedges, then put them in a baking tin.",
       "Squeeze over the orange juice, sprinkle over the sugar and toss until the fruit is coated.",
@@ -3042,36 +2990,39 @@
       "Divide the butter between two 15cm iron frying pans, and melt it over a low heat until it turns a nutty brown colour.",
       "Meanwhile, make the pancake batter by whisking the eggs, cream, milk and flour in a jug, until completely smooth.",
       "Divide the batter between the two frying pans, then place them in the oven on the preheated baking sheet. Cook for 20 minutes, or until golden and puffed.",
-      "Remove from the oven. Combine the sugar and cinnamon, sprinkle on top, then serve with a few roasted plums on top."
+      "Remove from the oven. Combine the sugar and cinnamon, sprinkle on top, then serve with a few roasted plums on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7C79u-U4aIQA9-bC0rG9Mk.jpg",
-    "imageAlt": "Dutch baby pancakes with roasted plums"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7C79u-U4aIQA9-bC0rG9Mk.jpg",
+    imageAlt: "Dutch baby pancakes with roasted plums",
   },
   {
-    "name": "Black pudding crumpets",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "If you're wondering what to eat with crumpets you could do worse than this perfect friendship of flavours: black pudding, maple apples and watercress.",
-    "description": "“A perfect friendship of flavours: rich, crisp, gnarly black pudding; sweet, maple apples; and fresh, sharp, lemony watercress, served on the humble crumpet. Delicious. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Black pudding crumpets",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "If you're wondering what to eat with crumpets you could do worse than this perfect friendship of flavours: black pudding, maple apples and watercress.",
+    description:
+      "“A perfect friendship of flavours: rich, crisp, gnarly black pudding; sweet, maple apples; and fresh, sharp, lemony watercress, served on the humble crumpet. Delicious. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Burns Night Specials",
       "St. George's Day",
       "Sausage",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g quality black pudding",
       "1 eating apple",
       "1 lemon",
@@ -3079,135 +3030,136 @@
       "3 tablespoons maple syrup",
       "4 crumpets",
       "extra virgin olive oil",
-      "30 g watercress"
+      "30 g watercress",
     ],
-    "instructions": [
+    instructions: [
       "Slice the black pudding, roughly 3mm thick, then thinly slice the apple (core and all), discarding the seeds. Halve the lemon.",
       "Heat a little oil in a pan on a medium-high heat. Fry the black pudding for 2 to 3 minutes each side, or until the surface is browned. Break up a few slices, let them crisp up, then move to kitchen paper on a plate, to drain.",
       "Add the apple and half the lemon juice to the pan. Cook for 1 minute or so on each side, or until starting to caramelise.",
       "Add the maple syrup and toss to coat the apple. Cook for 1 minute more, or until thick and glossy. Return the black pudding to the pan to warm.",
       "Toast your crumpets.",
       "In a jar, shake the rest of the lemon juice with twice as much extra virgin olive oil and a little sea salt and black pepper, then dress the watercress.",
-      "Top the crumpets with black pudding and apple and serve with the cress."
+      "Top the crumpets with black pudding and apple and serve with the cress.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257478.jpg",
-    "imageAlt": "Black pudding crumpets"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257478.jpg",
+    imageAlt: "Black pudding crumpets",
   },
   {
-    "name": "Black pudding, poached egg and soldiers",
-    "subName": "A gorgeously quick breakfast",
-    "specialDiets": [],
-    "metaDescription": "Black pudding and poached egg is a classic combination, try this easy recipe for one of Jamie Oliver's favourite breakfasts, complete with soldiers.",
-    "description": "“One of my all-time favourites. When black pudding goes all crispy it’s so delicious – this makes my morning. It’s a bit childish but I like my toast in soldiers, like my mum used to make for me (nostalgia is a beautiful thing – embrace it). Lightly buttered toast scraped with Marmite or Vegemite is wicked with an oozy egg. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Black pudding, poached egg and soldiers",
+    subName: "A gorgeously quick breakfast",
+    specialDiets: [],
+    metaDescription:
+      "Black pudding and poached egg is a classic combination, try this easy recipe for one of Jamie Oliver's favourite breakfasts, complete with soldiers.",
+    description:
+      "“One of my all-time favourites. When black pudding goes all crispy it’s so delicious – this makes my morning. It’s a bit childish but I like my toast in soldiers, like my mum used to make for me (nostalgia is a beautiful thing – embrace it). Lightly buttered toast scraped with Marmite or Vegemite is wicked with an oozy egg. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "St. George's Day",
       "Father's day",
       "Christmas",
-      "Sausage"
+      "Sausage",
     ],
-    "ingredients": [
+    ingredients: [
       "white wine vinegar",
       "olive oil",
       "200 g quality black pudding , made with fresh blood",
       "2 x 5cm-thick slices of bloomer loaf",
       "2 large free-range ggs",
       "unsalted butter",
-      "Marmite or Vegemite"
+      "Marmite or Vegemite",
     ],
-    "instructions": [
+    instructions: [
       "Put a pan of water on to boil and add a pinch of sea salt and a splash of vinegar.",
       "Heat a medium frying pan to high and add a little oil. Pull the skin off your black pudding, then crumble it into the pan. When it starts to crisp, pop your bread in the toaster.",
       "When the pudding looks and tastes done, spoon it onto kitchen paper to drain while you poach your eggs.",
       "Stir the boiling water to create a motion that will help the egg white wrap around neatly. Don’t make a fuss, just crack in the eggs (you might want to do 3 in case you break one, as I often do). They will cook in a few minutes, depending on how you like them.",
       "Butter your toast, then smear it with a thin layer of Marmite or Vegemite. Cut each slice into soldiers.",
-      "Serve a poached egg next to the toast, sprinkle over the black pudding and dig in."
+      "Serve a poached egg next to the toast, sprinkle over the black pudding and dig in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258880.jpg",
-    "imageAlt": "Black pudding, poached egg and soldiers"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258880.jpg",
+    imageAlt: "Black pudding, poached egg and soldiers",
   },
   {
-    "name": "Potato scones",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a new idea for brunch this weekend? Try these potato scones. A staple in Scotland, they go perfectly with eggs and bacon for breakfast.",
-    "description": "“You see potato scones quite a lot in Scotland, Ireland and Wales, served for breakfast with bacon and eggs, afternoon tea with butter and jam or supper with smoked salmon. ”",
-    "servings": "2 to 4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Potato scones",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Looking for a new idea for brunch this weekend? Try these potato scones. A staple in Scotland, they go perfectly with eggs and bacon for breakfast.",
+    description:
+      "“You see potato scones quite a lot in Scotland, Ireland and Wales, served for breakfast with bacon and eggs, afternoon tea with butter and jam or supper with smoked salmon. ”",
+    servings: "2 to 4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Burns Night Specials",
       "Leftovers",
       "Breakfast",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g floury potatoes",
       "25 g unsalted butter , plus extra for greasing",
       "50 g plain flour",
-      "¼ teaspoon baking powder"
+      "¼ teaspoon baking powder",
     ],
-    "instructions": [
+    instructions: [
       "Peel and roughly chop the potatoes, then cook in boiling salted water for 8 to 12 minutes, or until tender. Drain, then mash with the butter.",
       "Combine the flour, baking powder and a good pinch of sea salt in a bowl. Add the warm mash to the flour mixture and combine gently with a spoon or your fingers to make a dough.",
       "Gently shape the dough into 2 balls and transfer to a lightly floured work surface. Roll each ball into a circle about 5mm thick, prick all over with a fork, then cut into quarters.",
       "Heat a griddle pan over a medium heat. Once hot, smear with a little butter. Carefully transfer the potato scones, in batches, to the pan and cook for 3 to 4 minutes on each side, or until golden brown.",
-      "Serve the hot potato scones with bacon and fried eggs, or scrambled eggs and slices of smoked salmon."
+      "Serve the hot potato scones with bacon and fried eggs, or scrambled eggs and slices of smoked salmon.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/3FDt8F4daea8blJ_vs_5eb.jpg",
-    "imageAlt": "Potato scones"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/3FDt8F4daea8blJ_vs_5eb.jpg",
+    imageAlt: "Potato scones",
   },
   {
-    "name": "Super-food protein loaf",
-    "subName": "Wheat-free, gluten-free & tasty",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "A high-protein bread recipe that's great for a pre-gym breakfast. Top with avocado, eggs, hummus, or any of your favourite toast toppings. It's a winner.",
-    "description": "“For all you morning gym-goers this healthy protein bread is a great portable breakfast that will help with muscle repair and growth. ”",
-    "servings": "Serves Makes 14",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus cooling"
+    name: "Super-food protein loaf",
+    subName: "Wheat-free, gluten-free & tasty",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "A high-protein bread recipe that's great for a pre-gym breakfast. Top with avocado, eggs, hummus, or any of your favourite toast toppings. It's a winner.",
+    description:
+      "“For all you morning gym-goers this healthy protein bread is a great portable breakfast that will help with muscle repair and growth. ”",
+    servings: "Serves Makes 14",
+    time: {
+      prep: "",
+      cook: "1 hour plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Bread",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Freezer-friendly recipes",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 7 g sachet of dried yeast",
       "4 tablespoons extra virgin olive oil",
       "250 g gram flour",
@@ -3216,9 +3168,9 @@
       "100 g mixed seeds, such as chia, poppy, sunflower, sesame, pumpkin",
       "1 sprig of fresh rosemary",
       "4 large free-range eggs",
-      "3 teaspoons Marmite , optional"
+      "3 teaspoons Marmite , optional",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/375ºF/gas 5. Line a 1.5-litre loaf tin with greaseproof paper.",
       "Fill a jug with 375ml of lukewarm water, add the yeast and oil, then mix with a fork until combined and leave aside for 5 minutes.",
       "Pile the flour, ground almonds and all the seeds into a large bowl with a pinch of sea salt and make a well in the middle. Pick, finely chop and add the rosemary leaves. Crack in the eggs, add the Marmite (if using – simply leave it out for a gluten-free friendly loaf) and beat together, then pour in the yeast mixture.",
@@ -3226,36 +3178,38 @@
       "Now you’ve got two choices – bake it straight away and it’ll puff up a bit more and taste fantastic, or cover and place it in the fridge overnight and allow some slightly more complex sour flavours to develop. Both are brilliant, just different.",
       "To bake, place in the middle of the oven for 45 minutes, or until golden, cooked through and an inserted skewer comes out clean. Transfer to a wire rack to cool for at least 20 minutes before eating, then serve.",
       "This bread is good fresh for a couple of days, and delicious toasted for a few days after that. You could even use any leftovers to make croutons.",
-      "TOPPING IDEAS GALORE – these suggestions are all about giving you loads of colourful inspiration for tasty topping combos that’ll fill you with goodness – choose your favourites and tuck in:\n1. Chopped hard-boiled free-range egg, yoghurt, paprika & cress\n2. Ripe beef tomatoes, Swiss cheese & black pepper\n3. Skinny cream cheese, ripe cherry tomatoes & fresh basil\n4. Cottage cheese, soft-boiled free-range egg, paprika & spring onions\n5. Wilted spinach & cottage cheese\n6. Squashed beetroot, natural yoghurt & balsamic\n7. Grated cucumber & cottage cheese with quality smoked salmon\n8. Skinny cream cheese, cherries & cinnamon\n9. Skinny cream cheese, cucumber & hot chilli sauce\n10. Skinny cream cheese, lemony grilled asparagus, fresh mint & chilli\n11. Natural yoghurt, banana & cinnamon\n12. Fried free-range egg, natural yoghurt, ripe cherry tomatoes & curry powder\n13. Avocado, cottage cheese & Tabasco chipotle sauce\n14. Houmous, pomegranate seeds & rocket\n15. Marmite, ripe avocado & natural yoghurt"
+      "TOPPING IDEAS GALORE – these suggestions are all about giving you loads of colourful inspiration for tasty topping combos that’ll fill you with goodness – choose your favourites and tuck in:\n1. Chopped hard-boiled free-range egg, yoghurt, paprika & cress\n2. Ripe beef tomatoes, Swiss cheese & black pepper\n3. Skinny cream cheese, ripe cherry tomatoes & fresh basil\n4. Cottage cheese, soft-boiled free-range egg, paprika & spring onions\n5. Wilted spinach & cottage cheese\n6. Squashed beetroot, natural yoghurt & balsamic\n7. Grated cucumber & cottage cheese with quality smoked salmon\n8. Skinny cream cheese, cherries & cinnamon\n9. Skinny cream cheese, cucumber & hot chilli sauce\n10. Skinny cream cheese, lemony grilled asparagus, fresh mint & chilli\n11. Natural yoghurt, banana & cinnamon\n12. Fried free-range egg, natural yoghurt, ripe cherry tomatoes & curry powder\n13. Avocado, cottage cheese & Tabasco chipotle sauce\n14. Houmous, pomegranate seeds & rocket\n15. Marmite, ripe avocado & natural yoghurt",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46268906.jpg",
-    "imageAlt": "Super-food protein loaf"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46268906.jpg",
+    imageAlt: "Super-food protein loaf",
   },
   {
-    "name": "Figgy banana bread",
-    "subName": "Blood orange & nut butter",
-    "specialDiets": [],
-    "metaDescription": "An easy banana bread recipe that's bursting with fruit and nuts. Perfect for breakfast - just add nut butter! From Jamie Oliver's book Everyday Super Food.",
-    "description": "“Full of healthy ingredients, this beautiful bread uses nutrient-packed wholemeal flour, nuts, seeds and good oil, utilizing the natural sweetness of figs, rather than adding sugar. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Figgy banana bread",
+    subName: "Blood orange & nut butter",
+    specialDiets: [],
+    metaDescription:
+      "An easy banana bread recipe that's bursting with fruit and nuts. Perfect for breakfast - just add nut butter! From Jamie Oliver's book Everyday Super Food.",
+    description:
+      "“Full of healthy ingredients, this beautiful bread uses nutrient-packed wholemeal flour, nuts, seeds and good oil, utilizing the natural sweetness of figs, rather than adding sugar. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Bread",
       "Breakfast",
       "Fruit",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g dried figs",
       "75 ml cold-pressed rapeseed oil",
       "125 g natural vanilla yoghurt",
@@ -3268,9 +3222,9 @@
       "1 tablespoon poppy seeds",
       "½ teaspoon ground turmeric",
       "1 eating apple",
-      "50 g whole almonds"
+      "50 g whole almonds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4. Line a 25cm ovenproof frying pan or tin with a scrunched sheet of wet greaseproof paper.",
       "Place 200g of figs in a food processor with the oil, yoghurt, vanilla extract, peeled bananas and eggs, then blitz until smooth.",
       "Add the flour, baking powder, ground almonds, poppy seeds and turmeric and pulse until just combined, but don’t overwork the mixture.",
@@ -3279,36 +3233,38 @@
       "Tear over the remaining figs, pushing them in slightly, then chop the almonds and scatter over.",
       "Bake for 35 to 40 minutes, or until golden, cooked through and an inserted skewer comes out clean. Transfer to a wire rack to cool a little.",
       "I like to serve each portion with 1 tablespoon of nut butter, 1 tablespoon of natural yoghurt and some wedges of blood orange.",
-      "Store any extra portions in an airtight container, where it will keep for 2 to 3 days."
+      "Store any extra portions in an airtight container, where it will keep for 2 to 3 days.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/90246164.jpg",
-    "imageAlt": "Figgy banana bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/90246164.jpg",
+    imageAlt: "Figgy banana bread",
   },
   {
-    "name": "Beef hash cakes with chipotle yoghurt",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "These beef hash cakes served with chipotle yoghurt are a perfect breakfast if you have leftover roast beef, try this easy recipe from Jamie Oliver.",
-    "description": "“This is the perfect breakfast when you have leftover roast beef. But if you don’t, a good quality corned beef also works a treat here. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes plus chilling"
+    name: "Beef hash cakes with chipotle yoghurt",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "These beef hash cakes served with chipotle yoghurt are a perfect breakfast if you have leftover roast beef, try this easy recipe from Jamie Oliver.",
+    description:
+      "“This is the perfect breakfast when you have leftover roast beef. But if you don’t, a good quality corned beef also works a treat here. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Father's day",
       "Breakfast",
       "Leftovers",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g leftover braised beef , such as shin, feather or brisket",
       "2 sprigs of fresh flat-leaf parsley",
       "a few fresh chives",
@@ -3318,91 +3274,85 @@
       "50 g plain flour",
       "2 medium free-range eggs",
       "75 g panko breadcrumbs",
-      "200 ml groundnut oil"
+      "200 ml groundnut oil",
     ],
-    "instructions": [
+    instructions: [
       "Shred the beef, then roughly chop the parsley leaves, chives and gherkins.",
       "Place in a large bowl with the mashed potato, mustard and a pinch of sea salt and black pepper, then mix until combined.",
       "Using your hands, roll it into four balls, before flattening each one into a patty.",
       "Set out three shallow dishes. Put the flour in the first and season, beat the eggs in the second, and add the panko breadcrumbs in the third.",
       "Roll each patty in the flour, then the egg, shaking off any excess, then the breadcrumbs, until well coated. Pop them on a plate, cover with clingfilm and chill in the fridge for 30 minutes.",
       "Heat the oil in a large frying pan over a medium heat and cook the patties gently for 4 minutes on each side, or until golden and crisp.",
-      "In a serving bowl, mix the yoghurt and Tabasco, then serve it alongside the beef hash cakes. Delicious with dressed rocket and a poached egg."
+      "In a serving bowl, mix the yoghurt and Tabasco, then serve it alongside the beef hash cakes. Delicious with dressed rocket and a poached egg.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260123.jpg",
-    "imageAlt": "Beef hash cakes with chipotle yoghurt"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260123.jpg",
+    imageAlt: "Beef hash cakes with chipotle yoghurt",
   },
   {
-    "name": "Grilled asparagus & poached egg on toast",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Treat a loved one to a special breakfast of grilled asparagus and poached eggs on toast with this easy, but delicious recipe online at Jamie Oliver.",
-    "description": "“A show-stopping combo for two from Georgina Hayden that takes no time to assemble. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Grilled asparagus & poached egg on toast",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Treat a loved one to a special breakfast of grilled asparagus and poached eggs on toast with this easy, but delicious recipe online at Jamie Oliver.",
+    description:
+      "“A show-stopping combo for two from Georgina Hayden that takes no time to assemble. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Mother's day",
       "Romantic meals",
       "Breakfast",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large slices of good sourdough bread",
       "extra virgin olive oil",
       "12 spears of asparagus",
       "½ teaspoon sweet smoked paprika",
       "2 large free-range eggs",
       "Parmesan cheese",
-      "4 sprigs of fresh mint"
+      "4 sprigs of fresh mint",
     ],
-    "instructions": [
+    instructions: [
       "Bring a pan of salted water to the boil, then reduce to a simmer.",
       "Heat a griddle pan over a high heat and toast the bread. Move each slice to a plate or board and drizzle with a little oil.",
       "Snap the woody end off the asparagus, then griddle for a few minutes on each side, sprinkle with the paprika and divide between the pieces of toast.",
       "While the asparagus is grilling, poach the eggs in the simmering water for 3 minutes. Using a slotted spoon, remove the eggs and drain, then place them on top of the asparagus.",
-      "Grate over the parmesan, then pick and sprinkle over the mint leaves."
+      "Grate over the parmesan, then pick and sprinkle over the mint leaves.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/6iowb1FtaR5AxlEkJjXpNX.jpg",
-    "imageAlt": "Grilled asparagus & poached egg on toast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/6iowb1FtaR5AxlEkJjXpNX.jpg",
+    imageAlt: "Grilled asparagus & poached egg on toast",
   },
   {
-    "name": "Spiced coconut granola",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try this great spiced coconut granola recipe from Jamie Oliver for a healthy way to start the day filled with enough energy to keep you going until lunch. ",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes plus cooling"
+    name: "Spiced coconut granola",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try this great spiced coconut granola recipe from Jamie Oliver for a healthy way to start the day filled with enough energy to keep you going until lunch. ",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "45 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Fruit",
-      "Mother's day",
-      "Breakfast",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Fruit", "Mother's day", "Breakfast", "Baking"],
+    ingredients: [
       "50 g groundnut oil",
       "75 ml maple syrup",
       "300 g giant rolled oats",
@@ -3413,88 +3363,88 @@
       "1 teaspoon ground ginger",
       "50 g toasted coconut flakes",
       "blueberries",
-      "yoghurt"
+      "yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4. Heat the oil and maple syrup in a small saucepan for about 3 minutes, until just bubbling.",
       "Place the oats, seeds and spices into a bowl, pour over the warmed maple syrup mixture and stir well to combine. Tip it onto a large baking tray and press into a single layer.",
       "Pop it in the oven and bake for 35 to 40 minutes, until toasted, stirring occasionally to toast all sides.",
-      "When it’s done, leave to cool before mixing in the coconut flakes. Serve with blueberries and yoghurt."
+      "When it’s done, leave to cool before mixing in the coconut flakes. Serve with blueberries and yoghurt.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9cPiFOT6K8S95hpoLxra3H.jpg",
-    "imageAlt": "Spiced coconut granola"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9cPiFOT6K8S95hpoLxra3H.jpg",
+    imageAlt: "Spiced coconut granola",
   },
   {
-    "name": "Brilliant breakfast waffles",
-    "subName": "Sweet or savoury",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This breakfast waffle recipe from Jamie Oliver shows you how to make waffles from scratch. Just add your favourite toppings for a great weekend brunch.",
-    "description": "“I love my waffle machine – if you haven’t got one, put it on your Christmas wishlist! ”",
-    "servings": "Serves Makes 6",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Brilliant breakfast waffles",
+    subName: "Sweet or savoury",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This breakfast waffle recipe from Jamie Oliver shows you how to make waffles from scratch. Just add your favourite toppings for a great weekend brunch.",
+    description:
+      "“I love my waffle machine – if you haven’t got one, put it on your Christmas wishlist! ”",
+    servings: "Serves Makes 6",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Prep & go recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g self-raising flour",
       "1 teaspoon baking powder",
       "1 teaspoon sugar",
       "1 large free-range egg",
       "240 ml semi-skimmed milk",
       "1 orange , optional",
-      "vanilla extract , optional"
+      "vanilla extract , optional",
     ],
-    "instructions": [
+    instructions: [
       "Mix all the dry ingredients together in a large bowl. Gradually beat in the egg, then add the milk slowly, whisking well to get as smooth a batter as possible.",
       "If you’re making sweet waffles, grate in the orange zest and add a few drops of vanilla extract.",
       "Get your waffle machine ready. Once it’s hot, ladle in the batter mixture and seal, following the machine instructions until your waffles are cooked.",
-      "Serve with whatever takes your fancy! Let the kids invent their own, or see some of our favourite ideas below for inspiration."
+      "Serve with whatever takes your fancy! Let the kids invent their own, or see some of our favourite ideas below for inspiration.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259360.jpg",
-    "imageAlt": "Brilliant breakfast waffles"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259360.jpg",
+    imageAlt: "Brilliant breakfast waffles",
   },
   {
-    "name": "Leftover squash pancakes",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Use up leftover squash with this leftover butternut squash in these thick pancakes, with Parmesan cheese, nutmeg and rosemary.",
-    "description": "",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Leftover squash pancakes",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Use up leftover squash with this leftover butternut squash in these thick pancakes, with Parmesan cheese, nutmeg and rosemary.",
+    description: "",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Pancake day",
       "Thanksgiving",
       "Christmas",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g leftover roasted squash",
       "1 fresh red chilli",
       "2 sprigs of fresh rosemary",
@@ -3504,79 +3454,78 @@
       "150 g self-raising flour",
       "1 whole nutmeg , for grating",
       "olive oil",
-      "rocket"
+      "rocket",
     ],
-    "instructions": [
+    instructions: [
       "Remove the skin from the roasted squash, then deseed and finely chop the chilli. Pick and finely chop the rosemary leaves, discarding the stalks, and finely grate the Parmesan.",
       "In a large bowl, mash the squash with a fork, then whisk in the egg, milk and flour. Add the chilli, rosemary, Parmesan and a grating of nutmeg.",
       "Heat a little oil in a frying pan and, once hot, add half a ladle of mixture per pancake into the pan. Cook for 1 to 2 mins on each side, until golden and crisp.",
-      "Keep warm in a low oven until ready, then serve with and extra grating of Parmesan and some rocket."
+      "Keep warm in a low oven until ready, then serve with and extra grating of Parmesan and some rocket.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/94qp2qtMqmn9l8M7RdvIzp.jpg",
-    "imageAlt": "Leftover squash pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/94qp2qtMqmn9l8M7RdvIzp.jpg",
+    imageAlt: "Leftover squash pancakes",
   },
   {
-    "name": "Helen’s apple & cinnamon porridge",
-    "subName": "Simple, affordable recipes for complementary feeding",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A super-easy apple and cinnamon porridge recipe for babies, toddlers and the whole family. Making your own porridge is a great way to kick off the day and this version is so tasty.",
-    "description": "",
-    "servings": "Serves Makes 500g",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Helen’s apple & cinnamon porridge",
+    subName: "Simple, affordable recipes for complementary feeding",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A super-easy apple and cinnamon porridge recipe for babies, toddlers and the whole family. Making your own porridge is a great way to kick off the day and this version is so tasty.",
+    description: "",
+    servings: "Serves Makes 500g",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Quick & easy recipes",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Quick & easy recipes", "Breakfast"],
+    ingredients: [
       "½ a large eating apple",
       "60 g porridge oats",
       "400 ml milk",
-      "½ teaspoon ground cinnamon"
+      "½ teaspoon ground cinnamon",
     ],
-    "instructions": [
+    instructions: [
       "Peel, core and finely grate the apple.",
       "Place all the ingredients in a non-stick pan over a medium heat and simmer for 10 minutes, or until thick and creamy, stirring regularly.",
-      "Allow to cool before serving. For more information on stages of complementary feeding, click here."
+      "Allow to cool before serving. For more information on stages of complementary feeding, click here.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/6HHRH9_hKvi8m71wt1nNyu.jpg",
-    "imageAlt": "Helen’s apple & cinnamon porridge"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/6HHRH9_hKvi8m71wt1nNyu.jpg",
+    imageAlt: "Helen’s apple & cinnamon porridge",
   },
   {
-    "name": "Christmas kedgeree breakfast tarts",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Whether you're looking for a festive breakfast on the go or just an original way to present a classic try Jamie's Christmas Kedgeree Breakfast Tart recipe.",
-    "description": "“This is a lovely way to use up leftover kedgeree and makes a great breakfast or brunch dish. If you use smaller tins, this makes 14 to 16 tarts – you’ll need to add more eggs, of course. ”",
-    "servings": "Serves Makes 8",
-    "time": {
-      "prep": "",
-      "cook": "3 hours 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "3 hours 20 minutes"
+    name: "Christmas kedgeree breakfast tarts",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Whether you're looking for a festive breakfast on the go or just an original way to present a classic try Jamie's Christmas Kedgeree Breakfast Tart recipe.",
+    description:
+      "“This is a lovely way to use up leftover kedgeree and makes a great breakfast or brunch dish. If you use smaller tins, this makes 14 to 16 tarts – you’ll need to add more eggs, of course. ”",
+    servings: "Serves Makes 8",
+    time: {
+      prep: "",
+      cook: "3 hours 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "3 hours 20 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Starters",
       "Breakfast",
       "Leek",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "5 cm piece of ginger",
       "1 red onion",
       "1 clove of garlic",
@@ -3605,9 +3554,9 @@
       "2 large free-range eggs",
       "CHILLI GLAZE",
       "2 small red chillies",
-      "3 tablespoons olive oil"
+      "3 tablespoons olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Start by making the sauce. Peel and finely slice the onion, deseed and finely chop the chilli, and peel and finely chop the garlic.",
       "Heat the oil in a saucepan over a medium heat and sauté the onion, chilli, garlic and oregano until softened – about 5 minutes.",
       "Season and add the tinned tomatoes, tomato paste and 200ml of water. Lower the heat and simmer, stirring occasionally, for 40 minutes, or until thickened. Transfer the sauce to a bowl until ready to use.",
@@ -3624,40 +3573,39 @@
       "Add the fish, rice, lemon zest and juice to the onion mixture, stir well and cook for a few more minutes. Transfer back to the bowl and allow to cool for 5 minutes.",
       "Divide the kedgeree between your tart tins, making a small well in the middle of each one. Crack an egg into every well, place the tins on a baking tray and pop in the oven for 20 to 25 minutes, or until the eggs are cooked to your liking.",
       "Meanwhile, make the chilli glaze by deseeding and finely chopping the chillies, and combining it with the oil in a small saucepan and cooking over a medium heat for 10 minutes.",
-      "Divide the kedgeree tarts between plates. Brush the top of each tart with chilli glaze, pick over the coriander leaves and serve with the tomato and chilli sauce on the side."
+      "Divide the kedgeree tarts between plates. Brush the top of each tart with chilli glaze, pick over the coriander leaves and serve with the tomato and chilli sauce on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CXwBA6zJqE3AQS54mzkBpN.jpg",
-    "imageAlt": "Christmas kedgeree breakfast tarts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CXwBA6zJqE3AQS54mzkBpN.jpg",
+    imageAlt: "Christmas kedgeree breakfast tarts",
   },
   {
-    "name": "Spiced veggie rice with poached eggs",
-    "subName": "With cumin, cardamom & chilli",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Spiced veggie rice with poached eggs is a beautiful way to use up leftover veg.",
-    "description": "“A riot of colour, spices, texture and flavour – Anna Jones' brunch rice recipe is just glorious. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Spiced veggie rice with poached eggs",
+    subName: "With cumin, cardamom & chilli",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Spiced veggie rice with poached eggs is a beautiful way to use up leftover veg.",
+    description:
+      "“A riot of colour, spices, texture and flavour – Anna Jones' brunch rice recipe is just glorious. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Vegetables",
       "Christmas",
       "Aussie Christmas",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "7-8 spring onions",
       "2 cloves of garlic",
       "2 fresh red chillies",
@@ -3675,9 +3623,9 @@
       "1 bunch of fresh flat-leaf parsley , (30g)",
       "1 bunch of fresh mint , (30g)",
       "2 limes",
-      "1 pomegranate"
+      "1 pomegranate",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Finely chop the spring onions, then peel and finely slice the garlic. Chop the chillies.",
       "Heat a good glug of oil in a large, ovenproof pan. Add the spring onions, garlic and bay leaves, and cook over a low heat for 10 minutes, until the spring onions are soft and sweet.",
@@ -3686,38 +3634,39 @@
       "While the rice is cooking, put the root veg on a baking tray, drizzle with oil, season and pop into the oven to warm up for the last 10 minutes.",
       "Meanwhile, poach your eggs. Put a shallow pan of water over a medium heat, add a splash of vinegar and, once simmering, break in the eggs and cook for 2 to 3 minutes.",
       "Once the veg and rice are done, remove them from the oven and stir them together. Mix through the greens, herbs and lime juice.",
-      "Pile the mixture into bowls, top each one with a poached egg, and serve with the pomegranate seeds scattered on top."
+      "Pile the mixture into bowls, top each one with a poached egg, and serve with the pomegranate seeds scattered on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EBSAaHRmae893v5So8sNQ8.jpg",
-    "imageAlt": "Spiced veggie rice with poached eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EBSAaHRmae893v5So8sNQ8.jpg",
+    imageAlt: "Spiced veggie rice with poached eggs",
   },
   {
-    "name": "Cranberry & cinnamon swirl buns",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This recipe for Cranberry & Cinnamon swirl buns is so simple to make and delicious to eat that the whole family will want to get involved in the baking.",
-    "description": "“These buns are made with a mix of wholemeal and spelt flour, giving them a malty taste. Swirled with orange zest, cranberries and cinnamon, they smell delicious. ”",
-    "servings": "Serves Makes 18-20",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 35 minutes"
+    name: "Cranberry & cinnamon swirl buns",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This recipe for Cranberry & Cinnamon swirl buns is so simple to make and delicious to eat that the whole family will want to get involved in the baking.",
+    description:
+      "“These buns are made with a mix of wholemeal and spelt flour, giving them a malty taste. Swirled with orange zest, cranberries and cinnamon, they smell delicious. ”",
+    servings: "Serves Makes 18-20",
+    time: {
+      prep: "",
+      cook: "1 hour 35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Thanksgiving",
       "Christmas",
       "Baking",
-      "Bread"
+      "Bread",
     ],
-    "ingredients": [
+    ingredients: [
       "2 x 7 g sachets of fast-action yeast",
       "500 ml lukewarm milk",
       "3 large free-range eggs",
@@ -3733,9 +3682,9 @@
       "3 oranges",
       "150 g unsalted butter , (at room temperature)",
       "150 g soft brown sugar",
-      "6 teaspoons ground cinnamon"
+      "6 teaspoons ground cinnamon",
     ],
-    "instructions": [
+    instructions: [
       "In a large bowl, dissolve the yeast in the warm milk, stirring with a whisk, then beat and add 1 egg and stir again.",
       "Sift together the flours, cinnamon and a small pinch of sea salt and add the butter, using your hands to crumble it.",
       "Add everything to the milk mixture with the sugar. Beat and add another egg, stirring to form a dough. Keep stirring until the dough comes cleanly from the edge of the bowl and knead on a floured surface for about 5 minutes, or until smooth.",
@@ -3747,76 +3696,81 @@
       "Cover with oiled clingfilm and leave to rise for 20 minutes.",
       "Preheat the oven to 220ºC/gas 7.",
       "Beat the remaining egg and brush it over the cinnamon rolls, then sprinkle with a tiny pinch of sugar.",
-      "Bake in the oven for 15 to 18 minutes, until golden brown, then leave to cool on a wire rack. Brush with warmed apricot jam or honey to glaze. Serve warm or cold."
+      "Bake in the oven for 15 to 18 minutes, until golden brown, then leave to cool on a wire rack. Brush with warmed apricot jam or honey to glaze. Serve warm or cold.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5iaUAavR4IVBZB7m6QpwJy.jpg",
-    "imageAlt": "Cranberry & cinnamon swirl buns"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5iaUAavR4IVBZB7m6QpwJy.jpg",
+    imageAlt: "Cranberry & cinnamon swirl buns",
   },
   {
-    "name": "Boxing day quesadillas",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Kids will love cooking these festive Boxing Day Quesadillas, these babies from Jamie Oliver are a different way to use up all your Christmas leftovers.",
-    "description": "“If you and the children are fed up of leftovers this is a fantastic twist on the traditional Boxing Day turkey sandwich. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Boxing day quesadillas",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Kids will love cooking these festive Boxing Day Quesadillas, these babies from Jamie Oliver are a different way to use up all your Christmas leftovers.",
+    description:
+      "“If you and the children are fed up of leftovers this is a fantastic twist on the traditional Boxing Day turkey sandwich. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Turkey",
       "Christmas",
       "Aussie Christmas",
       "Snacks",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "8 soft tortillas",
       "8 tablespoons quality cranberry sauce",
       "300 g leftover cooked higher-welfare turkey",
       "1 x 150 g camembert",
-      "a few sprigs of fresh thyme"
+      "a few sprigs of fresh thyme",
     ],
-    "instructions": [
+    instructions: [
       "Lay out 4 tortillas and spread them with 2 tablespoons of cranberry sauce, then shred up and divide the turkey between them.",
       "Slice the camembert as thinly as you can and spread out evenly over the turkey and scatter with thyme leaves. Top each with a final tortilla.",
       "One by one, dry fry the tortillas in a large frying pan over a medium heat.",
-      "Once the underside is crisp and golden (about 2 to 3 minutes), gently flip over and fry for a few minutes, then slide onto a board and cut into wedges."
+      "Once the underside is crisp and golden (about 2 to 3 minutes), gently flip over and fry for a few minutes, then slide onto a board and cut into wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46256719.jpg",
-    "imageAlt": "Boxing day quesadillas"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46256719.jpg",
+    imageAlt: "Boxing day quesadillas",
   },
   {
-    "name": "Goodness breakfast with maple pears",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Get your day off to the right start with this recipe for goodness breakfast with maple pears from Jamie Oliver packed with flavour and superfoods.",
-    "description": "“A bit of toasting the night before will give you a wholesome base for a quick and warming breakfast. Top with fruit, yoghurt, seeds or nuts to change things up. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Goodness breakfast with maple pears",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Get your day off to the right start with this recipe for goodness breakfast with maple pears from Jamie Oliver packed with flavour and superfoods.",
+    description:
+      "“A bit of toasting the night before will give you a wholesome base for a quick and warming breakfast. Top with fruit, yoghurt, seeds or nuts to change things up. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Breakfast",
       "Brilliant breakfast recipes",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g oats",
       "100 g millet flakes",
       "100 g barley flakes",
@@ -3827,44 +3781,43 @@
       "flaked almonds",
       "MAPLE PEARS",
       "2 pears",
-      "1 tablespoon maple syrup , plus extra to serve"
+      "1 tablespoon maple syrup , plus extra to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4. Mix the oats, flakes, quinoa and seeds in a bowl, then scatter onto a roasting tray and toast in the oven for 20 minutes. Check every 5 minutes and give them a shake to ensure they toast evenly. Once golden, cool them, then store in a jar until breakfast.",
       "To make your breakfast, put 1 large handful of toasted mix per person in a pan with 200ml almond milk and simmer on a low heat for 10 minutes until the grains are tender. Or, cook all the grains at once with 800ml almond milk and cook in the same way – add the extra 200ml of almond milk to loosen slightly, if you like.",
-      "Core and slice the pears, then heat with the maple syrup in a separate pan over a medium heat for 5 minutes, until just warmed through. Serve your grains topped with warm pear, a drizzle of maple syrup and flaked almonds."
+      "Core and slice the pears, then heat with the maple syrup in a separate pan over a medium heat for 5 minutes, until just warmed through. Serve your grains topped with warm pear, a drizzle of maple syrup and flaked almonds.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46263326.jpg",
-    "imageAlt": "Goodness breakfast with maple pears"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46263326.jpg",
+    imageAlt: "Goodness breakfast with maple pears",
   },
   {
-    "name": "Super toasted granola with chewy fruit",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Make your own healthy breakfast with this recipe for Jamie's Super Toasted granola with chewy fruit, perfect for a decadent weekday or relaxed brunch. ",
-    "description": "“Don’t be afraid to toast the oats until really golden as this gives the granola a more caramelised flavour. ”",
-    "servings": "Serves Makes 700g",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling"
+    name: "Super toasted granola with chewy fruit",
+    subName: "",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Make your own healthy breakfast with this recipe for Jamie's Super Toasted granola with chewy fruit, perfect for a decadent weekday or relaxed brunch. ",
+    description:
+      "“Don’t be afraid to toast the oats until really golden as this gives the granola a more caramelised flavour. ”",
+    servings: "Serves Makes 700g",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Breakfast",
       "Baking",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "8 tablespoons honey",
       "75 g skin-on almonds",
       "300 g rolled oats",
@@ -3874,44 +3827,46 @@
       "50 g dates",
       "50 g dried sour cherries",
       "50 g dried apricots",
-      "50 g dried peaches"
+      "50 g dried peaches",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 150ºC/300ºF/gas 2 and warm the honey through in a saucepan.",
       "Chop up the almonds then spread over a large baking tray with the oats, seeds and coconut.",
       "Pour over the warm honey and mix with a spoon, then pop in the oven for 20 minutes, stirring every so often.",
       "Meanwhile, destone the dates and chop up with the rest of the fruit.",
       "After 20 minutes, add all the fruit, stir once (try not to touch again until it is cool) and put it back in the oven for another 10 minutes. It should be clumping together nicely.",
-      "Remove from the oven and allow to cool before breaking it up and storing in jars or airtight containers for up to 1 month. Serve with yoghurt and fresh or poached seasonal fruit."
+      "Remove from the oven and allow to cool before breaking it up and storing in jars or airtight containers for up to 1 month. Serve with yoghurt and fresh or poached seasonal fruit.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/1VvCaixFat9Adk5l1EbEjt.jpg",
-    "imageAlt": "Super toasted granola with chewy fruit"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/1VvCaixFat9Adk5l1EbEjt.jpg",
+    imageAlt: "Super toasted granola with chewy fruit",
   },
   {
-    "name": "Green eggs & ham",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Green eggs & ham",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Father's day",
       "Christmas",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small knob of unsalted butter",
       "½ tablespoon olive oil",
       "160 g cooked sliced higher-welfare ham",
@@ -3921,43 +3876,44 @@
       "a few sprigs of fresh mixed herbs, such as flat-leaf parsley, tarragon, basil, mint, dill, marjoram, chives",
       "6 tablespoons olive oil",
       "1 teaspoon cider vinegar",
-      "½ a lime"
+      "½ a lime",
     ],
-    "instructions": [
+    instructions: [
       "For the salsa, deseed and finely chop the chilli and place in a bowl. Pick, finely chop and add the herbs. Add the oil and vinegar, squeeze in the lime juice and mix together, then set aside.",
       "Heat the butter and oil in a frying pan over a medium heat. Once hot, add the ham slices. Immediately break the eggs over the ham and fry for 3 to 4 minutes or until the eggs are cooked to your liking.",
-      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top."
+      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
-    "imageAlt": "Green eggs & ham"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
+    imageAlt: "Green eggs & ham",
   },
   {
-    "name": "Baked eggs in popped beans",
-    "subName": "Cherry tomatoes, ricotta on toast",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This baked eggs recipe from Jamie Oliver is the perfect way to start the day, the eggs are in popped beans with cherry tomatoes and ricotta on toast; delicious!",
-    "description": "“A super-delicious protein-rich, high-fibre recipe that's perfect for breakfast or brunch. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Baked eggs in popped beans",
+    subName: "Cherry tomatoes, ricotta on toast",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This baked eggs recipe from Jamie Oliver is the perfect way to start the day, the eggs are in popped beans with cherry tomatoes and ricotta on toast; delicious!",
+    description:
+      "“A super-delicious protein-rich, high-fibre recipe that's perfect for breakfast or brunch. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Everyday Super Food",
       "Eggs",
       "Bread",
       "Tomato",
       "Breakfast",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g mixed-colour ripe cherry tomatoes",
       "½ a lemon",
       "extra virgin olive oil",
@@ -3968,45 +3924,49 @@
       "2 slices of seeded wholemeal bread",
       "2 heaped teaspoons ricotta cheese",
       "thick balsamic vinegar , optional",
-      "hot chilli sauce , optional"
+      "hot chilli sauce , optional",
     ],
-    "instructions": [
+    instructions: [
       "Halve the tomatoes, place in a bowl and toss with the lemon juice, 1 tablespoon of oil and a pinch of sea salt. Pick, tear and toss in the basil leaves (reserving the smaller ones for garnish), then leave aside to macerate for a few minutes.",
       "Meanwhile, place a large non-stick frying pan on a high heat.",
       "Drain the beans and put into the hot pan with the fennel seeds and a pinch of black pepper. Leave for 5 minutes, shaking occasionally – you want them to char and pop open, bursting their skins.",
       "Pour the macerated tomatoes into the pan with 100ml of water, season, then leave to bubble away vigorously for 1 minute.",
       "Crack in an egg on each side, then cover with a lid, plate or tin foil, reduce to a medium-low heat and slow-cook for 3 to 4 minutes for nice soft eggs, or longer if you prefer. Meanwhile, toast the bread.",
       "Divide the ricotta and spread over the two pieces of hot toast, then serve on the side of the baked eggs in beans.",
-      "Sprinkle the reserved baby basil leaves over the top and tuck right in. Nice finished with a drizzle of balsamic vinegar and/or a drizzle of hot chilli sauce. Delicious."
+      "Sprinkle the reserved baby basil leaves over the top and tuck right in. Nice finished with a drizzle of balsamic vinegar and/or a drizzle of hot chilli sauce. Delicious.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1578_9_1439906407.jpg",
-    "imageAlt": "Baked eggs in popped beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1578_9_1439906407.jpg",
+    imageAlt: "Baked eggs in popped beans",
   },
   {
-    "name": "Refried lentils with eggs & salsa",
-    "subName": "This is spot-on brunch food – it’s even better prepared in advance and refried at the last minute!",
-    "specialDiets": [],
-    "metaDescription": "Jamie takes a Tex-Mex classic and gives it a twist in this  recipe for refried lentils with eggs and salsa, perfect for a  midweek meal, try it for yourself.",
-    "description": "“So satisfying and healthy, too, enjoy Georgina Hayden's recipe for brunch or dinner. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 5 minutes"
+    name: "Refried lentils with eggs & salsa",
+    subName:
+      "This is spot-on brunch food – it’s even better prepared in advance and refried at the last minute!",
+    specialDiets: [],
+    metaDescription:
+      "Jamie takes a Tex-Mex classic and gives it a twist in this  recipe for refried lentils with eggs and salsa, perfect for a  midweek meal, try it for yourself.",
+    description:
+      "“So satisfying and healthy, too, enjoy Georgina Hayden's recipe for brunch or dinner. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "2 hours 5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 5 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Vegetables",
       "Lentil",
       "Breakfast",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "2 onions",
       "2 cloves of garlic",
       "½ bunch of coriander",
@@ -4021,9 +3981,9 @@
       "1 splash of red wine vinegar",
       "4 large free-range eggs",
       "2 avocados",
-      "2 limes"
+      "2 limes",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the onions and garlic, pick the coriander leaves and finely chop the stalks, finely chop the jalapeño, and roughly chop the tomatoes.",
       "Place a large non-stick saucepan over a medium heat and pour in a lug of oil. Add the onions, coriander stalks and jalapeño and sauté for 10 minutes, until softened but not coloured. Stir in the coriander seeds, fry for a couple more minutes, then add the lentils.",
       "Stir in 800ml boiling water and bring back to the boil. Season well, reduce the heat, pop on the lid and simmer for 40 minutes, until the lentils are cooked and beginning to break down.",
@@ -4034,80 +3994,78 @@
       "Season well and gradually bring everything to a simmer. Leave to bubble away gently for 10 minutes, until you have a thick and rich tomato sauce. Add a splash of red wine vinegar and set aside. Chop the coriander leaves, then stir through.",
       "When your lentils are cooked, roughly purée with a stick blender, then pop back over a medium heat with a lug of oil. Fry for about 15 minutes, stirring occasionally, so you end up with crispy fried lentils.",
       "Place a frying pan over a medium heat and add a splash of oil. Crack in the eggs, one at a time, and cook to your liking. Slice the avocados and dress with the juice of 1 lime. Cut the remaining lime into quarters.",
-      "Serve the refried lentils with a dollop of the red pepper salsa, dressed avocado and topped with a fried egg and a wedge of lime."
+      "Serve the refried lentils with a dollop of the red pepper salsa, dressed avocado and topped with a fried egg and a wedge of lime.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4UrugT-gqTX9T6HE4eKRLM.jpg",
-    "imageAlt": "Refried lentils with eggs & salsa"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4UrugT-gqTX9T6HE4eKRLM.jpg",
+    imageAlt: "Refried lentils with eggs & salsa",
   },
   {
-    "name": "Gooseberry & elderflower jam",
-    "subName": "Elderflower pairs so perfectly with gooseberries in this seasonal jam. ",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This stunning gooseberry and elderflower jam recipe from Jamie Oliver is not only delicious, it allows you preserve the taste of summer all year long.",
-    "description": "",
-    "servings": "Serves Makes 2 litres",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Gooseberry & elderflower jam",
+    subName:
+      "Elderflower pairs so perfectly with gooseberries in this seasonal jam. ",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This stunning gooseberry and elderflower jam recipe from Jamie Oliver is not only delicious, it allows you preserve the taste of summer all year long.",
+    description: "",
+    servings: "Serves Makes 2 litres",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Gift",
       "Breakfast",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 kg gooseberries",
       "12 elderflower heads , or 100ml elderflower cordial",
       "2 vanilla pods",
-      "750 g sugar"
+      "750 g sugar",
     ],
-    "instructions": [
+    instructions: [
       "Top and tail the gooseberries, discarding the hard ends, and place in a large saucepan. If you’re using elderflowers, tie them up in a piece of muslin and secure with string, then add to the saucepan. If using cordial, add to the pan with 150ml water. Bring to the boil, then reduce the heat and simmer for about 30 minutes, or until the fruit is tender and has broken down nicely. Remove from the heat, squeeze any liquid out of the elderflower parcel and discard.",
-      "Split the vanilla pod lengthways and scrape out the seeds. Add the sugar and the vanilla pod and seeds to the pan and boil over a high heat for about 10 minutes, skimming off any foam that forms on the surface. Pour through a strainer into sterilised jars and leave to cool before putting sealing with the lids."
+      "Split the vanilla pod lengthways and scrape out the seeds. Add the sugar and the vanilla pod and seeds to the pan and boil over a high heat for about 10 minutes, skimming off any foam that forms on the surface. Pour through a strainer into sterilised jars and leave to cool before putting sealing with the lids.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258363.jpg",
-    "imageAlt": "Gooseberry & elderflower jam"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258363.jpg",
+    imageAlt: "Gooseberry & elderflower jam",
   },
   {
-    "name": "Sweet potato muffins",
-    "subName": "Chilli, cheese & seeds",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Sweet potato muffins from Jamie Oliver’s book, Everyday Super Food. These savoury muffins are the perfect breakfast, and sure to keep you feeling full until lunch.",
-    "description": "“These tasty muffins are the perfect brekkie, and sure to keep you feeling full till lunch. ”",
-    "servings": "Serves Makes 6 portions",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Sweet potato muffins",
+    subName: "Chilli, cheese & seeds",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Sweet potato muffins from Jamie Oliver’s book, Everyday Super Food. These savoury muffins are the perfect breakfast, and sure to keep you feeling full until lunch.",
+    description:
+      "“These tasty muffins are the perfect brekkie, and sure to keep you feeling full till lunch. ”",
+    servings: "Serves Makes 6 portions",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Vegetables",
       "Afternoon tea",
       "Sweet potato",
       "Potato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "600 g sweet potatoes or ½ a butternut squash",
       "4 spring onions",
@@ -4117,44 +4075,47 @@
       "250 g wholemeal self-raising flour",
       "50 g Parmesan cheese",
       "1 tablespoon sunflower seeds",
-      "1 tablespoon poppy seeds"
+      "1 tablespoon poppy seeds",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4. Line a 12-hole muffin tin with paper cases or 15cm folded squares of greaseproof paper, then lightly wipe each one with oiled kitchen paper.",
       "Peel the sweet potatoes or squash and coarsely grate into a large bowl. Trim the spring onions, then finely slice with the chilli and add to the bowl, reserving half the chilli to one side.",
       "Crack in the eggs, add the cottage cheese and flour, then finely grate in most of the Parmesan and season with sea salt and black pepper. Mix until nicely combined.",
       "Evenly divide the muffin mixture between the cases. Sprinkle over the sunflower and poppy seeds, then dot over the reserved slices of chilli.",
       "Use the remaining Parmesan to give a light dusting of cheese over each one, then bake at the bottom of the oven for 45 to 50 minutes (if using squash, it’ll be a bit quicker – check after 35 minutes), or until golden and set.",
-      "These are amazing served warm 5 minutes after taking them out of the oven, and good kept in the fridge for a couple of days. Enjoy 2 muffins per portion."
+      "These are amazing served warm 5 minutes after taking them out of the oven, and good kept in the fridge for a couple of days. Enjoy 2 muffins per portion.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1595_9_1439907619.jpg",
-    "imageAlt": "Sweet potato muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1595_9_1439907619.jpg",
+    imageAlt: "Sweet potato muffins",
   },
   {
-    "name": "Breakfast popovers",
-    "subName": "Cheese, ham & tomato",
-    "specialDiets": [],
-    "metaDescription": "Jamie's beautiful breakfast popover recipe is truly delicious, the cheese, ham, mushroom and tomato popover is the perfect way to start the day.",
-    "description": "“As well as being super-quick and tasty, cottage cheese, eggs and ham all give us satiating protein, helping our muscles to repair and recover and helping to keep us full till lunch. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Breakfast popovers",
+    subName: "Cheese, ham & tomato",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's beautiful breakfast popover recipe is truly delicious, the cheese, ham, mushroom and tomato popover is the perfect way to start the day.",
+    description:
+      "“As well as being super-quick and tasty, cottage cheese, eggs and ham all give us satiating protein, helping our muscles to repair and recover and helping to keep us full till lunch. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Everyday Super Food",
       "Mushroom",
       "Tomato",
       "Breakfast",
       "Eggs",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 heaped tablespoon wholemeal self-raising flour",
       "1 large free-range egg",
       "2 heaped tablespoons cottage cheese",
@@ -4165,132 +4126,134 @@
       "hot chilli sauce",
       "2 tablespoons natural yoghurt",
       "2 handfuls of rocket",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "Place the flour in a bowl and beat well with the egg and cottage cheese.",
       "Finely chop the ham, tomato and mushrooms, and stir through the mixture with a good pinch of sea salt and black pepper.",
       "Put a large non-stick frying pan on a medium-low heat. Once hot, put heaped spoonfuls of the mixture into the pan to give you six popovers. Leave them to get nicely golden for a few minutes, then flip over and gently flatten to 1cm thick with a palette knife.",
       "Once golden on both sides, remove the popovers from the pan for a moment, then turn the heat off.",
       "Finely grate the Parmesan into the pan to melt. Place the popovers on top, wait for the Parmesan to sizzle and go golden from the residual heat of the pan, then use your palette knife to gently push the cheese towards each popover.",
       "Once the crispy popovers can be easily prised away from the pan with your palette knife, bang them out on to a board.",
-      "Swirl some chilli sauce through the yoghurt, toss the rocket in a squeeze of lemon juice and serve both on the side, then enjoy!"
+      "Swirl some chilli sauce through the yoghurt, toss the rocket in a squeeze of lemon juice and serve both on the side, then enjoy!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51557141.jpg",
-    "imageAlt": "Breakfast popovers"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51557141.jpg",
+    imageAlt: "Breakfast popovers",
   },
   {
-    "name": "Helen’s pear & prune compote with yoghurt",
-    "subName": "Simple, affordable recipes for complementary feeding",
-    "specialDiets": [],
-    "metaDescription": "This delicious healthy dessert of prune and pear compote is easy to make and gives your baby that necessary natural goodness; discover the recipe here.",
-    "description": "",
-    "servings": "Serves Makes 350g",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Helen’s pear & prune compote with yoghurt",
+    subName: "Simple, affordable recipes for complementary feeding",
+    specialDiets: [],
+    metaDescription:
+      "This delicious healthy dessert of prune and pear compote is easy to make and gives your baby that necessary natural goodness; discover the recipe here.",
+    description: "",
+    servings: "Serves Makes 350g",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Fruit",
       "Breakfast",
       "Healthy breakfast ideas",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe pear",
       "60 g tinned prunes in juice",
       "½ a lemon",
       "optional:",
       "ground ginger or cinnamon",
-      "200 g natural yoghurt"
+      "200 g natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Peel, core and finely chop the pear. Drain, destone and finely chop the prunes. Place the fruit in a small pan with a squeeze of lemon juice, a splash of water and a pinch of ginger or cinnamon (if using). Mix together, then place over a medium heat for 10 minutes, or until softened. Leave to cool. Spoon the yoghurt into serving bowls, divide up the compote and sprinkle with an extra pinch of ground ginger or cinnamon, if you like. For more information on stages of complementary feeding, click here.",
-      "Finger food: Tinned peach slices (use the ones in juice, drained)."
+      "Finger food: Tinned peach slices (use the ones in juice, drained).",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1502_36_1432133131.jpg",
-    "imageAlt": "Helen’s pear & prune compote with yoghurt"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1502_36_1432133131.jpg",
+    imageAlt: "Helen’s pear & prune compote with yoghurt",
   },
   {
-    "name": "Kerryann’s dippy eggs & asparagus soldiers",
-    "subName": "A brilliant take on the classic boiled egg and soldiers",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Everybody loves egg and soldiers! This recipe swaps toast for asparagus, for a fresh twist on the classic. Perfect for breakfast, brunch or lunch. A recipe from jamieoliver.com.",
-    "description": "“Kids and adults alike will love this incredibly easy, fun breakfast. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Kerryann’s dippy eggs & asparagus soldiers",
+    subName: "A brilliant take on the classic boiled egg and soldiers",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Everybody loves egg and soldiers! This recipe swaps toast for asparagus, for a fresh twist on the classic. Perfect for breakfast, brunch or lunch. A recipe from jamieoliver.com.",
+    description:
+      "“Kids and adults alike will love this incredibly easy, fun breakfast. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "British",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Quick & easy recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 bunch of asparagus",
       "4 large free-range eggs",
       "sea salt",
       "freshly ground black pepper",
       "optional:",
-      "crusty bread"
+      "crusty bread",
     ],
-    "instructions": [
+    instructions: [
       "Place a large griddle pan over a high heat. Snap the woody ends off the asparagus, then add to the pan in an even layer and cook for 3 to 5 minutes, or until tender, turning occasionally.",
-      "Meanwhile, put the eggs into a medium pan, cover with cold water and place over a high heat. Bring to the boil, then reduce the heat to low and simmer for about 3 minutes for runny eggs. Meanwhile, get your egg cups ready – dippy eggs will wait for no one once they’re done! Using a slotted spoon, carefully remove the eggs and place in the cups, then tap each shell gently with a teaspoon and remove the tops. Serve straight away, with the griddled asparagus for dipping, salt and pepper on the side, and bread to mop up, if you like."
+      "Meanwhile, put the eggs into a medium pan, cover with cold water and place over a high heat. Bring to the boil, then reduce the heat to low and simmer for about 3 minutes for runny eggs. Meanwhile, get your egg cups ready – dippy eggs will wait for no one once they’re done! Using a slotted spoon, carefully remove the eggs and place in the cups, then tap each shell gently with a teaspoon and remove the tops. Serve straight away, with the griddled asparagus for dipping, salt and pepper on the side, and bread to mop up, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1492_1_1436804695.jpg",
-    "imageAlt": "Kerryann’s dippy eggs & asparagus soldiers"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1492_1_1436804695.jpg",
+    imageAlt: "Kerryann’s dippy eggs & asparagus soldiers",
   },
   {
-    "name": "Tomato & basil omelette",
-    "subName": "A super-quick, easy and delicious meal",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's tomato and basil omelette recipe is really simple and delicious – use fresh tomatoes and basil for a surprisingly quick and tasty meal.",
-    "description": "“The classic combination of tomato and basil makes this simple omelette really sing. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Tomato & basil omelette",
+    subName: "A super-quick, easy and delicious meal",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Jamie's tomato and basil omelette recipe is really simple and delicious – use fresh tomatoes and basil for a surprisingly quick and tasty meal.",
+    description:
+      "“The classic combination of tomato and basil makes this simple omelette really sing. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Tomato",
       "Breakfast",
       "Cheap & cheerful",
       "Family one-pan recipes",
-      "Meals for one"
+      "Meals for one",
     ],
-    "ingredients": [
+    ingredients: [
       "2 sprigs of fresh basil",
       "3 cherry tomatoes",
       "2 large eggs",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Pick the leaves off the basil and roughly tear them.",
       "Cut the cherry tomatoes in half on a chopping board.",
       "Crack the eggs into a mixing bowl.",
@@ -4302,40 +4265,40 @@
       "Turn the heat down to low and sprinkle over the basil leaves.",
       "Carefully pour in the eggs, then tilt the pan to spread them out evenly.",
       "Using a fork, swirl the eggs around the pan a little.",
-      "When the omelette begins to cook and firm up, but still has a little raw egg on top, use a spatula to ease around the edges of the omelette, then fold it over in half – when it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate."
+      "When the omelette begins to cook and firm up, but still has a little raw egg on top, use a spatula to ease around the edges of the omelette, then fold it over in half – when it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1490_1_1436957856.jpg",
-    "imageAlt": "Tomato & basil omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1490_1_1436957856.jpg",
+    imageAlt: "Tomato & basil omelette",
   },
   {
-    "name": "Jools’ gorgeous granola",
-    "subName": "Packed full of nuts, fruit & seeds",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jools' easy breakfast granola recipe is a great and balanced way to start the day. Find more healthy breakfast ideas from Jools Oliver on jamieoliver.com.",
-    "description": "“This is a great recipe to make in a big batch. We don’t really eat bowlfuls of it, but instead use it to sprinkle on top of yoghurt or porridge to give it a bit of sweetness and crunch, so it’s always handy to have some in an airtight container, ready and waiting ”",
-    "servings": "Serves Makes 750g (serve in 50g portions with yoghurt for a complete breakfast)",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Jools’ gorgeous granola",
+    subName: "Packed full of nuts, fruit & seeds",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Jools' easy breakfast granola recipe is a great and balanced way to start the day. Find more healthy breakfast ideas from Jools Oliver on jamieoliver.com.",
+    description:
+      "“This is a great recipe to make in a big batch. We don’t really eat bowlfuls of it, but instead use it to sprinkle on top of yoghurt or porridge to give it a bit of sweetness and crunch, so it’s always handy to have some in an airtight container, ready and waiting ”",
+    servings:
+      "Serves Makes 750g (serve in 50g portions with yoghurt for a complete breakfast)",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "Breakfast",
       "Gift",
       "Brilliant breakfast recipes",
       "Family one-pan recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g blanched almonds",
       "50 g pecan nuts",
       "50 g unsalted pistachios , (shelled)",
@@ -4350,46 +4313,48 @@
       "50 g sultanas",
       "50 g sour cherries",
       "6 tablespoons maple syrup",
-      "1 orange"
+      "1 orange",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160ºC/325ºF/gas 3.",
       "Roughly chop the nuts and apricots, then place into a large bowl. Add the remaining dry ingredients and mix together.",
       "Drizzle over the maple syrup and finely grate over the orange zest, then stir well to coat everything.",
       "Spread out over a large baking tray in an even layer – split it between two, if it’s easier.",
       "Pop into the hot oven for 20 to 25 minutes, or until turning golden, stirring every 10 minutes or so to stop it from catching. Bear in mind that the granola will harden up and go crunchy as it cools, so don’t be tempted to cook it for too long.",
-      "Leave to cool completely, then tip into airtight storage jars and use as and when you need it – it will keep quite happily for up to 4 weeks."
+      "Leave to cool completely, then tip into airtight storage jars and use as and when you need it – it will keep quite happily for up to 4 weeks.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1483_2_1430137447.jpg",
-    "imageAlt": "Jools’ gorgeous granola"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1483_2_1430137447.jpg",
+    imageAlt: "Jools’ gorgeous granola",
   },
   {
-    "name": "Jools’ favourite smoothies & ice lollies",
-    "subName": "Simple smoothies you can freeze into delicious ice lollies, if you like",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Discover Jools' selection of fruit smoothies and ice lollies, find healthy and delicious frozen treats that are perfect for the whole family.",
-    "description": "“These are two of my favourite recipes, but feel free to have fun experimenting with different flavours ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight freezing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight freezing"
+    name: "Jools’ favourite smoothies & ice lollies",
+    subName:
+      "Simple smoothies you can freeze into delicious ice lollies, if you like",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Discover Jools' selection of fruit smoothies and ice lollies, find healthy and delicious frozen treats that are perfect for the whole family.",
+    description:
+      "“These are two of my favourite recipes, but feel free to have fun experimenting with different flavours ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight freezing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight freezing",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Desserts",
       "Freezer-friendly recipes",
       "Healthy snack ideas",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "for a berry smoothie:",
       "1 mug of frozen berries , (200g)",
       "1 mug of unsweetened almond milk , (300ml)",
@@ -4406,40 +4371,43 @@
       "1 tablespoon mixed seeds , (I like flaxseeds and sunflower seeds)",
       "3 sprigs of fresh mint",
       "2 ripe passion fruits",
-      "1 tablespoon desiccated coconut , optional"
+      "1 tablespoon desiccated coconut , optional",
     ],
-    "instructions": [
+    instructions: [
       "I like to use the bags of frozen fruit you can easily get in the supermarket – they’re so convenient, and a bit of a staple in the Oliver household. I use unsweetened almond milk in my smoothies, but you can use regular milk, or fresh juice (but bear in mind it will be sweeter), if you prefer. You can add all sorts of delicious extras to these smoothies: vanilla is really nice in the berry smoothie, and fresh ginger is fantastic in the mango, passion fruit and mint version.",
-      "Add all the ingredients to a blender (removing any herb stalks first), fasten the lid and whiz until nice and smooth – you might need to stop the blender and scrape down the sides to help it along. Pour into cups, then serve. At this point you could pour the mixture into ice-lolly moulds and freeze them – they’re always a big hit with my kids. Tricks & tips: For baby, serve for pudding with an extra spoon of yoghurt. For more information on stages of complimentary feeding, click here."
+      "Add all the ingredients to a blender (removing any herb stalks first), fasten the lid and whiz until nice and smooth – you might need to stop the blender and scrape down the sides to help it along. Pour into cups, then serve. At this point you could pour the mixture into ice-lolly moulds and freeze them – they’re always a big hit with my kids. Tricks & tips: For baby, serve for pudding with an extra spoon of yoghurt. For more information on stages of complimentary feeding, click here.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1481_2_1431944352.jpg",
-    "imageAlt": "Jools’ favourite smoothies & ice lollies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1481_2_1431944352.jpg",
+    imageAlt: "Jools’ favourite smoothies & ice lollies",
   },
   {
-    "name": "Jools’ breakfast on the go",
-    "subName": "A healthy & delicious start to the day",
-    "specialDiets": [],
-    "metaDescription": "Start your day off right with Jools' breakfast on the go; making your busy family mornings easier with this delicious breakfast recipe. ",
-    "description": "“I make this super-simple breakfast for the kids to eat on the way to school if we’re running out the door, or when we have an early start ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight soaking",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight soaking"
+    name: "Jools’ breakfast on the go",
+    subName: "A healthy & delicious start to the day",
+    specialDiets: [],
+    metaDescription:
+      "Start your day off right with Jools' breakfast on the go; making your busy family mornings easier with this delicious breakfast recipe. ",
+    description:
+      "“I make this super-simple breakfast for the kids to eat on the way to school if we’re running out the door, or when we have an early start ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight soaking",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight soaking",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Family one-pan recipes",
       "Healthy snack ideas",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 eating apple",
       "100 g dried fruit , (I tend to use dried blueberries, cherries and raisins)",
       "200 g porridge oats",
@@ -4449,46 +4417,47 @@
       "4 tablespoons natural yoghurt",
       "1 handful of mixed nuts , (or use a handful of my Gorgeous granola for a sweeter pot)",
       "2 handfuls of fresh raspberries or blueberries , or a mixture of both",
-      "runny honey , optional"
+      "runny honey , optional",
     ],
-    "instructions": [
+    instructions: [
       "You will need: 6 portable pots with lids, plus spoons",
       "Coarsely grate the apple on a box grater, then tip into a bowl. Add the dried fruit (finely chop it first if using larger fruit), porridge oats, flaxseeds and milk, then mix well.",
       "Cover the bowl with clingfilm and leave in the fridge overnight to soak and swell.",
       "In the morning, or when you are ready to assemble the pots, give the soaked muesli a good stir, and divide between your pots. Peel the banana and slice it at an angle.",
       "Top each pot with some sliced banana, then add a spoon of yoghurt on top (this will stop the banana turning brown in transit). Roughly chop and sprinkle over the nuts, along with the berries.",
-      "Drizzle with a little honey (if using), then pop the lid on – don’t forget to take some spoons!"
+      "Drizzle with a little honey (if using), then pop the lid on – don’t forget to take some spoons!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1479_2_1433162572.jpg",
-    "imageAlt": "Jools’ breakfast on the go"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1479_2_1433162572.jpg",
+    imageAlt: "Jools’ breakfast on the go",
   },
   {
-    "name": "Baked eggs – lots of ways",
-    "subName": "Tasty & versatile",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "A good baked egg recipe is not only easy, but delicious, too! Try this breakfast egg bake from jamieoliver.com. It's great with crusty sourdough bread.",
-    "description": "“Get creative with these brilliant baked eggs – so versatile, easy and quick! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Baked eggs – lots of ways",
+    subName: "Tasty & versatile",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "A good baked egg recipe is not only easy, but delicious, too! Try this breakfast egg bake from jamieoliver.com. It's great with crusty sourdough bread.",
+    description:
+      "“Get creative with these brilliant baked eggs – so versatile, easy and quick! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Easter treats",
       "Father's day",
       "Mother's day",
       "Christmas",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "vegetable oil",
       "4 large free-range eggs",
       "SPINACH & HAM",
@@ -4502,131 +4471,135 @@
       "a few fresh chives",
       "TRUFFLE MUSHROOMS",
       "50 g chestnut mushrooms",
-      "a few drops of truffle oil"
+      "a few drops of truffle oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to full whack. Lightly grease 2 ovenproof ramekins or small baking dishes with a little oil.",
       "Prepare your chosen filling – roughly chop the spinach, quarter the tomatoes, finely chop the chives or slice the mushrooms.",
       "Place your chosen filling into the prepared ramekins, crack a couple of eggs on top and season with salt and pepper.",
-      "Place in the hot oven for 8 to 10 minutes, or until the whites are set but the yolks are still runny, then serve straight away."
+      "Place in the hot oven for 8 to 10 minutes, or until the whites are set but the yolks are still runny, then serve straight away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1462_2_1442315133.jpg",
-    "imageAlt": "Baked eggs – lots of ways"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1462_2_1442315133.jpg",
+    imageAlt: "Baked eggs – lots of ways",
   },
   {
-    "name": "Mango lassi",
-    "subName": "Cardamom, yoghurt & honey",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Creamy and refreshing, this mango lassi recipe made with ripe, fresh mango and yoghurt is a real joy to drink (especially if you've eaten a few too many chillies!).",
-    "description": "“This Indian drink is like a mango milkshake and it’s delicious. Great for cooling your tongue when you’ve eaten a few too many chillies! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Mango lassi",
+    subName: "Cardamom, yoghurt & honey",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Creamy and refreshing, this mango lassi recipe made with ripe, fresh mango and yoghurt is a real joy to drink (especially if you've eaten a few too many chillies!).",
+    description:
+      "“This Indian drink is like a mango milkshake and it’s delicious. Great for cooling your tongue when you’ve eaten a few too many chillies! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Indian",
       "Breakfast",
       "Healthy snack ideas",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "6 green cardamom pods , optional",
       "2 ripe mangos",
       "500 g low-fat natural yoghurt",
       "100 g ice cubes",
-      "runny honey , optional"
+      "runny honey , optional",
     ],
-    "instructions": [
+    instructions: [
       "Crush the cardamom pods in a pestle and mortar (if using) and discard the green husks. Bash the seeds to a fine powder and set aside.",
       "Cut the juicy flesh off the mangos (the riper they are, the better), leaving the stone in the middle and trimming away all the skin.",
       "Place the mango flesh and any juices into a blender with the yoghurt, ice cubes, 1 tablespoon of honey and the ground cardamom (if using).",
-      "Blitz until smooth, have a taste, and add a little more honey, if needed. Serve immediately."
+      "Blitz until smooth, have a taste, and add a little more honey, if needed. Serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1445_1_1436864574.jpg",
-    "imageAlt": "Mango lassi"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1445_1_1436864574.jpg",
+    imageAlt: "Mango lassi",
   },
   {
-    "name": "Simple soda bread",
-    "subName": "A classic loaf made easy",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a simple soda bread recipe from Jamie Oliver; perfect for when you're in a hurry as you can whack it in the oven without waiting for the dough to rise!",
-    "description": "“You can’t beat the smell of freshly baked bread wafting through the house, and it’s such a rewarding thing to learn how to make. The great thing about this simple recipe is that you can whack it straight in the oven without having to wait hours for the dough to rise. Bonus! ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Simple soda bread",
+    subName: "A classic loaf made easy",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Find a simple soda bread recipe from Jamie Oliver; perfect for when you're in a hurry as you can whack it in the oven without waiting for the dough to rise!",
+    description:
+      "“You can’t beat the smell of freshly baked bread wafting through the house, and it’s such a rewarding thing to learn how to make. The great thing about this simple recipe is that you can whack it straight in the oven without having to wait hours for the dough to rise. Bonus! ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "British",
       "Beautiful baking recipes",
       "Breakfast",
       "Prep & go recipes",
-      "Store cupboard recipes"
+      "Store cupboard recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g wholemeal flour",
       "100 g plain flour , plus extra for dusting",
       "50 g pinhead oatmeal",
       "1 teaspoon bicarbonate of soda",
       "1 teaspoon sugar",
       "1 large free-range egg",
-      "1 x 300 ml tub buttermilk"
+      "1 x 300 ml tub buttermilk",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190°C/375°F/gas 5.",
       "Place the flours, oatmeal, bicarbonate of soda, sugar and 1 teaspoon of sea salt in a large bowl and mix together.",
       "In a separate bowl, use a balloon whisk to beat the egg and buttermilk together.",
       "Use a fork to stir the egg mixture into the flour, then as it starts to come together, use your hands to pat and bring the dough together.",
       "Shape the dough into a ball and place onto a lightly floured baking tray. Use your hands to flatten the dough slightly so you end up with a disk, roughly 6 to 7cm thick.",
       "Score a cross into the top of the bread with the blunt edge of a knife, then bake in the centre of the oven for 50 to 60 minutes, or until a firm crust has formed and it sounds hollow when tapped on the bottom.",
-      "Turn the bread out onto a wire rack to cool, then serve slightly warm with some soup or a nice wedge of cheese."
+      "Turn the bread out onto a wire rack to cool, then serve slightly warm with some soup or a nice wedge of cheese.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1438_1_1436885861.jpg",
-    "imageAlt": "Simple soda bread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1438_1_1436885861.jpg",
+    imageAlt: "Simple soda bread",
   },
   {
-    "name": "Super eggs Benedict",
-    "subName": "With homemade hollandaise sauce",
-    "specialDiets": [],
-    "metaDescription": "Who doesn’t love eggs benedict and hollandaise sauce? The quintessential brunch dish may look impressive, but it’s surprisingly easy to make. Jamie Oliver’s eggs Benedict recipe is a corker.",
-    "description": "“I do love eggs Benedict. Hot fluffy muffins are important, but really good wafer-thin smoked ham is essential. For fun, I’ve given you a simple method for creating a double-yolker egg, which also helps you achieve the perfect shape. There’s more hollandaise here than you need, but the reality is it’s really hard to make a smaller batch because you’re emulsifying the butter. However, you can refrigerate what you don’t need and use it almost like a mayonnaise over the next few days. Feel free to swap out the ham for beautiful smoked salmon, or even a slow-roasted portobello mushroom, if you prefer. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Super eggs Benedict",
+    subName: "With homemade hollandaise sauce",
+    specialDiets: [],
+    metaDescription:
+      "Who doesn’t love eggs benedict and hollandaise sauce? The quintessential brunch dish may look impressive, but it’s surprisingly easy to make. Jamie Oliver’s eggs Benedict recipe is a corker.",
+    description:
+      "“I do love eggs Benedict. Hot fluffy muffins are important, but really good wafer-thin smoked ham is essential. For fun, I’ve given you a simple method for creating a double-yolker egg, which also helps you achieve the perfect shape. There’s more hollandaise here than you need, but the reality is it’s really hard to make a smaller batch because you’re emulsifying the butter. However, you can refrigerate what you don’t need and use it almost like a mayonnaise over the next few days. Feel free to swap out the ham for beautiful smoked salmon, or even a slow-roasted portobello mushroom, if you prefer. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Comfort Food",
       "Eggs",
       "Christmas",
       "Father's day",
       "Mother's day",
-      "St. George's Day"
+      "St. George's Day",
     ],
-    "ingredients": [
+    ingredients: [
       "4 spring onions",
       "olive oil",
       "400 g baby spinach",
@@ -4639,9 +4612,9 @@
       "100 g unsalted butter",
       "2 large free-range egg yolks",
       "1 teaspoon Dijon mustard",
-      "white wine vinegar"
+      "white wine vinegar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Trim and finely chop the spring onions and put them into a large frying pan on a medium-low heat with a little drizzle of oil.",
       "Add the spinach with a grating of nutmeg and a good pinch of sea salt and black pepper. Cook down until dark and delicious, and any excess water has cooked away, then add a squeeze of lemon juice to taste, and keep warm.",
@@ -4652,38 +4625,38 @@
       "Meanwhile, simply press an oiled sheet of good-quality clingfilm into an oiled teacup, then crack 2 eggs into it to cheat a double-yolker. Bring the sides up, ease out any air, twist together and tie a tight knot to pouch the egg into a parcel – it’s very easy.",
       "Repeat with the remaining eggs (a drizzle of truffle oil, a shake of Tabasco or a few fresh soft herbs can be added to your parcels for extra flavour).",
       "Poach the parcels in a pan of gently simmering water for 8½ minutes. To check they’re done, lift one out with a slotted spoon and gently squeeze – use your instincts.",
-      "Halve the warm muffins, then divide over the spinach and waves of delicate ham. Unwrap the poached double-yolker eggs and balance on top, spoon a tablespoon of hollandaise over each one, then bust the eggs open and enjoy."
+      "Halve the warm muffins, then divide over the spinach and waves of delicate ham. Unwrap the poached double-yolker eggs and balance on top, spoon a tablespoon of hollandaise over each one, then bust the eggs open and enjoy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1436_1_1425380027.jpg",
-    "imageAlt": "Super eggs Benedict"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1436_1_1425380027.jpg",
+    imageAlt: "Super eggs Benedict",
   },
   {
-    "name": "Bircher muesli",
-    "subName": "Topped with pears & sour cherries",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This healthy Bircher muesli recipe is a great way to start the day, & it's just one of many muesli breakfast ideas on the Jamie Oliver website. Happy days!",
-    "description": "“A delicious, healthy muesli you can make the night before ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight soaking",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight soaking"
+    name: "Bircher muesli",
+    subName: "Topped with pears & sour cherries",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This healthy Bircher muesli recipe is a great way to start the day, & it's just one of many muesli breakfast ideas on the Jamie Oliver website. Happy days!",
+    description: "“A delicious, healthy muesli you can make the night before ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight soaking",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight soaking",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Mother's day",
       "Christmas",
       "Breakfast",
-      "Healthy breakfast ideas"
+      "Healthy breakfast ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g oats",
       "2 tablespoons white chia seeds",
       "1 tablespoon pumpkin seeds",
@@ -4693,40 +4666,36 @@
       "1 lemon",
       "2 ripe pears",
       "1 pinch of ground cinnamon",
-      "1 small handful of dried sour cherries , or cranberries"
+      "1 small handful of dried sour cherries , or cranberries",
     ],
-    "instructions": [
+    instructions: [
       "The night before, put the oats, chia seeds and pumpkin seeds into a bowl or container, pour over the milk, and add the maple syrup, vanilla and a squeeze of lemon juice. Mix well, then cover and pop into the fridge overnight.",
-      "In the morning, chop the pears into little chunks, sprinkle over the cinnamon and add the sour cherries. Either layer them up with the oats and seeds in a glass or bowl, or just run out of the door with everything in a little container."
+      "In the morning, chop the pears into little chunks, sprinkle over the cinnamon and add the sour cherries. Either layer them up with the oats and seeds in a glass or bowl, or just run out of the door with everything in a little container.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1403_13_1418206457.jpg",
-    "imageAlt": "Bircher muesli"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1403_13_1418206457.jpg",
+    imageAlt: "Bircher muesli",
   },
   {
-    "name": "Gluten-free griddle pan waffles",
-    "subName": "With apple & cinnamon",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This gluten free waffle recipe is out of this world; Jamie's given these griddle pan gluten free waffles a festive twist with a touch of apple and cinnamon.",
-    "description": "“I’ve flavoured these gluten-free waffles with apple and cinnamon for a lovely festive vibe ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Gluten-free griddle pan waffles",
+    subName: "With apple & cinnamon",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This gluten free waffle recipe is out of this world; Jamie's given these griddle pan gluten free waffles a festive twist with a touch of apple and cinnamon.",
+    description:
+      "“I’ve flavoured these gluten-free waffles with apple and cinnamon for a lovely festive vibe ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Christmas",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Christmas", "Breakfast"],
+    ingredients: [
       "65 g unsalted butter",
       "2 large free-range eggs",
       "300 ml semi-skimmed milk",
@@ -4736,44 +4705,47 @@
       "ground cinnamon",
       "2 Braeburn apples",
       "low-fat natural yoghurt , to serve",
-      "maple syrup , to serve"
+      "maple syrup , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Melt the butter in a small pan over a low heat, then leave to cool.",
       "Meanwhile, crack the eggs into a bowl, then whisk in the milk to combine. Sift in the flour, baking powder, salt and ¾ teaspoon of cinnamon, whisk until fully combined, then stir in most of the cooled butter.",
       "Remove the apple stalks, then grate the apples (core and all). Fold two-thirds of the apple into the mixture, but avoid stirring too much at this stage.",
       "Place a high-sided griddle pan (roughly 25cm x 30cm) over a high heat and brush with the remaining melted butter. Pour in the batter, tilting the pan so the batter spreads out evenly. Reduce the heat to medium-low and cook for around 6 minutes, or until lightly golden underneath.",
       "Carefully flip it over (this can be tricky, but be bold and go for it!), then continue cooking for around 6 minutes, or until golden, crisp and cooked through.",
-      "Slice into 6 pieces, then serve with natural yoghurt, the remaining grated apple, a drizzle of maple syrup and a dusting of cinnamon. They’re also delicious with fried bacon, eggs and maple syrup – give it a go when you’re feeling extra indulgent."
+      "Slice into 6 pieces, then serve with natural yoghurt, the remaining grated apple, a drizzle of maple syrup and a dusting of cinnamon. They’re also delicious with fried bacon, eggs and maple syrup – give it a go when you’re feeling extra indulgent.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1336_1_1436797837.jpg",
-    "imageAlt": "Gluten-free griddle pan waffles"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1336_1_1436797837.jpg",
+    imageAlt: "Gluten-free griddle pan waffles",
   },
   {
-    "name": "Ultimate bacon sarnies",
-    "subName": "Two delicious versions",
-    "specialDiets": [],
-    "metaDescription": "This isn't your average bacon sarnie; find two ultimate bacon sandwich recipes from Jamie Oliver and his god pal Pete for guaranteed satisfaction!",
-    "description": "“Me and my dear friend Pete Begg have two very different approaches to the perfect bacon sarnie. See which you prefer... ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Ultimate bacon sarnies",
+    subName: "Two delicious versions",
+    specialDiets: [],
+    metaDescription:
+      "This isn't your average bacon sarnie; find two ultimate bacon sandwich recipes from Jamie Oliver and his god pal Pete for guaranteed satisfaction!",
+    description:
+      "“Me and my dear friend Pete Begg have two very different approaches to the perfect bacon sarnie. See which you prefer... ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Comfort Food",
       "Pork",
       "Father's day",
       "British",
       "Bread",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "Jamie's sandwich",
       "white bloomer",
       "3 rashers of smoked back bacon",
@@ -4786,47 +4758,46 @@
       "butter",
       "tomato ketchup",
       "English mustard",
-      "green chilli sauce"
+      "green chilli sauce",
     ],
-    "instructions": [
+    instructions: [
       "Me and my dear friend Pete Begg have two very different approaches to the institution that is the perfect bacon sarnie. The only thing we agree on is that bacon ain't bacon unless it’s smoked, but that’s pretty much where the similarities end.",
       "We do both use two 1½cm-thick slices of simple standard white crusty loaf, but I favour a bloomer and Pete tends to go for a tin loaf. Pete’s a 3 rashers of streaky-bacon boy; I’m a back-bacon boy. He cooks it in a frying pan, starting out from cold with a little drizzle of olive oil and gradually bringing the temperature up to medium-high so the fat renders out, placing something flat and heavy on top to ensure super-even crispy bacon. I, on the other hand, put the grill on full whack, rub a tray and 3 rashers of back bacon with olive oil, then blast it until golden and crisp, which encourages the fat end of the bacon to curl up, creating a little pond of delicious bacon juice in the middle.",
       "Pete butters his bread, then lays the bacon on side-by-side, like floorboards. I skip the butter, but push the bacon to the side of my tray and lay the bread in the fat for a few seconds before assembling, letting the bacon rashers sit on the bed of bread like spooning lovers. At this point, Pete goes into another gear and displays a little trick his dad taught him as a boy, sandwiching his creation together and placing it back in the pan of smoky bacon fat to lightly toast on both sides, again with a little weight on top. And it doesn’t finish there – Pete stipulates that if the bacon runs north to south it must be cut east to west into 3 thin sandwiches, so you get 3 bacon soldiers in each, from which he gets 3 perfect bites. Genius. I simply cut mine diagonally from corner to corner and get it in my gob as quickly as possible .",
       "Having been brought up in Essex I have a loyal commitment to HP sauce, but Pete pulls yet another trick out of the bag, treating his plate like an artist’s palette with 60% ketchup, 30% English mustard and 10% green chilli sauce, feathered together with a knife, to ensure 9 erratic, beautiful-tasting mouthfuls. Wow.",
-      "These two sandwiches are both delicious, but most importantly, this is how I like mine and Pete likes his. How do you like yours?"
+      "These two sandwiches are both delicious, but most importantly, this is how I like mine and Pete likes his. How do you like yours?",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1331_1_1434099393.jpg",
-    "imageAlt": "Ultimate bacon sarnies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1331_1_1434099393.jpg",
+    imageAlt: "Ultimate bacon sarnies",
   },
   {
-    "name": "Vegan blueberry pancakes",
-    "subName": "Light, fluffy & delicious",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a delicious vegan pancake recipe with blueberries from Jamie Oliver; a brilliantly simple recipe for vegan pancakes at any time of the day!",
-    "description": "“A great alternative to classic breakfast pancakes, these vegan versions are the ultimate way to kick off the weekend ”",
-    "servings": "Serves Makes 4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Vegan blueberry pancakes",
+    subName: "Light, fluffy & delicious",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Find a delicious vegan pancake recipe with blueberries from Jamie Oliver; a brilliantly simple recipe for vegan pancakes at any time of the day!",
+    description:
+      "“A great alternative to classic breakfast pancakes, these vegan versions are the ultimate way to kick off the weekend ”",
+    servings: "Serves Makes 4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Christmas",
       "Mother's day",
       "Pancake day",
       "American",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 tablespoon ground flaxseed",
       "1 tablespoon coconut oil",
       "250 ml unsweetened organic soya milk , or almond milk",
@@ -4839,47 +4810,47 @@
       "50 g blueberries , plus extra to serve",
       "vegetable oil",
       "organic soya yoghurt , to serve",
-      "maple syrup , to serve"
+      "maple syrup , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Whisk together the ground flaxseed and 2½ tablespoons of cold water, then set aside to thicken. Meanwhile, melt the coconut oil in a small pan over a medium heat, then leave to cool slightly.",
       "Combine the soya or almond milk and cider vinegar. Add the melted coconut oil, then whisk in the flaxseed mixture.",
       "Combine the flour, sugar, baking powder, bicarbonate of soda and salt, then make a well in the middle. Gradually pour in the wet mixture, stirring continuously until combined – don’t worry if there are still a few lumps. Fold in the blueberries, then set aside.",
       "Preheat the oven to its lowest temperature. Heat a splash of vegetable oil in a large frying pan over a medium heat. Add a ladleful of the batter to the pan (one ladleful is enough for one pancake), then add more ladlefuls of the batter, ensuring they’re nicely spaced out – you’ll need to do this in batches.",
       "Cook for around 2 minutes, or until golden underneath and little bubbles start to appear on the surface, then use a palette knife to flip them over. Cook for a further 2 minutes, or until golden. Place in the oven to keep warm while you make the remaining pancakes.",
-      "Serve with a dollop of soya yoghurt, a drizzle of maple syrup and extra blueberries, if you like."
+      "Serve with a dollop of soya yoghurt, a drizzle of maple syrup and extra blueberries, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1246_1_1436960353.jpg",
-    "imageAlt": "Vegan blueberry pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1246_1_1436960353.jpg",
+    imageAlt: "Vegan blueberry pancakes",
   },
   {
-    "name": "Dairy-free apple muffins",
-    "subName": "Chopped hazelnuts & cinnamon",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a recipe for dairy free apple muffins from Jamie Oliver; whether you're after a breakfast treat or a snack, these dairy free muffins are a real crowd pleaser.",
-    "description": "“Whether it’s breakfast muffins you’re after, or an afternoon snack, this recipe is just the ticket. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Dairy-free apple muffins",
+    subName: "Chopped hazelnuts & cinnamon",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Find a recipe for dairy free apple muffins from Jamie Oliver; whether you're after a breakfast treat or a snack, these dairy free muffins are a real crowd pleaser.",
+    description:
+      "“Whether it’s breakfast muffins you’re after, or an afternoon snack, this recipe is just the ticket. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Mother's day",
       "Christmas",
       "Afternoon tea",
       "Muffin",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g dairy-free margarine , (suitable for baking)",
       "125 g golden caster sugar",
       "1 large free-range egg",
@@ -4889,45 +4860,41 @@
       "125 g ground almonds",
       "100 g hazelnuts",
       "1 eating apple",
-      "1 teaspoon vanilla extract"
+      "1 teaspoon vanilla extract",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a 12-hole muffin tray with paper cases.",
       "Beat the margarine and sugar in a large bowl until pale and fluffy. Beat the egg in another bowl, then stir it into the margarine mixture.",
       "Sieve in the flour, baking powder and cinnamon, then fold through (don’t mix too much at this stage). Stir in the ground almonds.",
       "Roughly chop the hazelnuts, then halve, core and chop the apple into rough 1cm chunks. Add the apple to the bowl along with half the hazelnuts and the vanilla extract, then stir briefly to combine.",
       "Divide the mixture between the paper cases and sprinkle over the remaining hazelnuts.",
       "Bake on the middle shelf for 20 minutes, or until golden and an inserted skewer comes out clean.",
-      "Leave to cool completely on a wire rack, then tuck in."
+      "Leave to cool completely on a wire rack, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1239_15_1421663688.jpg",
-    "imageAlt": "Dairy-free apple muffins"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1239_15_1421663688.jpg",
+    imageAlt: "Dairy-free apple muffins",
   },
   {
-    "name": "Gluten-free bread",
-    "subName": "Simple and delicious",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "A simple gluten free bread recipe for how to make gluten free bread at home! It couldn't be easier. Great for avocado toast, or a good old bacon sarnie.",
-    "description": "“Thanks to this easy recipe, even if you’re gluten intolerant, you’ll never have to go without again. ”",
-    "servings": "Serves Makes 1 loaf",
-    "time": {
-      "prep": "",
-      "cook": "1 hour plus proofing",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour plus proofing"
+    name: "Gluten-free bread",
+    subName: "Simple and delicious",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "A simple gluten free bread recipe for how to make gluten free bread at home! It couldn't be easier. Great for avocado toast, or a good old bacon sarnie.",
+    description:
+      "“Thanks to this easy recipe, even if you’re gluten intolerant, you’ll never have to go without again. ”",
+    servings: "Serves Makes 1 loaf",
+    time: {
+      prep: "",
+      cook: "1 hour plus proofing",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour plus proofing",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Breakfast",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Breakfast", "Baking"],
+    ingredients: [
       "325 ml semi-skimmed milk",
       "2 large free-range eggs",
       "1 teaspoon white wine vinegar",
@@ -4935,43 +4902,36 @@
       "½ teaspoon sea salt",
       "2 tablespoons golden caster sugar",
       "1½ x 7g sachet dried yeast",
-      "3 tablespoons olive oil"
+      "3 tablespoons olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6. Warm the milk in a small pan over a low heat, then leave to cool slightly. Crack the eggs into a large bowl, add the vinegar, then gradually stir in the warm milk until combined.",
       "Combine the flour, salt, sugar and yeast in another bowl, then, using a wooden spoon, stir the dry ingredients into the wet mixture until it forms a sticky dough. Add the olive oil, then bring it together with your hands into a ball, adding a little flour if it’s too sticky.",
       "Place onto a lightly oiled baking tray, cover with a damp tea towel, then leave to prove in a warm place for around 1 hour, or until doubled in size.",
-      "Once risen, place the tray in the hot oven and bake for around 35 minutes, or until golden and cooked through. Leave to cool slightly on a wire cooling rack, then slice and serve. Delicious with hearty stews and soups, or toasted and served hot with butter and jam."
+      "Once risen, place the tray in the hot oven and bake for around 35 minutes, or until golden and cooked through. Leave to cool slightly on a wire cooling rack, then slice and serve. Delicious with hearty stews and soups, or toasted and served hot with butter and jam.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/52524868.jpg",
-    "imageAlt": "Gluten-free bread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/52524868.jpg",
+    imageAlt: "Gluten-free bread",
   },
   {
-    "name": "Super smoothies",
-    "subName": "Four fruity combos",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Four delicious fruit smoothies to blend up at home",
-    "description": "“A deliciously cold, quick smoothie is one of my favourite ways to start the day – here are four of my favourite combos. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Super smoothies",
+    subName: "Four fruity combos",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription: "Four delicious fruit smoothies to blend up at home",
+    description:
+      "“A deliciously cold, quick smoothie is one of my favourite ways to start the day – here are four of my favourite combos. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Breakfast",
-      "Healthy snack ideas",
-      "Juices and smoothies"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Breakfast", "Healthy snack ideas", "Juices and smoothies"],
+    ingredients: [
       "For the green smoothie",
       "1 banana",
       "200 g baby spinach",
@@ -4991,44 +4951,45 @@
       "1 banana",
       "3 tablespoons ground almonds",
       "250 ml milk",
-      "runny honey , to taste"
+      "runny honey , to taste",
     ],
-    "instructions": [
+    instructions: [
       "For the green smoothie\n1.\tPeel the banana and cut into nice big slices on a chopping board – ideally you want to use frozen bananas, so try to remember to do this the day before.\n2.\tPut the banana and spinach in a blender and pour in the apple juice.\n3.\tCut the lime in half and squeeze all the lime juice into the blender.\n4.\tSecure the lid and blitz until smooth, then serve.",
       "For the purple smoothie\n1.\tRemove the stalks from the pears, then use a knife to cut into quarters, removing and discarding the cores.\n2.\tPut the pears and blueberries in a blender, then pour in the apple juice.\n3.\tSecure the lid and blitz until smooth, then serve.",
       "For the orange smoothie\n1.\tUse a teaspoon to scrape all the skin off the ginger, then finely grate onto a board using a microplane.\n2.\tPeel the carrot, then trim and roughly chop it.\n3.\tPut the ginger, carrot and frozen mango in a blender, then pour in the orange juice.\n4.\tCut the lime in half and squeeze all the lime juice into the blender.\n5.\tSecure the lid and blitz until smooth, then serve.",
-      "For the white smoothie\n1.\tPeel the banana and cut into nice big slices on a chopping board – ideally you want to use frozen bananas, so try and remember to do this the day before.\n2.\tPut the banana, ground almonds, milk and honey in a blender.\n3.\tSecure the lid and blitz until smooth, then serve."
+      "For the white smoothie\n1.\tPeel the banana and cut into nice big slices on a chopping board – ideally you want to use frozen bananas, so try and remember to do this the day before.\n2.\tPut the banana, ground almonds, milk and honey in a blender.\n3.\tSecure the lid and blitz until smooth, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1104_1_1436891354.jpg",
-    "imageAlt": "Super smoothies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1104_1_1436891354.jpg",
+    imageAlt: "Super smoothies",
   },
   {
-    "name": "Posh beans on toast",
-    "subName": "Broad beas, peas & feta",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try Jamie Oliver's posh beans on toast recipe for a delicious twist on the classic.",
-    "description": "“This is my twist on good old beans on toast, and it’s super-cheap to knock together, too ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Posh beans on toast",
+    subName: "Broad beas, peas & feta",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try Jamie Oliver's posh beans on toast recipe for a delicious twist on the classic.",
+    description:
+      "“This is my twist on good old beans on toast, and it’s super-cheap to knock together, too ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Bread",
       "Tomato",
       "Feta",
       "Breakfast",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "2 spring onions",
       "4 ripe cherry tomatoes, mixed colours if possible",
       "extra virgin olive oil",
@@ -5039,45 +5000,46 @@
       "4 slices of sourdough",
       "1 clove of garlic",
       "2 sprigs of fresh rosemary",
-      "40 g feta cheese"
+      "40 g feta cheese",
     ],
-    "instructions": [
+    instructions: [
       "To make the dressing, trim and finely slice the spring onions, then place the green pieces in a large bowl. Quarter and add the tomatoes along with 6 tablespoons of oil, the zest from half the lemon and most of the juice. Season, then set the dressing aside. Squeeze the remaining lemon juice over the white part of the onions and set aside.",
       "Pick and set aside the mint leaves, then tie the stalks together with string. Place the stalks and broad beans into a pan of boiling salted water, then blanch for around 2 minutes. Using a slotted spoon, transfer the broad beans to a bowl, discarding the mint stalks. Add the peas to the boiling water and blanch for 2 minutes.",
       "Meanwhile, pod any larger broad beans and add to the dressing, then drain and add the peas. Finely slice and add most of the mint leaves, then toss everything well to coat.",
       "Toast the sourdough in a griddle pan over a high heat. Halve the garlic and rub the cut side onto one side of the griddled bread, then rub over the rosemary. Sprinkle with a little salt and drizzle over some oil.",
-      "Pile the peas and broad beans onto the dressed side of your toast. Sprinkle over the white spring onion and the reserved mint leaves, then grate the remaining lemon zest on top. Use a speed-peeler to shave the feta over the top, then serve."
+      "Pile the peas and broad beans onto the dressed side of your toast. Sprinkle over the white spring onion and the reserved mint leaves, then grate the remaining lemon zest on top. Use a speed-peeler to shave the feta over the top, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1101_15_1436874584.jpg",
-    "imageAlt": "Posh beans on toast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1101_15_1436874584.jpg",
+    imageAlt: "Posh beans on toast",
   },
   {
-    "name": "Giant veg rösti",
-    "subName": "With poached eggs, spinach & peas",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This Giant veg rosti recipe is a brilliant vegetarian dish packed with spinach, peas and a poached egg; a great mid week treat that costs very little.",
-    "description": "“A rösti is wonderfully comforting – adding another veg to the potatoes makes it more nutritious, and it looks great, too. Think of your rösti as a base for embellishment. I’ve added poached eggs and spinach here, but get creative and serve with whatever you’ve got – halloumi, grilled mushrooms, roasted cherry tomatoes, baked beans, grilled chicken, you name it. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Giant veg rösti",
+    subName: "With poached eggs, spinach & peas",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This Giant veg rosti recipe is a brilliant vegetarian dish packed with spinach, peas and a poached egg; a great mid week treat that costs very little.",
+    description:
+      "“A rösti is wonderfully comforting – adding another veg to the potatoes makes it more nutritious, and it looks great, too. Think of your rösti as a base for embellishment. I’ve added poached eggs and spinach here, but get creative and serve with whatever you’ve got – halloumi, grilled mushrooms, roasted cherry tomatoes, baked beans, grilled chicken, you name it. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Save with Jamie",
       "Vegetables",
       "Bonfire night recipes",
       "Potato",
       "Spinach",
-      "Feta"
+      "Feta",
     ],
-    "ingredients": [
+    ingredients: [
       "600 g potatoes",
       "3 large carrots",
       "½ teaspoon Dijon mustard",
@@ -5087,9 +5049,9 @@
       "100 g frozen peas",
       "100 g baby spinach",
       "4 large eggs",
-      "50 g feta cheese"
+      "50 g feta cheese",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Peel the potatoes and carrots, then coarsely grate them in a food processor or by hand on a box grater. Add a good pinch of sea salt, toss and scrunch it all together, then leave for 5 minutes.",
       "Meanwhile, mix the mustard, a good squeeze of lemon juice, and a couple of lugs of extra virgin olive oil with a little pinch of salt and black pepper in a medium bowl and put aside.",
@@ -5097,39 +5059,38 @@
       "Toss in the oil and pepper until well mixed, then evenly scatter it over a large oiled baking tray (roughly 30cm x 40cm). Roast for around 35 minutes, or until golden on top and super-crispy around the edges.",
       "Meanwhile, blanch the peas for a minute in a large pan of boiling salted water, then scoop out, add to the bowl of dressing and pile the spinach on top.",
       "Just before your rösti is ready, with the water gently simmering, crack in the eggs, poach to your liking, then carefully remove with a slotted spoon.",
-      "Serve the rösti with the eggs on top. Quickly toss the salad together to dress it and scatter in piles on the rösti, then crumble over the feta and serve. I like to whack it in the middle of the table and let everyone dig in."
+      "Serve the rösti with the eggs on top. Quickly toss the salad together to dress it and scatter in piles on the rösti, then crumble over the feta and serve. I like to whack it in the middle of the table and let everyone dig in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/105566606.jpg",
-    "imageAlt": "Giant veg rösti"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/105566606.jpg",
+    imageAlt: "Giant veg rösti",
   },
   {
-    "name": "Mexican filled omelette",
-    "subName": "Avocado slaw with zingy lime & chilli",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a delicious Mexican inspired omelette recipe from Jamie Oliver with lashings of avocado dressing and a delicate slaw.",
-    "description": "“I can’t tell you how much I love these silky little omelettes filled with Mexican-inspired deliciousness. Making and eating them is brilliant fun, and they’re unusually fulfilling for a humble omelette. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Mexican filled omelette",
+    subName: "Avocado slaw with zingy lime & chilli",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Find a delicious Mexican inspired omelette recipe from Jamie Oliver with lashings of avocado dressing and a delicate slaw.",
+    description:
+      "“I can’t tell you how much I love these silky little omelettes filled with Mexican-inspired deliciousness. Making and eating them is brilliant fun, and they’re unusually fulfilling for a humble omelette. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Save with Jamie",
       "Eggs",
       "Mexican",
       "Fruit",
       "Breakfast",
-      "Light meals"
+      "Light meals",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe avocado",
       "3 limes",
       "½ a bunch of fresh coriander , (15g)",
@@ -5140,9 +5101,9 @@
       "½ white or green cabbage",
       "1 fresh red chilli",
       "8 large free-range eggs",
-      "60 g Cheddar cheese"
+      "60 g Cheddar cheese",
     ],
-    "instructions": [
+    instructions: [
       "Squeeze the avocado flesh into a blender, discarding the stone and skin.",
       "Squeeze in all the juice from 2 limes, rip in the coriander stalks, add the yoghurt and a splash of oil and whiz until smooth, then season to perfection.",
       "Peel the onion and carrot. Ideally in a food processor, or using a box grater and good knife skills, grate the onion and carrot, then finely slice the cabbage. Very finely slice the chilli by hand, then tip everything into a large bowl.",
@@ -5151,48 +5112,46 @@
       "Put a large non-stick frying pan on a medium-low heat. Once fairly hot, put in a tiny drizzle of oil followed by a quarter of the egg mixture.",
       "Swirl it all around the pan, grate over a quarter of the cheese and let it melt, then cook the omelette gently without colouring it, so it’s soft, silky and smooth, for just under 2 minutes, only cooking on one side.",
       "Slide it on to a plate, spoon over a quarter of the avocado slaw, then gently fold up the sides and roll over. Serve with a wedge of lime and a few extra coriander leaves.",
-      "Repeat with the remaining ingredients, serving them up as you go."
+      "Repeat with the remaining ingredients, serving them up as you go.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1085_1_1436865947.jpg",
-    "imageAlt": "Mexican filled omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1085_1_1436865947.jpg",
+    imageAlt: "Mexican filled omelette",
   },
   {
-    "name": "Strawberry slushie",
-    "subName": "A fresh fruity soft drink",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Give this easy, delicious strawberry slushie a try – without the added sugar and junk of a shop-bought drink, it’s a treat without all the nasties. The ultimate in refreshment!",
-    "description": "“Give this super-simple and delicious slushie a try – without all the added sugar and junk of a shop-bought fizzy drink, it’s a treat without all the nasties. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Strawberry slushie",
+    subName: "A fresh fruity soft drink",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Give this easy, delicious strawberry slushie a try – without the added sugar and junk of a shop-bought drink, it’s a treat without all the nasties. The ultimate in refreshment!",
+    description:
+      "“Give this super-simple and delicious slushie a try – without all the added sugar and junk of a shop-bought fizzy drink, it’s a treat without all the nasties. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Wimbledon",
       "Breakfast",
       "Juices and smoothies",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g strawberries",
       "1 sprig of fresh mint",
       "ice cubes",
       "1 lemon",
       "optional:",
-      "1 teaspoon golden caster suger"
+      "1 teaspoon golden caster suger",
     ],
-    "instructions": [
+    instructions: [
       "Pick the top leafy bits off the strawberries.",
       "Pick the mint leaves, discarding the stalk.",
       "Add the strawberries and mint leaves to a liquidiser along with 100g of ice cubes.",
@@ -5201,79 +5160,82 @@
       "Add enough cold water to just cover the strawberries (roughly 350ml), pop the lid on and whiz until smooth.",
       "Fill a large jug halfway up with ice cubes.",
       "Taste the slushie and sweeten with a little sugar, if needed.",
-      "Pour into the jug and stir with a wooden spoon."
+      "Pour into the jug and stir with a wooden spoon.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1061_2_1393581317.jpg",
-    "imageAlt": "Strawberry slushie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1061_2_1393581317.jpg",
+    imageAlt: "Strawberry slushie",
   },
   {
-    "name": "Griddle-pan waffles",
-    "subName": "A super-tasty breakfast treat",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This griddle pan waffles recipe is *such* an easy waffle recipe! Jamie Oliver's waffle recipe is accompanied by bacon, eggs and maple syrup - delicious.",
-    "description": "“There's no need to buy a waffle iron for these bad boys. These are made straight in a griddle pan and they're delicious! I was trying different ways of cooking waffles, and looked at a griddle pan and thought… Aha! You know what, it works like a charm. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Griddle-pan waffles",
+    subName: "A super-tasty breakfast treat",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This griddle pan waffles recipe is *such* an easy waffle recipe! Jamie Oliver's waffle recipe is accompanied by bacon, eggs and maple syrup - delicious.",
+    description:
+      "“There's no need to buy a waffle iron for these bad boys. These are made straight in a griddle pan and they're delicious! I was trying different ways of cooking waffles, and looked at a griddle pan and thought… Aha! You know what, it works like a charm. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Festive Feast",
       "Eggs",
       "Christmas",
       "Easter treats",
       "Father's day",
-      "American"
+      "American",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g unsalted butter , plus about 1 tsp extra",
       "2 large eggs",
       "300 ml milk",
       "225 g self-raising flour",
-      "2 teaspoons baking powder"
+      "2 teaspoons baking powder",
     ],
-    "instructions": [
+    instructions: [
       "Melt the 100g of butter and leave it to cool.",
       "Crack the eggs into a bowl, add the milk and whisk to combine. Sift in the flour, baking powder and ¼ teaspoon of salt, then whisk until fully combined. Add the cooled melted butter and gradually stir it through the mixture. It’s important not to stir the mixture any more after this or your waffles may be tough.",
       "Place your griddle pan over a high heat, add the extra teaspoon of butter and as soon as it’s melted pour in the waffle batter and spread it around to fill the pan. You could also make smaller waffles, if you prefer – you’ll need to do 2 at a time.",
       "Lower the heat to medium-low and cook the waffles for around 6 minutes, or until lightly golden on the bottom. Flip over and continue to cook for around 6 minutes, until golden and cooked through. (It can be tricky to flip a whole waffle, but be bold and go for it – if it breaks, don’t worry, you can rock the rustic look.)",
-      "Give the waffle an extra couple of minutes on each side to crisp up, then serve them with your toppings. I like mine with bacon, egg and maple syrup, but you can serve them with berries and yoghurt, or whatever you like."
+      "Give the waffle an extra couple of minutes on each side to crisp up, then serve them with your toppings. I like mine with bacon, egg and maple syrup, but you can serve them with berries and yoghurt, or whatever you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1034_1_1434099303.jpg",
-    "imageAlt": "Griddle-pan waffles"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1034_1_1434099303.jpg",
+    imageAlt: "Griddle-pan waffles",
   },
   {
-    "name": "Rescue me kedgeree",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "“It’s breakfast, lunch or dinner – and the best hangover cure in the world ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Rescue me kedgeree",
+    subName: "",
+    specialDiets: [],
+    metaDescription: "Check out more of our recipes!",
+    description:
+      "“It’s breakfast, lunch or dinner – and the best hangover cure in the world ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Family Christmas",
       "Christmas",
       "Father's day",
       "British",
       "Breakfast",
-      "Eggs"
+      "Eggs",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g basmati rice",
       "4 large free-range eggs",
       "2 lemons",
@@ -5288,9 +5250,9 @@
       "optional:",
       "lemon wedges",
       "natural yoghurt",
-      "chilli , sliced"
+      "chilli , sliced",
     ],
-    "instructions": [
+    instructions: [
       "If you reach a point when you’ve had too much rich food, this is the dish for you. It will slap your taste buds and bring them back round to life. It’s breakfast, lunch or dinner – and the best hangover cure in the world.",
       "Bring 2 large pans of salted water to the boil. Wash the rice till the water runs clear and all the starch has been washed away. Add the rice to one pan and cook for 2 minutes less than the cooking instructions.",
       "Add the eggs and bay leaves to the other pan and squeeze in the juice of half a lemon. Add the squeezed lemon half to the pan and leave to simmer for 7–8 minutes, adding the haddock halfway through.",
@@ -5301,38 +5263,39 @@
       "Roughly chop your peeled eggs into the pan, then flake over the haddock. Roughly chop most of the coriander leaves and add most of them to the pan with the juice from the remaining lemon. Gently fold it all together.",
       "Pop the pan on a low heat for 5 minutes to get nice and hot, then have a taste and adjust the seasoning. You shouldn’t need too much as the smoked fish gives it lots of flavour.",
       "Get a fork and fold it over a few times to keep it nice and light. When you hear a great sizzling, take it off the heat, scatter over the reserved coriander, pop in some lemon wedges and serve with yoghurt and sliced chilli, if desired.",
-      "A pint of Guinness with a swig of port in it is fantastic with this – it might sound weird but it tastes great."
+      "A pint of Guinness with a swig of port in it is fantastic with this – it might sound weird but it tastes great.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1027_1_1386614196.jpg",
-    "imageAlt": "Rescue me kedgeree"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1027_1_1386614196.jpg",
+    imageAlt: "Rescue me kedgeree",
   },
   {
-    "name": "One-cup pancakes",
-    "subName": "With fresh blueberries & yoghurt",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Discover this deliciously simple one cup pancake recipe from Jamie Oliver; enjoy these quick, traditional pancakes with the added benefit of blueberries.",
-    "description": "“These are the simplest pancakes to make with kids. You don’t even need scales to weigh out the ingredients – all you need is a cup or a mug! ”",
-    "servings": "Serves Makes 8, Serves 4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "One-cup pancakes",
+    subName: "With fresh blueberries & yoghurt",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Discover this deliciously simple one cup pancake recipe from Jamie Oliver; enjoy these quick, traditional pancakes with the added benefit of blueberries.",
+    description:
+      "“These are the simplest pancakes to make with kids. You don’t even need scales to weigh out the ingredients – all you need is a cup or a mug! ”",
+    servings: "Serves Makes 8, Serves 4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Christmas",
       "Easter treats",
       "Father's day",
       "Mother's day",
-      "Pancake day"
+      "Pancake day",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 cup of self-raising flour",
       "1 cup of milk",
@@ -5340,9 +5303,9 @@
       "optional:",
       "200 g blueberries",
       "olive oil",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "To make the batter, crack the egg into a large mixing bowl.",
       "Add the flour, milk and a tiny pinch of sea salt.",
       "Whisk everything together until you have a lovely, smooth batter.",
@@ -5353,79 +5316,80 @@
       "Cook the pancakes for 1 to 2 minutes, or until little bubbles appear on the surface and the bases are golden, then use a fish slice to carefully flip them over.",
       "When the pancakes are golden on both sides, use a fish slice to transfer the pancakes to a plate.",
       "Repeat steps 5 to 9 with the remaining batter, adding ½ tablespoon of oil to the pan between batches, if needed.",
-      "Serve the pancakes straight away, topped with a dollop of natural yoghurt, and some extra berries, if you like."
+      "Serve the pancakes straight away, topped with a dollop of natural yoghurt, and some extra berries, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1019_1_1436869040.jpg",
-    "imageAlt": "One-cup pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1019_1_1436869040.jpg",
+    imageAlt: "One-cup pancakes",
   },
   {
-    "name": "Porridge, lots of ways",
-    "subName": "A wonderfully comforting, healthy breakfast ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A reliable porridge recipe is a must-have for an easy and satisfying breakfast Mix things up with the porridge toppings and use your favourite fruits & nuts",
-    "description": "“Once you’ve mastered the basic porridge recipe, get creative and add your favourite toppings. Think fruit, toasted nuts and honey – the options are endless! Check out some of our favourite combos below… ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Porridge, lots of ways",
+    subName: "A wonderfully comforting, healthy breakfast ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A reliable porridge recipe is a must-have for an easy and satisfying breakfast Mix things up with the porridge toppings and use your favourite fruits & nuts",
+    description:
+      "“Once you’ve mastered the basic porridge recipe, get creative and add your favourite toppings. Think fruit, toasted nuts and honey – the options are endless! Check out some of our favourite combos below… ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Cheap & cheerful",
       "Healthy breakfast ideas",
       "Store cupboard recipes",
-      "Honey"
+      "Honey",
     ],
-    "ingredients": [
+    ingredients: [
       "BASE RECIPE",
       "160 g rolled porridge oats",
-      "600 ml milk, soya milk or water"
+      "600 ml milk, soya milk or water",
     ],
-    "instructions": [
+    instructions: [
       "Place the oats and the milk or water in a large pan over a medium heat.",
       "Add a tiny pinch of sea salt and stir with a wooden spoon.",
       "Bring to a steady simmer for 5 to 6 minutes, stirring as often as you can to give you a smooth creamy porridge – if you like your porridge runnier, simply add a splash more milk or water until you’ve got the consistency you like.",
-      "Jazz up your porridge with your favourite combo of fresh fruit, nuts and seeds, sweetening to taste – see below for inspiration."
+      "Jazz up your porridge with your favourite combo of fresh fruit, nuts and seeds, sweetening to taste – see below for inspiration.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1000_2_1438703154.jpg",
-    "imageAlt": "Porridge, lots of ways"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1000_2_1438703154.jpg",
+    imageAlt: "Porridge, lots of ways",
   },
   {
-    "name": "Eggy bread",
-    "subName": "Crispy egg-fried bread",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This eggy bread recipe from Jamie Oliver is such a delicious brunch! It's good enough to make for a crowd, but is actually a really easy breakfast recipe.",
-    "description": "“A simple, versatile brekkie recipe that delivers big on the comfort front. I like to serve eggy bread simply with a few strawberries and a little natural yoghurt, but you can also try it with smashed avocado and grilled tomatoes, or stewed fruit with a dollop of yoghurt (just make sure you leave out the salt and pepper). ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Eggy bread",
+    subName: "Crispy egg-fried bread",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This eggy bread recipe from Jamie Oliver is such a delicious brunch! It's good enough to make for a crowd, but is actually a really easy breakfast recipe.",
+    description:
+      "“A simple, versatile brekkie recipe that delivers big on the comfort front. I like to serve eggy bread simply with a few strawberries and a little natural yoghurt, but you can also try it with smashed avocado and grilled tomatoes, or stewed fruit with a dollop of yoghurt (just make sure you leave out the salt and pepper). ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Easter treats",
       "Mother's day",
       "Christmas",
       "Bread",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large eggs",
       "2 tablespoons milk",
       "sea salt",
@@ -5438,9 +5402,9 @@
       "fork",
       "Medium frying pan (25cm)",
       "Fish slice",
-      "Serving plates"
+      "Serving plates",
     ],
-    "instructions": [
+    instructions: [
       "Crack the eggs into a mixing bowl.",
       "Add the milk and season with a tiny pinch of salt and pepper.",
       "Gently whisk the eggs and milk together with a fork, then put to one side.",
@@ -5450,82 +5414,79 @@
       "Lift the soaked bread up in the bowl and allow the excess mixture to drip off, then carefully lower it into the pan, making sure it’s facing away from you so you don’t get splashed with hot oil.",
       "Cook for 2 to 3 minutes on each side, or until golden and cooked through, using a fish slice to flip it over.",
       "Carefully lift the bread out of the frying pan and onto a serving plate using a fish slice.",
-      "Place the pan back on the heat and repeat steps 6 to 10 with the remaining ingredients."
+      "Place the pan back on the heat and repeat steps 6 to 10 with the remaining ingredients.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/998_1_1436789112.jpg",
-    "imageAlt": "Eggy bread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/998_1_1436789112.jpg",
+    imageAlt: "Eggy bread",
   },
   {
-    "name": "Scrambled eggs",
-    "subName": "A failsafe classic breakfast ",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
-    "description": "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Scrambled eggs",
+    subName: "A failsafe classic breakfast ",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
+    description:
+      "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Bread",
       "Breakfast",
       "Cheap & cheerful",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
-      "8 large eggs",
-      "1 small knob of unsalted butter"
-    ],
-    "instructions": [
+    ingredients: ["8 large eggs", "1 small knob of unsalted butter"],
+    instructions: [
       "Crack the eggs into a measuring jug.",
       "Add a tiny pinch of sea salt and black pepper, then use a fork to beat them together well.",
       "Put a medium saucepan over a low heat and add the butter.",
       "Leave it to melt slowly, then when it starts to bubble carefully pour in the eggs.",
       "Stir slowly with a wooden spoon, or a spatula if you’ve got one, so you can get right to the edges of the pan.",
       "Keep gently stirring until the eggs still look silky, slightly runny and slightly underdone, and then remove from the heat – the heat of the pan will continue to cook the eggs to perfection.",
-      "Serve with lightly buttered toast."
+      "Serve with lightly buttered toast.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
-    "imageAlt": "Scrambled eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
+    imageAlt: "Scrambled eggs",
   },
   {
-    "name": "Box grater fruit salad",
-    "subName": "Fresh mint, honey & sesame dressing ",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This colourful box grater fruit salad has a wonderful juicy dressing - it's a great way to get kids involved in making their own healthy breakfast too. One for the whole family to enjoy.",
-    "description": "“This delicious colourful breakfast looks beautiful and is so easy to make. Get the kids to grate the fruit, minding little fingers! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Box grater fruit salad",
+    subName: "Fresh mint, honey & sesame dressing ",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This colourful box grater fruit salad has a wonderful juicy dressing - it's a great way to get kids involved in making their own healthy breakfast too. One for the whole family to enjoy.",
+    description:
+      "“This delicious colourful breakfast looks beautiful and is so easy to make. Get the kids to grate the fruit, minding little fingers! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Desserts",
       "Quick fixes",
       "Healthy breakfast ideas",
-      "Healthy snack ideas"
+      "Healthy snack ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "2 tablespoons sesame seeds",
       "½ a small jar of runny honey , (170g)",
       "1 pear",
@@ -5535,9 +5496,9 @@
       "1 banana",
       "1 orange",
       "2 sprigs of fresh mint",
-      "natural yoghurt , (optional)"
+      "natural yoghurt , (optional)",
     ],
-    "instructions": [
+    instructions: [
       "Place a small frying pan on a medium heat and add the sesame seeds.",
       "Toast for a couple of minutes, or until golden, gently jiggling the pan for even cooking.",
       "Carefully tip the seeds into a small microwave safe bowl.",
@@ -5553,83 +5514,83 @@
       "Carefully cut the orange in half and squeeze the juice over the fruit, using your hand to catch any pips.",
       "Drizzle the fruit with 2 tablespoons of the sesame honey (keep the rest for another day).",
       "Pick and roughly chop the mint leaves, discarding the stalks, then sprinkle over the fruit.",
-      "Divide between bowls and serve with a dollop of natural yoghurt, if you like."
+      "Divide between bowls and serve with a dollop of natural yoghurt, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/995_2_1436534688.jpg",
-    "imageAlt": "Box grater fruit salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/995_2_1436534688.jpg",
+    imageAlt: "Box grater fruit salad",
   },
   {
-    "name": "Breakfast crumpies",
-    "subName": "A heavenly cross between crumpets and Yorkshire puds",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for some good breakfast ideas? Why not try Jamie Oliver's breakfast crumpies - they're a heavenly cross between Yorkshire puds and crumpets, delicious.",
-    "description": "“Crumpies are my delicious invention – lovely and crisp on the top and bottom, and knotty, chewy and bubbly inside. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes plus standing time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes plus standing time"
+    name: "Breakfast crumpies",
+    subName: "A heavenly cross between crumpets and Yorkshire puds",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Looking for some good breakfast ideas? Why not try Jamie Oliver's breakfast crumpies - they're a heavenly cross between Yorkshire puds and crumpets, delicious.",
+    description:
+      "“Crumpies are my delicious invention – lovely and crisp on the top and bottom, and knotty, chewy and bubbly inside. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "45 minutes plus standing time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes plus standing time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Great Britain",
       "Bread",
       "Christmas",
       "St. George's Day",
       "British",
-      "Snacks"
+      "Snacks",
     ],
-    "ingredients": [
+    ingredients: [
       "vegetable oil",
       "500 g strong bread flour",
       "1 teaspoon caster sugar",
       "1 x 7 g sachet easy action yeast",
-      "a good pinch of bicarbonate of soda"
+      "a good pinch of bicarbonate of soda",
     ],
-    "instructions": [
+    instructions: [
       "Crumpies are my new delicious invention and are a cross between a crumpet and a Yorkshire pudding. They can be whizzed together quickly, then poured into a Yorkshire pudding mould and banged into the oven to get lovely and crisp on the top and bottom, and knotty, chewy and bubbly inside. They’re perfect with butter, or whatever other lovely condiments you’ve got hanging around the cupboard. My wife loves strawberry jam with hers, Daisy loves Marmite, Poppy loves a drizzle of honey, and personally I like a little scrambled egg with a blob of ketchup or brown sauce (or both) on the plate and, depending on how I feel, a little chilli sauce.",
       "Preheat the oven to 170°C/325°F/gas 3 and grease a 12-hole muffin tin with some vegetable oil. Place all the other ingredients in a bowl with 2 teaspoons of sea salt and pour in 600ml of tepid water. The water needs to be warm enough to activate the yeast, but not so hot that it kills it.",
       "Whisk everything together until you’ve got a loose batter that is just combined – this should only take a few seconds. Leave to stand for 10 minutes to let the yeast do its job. When the mixture is a spoonable, sticky consistency, but still quite wet, spoon it into the muffin tin. Fill each hole until it’s almost level with the top of the tin and cook for around 35 minutes, or until the crumpies are risen and golden. Remove to a wire rack for a few minutes to cool slightly, then serve while still warm with anything you fancy.",
       "Here are a few ideas to get your started:",
-      "Cream cheese\nJam and banana\nA few slices of cooked ham\nSome beautiful slices of cheese\nSmoked salmon and a wedge of lemon\nSliced strawberries with cream or yoghurt\nSome snapped up pieces of crispy bacon\nA spoonful of quality jam\nSliced banana and runny honey\nA spoonful of nutella\nHam and mustard\nA poached egg\n... but there are no rules!"
+      "Cream cheese\nJam and banana\nA few slices of cooked ham\nSome beautiful slices of cheese\nSmoked salmon and a wedge of lemon\nSliced strawberries with cream or yoghurt\nSome snapped up pieces of crispy bacon\nA spoonful of quality jam\nSliced banana and runny honey\nA spoonful of nutella\nHam and mustard\nA poached egg\n... but there are no rules!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/980_1_1433952462.jpg",
-    "imageAlt": "Breakfast crumpies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/980_1_1433952462.jpg",
+    imageAlt: "Breakfast crumpies",
   },
   {
-    "name": "Mexican breakfast",
-    "subName": "Spicy tomato stew & eggs",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie Oliver's huevos rancheros recipe is like an epic combo of spicy tomato stew with runny eggs. Pile up into tortillas for an epic Mexican breakfast.",
-    "description": "“The Mexican name for this dish is ‘huevos rancheros’ – eggs with chillies, tomatoes and peppers in burritos. It’s absolutely great if you've got a few mates round, and even better if you've got a hangover you’re trying to shake off! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Mexican breakfast",
+    subName: "Spicy tomato stew & eggs",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Jamie Oliver's huevos rancheros recipe is like an epic combo of spicy tomato stew with runny eggs. Pile up into tortillas for an epic Mexican breakfast.",
+    description:
+      "“The Mexican name for this dish is ‘huevos rancheros’ – eggs with chillies, tomatoes and peppers in burritos. It’s absolutely great if you've got a few mates round, and even better if you've got a hangover you’re trying to shake off! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's America",
       "Eggs",
       "Father's day",
       "Mexican",
       "Tomato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "2 cloves of garlic",
       "2 red peppers",
@@ -5641,9 +5602,9 @@
       "2 large ripe tomatoes",
       "6 large eggs",
       "6 tortillas",
-      "Cheddar cheese , to serve"
+      "Cheddar cheese , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the onions and garlic. Deseed and finely slice the peppers and chillies.",
       "Get a large frying pan (make sure you’ve got a lid to go with it) on a high heat and add several good lugs of olive oil.",
       "Add the onion, garlic, peppers, fresh and dried chillies, bay leaves and a good pinch of sea salt and black pepper, and cook for 15 minutes, or until to softened and caramelised, stirring regularly.",
@@ -5653,40 +5614,39 @@
       "Use a spoon to make small wells in the tomato stew, then crack in the eggs so they poach in the thick, delicious juices – try to crack them in as quickly as you can so they all get to cook for roughly the same amount of time.",
       "Season from a height, put the lid on and let the eggs cook for around 3 to 4 minutes, or until cooked to your liking.",
       "Warm the tortillas while this is happening. You can pop them into the oven at 180°C/350°F/gas 4 for a few minutes, microwave them for a few seconds or even lay them over the lid of the pan so they heat up as the eggs cook.",
-      "Take the lid off and check your eggs by giving them a poke with your finger. When they’re done to your liking, turn the heat off and take the pan to the table with the warmed tortillas, the Cheddar and a grater so everyone can get involved and make their own. Personally, I like to grate a bit of cheese right on to a warm tortilla, spoon an egg and some of the wonderful tomato stew on top, wrap it up, and eat it right away. What a beautiful way to wake up!"
+      "Take the lid off and check your eggs by giving them a poke with your finger. When they’re done to your liking, turn the heat off and take the pan to the table with the warmed tortillas, the Cheddar and a grater so everyone can get involved and make their own. Personally, I like to grate a bit of cheese right on to a warm tortilla, spoon an egg and some of the wonderful tomato stew on top, wrap it up, and eat it right away. What a beautiful way to wake up!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/969_1_1436865889.jpg",
-    "imageAlt": "Mexican breakfast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/969_1_1436865889.jpg",
+    imageAlt: "Mexican breakfast",
   },
   {
-    "name": "South American-style brunch",
-    "subName": "Fresh & zingy with a bold chilli kick",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Try Jamie's ultimate brunch recipe - Fluffy quinoa, crispy beans, chilli pickle and lovely free range eggs!",
-    "description": "“Now this is what I call a super-tasty brunch – quinoa, layered up with ripe tomatoes, crispy beans, hot chillies, creamy avocado, and fresh herbs, topped with a runny egg. Enjoy! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "South American-style brunch",
+    subName: "Fresh & zingy with a bold chilli kick",
+    specialDiets: ["Vegetarian", "Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Try Jamie's ultimate brunch recipe - Fluffy quinoa, crispy beans, chilli pickle and lovely free range eggs!",
+    description:
+      "“Now this is what I call a super-tasty brunch – quinoa, layered up with ripe tomatoes, crispy beans, hot chillies, creamy avocado, and fresh herbs, topped with a runny egg. Enjoy! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Father's day",
       "Mother's day",
       "Peruvian",
       "Tomato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g quinoa",
       "1 long fresh red chilli",
       "1 fresh jalapeno chilli",
@@ -5704,9 +5664,9 @@
       "1 ripe avocado",
       "½ a bunch of fresh mint",
       "½ a bunch of fresh coriander",
-      "hot chilli sauce"
+      "hot chilli sauce",
     ],
-    "instructions": [
+    instructions: [
       "Cook the quinoa according to the packet instructions, with a good pinch of sea salt.",
       "Meanwhile, trim and finely slice all the chillies, slice the tomato, quarter the cherry tomatoes and trim and finely slice the spring onions.",
       "Heat a good lug of olive oil in a frying pan over a high heat, add the cumin seeds and fry for around 30 seconds.",
@@ -5716,36 +5676,39 @@
       "Transfer the cooked beans to a bowl, wipe the pan clean and return to a medium heat with a splash of olive oil. Once hot, crack in the eggs and fry to your liking – for lovely, runny eggs, you only need a couple of minutes.",
       "Transfer the quinoa to a large serving platter, layer the eggs on top and spoon over the crispy beans.",
       "Halve and destone the avocado, then scoop out and dot over the flesh. Scatter the tomatoes, spring onions and chillies on top, then drizzle over a little of the pickling juice.",
-      "Pick and roughly chop the mint and coriander leaves and sprinkle on top, then add a drizzle of extra virgin olive and serve with plenty of hot chilli sauce."
+      "Pick and roughly chop the mint and coriander leaves and sprinkle on top, then add a drizzle of extra virgin olive and serve with plenty of hot chilli sauce.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/944_13_1439916365.jpg",
-    "imageAlt": "South American-style brunch"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/944_13_1439916365.jpg",
+    imageAlt: "South American-style brunch",
   },
   {
-    "name": "Anglo-French toastie",
-    "subName": "With posh cheese & ham",
-    "specialDiets": [],
-    "metaDescription": "A cheese and ham toastie with a twist, delicious simple ingredients make Jamie's French toastie recipe easy enough for a cooking novice to handle. ",
-    "description": "“The humble toasted sandwich is transformed with super-tasty fillings and a simple salad on the side ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Anglo-French toastie",
+    subName: "With posh cheese & ham",
+    specialDiets: [],
+    metaDescription:
+      "A cheese and ham toastie with a twist, delicious simple ingredients make Jamie's French toastie recipe easy enough for a cooking novice to handle. ",
+    description:
+      "“The humble toasted sandwich is transformed with super-tasty fillings and a simple salad on the side ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "British",
       "Pork",
       "Breakfast",
       "Meals for one",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 slices of white bread , around 1cm thick",
       "unsalted butter",
       "15 g Comte cheese",
@@ -5756,45 +5719,40 @@
       "freshly ground black pepper",
       "sea salt",
       "1 small eating apple",
-      "1 handful mixed salad leaves , such as frisse, watercress, rocket"
+      "1 handful mixed salad leaves , such as frisse, watercress, rocket",
     ],
-    "instructions": [
+    instructions: [
       "Lightly butter the slices of bread, then place buttered-side down on a chopping board.",
       "Slice and lay the cheeses over one piece of bread, top with the ham then place the second piece of bread on top, buttered-side up.",
       "Place into a preheated toastie maker, clamp the lid down and toast for 4 to 5 minutes, or until golden and crispy.",
       "Meanwhile, add the vinegar and oil to a clean jam jar with a little pinch of salt and pepper, pop the lid on and shake to combine.",
       "Cut the apple into matchsticks, removing the core, then toss with the salad leaves and dressing.",
-      "Serve the golden toastie with the fresh salad on the side, and tuck in."
+      "Serve the golden toastie with the fresh salad on the side, and tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/840_1_1421669480.jpg",
-    "imageAlt": "Anglo-French toastie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/840_1_1421669480.jpg",
+    imageAlt: "Anglo-French toastie",
   },
   {
-    "name": "Homemade cinnamon crumpets",
-    "subName": "with raspberries & honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A delicious cinnamon crumpet recipe with raspberries and honey – perfect for brunch or pudding. Learn how to make crumpets with Jamie's easy crumpet recipe. ",
-    "description": "“These sweet cinnamon crumpets are so easy to make and work well for brunch or pudding ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Homemade cinnamon crumpets",
+    subName: "with raspberries & honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A delicious cinnamon crumpet recipe with raspberries and honey – perfect for brunch or pudding. Learn how to make crumpets with Jamie's easy crumpet recipe. ",
+    description:
+      "“These sweet cinnamon crumpets are so easy to make and work well for brunch or pudding ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Afternoon tea",
-      "Fruit",
-      "Breakfast",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Afternoon tea", "Fruit", "Breakfast", "Baking"],
+    ingredients: [
       "CRUMPETS",
       "500 g strong white bread flour",
       "1 teaspoon caster sugar",
@@ -5806,9 +5764,9 @@
       "250 g ricotta cheese",
       "2 tablespoons runny honey , plus extra for drizzling",
       "3 large handfuls of fresh raspberries",
-      "vegetable oil , for greasing"
+      "vegetable oil , for greasing",
     ],
-    "instructions": [
+    instructions: [
       "Place all the crumpet ingredients into a food processor, add 2 teaspoons of sea salt and 600ml of tepid water and blitz to a loose batter.",
       "Leave to stand for 10 minutes to let the yeast develop – the mixture should be quite wet, just about dropping consistency.",
       "Meanwhile, make the topping. Finely grate the lemon zest into a bowl, add ricotta and honey, then beat together until light and fluffy.",
@@ -5816,37 +5774,38 @@
       "Grease the inside of the metal rings with oil, then place in a non-stick frying pan on a medium heat – work in batches, according to the number of metal rings you have.",
       "When the pan’s nice and hot, spoon some mixture into each ring, so it’s roughly 1cm deep. Turn the heat down to low and leave for 15 minutes to cook through – keep an eye on them and reduce the heat slightly, if you think the bottoms are getting too dark.",
       "When the time’s up, bubbles and crumpet-like dimples should have formed on the top — turn the crumpets over, using tongs to lift the rings away. Cook for another 5 to 10 minutes, or perfectly golden.",
-      "Serve the crumpets warm with a generous spoonful of ricotta, a scattering of fresh raspberries and an extra drizzle of honey, if you like."
+      "Serve the crumpets warm with a generous spoonful of ricotta, a scattering of fresh raspberries and an extra drizzle of honey, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/715_1_1434099333.jpg",
-    "imageAlt": "Homemade cinnamon crumpets"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/715_1_1434099333.jpg",
+    imageAlt: "Homemade cinnamon crumpets",
   },
   {
-    "name": "Kiwi fruit, ginger and banana smoothie",
-    "subName": "A great start to the day",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Experimenting with fruit smoothie recipes is a great way to get kids trying different fruits; try Jamie's healthy kiwi fruit, ginger and banana smoothie!",
-    "description": "“Fruit smoothies make a really nutritious breakfast for kids and grown-ups alike ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Kiwi fruit, ginger and banana smoothie",
+    subName: "A great start to the day",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Experimenting with fruit smoothie recipes is a great way to get kids trying different fruits; try Jamie's healthy kiwi fruit, ginger and banana smoothie!",
+    description:
+      "“Fruit smoothies make a really nutritious breakfast for kids and grown-ups alike ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Breakfast",
       "Juices and smoothies",
       "Quick fixes",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "3 kiwi fruit",
       "4 tablespoons organic porridge oats",
       "1 banana",
@@ -5854,240 +5813,230 @@
       "200 ml organic milk",
       "250 g organic fat-free natural yoghurt",
       "½ cm piece fresh ginger , finely grated",
-      "honey , optional"
+      "honey , optional",
     ],
-    "instructions": [
+    instructions: [
       "Smoothies are usually the easiest way of encouraging your kids to try different types of fruit. Simply decide on a good combination of flavours, whiz it all up and drink! Kids will love to get involved with making these.",
-      "Top and tail the kiwi fruit and stand them on their ends. Slice the skin off in vertical strips with a sharp knife. Whiz the kiwi fruit with the remaining ingredients, apart from the honey, in a blender for 30 seconds and pour into 4 tall glasses. Sweeten with a little honey, if you like."
+      "Top and tail the kiwi fruit and stand them on their ends. Slice the skin off in vertical strips with a sharp knife. Whiz the kiwi fruit with the remaining ingredients, apart from the honey, in a blender for 30 seconds and pour into 4 tall glasses. Sweeten with a little honey, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/692_1_1439310341.jpg",
-    "imageAlt": "Kiwi fruit, ginger and banana smoothie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/692_1_1439310341.jpg",
+    imageAlt: "Kiwi fruit, ginger and banana smoothie",
   },
   {
-    "name": "Pukkolla",
-    "subName": "With tropical fruit",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Overnight porridge makes a tasty and healthy breakfast; try Jamie's fruity pukkolla – leave it overnight and enjoy the next morning with fresh fruit.",
-    "description": "“Prep this easy-peasy muesli bircher the night before and wake up to a bowl of breakfast goodness. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes plus overnight soaking",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes plus overnight soaking"
+    name: "Pukkolla",
+    subName: "With tropical fruit",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Overnight porridge makes a tasty and healthy breakfast; try Jamie's fruity pukkolla – leave it overnight and enjoy the next morning with fresh fruit.",
+    description:
+      "“Prep this easy-peasy muesli bircher the night before and wake up to a bowl of breakfast goodness. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "10 minutes plus overnight soaking",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes plus overnight soaking",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Breakfast",
-      "Healthy breakfast ideas"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Breakfast", "Healthy breakfast ideas"],
+    ingredients: [
       "5 cm piece of ginger",
       "8 large handfuls of rolled porridge oats",
       "2 large handfuls of ground bran",
       "1 handful of desiccated coconut",
       "5 handfuls of dried fruit , such as banana, apricots, pineapple, mango, papaya, kiwi",
       "1½-2 litres milk",
-      "500 g natural yoghurt"
+      "500 g natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely grate the ginger into a large bowl, add all the remaining ingredients, chopping any larger pieces of fruit first, and mix well to combine.",
       "Cover and pop in the fridge overnight to soak and swell.",
-      "Serve topped with fresh fruit – delicious with sliced banana, grapes and finely grated lime zest. Any leftovers will keep happily in the fridge for up to 4 days."
+      "Serve topped with fresh fruit – delicious with sliced banana, grapes and finely grated lime zest. Any leftovers will keep happily in the fridge for up to 4 days.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/661_1_1439208794.jpg",
-    "imageAlt": "Pukkolla"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/661_1_1439208794.jpg",
+    imageAlt: "Pukkolla",
   },
   {
-    "name": "Yoghurt with blueberry jam and elderflower cordial",
-    "subName": "Fresh and fruity ",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Dessert recipes don't get much quicker than Jamie's tasty yoghurt dessert with blueberry jam & elderflower cordial; try experimenting with other jams too!",
-    "description": "“An almost instant dessert or posh little palate cleanser for dinner parties – perfect for summer ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Yoghurt with blueberry jam and elderflower cordial",
+    subName: "Fresh and fruity ",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Dessert recipes don't get much quicker than Jamie's tasty yoghurt dessert with blueberry jam & elderflower cordial; try experimenting with other jams too!",
+    description:
+      "“An almost instant dessert or posh little palate cleanser for dinner parties – perfect for summer ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Desserts",
-      "Breakfast",
-      "Puddings & desserts"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Desserts", "Breakfast", "Puddings & desserts"],
+    ingredients: [
       "500 g good-quality Greek or natural yoghurt",
       "4 tablespoons blueberry jam",
       "8 tablespoons elderflower cordial",
-      "4 sprigs of fresh mint"
+      "4 sprigs of fresh mint",
     ],
-    "instructions": [
+    instructions: [
       "This is a fantastic quick recipe for those days when you don't want to spend ages knocking up a dessert. Or it can be a really good intermediate palate cleanser before your main course. It can be made with any jam you like, but blueberry jam is particularly tasty. Try strawberry or raspberry too.",
-      "Divide your yoghurt between 4 dessert bowls or small glasses. Spoon over your blueberry jam, cover with your elderflower cordial, and top with a sprig of mint."
+      "Divide your yoghurt between 4 dessert bowls or small glasses. Spoon over your blueberry jam, cover with your elderflower cordial, and top with a sprig of mint.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/660_1_1438784120.jpg",
-    "imageAlt": "Yoghurt with blueberry jam and elderflower cordial"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/660_1_1438784120.jpg",
+    imageAlt: "Yoghurt with blueberry jam and elderflower cordial",
   },
   {
-    "name": "The amazing date shake",
-    "subName": "With a pinch of cinnamon",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This amazing date milkshake recipe with dates, milk and cinnamon is dead simple and tastes delicious. ",
-    "description": "“This quick, tasty milkshake recipe with fresh dates is really simple and delicious ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "The amazing date shake",
+    subName: "With a pinch of cinnamon",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This amazing date milkshake recipe with dates, milk and cinnamon is dead simple and tastes delicious. ",
+    description:
+      "“This quick, tasty milkshake recipe with fresh dates is really simple and delicious ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's America",
       "Fruit",
       "American",
       "Breakfast",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "20 stoned dates",
       "250 ml milk",
       "1 small handful ice cubes",
-      "1 pinch ground cinnamon"
+      "1 pinch ground cinnamon",
     ],
-    "instructions": [
-      "Just chuck the dates into a liquidizer with the milk and blitz until smooth. Add the ice cubes and the ground cinnamon and whiz again. Serve straight away in tall glasses."
+    instructions: [
+      "Just chuck the dates into a liquidizer with the milk and blitz until smooth. Add the ice cubes and the ground cinnamon and whiz again. Serve straight away in tall glasses.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/596_1_1436955953.jpg",
-    "imageAlt": "The amazing date shake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/596_1_1436955953.jpg",
+    imageAlt: "The amazing date shake",
   },
   {
-    "name": "Sunny side-up eggs",
-    "subName": "A lovely-looking fried egg",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This Jamie Oliver egg recipe is cracking! It shows you how to make perfect sunny side up fried eggs. Just add hot buttered toast for a perfect breakfast.",
-    "description": "“Perfectly soft and silky fried eggs, ready to eat in just 5 minutes. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Sunny side-up eggs",
+    subName: "A lovely-looking fried egg",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This Jamie Oliver egg recipe is cracking! It shows you how to make perfect sunny side up fried eggs. Just add hot buttered toast for a perfect breakfast.",
+    description:
+      "“Perfectly soft and silky fried eggs, ready to eat in just 5 minutes. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Eggs",
       "Easter treats",
       "Father's day",
       "Mother's day",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 tablespoon olive oil",
       "4 large free-range eggs",
       "1/16 teaspoon sea salt",
-      "freshly ground black pepper , to taste"
+      "freshly ground black pepper , to taste",
     ],
-    "instructions": [
+    instructions: [
       "Get your frying pan on a medium to low heat and add enough olive oil to lightly coat the bottom of a large nonstick pan (about 1 tablespoon).",
       "Crack the eggs into the pan. As the oil gets hotter you’ll see it start to change the color of the eggs. If the oil starts to spit it’s because it’s too hot, so turn the heat right down. Cook until the tops of the whites are set but the yolk is still runny.",
       "When they’re ready, remove the pan from the heat and take the eggs out using a spatula. Place on a plate and dab them with some paper towels to soak up any excess oil. Serve on toast – no need to butter it – with a sprinkling of the sea salt and freshly ground black pepper.",
-      "Delicious served on some 7-grain bread."
+      "Delicious served on some 7-grain bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg",
-    "imageAlt": "Sunny side-up eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg",
+    imageAlt: "Sunny side-up eggs",
   },
   {
-    "name": "Smoked salmon and scrambled eggs",
-    "subName": "A breakfast classic on toast",
-    "specialDiets": [],
-    "metaDescription": "This smoked salmon recipe with scrambled eggs is to die for! Smoked salmon, eggs and sourdough – the dream combination for breakfast, brunch, lunch, or even dinner.",
-    "description": "“A classic breakfast treat sure to get you a smile – smoked salmon and silky scrambled eggs. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Smoked salmon and scrambled eggs",
+    subName: "A breakfast classic on toast",
+    specialDiets: [],
+    metaDescription:
+      "This smoked salmon recipe with scrambled eggs is to die for! Smoked salmon, eggs and sourdough – the dream combination for breakfast, brunch, lunch, or even dinner.",
+    description:
+      "“A classic breakfast treat sure to get you a smile – smoked salmon and silky scrambled eggs. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Eggs",
-      "Christmas",
-      "British",
-      "Seafood",
-      "Salmon",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Eggs", "Christmas", "British", "Seafood", "Salmon", "Breakfast"],
+    ingredients: [
       "2 slices sourdough or crusty white bread",
       "30 g butter , plus a little extra for spreading",
       "6 large free-range eggs",
       "1 lemon",
-      "4 slices smoked salmon , from sustainable sources, ask your fishmonger"
+      "4 slices smoked salmon , from sustainable sources, ask your fishmonger",
     ],
-    "instructions": [
+    instructions: [
       "Put the bread on to toast.",
       "Melt the butter in a small saucepan over a moderate heat until it’s foaming.",
       "Whisk the eggs in a bowl and add to the saucepan. Stir the eggs continuously with something flexible like a spatula to get right into the corners, and cook until little pieces of cooked egg are surrounded by soft, smooth and still quite runny egg. The egg will continue to cook even when the heat is turned off, so undercook them slightly and leave them in the pan while you butter your toast.",
       "Season the eggs with sea salt and freshly ground black pepper to taste and pour over the toast.",
-      "Quarter the lemon, then drape the salmon over the eggs and serve it with the lemon wedges. Add plenty of black pepper and serve immediately."
+      "Quarter the lemon, then drape the salmon over the eggs and serve it with the lemon wedges. Add plenty of black pepper and serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/506_1_1441272011.jpg",
-    "imageAlt": "Smoked salmon and scrambled eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/506_1_1441272011.jpg",
+    imageAlt: "Smoked salmon and scrambled eggs",
   },
   {
-    "name": "Scrambled egg muffins with smoked salmon and soured cream",
-    "subName": "A posh breakfast or brunch",
-    "specialDiets": [],
-    "metaDescription": "This smoked salmon and scrambled egg recipe is perfect for a classy breakfast or brunch; it is a simple recipe but so tasty and sure to impress.",
-    "description": "“Buttery toasted muffins, silky eggs and salmon… what could be better to start the day? ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Scrambled egg muffins with smoked salmon and soured cream",
+    subName: "A posh breakfast or brunch",
+    specialDiets: [],
+    metaDescription:
+      "This smoked salmon and scrambled egg recipe is perfect for a classy breakfast or brunch; it is a simple recipe but so tasty and sure to impress.",
+    description:
+      "“Buttery toasted muffins, silky eggs and salmon… what could be better to start the day? ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "British",
       "Salmon",
       "Muffin",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "4 large free-range eggs , preferably free-range or organic",
       "sea salt",
       "freshly ground black pepper",
@@ -6096,43 +6045,46 @@
       "8 slices smoked salmon , from sustainable sources, ask your fishmonger",
       "140 ml soured cream",
       "1 small bunch fresh chives , finely chopped",
-      "1 lemon , quartered"
+      "1 lemon , quartered",
     ],
-    "instructions": [
+    instructions: [
       "Serve this dish for a classy breakfast or brunch.",
       "Crack the eggs into a bowl, whisk them lightly and season them with salt and pepper. Put your muffins in the toaster, ready for action. Melt half the butter in a small saucepan over a medium heat until bubbling, then tip the eggs in. Stir continuously with a wooden spoon, getting right into the edges. Cook until the runny egg starts to thicken.",
       "Turn the heat off when the eggs are still slightly undercooked – they will keep on cooking in the warm pan while you're toasting and buttering your muffins. Stir the rest of the butter into the eggs. Place the buttered muffin halves on individual plates and cover each one with a spoonful of scrambled egg. Drape a slice of salmon over each muffin half, dollop some soured cream on top and sprinkle with chopped chives and a twist of black pepper.",
       "Serve with your lemon wedges and a nice cup of tea – or a glass of something fizzy.",
-      "Tip: To make things easier, toast your muffins first and keep them warm in the oven."
+      "Tip: To make things easier, toast your muffins first and keep them warm in the oven.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/486_1_1438962870.jpg",
-    "imageAlt": "Scrambled egg muffins with smoked salmon and soured cream"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/486_1_1438962870.jpg",
+    imageAlt: "Scrambled egg muffins with smoked salmon and soured cream",
   },
   {
-    "name": "Potato cakes with smoked salmon",
-    "subName": "Perfect for a lazy brunch ",
-    "specialDiets": [],
-    "metaDescription": "Potato cakes with smoked salmon and a soft boiled egg is a lovely little recipe and great for a lazy brunch; packed full of contrasting texture and taste.",
-    "description": "“These crispy, grated potato cakes are an absolute dream topped with the soft-boiled eggs ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus chilling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus chilling time"
+    name: "Potato cakes with smoked salmon",
+    subName: "Perfect for a lazy brunch ",
+    specialDiets: [],
+    metaDescription:
+      "Potato cakes with smoked salmon and a soft boiled egg is a lovely little recipe and great for a lazy brunch; packed full of contrasting texture and taste.",
+    description:
+      "“These crispy, grated potato cakes are an absolute dream topped with the soft-boiled eggs ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "40 minutes plus chilling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus chilling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Dinner for two",
       "Mother's day",
       "British",
       "Potato",
       "Salmon",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "330 g Desirée potatoes , peeled",
       "2 spring onions , finely sliced",
       "sea salt",
@@ -6142,86 +6094,81 @@
       "2 free-range eggs",
       "3 slices good-quality smoked salmon , from sustainable sources, ask your fishmonger",
       "2 heaped teaspoons soured cream",
-      "1 bunch fresh chives , finely chopped"
+      "1 bunch fresh chives , finely chopped",
     ],
-    "instructions": [
+    instructions: [
       "Boil the potatoes in salted water until just cooked. Drain well and, when cool enough to handle, grate on the coarse side of a cheese grater into a mixing bowl. Add the spring onions, seasoning, flour and half the butter and mix well. Divide into 4 equal balls and pat into flat rounds. Leave covered in the fridge overnight if you can.",
       "Heat a non-stick frying pan over a moderate heat and add the rest of the butter. Gently fry the potato cakes, 2 at a time, for 2 to 3 minutes each side until light brown and heated through. Keep warm.",
-      "Meanwhile, soft boil the eggs for 4 minutes – this recipe works best with runny yolks. Arrange a couple of potato cakes on each plate and top with smoked salmon. Shell the eggs and place on top. Spoon soured cream over the eggs and sprinkle over the chives. Season well."
+      "Meanwhile, soft boil the eggs for 4 minutes – this recipe works best with runny yolks. Arrange a couple of potato cakes on each plate and top with smoked salmon. Shell the eggs and place on top. Spoon soured cream over the eggs and sprinkle over the chives. Season well.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/414_36_1434038614.jpg",
-    "imageAlt": "Potato cakes with smoked salmon"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/414_36_1434038614.jpg",
+    imageAlt: "Potato cakes with smoked salmon",
   },
   {
-    "name": "Pancakes USA stylie",
-    "subName": "Beautifully fluffy & thick",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Make an epic pancake stack with this American style pancake recipe. Thick and fluffy pancakes with syrup is such a winning combination for an epic brunch!",
-    "description": "“Pile up these American pancakes with fruit, a dollop of crème fraîche, bacon, syrup… all sorts. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Pancakes USA stylie",
+    subName: "Beautifully fluffy & thick",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Make an epic pancake stack with this American style pancake recipe. Thick and fluffy pancakes with syrup is such a winning combination for an epic brunch!",
+    description:
+      "“Pile up these American pancakes with fruit, a dollop of crème fraîche, bacon, syrup… all sorts. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Eggs",
-      "Pancake day",
-      "American",
-      "Breakfast",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Eggs", "Pancake day", "American", "Breakfast", "One-pan recipes"],
+    ingredients: [
       "3 large free-range eggs",
       "115 g plain flour",
       "1 heaped teaspoon baking powder",
-      "140 ml milk"
+      "140 ml milk",
     ],
-    "instructions": [
+    instructions: [
       "First separate the eggs, putting the whites into one bowl and the yolks into another.",
       "Add the flour, baking powder and milk to the yolks and mix to a smooth thick batter.",
       "Whisk the whites with 1 pinch of sea salt until they form stiff peaks, then fold into the batter – it is now ready to use.",
       "Heat a non-stick pan over a medium heat, pour some of the batter into the pan and cook for a couple of minutes, or until it starts to look golden and firm.",
       "At this point sprinkle your chosen flavouring (see below) onto the uncooked side before loosening with a spatula and flipping the pancake over. Continue frying until both sides are golden.",
-      "You can make these pancakes large or small, depending on what you prefer. Serve them with a drizzle of maple syrup, or even with some butter or crème fraîche. If you choose to sprinkle with a flavouring, try one of these... fresh corn from the cob, crispy bacon or pancetta, blueberries, banana, stewed apple, grated chocolate – anything else you can imagine..."
+      "You can make these pancakes large or small, depending on what you prefer. Serve them with a drizzle of maple syrup, or even with some butter or crème fraîche. If you choose to sprinkle with a flavouring, try one of these... fresh corn from the cob, crispy bacon or pancetta, blueberries, banana, stewed apple, grated chocolate – anything else you can imagine...",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/378_1_1438763691.jpg",
-    "imageAlt": "Pancakes USA stylie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/378_1_1438763691.jpg",
+    imageAlt: "Pancakes USA stylie",
   },
   {
-    "name": "Omelette",
-    "subName": "A tasty breakfast, lunch or dinner in no time",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "A good omelette recipe is an essential for any beginner cook. Some good omelette ideas are tomato & basil, mushroom, or ham & cheese. From jamieoliver.com.",
-    "description": "“Plain or with veggies, omelettes are really easy to knock together and super-satisfying. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Omelette",
+    subName: "A tasty breakfast, lunch or dinner in no time",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "A good omelette recipe is an essential for any beginner cook. Some good omelette ideas are tomato & basil, mushroom, or ham & cheese. From jamieoliver.com.",
+    description:
+      "“Plain or with veggies, omelettes are really easy to knock together and super-satisfying. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Eggs",
       "Breakfast",
       "Meals for one",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "BASIC OMELETTE",
       "2 large free-range eggs",
       "1 small knob of unsalted butter",
@@ -6232,41 +6179,40 @@
       "olive oil",
       "OPTIONAL: MUSHROOM OMELETTE",
       "2 or 3 field-type mushrooms",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "For a basic omelette, crack the eggs into a mixing bowl with a pinch of sea salt and black pepper. Beat well with a fork.",
       "Heat a small knob of butter in a small frying pan on a low heat, and once melted and bubbling, add the eggs and move the pan around to spread them out evenly.",
       "When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the cheese (if using). I sometimes grate mine directly on to the omelette.",
       "Using a spatula, ease around the edges of the omelette, then fold it over in half. When it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate.",
       "For a tomato and basil omelette, pick and roughly tear the basil leaves. Chop the tomatoes in half, then add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around for 1 minute, then turn the heat down to medium and sprinkle over the basil leaves. Add the eggs and move the pan around to spread them out evenly. Continue as for the basic omelette.",
-      "For a mushroom omelette, quarter or roughly chop the mushrooms and add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around until golden, then turn the heat down to medium. Add the eggs and move the pan around to spread them out evenly. When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the Cheddar. Continue as for the basic omelette."
+      "For a mushroom omelette, quarter or roughly chop the mushrooms and add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around until golden, then turn the heat down to medium. Add the eggs and move the pan around to spread them out evenly. When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the Cheddar. Continue as for the basic omelette.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/366_1_1436868647.jpg",
-    "imageAlt": "Omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/366_1_1436868647.jpg",
+    imageAlt: "Omelette",
   },
   {
-    "name": "Kedgeree",
-    "subName": "Spicy rice, smoked haddock and boiled eggs",
-    "specialDiets": [],
-    "metaDescription": "An easy kedgeree recipe from Jamie Oliver. This recipe shows you how to make kedgeree with smoked haddock, which is a really beautiful and flavourful fish.",
-    "description": "“Tuck into this curried egg, fish and rice dish at any time of day - it's always a winner ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Kedgeree",
+    subName: "Spicy rice, smoked haddock and boiled eggs",
+    specialDiets: [],
+    metaDescription:
+      "An easy kedgeree recipe from Jamie Oliver. This recipe shows you how to make kedgeree with smoked haddock, which is a really beautiful and flavourful fish.",
+    description:
+      "“Tuck into this curried egg, fish and rice dish at any time of day - it's always a winner ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Indian",
-      "Breakfast",
-      "Eggs"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Indian", "Breakfast", "Eggs"],
+    ingredients: [
       "2 large free-range eggs",
       "680 g undyed smoked haddock fillets , from sustainable sources, ask your fishmonger, pin-boned",
       "2 fresh bay leaves",
@@ -6282,41 +6228,44 @@
       "2 lemons , juice of",
       "2 good handfuls fresh coriander , leaves picked and chopped",
       "1 fresh red chilli , finely chopped",
-      "250g fat-free natural yoghurt"
+      "250g fat-free natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Boil the eggs for 10 minutes, then hold under cold running water. Put the fish and bay leaves in a shallow pan with enough water to cover. Bring to the boil, cover and simmer for about 5 minutes, until cooked through. Remove from pan and leave to cool. Remove the skin from fish, flake into chunks and set aside.",
       "Cook the rice in salted water for about 10 minutes and drain. Refresh in cold water, drain again, and leave in the fridge until needed. Melt the butterghee in a pan over a low heat. Add the ginger, onion and garlic. Soften for about 5 minutes, then add the curry powder and mustard seeds. Cook for a further few minutes, then add the chopped tomatoes and lemon juice.",
-      "Quarter the eggs. Add the fish and rice to a pan and gently heat through. Add the eggs, most of the coriander and the chilli and stir gently. Place in a warm serving dish. Mix the rest of the coriander into the yoghurt and serve with the kedgeree."
+      "Quarter the eggs. Add the fish and rice to a pan and gently heat through. Add the eggs, most of the coriander and the chilli and stir gently. Place in a warm serving dish. Mix the rest of the coriander into the yoghurt and serve with the kedgeree.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/301_1_1439300739.jpg",
-    "imageAlt": "Kedgeree"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/301_1_1439300739.jpg",
+    imageAlt: "Kedgeree",
   },
   {
-    "name": "Glasgow potato scones with best scrambled egg and smoked salmon",
-    "subName": "An absolutely brilliant brunch recipe",
-    "specialDiets": [],
-    "metaDescription": "Smoked salmon with potato scones and scrambled eggs for breakfast is one of the best ways to start the day; a beautiful brunch to share with friends.",
-    "description": "“North of the border they call these tattie scones – teamed with good Scottish salmon they're a dream ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes plus cooling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes plus cooling time"
+    name: "Glasgow potato scones with best scrambled egg and smoked salmon",
+    subName: "An absolutely brilliant brunch recipe",
+    specialDiets: [],
+    metaDescription:
+      "Smoked salmon with potato scones and scrambled eggs for breakfast is one of the best ways to start the day; a beautiful brunch to share with friends.",
+    description:
+      "“North of the border they call these tattie scones – teamed with good Scottish salmon they're a dream ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes plus cooling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes plus cooling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Great Britain",
       "Burns Night Specials",
       "Christmas",
       "British",
       "Salmon",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g flour potatoes , skins on",
       "100 g plain flour",
       "1 small bunch fresh chives",
@@ -6327,46 +6276,39 @@
       "200 g good-quality smoked salmon , from sustainable sources, ask your fishmonger",
       "a few pinches watercress , washed, to serve",
       "extra virgin olive oil",
-      "1 lemon , cut into wedges, to serve"
+      "1 lemon , cut into wedges, to serve",
     ],
-    "instructions": [
+    instructions: [
       "During a stay in Glasgow I was introduced to these incredible potato scones. I didn’t grow up eating these, but they’re beautiful and so easy. A bit like bubble without the squeak. This was my first attempt at mastering them and it turned into this lovely breakfast, which I made in a pretty little flat in Glasgow’s West End. It’s the posh area of town and is full of beautiful shops and neighbourhoods. Well worth a visit.\nThis dish is the best brunch I can think of, besides maybe kedgeree. I never would have thought of putting this much flour with potatoes, but it works brilliantly. Give them a go with bangers, stews, on their own, or as part of this lovely brunch…I assure you this is one of the nicest ways to start the day, ever.",
       "Cut the potatoes into 2.5cm chunks and cook them in boiling salted water for around 7 minutes, or until tender. Drain them, allow them to cool, then return them to the empty pan and add the flour. Lightly mash everything together but try to avoid stirring it up too much. Finely slice the chives and add them to the potatoes with a knob of butter and the baking powder, then mash a few more times. (If you like, you can grate a little cheese into the mixture at this point – it’s delicious.) Season, then use your clean hands to bring the mixture together. Pinch off a little, taste and adjust the seasoning, then divide into 4 balls and dust with flour.",
       "Put a large frying pan (roughly 32cm) on a medium heat and add a drizzle of olive oil. Add the potato balls (you may need to cook them in batches) and pat them down so they’re almost flat – 2cm thick is about right. Cook for around 10 minutes, turning them every few minutes until golden on both sides.",
       "Meanwhile, beat the eggs so they are broken and marbled. Season and put aside. When your potato scones are perfectly cooked, divide them between your plates, then take the pan off the heat and add a knob of butter. Once bubbling, pour in the eggs and put back on a low heat. Don’t be tempted to stir aggressively, use a rubber spatula to just sweep up the cooked layer of egg from the bottom of the pan every time it forms, so the uncooked egg can get down there and set. This will give you the nicest texture. The key to good scrambled egg is getting the perfect ratio of cooked silky egg and slightly less-cooked curds. To achieve that, you need to remove it from the heat once it looks three-quarters cooked – trust me. It will carry on cooking and by the time you mix it around one more time and serve, it will be gold.",
-      "Arrange a piece of smoked salmon on top and add a pinch of watercress. Drizzle over a little extra virgin olive oil and serve with wedges of lemon for squeezing over."
+      "Arrange a piece of smoked salmon on top and add a pinch of watercress. Drizzle over a little extra virgin olive oil and serve with wedges of lemon for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/229_1_1436796891.jpg",
-    "imageAlt": "Glasgow potato scones with best scrambled egg and smoked salmon"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/229_1_1436796891.jpg",
+    imageAlt: "Glasgow potato scones with best scrambled egg and smoked salmon",
   },
   {
-    "name": "Fruit smoothie",
-    "subName": "Mango, lime, banana & coconut",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Fruit smoothies make delicious summer drinks; try Jamie's fruit smoothie recipe with banana, mango, coconut milk, cardamom and lime for an exotic treat!",
-    "description": "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Fruit smoothie",
+    subName: "Mango, lime, banana & coconut",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Fruit smoothies make delicious summer drinks; try Jamie's fruit smoothie recipe with banana, mango, coconut milk, cardamom and lime for an exotic treat!",
+    description:
+      "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Fruit",
-      "Breakfast",
-      "Juices and smoothies",
-      "Snacks"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Fruit", "Breakfast", "Juices and smoothies", "Snacks"],
+    ingredients: [
       "1 banana",
       "2 ripe mangos",
       "400 g tin of light coconut milk",
@@ -6375,85 +6317,87 @@
       "1 handful of ice cubes",
       "GARNISH",
       "lime zest",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "Peel the banana and roughly chop it.",
       "Skin the mangos, remove the stones and roughly chop the flesh.",
       "Put the fruit in a food processor or liquidizer and blend together with the rest of the ingredients. Make sure you blend the mixture really well, then pour the fruit smoothie into a tall, chilled glass.",
-      "Sprinkle over a bit of lime zest and some freshly ground black pepper. Drink straight away."
+      "Sprinkle over a bit of lime zest and some freshly ground black pepper. Drink straight away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Aot7m3ydKcK9Y9auF_ElXd.jpg",
-    "imageAlt": "Fruit smoothie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Aot7m3ydKcK9Y9auF_ElXd.jpg",
+    imageAlt: "Fruit smoothie",
   },
   {
-    "name": "Frozen fruit smoothies",
-    "subName": "With oats & nuts",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try Jamie's frozen fruit smoothie recipe for a healthy and tasty breakfast alternative, with yoghurt, fruit, and oats and nuts to keep you energised.",
-    "description": "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Frozen fruit smoothies",
+    subName: "With oats & nuts",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try Jamie's frozen fruit smoothie recipe for a healthy and tasty breakfast alternative, with yoghurt, fruit, and oats and nuts to keep you energised.",
+    description:
+      "“Really scrumptious and filling, fresh fruit smoothies are a great start to the day or a sweet treat ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Fruit",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Freezer-friendly recipes",
-      "Juices and smoothies"
+      "Juices and smoothies",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe banana",
       "1 glass frozen fruit",
       "2 heaped tablespoons natural yoghurt",
       "1 small handful of oats",
       "1 small handful of mixed nuts",
       "1 glass of organic soya milk, skimmed milk or apple juice",
-      "honey , to taste, optional"
+      "honey , to taste, optional",
     ],
-    "instructions": [
-      "Peel and slice your banana and put it into a blender with your frozen fruit and the yoghurt. Whiz it up and add the oats and nuts. Add the soya milk, skimmed milk, or apple juice and whiz again, until nice and smooth. If it's a bit too thick for you, just add a splash more milk or juice and whiz around again. Give it a good stir, then have a taste. Rarely with a frozen fruit smoothie should you need to sweeten it, but if you think it needs a bit of extra sweetness you can add a little honey to taste — you won't need much."
+    instructions: [
+      "Peel and slice your banana and put it into a blender with your frozen fruit and the yoghurt. Whiz it up and add the oats and nuts. Add the soya milk, skimmed milk, or apple juice and whiz again, until nice and smooth. If it's a bit too thick for you, just add a splash more milk or juice and whiz around again. Give it a good stir, then have a taste. Rarely with a frozen fruit smoothie should you need to sweeten it, but if you think it needs a bit of extra sweetness you can add a little honey to taste — you won't need much.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/219_1_1436794575.jpg",
-    "imageAlt": "Frozen fruit smoothies"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/219_1_1436794575.jpg",
+    imageAlt: "Frozen fruit smoothies",
   },
   {
-    "name": "Coconut pancakes with pomegranate jewels",
-    "subName": "With a dollop of yoghurt & zingy citrus",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's Coconut Pancakes recipe with pomegranate jewels is a delicious and exotic pancake recipe – the perfect dessert for a summer's evening!",
-    "description": "“I'm loving the exotic flavours in this pancake recipe, with creamy coconut and fresh fruit. ”",
-    "servings": "Serves Makes 6 pancakes",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Coconut pancakes with pomegranate jewels",
+    subName: "With a dollop of yoghurt & zingy citrus",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's Coconut Pancakes recipe with pomegranate jewels is a delicious and exotic pancake recipe – the perfect dessert for a summer's evening!",
+    description:
+      "“I'm loving the exotic flavours in this pancake recipe, with creamy coconut and fresh fruit. ”",
+    servings: "Serves Makes 6 pancakes",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Mother's day",
       "Pancake day",
       "Breakfast",
-      "Puddings & desserts"
+      "Puddings & desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 cup self-raising flour",
       "1 teaspoon baking powder , (optional)",
@@ -6462,46 +6406,41 @@
       "1 pomegranate",
       "20 g unsalted butter",
       "1 lime",
-      "1 orange"
+      "1 orange",
     ],
-    "instructions": [
+    instructions: [
       "Crack the egg into a large mixing bowl, add the cup of flour and the baking powder (if using), then fill the same cup with milk and add that too, with a tiny pinch of sea salt.",
       "Whisk until smooth, then mix in the coconut.",
       "Halve the pomegranate, then holding each half cut-side down in your fingers, bash with the back of a spoon so all the seeds tumble out into a bowl. Fill the bowl with water and pick out any white bits that float to the top, then drain.",
       "Melt half the butter in a large non-stick frying pan on a medium heat. Once it starts to bubble, spoon pancake batter into the pan so it is roughly the size of an orange – you should be able to cook 2 to 3 pancakes at a time.",
       "Cook the pancakes for 1 to 2 minutes, or until little bubbles rise up to the top, then flip them carefully with a heatproof spatula. Cook for another minute or so, or until golden on both sides.",
       "Transfer to a plate and cover with tin foil to keep warm. Carefully wipe the pan clean with kitchen paper, then add the remaining butter and keep going until all the batter is used up.",
-      "To serve, top the coconut pancakes with a spoonful of yoghurt and some pomegranate seeds. Finely grate over the lime and orange zest, then dig in!"
+      "To serve, top the coconut pancakes with a spoonful of yoghurt and some pomegranate seeds. Finely grate over the lime and orange zest, then dig in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/146_1_1438676638.jpg",
-    "imageAlt": "Coconut pancakes with pomegranate jewels"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/146_1_1438676638.jpg",
+    imageAlt: "Coconut pancakes with pomegranate jewels",
   },
   {
-    "name": "Charred eggy bread",
-    "subName": "With strawberries & honey",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's spin on the eggy bread recipe marries sourdough, limoncello, strawberries and honey; Oh, and don’t forget the ricotta - a match made in heaven!",
-    "description": "“Enjoy this twist on classic French toast with limoncello for an indulgent breakfast or sweet treat ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Charred eggy bread",
+    subName: "With strawberries & honey",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's spin on the eggy bread recipe marries sourdough, limoncello, strawberries and honey; Oh, and don’t forget the ricotta - a match made in heaven!",
+    description:
+      "“Enjoy this twist on classic French toast with limoncello for an indulgent breakfast or sweet treat ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Eggs",
-      "Mother's day",
-      "Bread",
-      "Fruit",
-      "Breakfast"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Eggs", "Mother's day", "Bread", "Fruit", "Breakfast"],
+    ingredients: [
       "2 tablespoons caster sugar , plus a little extra",
       "250 g strawberries , halved",
       "200 g ricotta , sliced or crumbled",
@@ -6510,45 +6449,45 @@
       "2 free-range eggs",
       "50 ml full-fat milk",
       "1 good dash limoncello",
-      "4 thick slices stale sourdough or Italian bread"
+      "4 thick slices stale sourdough or Italian bread",
     ],
-    "instructions": [
+    instructions: [
       "Mix the beaten egg with the milk and a dash of limoncello in a shallow dish. Dip the bread slices into the mixture and shake off the excess.",
       "Sprinkle the slices with the caster sugar, then cook on the barbecue for a couple of minutes on each side until golden.",
       "Dust the strawberries with caster sugar and grill them really quickly, just until the sugar on the outside browns.",
-      "Top the warm bread with ricotta and the grilled strawberries. Drizzle with honey and decorate with lemon zest."
+      "Top the warm bread with ricotta and the grilled strawberries. Drizzle with honey and decorate with lemon zest.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/120_1_1439310404.jpg",
-    "imageAlt": "Charred eggy bread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/120_1_1439310404.jpg",
+    imageAlt: "Charred eggy bread",
   },
   {
-    "name": "Buckwheat crepes with poached apple & pear",
-    "subName": "Simple & comforting",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This is a crepe recipe you will want to make time and time again; Jamie's Buckwheat Crepes recipe with a poached Apple and Pear is simply delicious!",
-    "description": "“This French-style pancakes recipe works a treat with sweet or savoury fillings, any time of day ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus chilling time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus chilling time"
+    name: "Buckwheat crepes with poached apple & pear",
+    subName: "Simple & comforting",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This is a crepe recipe you will want to make time and time again; Jamie's Buckwheat Crepes recipe with a poached Apple and Pear is simply delicious!",
+    description:
+      "“This French-style pancakes recipe works a treat with sweet or savoury fillings, any time of day ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "20 minutes plus chilling time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus chilling time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Pancake day",
       "French",
       "Breakfast",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "3 free-range eggs",
       "100 g butter , melted, plus a knob to grease the crêpe pan",
       "275 ml good-quality cider",
@@ -6562,142 +6501,145 @@
       "90 g sugar",
       "1 vanilla pod",
       "1 lemon , zest of",
-      "1 orange , zest of"
+      "1 orange , zest of",
     ],
-    "instructions": [
+    instructions: [
       "For the poached fruit, place all the ingredients in a large saucepan over a high heat. Bring to the boil then reduce the heat and gently simmer.",
       "Meanwhile, for the crêpes, beat the eggs in a bowl then add the butter, cider, 250ml water and a pinch of salt. Slowly sift in the flour, beating as you go, until you have a smooth batter. Refrigerate for at least 30 minutes.",
       "When the fruit is tender but still holds its shape, bring the batter out of the fridge. Melt a knob of butter in a crêpe pan over a medium-high heat. Add a ladleful of batter and tip the pan to spread it around.",
-      "Once bubbles form on the surface, loosen the edges of the crêpe with a palette knife or spatula before gently turning it over. Cook for another minute till golden and cooked on both sides, then transfer to a warm oven while you continue making the others. Serve with poached fruit and cream."
+      "Once bubbles form on the surface, loosen the edges of the crêpe with a palette knife or spatula before gently turning it over. Cook for another minute till golden and cooked on both sides, then transfer to a warm oven while you continue making the others. Serve with poached fruit and cream.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/100_1_1438676209.jpg",
-    "imageAlt": "Buckwheat crepes with poached apple & pear"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/100_1_1438676209.jpg",
+    imageAlt: "Buckwheat crepes with poached apple & pear",
   },
   {
-    "name": "Breakfast pancakes",
-    "subName": "Packed with grated pear",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Everybody needs a good breakfast pancake recipe, and this simple pancake recipe from Jamie Oliver is a crowd-pleaser. Grate seasonal fruits into the batter for a for a twist.",
-    "description": "“This fluffy American-style one-cup pancake recipe is hard to beat – it couldn’t be easier to remember and it works like a charm every time. Have fun with it by switching up the fruit; strawberries, apples, blackberries, blueberries and bananas are all delicious, too. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Breakfast pancakes",
+    subName: "Packed with grated pear",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Everybody needs a good breakfast pancake recipe, and this simple pancake recipe from Jamie Oliver is a crowd-pleaser. Grate seasonal fruits into the batter for a for a twist.",
+    description:
+      "“This fluffy American-style one-cup pancake recipe is hard to beat – it couldn’t be easier to remember and it works like a charm every time. Have fun with it by switching up the fruit; strawberries, apples, blackberries, blueberries and bananas are all delicious, too. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Fruit",
       "Christmas",
       "Pancake day",
       "American",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 cup of self-raising flour",
       "1 cup of semi-skimmed milk",
       "1 large free-range egg",
       "1 pear",
       "olive oil or unsalted butter",
       "natural yoghurt",
-      "runny honey"
+      "runny honey",
     ],
-    "instructions": [
+    instructions: [
       "Put the flour, milk, egg and a pinch of sea salt into a mixing bowl and whisk until smooth.",
       "Once combined, grate in the pear (core and all), then gently stir through.",
       "Drizzle a splash of oil or place a knob of butter into a large pan on a medium heat, then add the batter, a spoonful at a time – you’ll need to work in batches, cooking them for a few minutes, or until golden on the bottom, then flipping over and cooking for a few minutes more until they’re done.",
-      "When they are golden and fluffy, serve them right away with a dollop of natural yoghurt and some runny honey drizzled all over the top."
+      "When they are golden and fluffy, serve them right away with a dollop of natural yoghurt and some runny honey drizzled all over the top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/97_1_1439915068.jpg",
-    "imageAlt": "Breakfast pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/97_1_1439915068.jpg",
+    imageAlt: "Breakfast pancakes",
   },
   {
-    "name": "Breakfast eggy crumpets",
-    "subName": "With smoked bacon & a hint of chilli",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This cheeky alternative to eggy bread is one of Jamie's favourite breakfasts – the smoky bacon and fiery chilli make this the perfect hangover cure!",
-    "description": "“This has all my breakfast favourites and is so simple – perfect if you're feeling a little delicate ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Breakfast eggy crumpets",
+    subName: "With smoked bacon & a hint of chilli",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This cheeky alternative to eggy bread is one of Jamie's favourite breakfasts – the smoky bacon and fiery chilli make this the perfect hangover cure!",
+    description:
+      "“This has all my breakfast favourites and is so simple – perfect if you're feeling a little delicate ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Eggs",
       "Christmas",
       "Father's day",
       "Mother's day",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 fresh red chilli",
       "2 large free-range eggs",
       "olive oil",
       "6 rashers of higher-welfare smoked bacon",
       "4 crumpets",
-      "brown sauce or maple syrup"
+      "brown sauce or maple syrup",
     ],
-    "instructions": [
+    instructions: [
       "Deseed and very finely chop the chilli, then add to a bowl with a pinch of sea salt and black pepper.",
       "Crack in the eggs and whisk together.",
       "Drizzle a splash of oil into a large non-stick frying pan over a medium heat, add the bacon and allow to crisp up on both sides.",
       "Add the crumpets to the egg mixture, really pushing and turning them – they’ll soak it up like a sponge.",
       "Push the bacon to one side and tilt the pan so the fat runs into the middle. Add the crumpets and fry for a few minutes on each side, or until golden.",
-      "Serve the eggy crumpets topped with the crispy bacon, and with a dollop of brown sauce or a drizzle of maple syrup. To finish, you can sprinkle over any extra chopped chilli, if you’re a chilli freak like me. Perfect – heaven on a plate."
+      "Serve the eggy crumpets topped with the crispy bacon, and with a dollop of brown sauce or a drizzle of maple syrup. To finish, you can sprinkle over any extra chopped chilli, if you’re a chilli freak like me. Perfect – heaven on a plate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/96_1_1349106083.jpg",
-    "imageAlt": "Breakfast eggy crumpets"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/96_1_1349106083.jpg",
+    imageAlt: "Breakfast eggy crumpets",
   },
   {
-    "name": "Boxing Day bubble & squeak",
-    "subName": "Packed with leftover seasonal veg",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Looking for a bubble and squeak recipe? Jamie's epic bubble and squeak is the perfect recipe to make with all those yummy Christmas leftovers!",
-    "description": "“I've played with a classic bubble and squeak recipe to reinvent any leftover Christmas bits and bobs – out of uninspiring leftovers comes a festive treat that will make everyone super-happy! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Boxing Day bubble & squeak",
+    subName: "Packed with leftover seasonal veg",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Looking for a bubble and squeak recipe? Jamie's epic bubble and squeak is the perfect recipe to make with all those yummy Christmas leftovers!",
+    description:
+      "“I've played with a classic bubble and squeak recipe to reinvent any leftover Christmas bits and bobs – out of uninspiring leftovers comes a festive treat that will make everyone super-happy! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Pork",
       "Eggs",
       "Vegetables",
       "Christmas",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "800 g leftover veg , about half potatoes, then brussels sprouts, carrots, turnip",
       "4 ripe tomatoes",
       "4 large field mushrooms",
       "8 rashers of higher-welfare smoked streaky bacon",
       "4 higher-welfare chipolatas",
-      "4 large free-range eggs"
+      "4 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the grill to high.",
       "Drizzle 1 tablespoon of oil into a non-stick ovenproof frying pan over a medium heat, add the leftover veg and start mashing them together.",
       "Cook for 15 to 20 minutes, and keep mashing them over the course of the cooking time so they break down and get nice and crisp on the bottom.",
@@ -6707,38 +6649,31 @@
       "When the tray of extras is just about perfect, turn the oven to 180ºC/350ºF/gas 4 and pop them down at the bottom of the oven to keep warm,",
       "Give the bubble and squeak one final pat down and use the back of a spoon to make four dents, evenly spaced around the pan. Crack in the eggs – it looks fantastic, isn’t predictable and saves on washing up.",
       "Season with a tiny bit of salt and pepper and put in the oven for about 8 minutes, or until the eggs are cooked to your liking.",
-      "To serve, pop the tray of bubble & squeak and eggs in the middle of the table with the tray of extras on the side."
+      "To serve, pop the tray of bubble & squeak and eggs in the middle of the table with the tray of extras on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46293391.jpg",
-    "imageAlt": "Boxing Day bubble & squeak"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46293391.jpg",
+    imageAlt: "Boxing Day bubble & squeak",
   },
   {
-    "name": "Best morning-after breakfast",
-    "subName": "My Spanish-style take on the full English",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "One of Jamie's favourite breakfast egg recipes includes chunky potatoes, chorizo and of course free range eggs; fire up the oven and give it a go! ",
-    "description": "“Whatever you got up to the night before, this fabulous one-pan fry-up will sort you right out ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Best morning-after breakfast",
+    subName: "My Spanish-style take on the full English",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "One of Jamie's favourite breakfast egg recipes includes chunky potatoes, chorizo and of course free range eggs; fire up the oven and give it a go! ",
+    description:
+      "“Whatever you got up to the night before, this fabulous one-pan fry-up will sort you right out ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Eggs",
-      "Christmas",
-      "British",
-      "Potato",
-      "Chorizo",
-      "Tomato"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Eggs", "Christmas", "British", "Potato", "Chorizo", "Tomato"],
+    ingredients: [
       "2 medium potatoes , cut into 3cm chunks",
       "sea salt",
       "freshly ground black pepper",
@@ -6747,42 +6682,43 @@
       "1 large handful of ripe cherry tomatoes",
       "6 large free-range eggs",
       "a few sprigs of fresh flat-leaf parsley , leaves picked and chopped",
-      "crusty bread , to serve"
+      "crusty bread , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Parboil the potatoes in a pan of salted boiling water for 5 to 6 minutes, or until almost cooked through. Drain and leave to steam dry.",
       "Cut the chorizo into 2cm chunks and place in a large non-stick ovenproof frying pan. Cook in the hot oven for a couple of minutes to render out the fat and give it a bit of colour. Carefully pull out the pan, give it a jiggle and add the sliced pepper. Return to the oven for 1 to 2 minutes, or until the pepper starts to soften. Add the potatoes and tomatoes to the pan and give it a good shake so that everything gets coated in all the lovely chorizo oil. Return to the oven for 2 to 3 minutes, or until everything is cooked through and nicely coloured.",
-      "Remove the pan from the oven and use the back of a spoon to make four wells in the mixture. Crack your eggs, one by one, into the wells. Season with salt and pepper, then return the pan to the oven for about 2 minutes (depending on how you like your eggs). Keep a close eye on the pan and pull it out as soon as the eggs are done to your liking. Scatter with chopped parsley, then take the pan to the table for everyone to tuck in. Serve with hunks of crusty bread."
+      "Remove the pan from the oven and use the back of a spoon to make four wells in the mixture. Crack your eggs, one by one, into the wells. Season with salt and pepper, then return the pan to the oven for about 2 minutes (depending on how you like your eggs). Keep a close eye on the pan and pull it out as soon as the eggs are done to your liking. Scatter with chopped parsley, then take the pan to the table for everyone to tuck in. Serve with hunks of crusty bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/80_1_1436967131.jpg",
-    "imageAlt": "Best morning-after breakfast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/80_1_1436967131.jpg",
+    imageAlt: "Best morning-after breakfast",
   },
   {
-    "name": "Banana pancakes",
-    "subName": "With a dollop of crème fraiche",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This awesome banana pancake recipe from Jamie Oliver will not disappoint dessert fans. Deliciously simple, this pancake recipe really is bananas!",
-    "description": "“My fluffy American-style pancakes with sticky bananas are a real treat for the weekend ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Banana pancakes",
+    subName: "With a dollop of crème fraiche",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This awesome banana pancake recipe from Jamie Oliver will not disappoint dessert fans. Deliciously simple, this pancake recipe really is bananas!",
+    description:
+      "“My fluffy American-style pancakes with sticky bananas are a real treat for the weekend ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Pancake day",
       "Breakfast",
       "Desserts",
-      "Puddings & desserts"
+      "Puddings & desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "3 large free-range eggs",
       "115 g plain flour",
       "1 heaped teaspoon baking powder",
@@ -6791,82 +6727,79 @@
       "2 knobs butter",
       "3 tablespoons caster sugar",
       "4 bananas",
-      "crème fraîche , to serve"
+      "crème fraîche , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Separate the eggs, putting the whites into one bowl and the yolks into another. Combine the plain flour, baking powder and milk with the egg yolks and mix until it forms a smooth, thick batter. Whisk the whites with the salt until they form stiff peaks. Fold the whites into the batter – it is now ready to use. Heat a non-stick frying pan over a moderate heat.",
       "Pour some of your batter into the pan and fry for a couple of minutes until it starts to look golden and firm. Loosen with a spatula and turn or flip the pancake over. Continue frying until golden. Melt the butter and sugar in a separate pan over a low heat until they form a caramel sauce – about 3 minutes.",
-      "Peel and cut the bananas lengthways, add them to the pan and cook gently until they are golden, turning after a few minutes. You might need to alter the cooking time slightly, depending on how ripe your bananas are. Serve them on the pancakes topped with a good spoonful of crème fraîche."
+      "Peel and cut the bananas lengthways, add them to the pan and cook gently until they are golden, turning after a few minutes. You might need to alter the cooking time slightly, depending on how ripe your bananas are. Serve them on the pancakes topped with a good spoonful of crème fraîche.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/49_1_1439297932.jpg",
-    "imageAlt": "Banana pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/49_1_1439297932.jpg",
+    imageAlt: "Banana pancakes",
   },
   {
-    "name": "Banana & honey bread",
-    "subName": "Fluffy & sweet ",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free"
-    ],
-    "metaDescription": "A tasty banana bread recipe which is great for any occasion, Jamie's banana bread has a touch of honey to make it that little bit more special. ",
-    "description": "“You can do all sorts with this banana bread – great with butter for brekkie or jazzed up for pudding ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes plus proving time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes plus proving time"
+    name: "Banana & honey bread",
+    subName: "Fluffy & sweet ",
+    specialDiets: ["Vegetarian", "Dairy-free"],
+    metaDescription:
+      "A tasty banana bread recipe which is great for any occasion, Jamie's banana bread has a touch of honey to make it that little bit more special. ",
+    description:
+      "“You can do all sorts with this banana bread – great with butter for brekkie or jazzed up for pudding ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "40 minutes plus proving time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes plus proving time",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Bread",
-      "British",
-      "Fruit",
-      "Breakfast",
-      "Baking"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Bread", "British", "Fruit", "Breakfast", "Baking"],
+    ingredients: [
       "1 x basic bread recipe",
       "6 bananas",
       "8 tablespoons runny honey",
-      "1 handful of almonds , cracked or chopped"
+      "1 handful of almonds , cracked or chopped",
     ],
-    "instructions": [
+    instructions: [
       "First of all, peel your bananas then purée them in a liquidizer or food processor. The mix will be surprisingly wet.",
       "Pour it into a measuring jug, then top up with water until you have 625ml or just over 1 pint. At Stage 1 of the basic bread recipe, use this banana liquid instead of the water to flavour your bread and make it nice and chewy. Also add half the honey with the nuts to the dough at this point. Then continue through the basic recipe as normal.",
       "At Stage 5 divide the dough into 10 balls. Then pack these next to each other in a flour-dusted baking tin where they will prove together. Before putting in the oven drizzle generously with the rest of the honey so that the top of the bread will caramelize, going nice and golden.",
-      "Bake in a preheated oven at 190ºC/375ºF/gas 5 for 20 minutes. Allow to cool for a little while, but it's best served still warm with butter and a glass of milk for breakfast while you read the paper. Also fantastic used in bread and butter pudding or simply heated up with a bit of ice cream."
+      "Bake in a preheated oven at 190ºC/375ºF/gas 5 for 20 minutes. Allow to cool for a little while, but it's best served still warm with butter and a glass of milk for breakfast while you read the paper. Also fantastic used in bread and butter pudding or simply heated up with a bit of ice cream.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/48_1_1438959491.jpg",
-    "imageAlt": "Banana & honey bread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/48_1_1438959491.jpg",
+    imageAlt: "Banana & honey bread",
   },
   {
-    "name": "Healthy cheese & corn pancakes",
-    "subName": "Smoky bacon & caramelised banana",
-    "specialDiets": [],
-    "metaDescription": "Try these healthy corn and cheese pancakes topped with smoky bacon and caramelised banana; a savoury pancake recipe that the whole family will enjoy.",
-    "description": "“Creamy cottage cheese keeps this pancake batter super-light and fluffy – a perfect breakfast or brunch. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Healthy cheese & corn pancakes",
+    subName: "Smoky bacon & caramelised banana",
+    specialDiets: [],
+    metaDescription:
+      "Try these healthy corn and cheese pancakes topped with smoky bacon and caramelised banana; a savoury pancake recipe that the whole family will enjoy.",
+    description:
+      "“Creamy cottage cheese keeps this pancake batter super-light and fluffy – a perfect breakfast or brunch. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Pork",
       "Father's day",
       "Mother's day",
       "Pancake day",
-      "Fruit"
+      "Fruit",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 340 g tin of sweetcorn",
       "6 spring onions",
       "1 fresh red chilli",
@@ -6877,46 +6810,47 @@
       "olive oil",
       "4 rashers of higher-welfare smoked streaky bacon",
       "4 small bananas",
-      "Tabasco jalapeño sauce , optional"
+      "Tabasco jalapeño sauce , optional",
     ],
-    "instructions": [
+    instructions: [
       "Tip the sweetcorn into a bowl, juice and all. Trim the spring onions and finely slice with the chilli (deseed if you like), then add to the bowl along with the eggs, cottage cheese and flour.",
       "Mix together, then gradually loosen with the milk to a thick but oozy batter. Lightly season with sea salt and black pepper.",
       "I like to cook and serve 2 pancakes at a time so each person gets a lovely hot plate of food. Put a large non-stick frying pan on a medium heat and wipe with a piece of oiled kitchen paper.",
       "Place 1 rasher of bacon in the pan and as soon as it starts to release its smoky fat, wiggle that around the pan. Add 2 small ladles of batter to one side and flatten them slightly.",
       "Peel 1 banana and cut into four chunky slices at an angle. Add them to the pan to caramelise, turning when golden. Once the pancakes are golden on the bottom, flip them over to cook on the other side. Finessing your temperature control so that everything is ready at the same time is an art – just tweak the temperature to help you out until you get your groove.",
-      "Get your first lucky customer seated at the table and serve their pancakes with the banana, bacon and Tabasco (I’m loving the green jalapeño one here) for drizzling, if they fancy it, while you crack on with the next portion."
+      "Get your first lucky customer seated at the table and serve their pancakes with the banana, bacon and Tabasco (I’m loving the green jalapeño one here) for drizzling, if they fancy it, while you crack on with the next portion.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1587_9_1439906443.jpg",
-    "imageAlt": "Healthy cheese & corn pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1587_9_1439906443.jpg",
+    imageAlt: "Healthy cheese & corn pancakes",
   },
   {
-    "name": "Berry pocket eggy bread",
-    "subName": "Pistachios, yoghurt, honey & cinnamon",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy this delicious and easy to make berry pocket eggy bread recipe with pistachios, yoghurt, honey and cinnamon for a hearty and comforting breakfast.",
-    "description": "“Crunchy pistachios are super-high in the mineral chloride, which our bodies need to make hydrochloric acid in the stomach, in turn aiding good digestion and keeping our gut happy. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Berry pocket eggy bread",
+    subName: "Pistachios, yoghurt, honey & cinnamon",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Enjoy this delicious and easy to make berry pocket eggy bread recipe with pistachios, yoghurt, honey and cinnamon for a hearty and comforting breakfast.",
+    description:
+      "“Crunchy pistachios are super-high in the mineral chloride, which our bodies need to make hydrochloric acid in the stomach, in turn aiding good digestion and keeping our gut happy. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Bread",
       "Mother's day",
       "Fruit",
       "Breakfast",
-      "Eggs"
+      "Eggs",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large free-range eggs",
       "1 small ripe banana",
       "ground nutmeg",
@@ -6926,9 +6860,9 @@
       "olive oil",
       "20 g shelled pistachios",
       "4 heaped tablespoons fat-free natural yoghurt",
-      "manuka honey"
+      "manuka honey",
     ],
-    "instructions": [
+    instructions: [
       "In a blender, blitz the eggs, peeled banana, and 1 pinch each of nutmeg and cinnamon until smooth, then pour into a wide shallow bowl.",
       "Cut your bread 2½cm thick, then cut a slit into the longest side of each slice and wiggle your knife inside to make a pocket.",
       "Use your finger to stuff the raspberries inside – pack as many in as you can, but be gentle so you don’t tear the bread.",
@@ -6936,9 +6870,10 @@
       "Meanwhile, put a large non-stick frying pan on a medium-low heat with 1 teaspoon of oil, then wipe it around and out with kitchen paper.",
       "Pour half the excess egg mixture into one side of the pan, then place a piece of soaked bread on top to give it a lovely pancake layer. Repeat with the rest of the mixture and the other slice alongside it.",
       "Cook for 3 to 4 minutes, or until golden, then confidently flip over to cook for the same amount of time. Meanwhile, smash up the pistachios in a pestle and mortar – toast them first, if you like.",
-      "Serve the eggy bread dolloped with yoghurt, sprinkled with pistachios and an extra pinch of cinnamon and drizzled with a little honey."
+      "Serve the eggy bread dolloped with yoghurt, sprinkled with pistachios and an extra pinch of cinnamon and drizzled with a little honey.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1579_9_1439906376.jpg",
-    "imageAlt": "Berry pocket eggy bread"
-  }
-]
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1579_9_1439906376.jpg",
+    imageAlt: "Berry pocket eggy bread",
+  },
+];

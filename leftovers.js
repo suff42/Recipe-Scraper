@@ -1,32 +1,31 @@
-[
+export const leftovers = [
   {
-    "name": "Vivid green risotto",
-    "subName": "Mixed seasonal greens, Parmesan & fresh herbs",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy.",
-    "description": "“Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy – there’s a real harmony between the shape of the veg and the size of the rice. For me, this is comfort food at its best. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Vivid green risotto",
+    subName: "Mixed seasonal greens, Parmesan & fresh herbs",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy.",
+    description:
+      "“Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy – there’s a real harmony between the shape of the veg and the size of the rice. For me, this is comfort food at its best. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Dinner Party",
       "Italian",
       "Mains",
       "One-pan recipes",
       "Family one-pan recipes",
-      "Freezer-friendly recipes"
+      "Freezer-friendly recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "180 g mixed seasonal greens , such as kale, cavolo nero, swiss chard, spinach, broccoli",
       "1.8 litres organic vegetable stock",
       "3 tablespoons extra virgin olive oil",
@@ -37,9 +36,9 @@
       "400 g risotto rice",
       "½ a bunch of fresh thyme or marjoram , (15g)",
       "125 ml white wine",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "Wash and prep 180g of mixed seasonal greens, removing any tough stalky bits, as necessary. Meanwhile, bring 1.8 litres of vegetable stock to a simmer over a medium heat.",
       "Add the prepped greens to the stock, pop the lid on and cook for 3 minutes, or until just tender.",
       "Carefully remove the greens to a blender using tongs, add 3 tablespoons of extra virgin olive oil and season to taste with sea salt and black pepper.",
@@ -50,33 +49,30 @@
       "Pour a decent splash of stock into the pan and wait until it’s been fully absorbed before adding another, stirring constantly and adding splashes of stock until the rice is tender but still holding its shape – it will take 16 to 18 minutes.",
       "When the rice has absorbed all the stock, start gradually adding up to half the blended greens (save the rest for another day), stirring until slightly thickened.",
       "Turn off the heat, add 1 knob of unsalted butter, grate in 30g of Parmesan and stir to combine.",
-      "Taste and season to perfection with salt, pepper and a squeeze of lemon juice, then pop the lid on and leave to rest for a minute or two before serving. Finish with a fine grating of Parmesan, if you like."
+      "Taste and season to perfection with salt, pepper and a squeeze of lemon juice, then pop the lid on and leave to rest for a minute or two before serving. Finish with a fine grating of Parmesan, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449913.jpg",
-    "imageAlt": "Vivid green risotto"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449913.jpg",
+    imageAlt: "Vivid green risotto",
   },
   {
-    "name": "Crispy leftover lamb flatbread",
-    "subName": "With a beautiful rainbow slaw",
-    "specialDiets": [],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "“Celebrate lovely leftovers with my gnarly spiced-lamb flatbread, topped with fresh rainbow slaw, cooling yoghurt and chilli sauce. They’re super-quick and super-delicious – give them a go. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Crispy leftover lamb flatbread",
+    subName: "With a beautiful rainbow slaw",
+    specialDiets: [],
+    metaDescription: "Check out more of our recipes!",
+    description:
+      "“Celebrate lovely leftovers with my gnarly spiced-lamb flatbread, topped with fresh rainbow slaw, cooling yoghurt and chilli sauce. They’re super-quick and super-delicious – give them a go. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Bread",
-      "Fruit",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Bread", "Fruit", "Leftovers"],
+    ingredients: [
       "150 g self-raising flour , plus extra for dusting",
       "1 carrot",
       "180 g red cabbage",
@@ -89,83 +85,77 @@
       "olive oil",
       "1 teaspoon runny honey",
       "2 tablespoons Greek-style yoghurt",
-      "chilli sauce , optional"
+      "chilli sauce , optional",
     ],
-    "instructions": [
+    instructions: [
       "Place the flour in a large bowl with a tiny pinch of salt and 100ml of cold water. Mix together with a fork until it starts to come together, then use your hand to gently knead into a soft dough and set aside to rest.",
       "Coarsely grate the carrot, cabbage and radishes into a large bowl. Pick and roughly chop the mint leaves, saving a few smaller ones for later, and add to the bowl. Squeeze over the juice of ½ a lemon, season to perfection, and set aside.",
       "Place a large, non-stick frying pan over a high heat. Roll out the dough on a flour-dusted surface until just under ½ cm thick. Lay into the dry pan and cook for 1½ minutes on each side, until golden and charred.",
       "Meanwhile, roughly chop the lamb and place in a bowl with the coriander, oregano, the zest of 1 lemon, 1 teaspoon of olive oil, a pinch of salt and pepper, and gently toss to combine.",
       "Place a medium frying pan on a high heat, add the lamb and fry for 10 minutes, until golden and crispy. Squeeze over the lemon juice, drizzle with the honey and toss it all together.",
       "Lay the flatbread over the lamb in the pan and gently push down to soak up the lovely juices, then turn out onto a board.",
-      "Pile the slaw over the lamb, sprinkle with the reserved mint leaves, and drizzle with yoghurt and a drizzle of chilli sauce, if you like. Roll up, cut in half and serve."
+      "Pile the slaw over the lamb, sprinkle with the reserved mint leaves, and drizzle with yoghurt and a drizzle of chilli sauce, if you like. Roll up, cut in half and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/120942568.jpg",
-    "imageAlt": "Crispy leftover lamb flatbread"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/120942568.jpg",
+    imageAlt: "Crispy leftover lamb flatbread",
   },
   {
-    "name": "Bubble and squeak",
-    "subName": "The ultimate leftover veg flavour party",
-    "specialDiets": [],
-    "metaDescription": "I’ve always liked making this Bubble & squeak recipe, since I was a kid. We’d have the pan going for well over an hour, slowly turning those precious leftovers into an incredible dish. Good bubble & squeak is hard to beat.",
-    "description": "“I’ve always liked making this, since I was a kid. We’d have the pan going for well over an hour, slowly turning those precious leftovers into an incredible pile of gnarly, starchy, veggie gorgeousness. Good bubble & squeak is hard to beat. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Bubble and squeak",
+    subName: "The ultimate leftover veg flavour party",
+    specialDiets: [],
+    metaDescription:
+      "I’ve always liked making this Bubble & squeak recipe, since I was a kid. We’d have the pan going for well over an hour, slowly turning those precious leftovers into an incredible dish. Good bubble & squeak is hard to beat.",
+    description:
+      "“I’ve always liked making this, since I was a kid. We’d have the pan going for well over an hour, slowly turning those precious leftovers into an incredible pile of gnarly, starchy, veggie gorgeousness. Good bubble & squeak is hard to beat. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Vegetables",
-      "Christmas",
-      "Leftovers",
-      "Potato"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Vegetables", "Christmas", "Leftovers", "Potato"],
+    ingredients: [
       "olive oil",
       "25 g unsalted butter",
       "4 sprigs of fresh woody herbs , such as rosemary, sage, thyme",
       "600 g leftover roast potatoes",
       "600 g leftover cooked veg , such as carrots, swede, turnips, parsnips, Brussels sprouts, kale",
-      "leftover vac-packed chestnuts , optional"
+      "leftover vac-packed chestnuts , optional",
     ],
-    "instructions": [
+    instructions: [
       "Put a 28cm non-stick frying pan on a medium heat with 1 tablespoon of oil and the butter (or, even better, any leftover dripping you have in the fridge).",
       "Pick in the fresh herb leaves and let them crisp up for a minute, then add the potatoes, veg, and any leftover chestnuts you’ve got. There’s no need to chop anything first, as now we’re going to mash it all up with a potato masher into a nice, flat, even layer.",
       "Season well with sea salt and black pepper, and cook for 3 to 4 minutes, or until a lovely golden crust starts forming on the bottom.",
       "Now we get into the rhythm of the secret to good bubble & squeak. Use a fish slice to fold those lovely crispy bits back into the mash, then pat and flatten everything down again. Let it crisp up again, then repeat the process, and – importantly – keep repeating it over a period of about 20 minutes, until it’s golden, super- crispy and delicious. About halfway through, nick a bit, taste it, and correct the seasoning if you need to. When it’s looking good, you can serve it right away, or you can leave it on the lowest heat for a while – the flavour will only improve.",
-      "You can serve this any which way you like – let’s be honest, it’s going to be amazing whatever you have it with. I like mine with fried eggs, a little lemon-dressed watercress and a few bombs of Piccalilli. Slices of leftover cooked ham are always going to go down a treat, too."
+      "You can serve this any which way you like – let’s be honest, it’s going to be amazing whatever you have it with. I like mine with fried eggs, a little lemon-dressed watercress and a few bombs of Piccalilli. Slices of leftover cooked ham are always going to go down a treat, too.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/117394880.jpg",
-    "imageAlt": "Bubble and squeak"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/117394880.jpg",
+    imageAlt: "Bubble and squeak",
   },
   {
-    "name": "Anything goes Christmas strudel",
-    "subName": "With leftover Christmas goodies",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "I’ve used a humble pack of filo here to bring all those leftover Christmassy goodies together in layers of crisp, golden pastry. Delicious. ",
-    "description": "“At Christmas time, like any other, the Oliver household has lots of leftover mince pies, Christmas pudding, mixed nuts, chocolate, clementines and posh biscuits. I’ve used a humble pack of filo here to bring all those festive flavours together in layers of crisp, golden pastry. Delicious. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Anything goes Christmas strudel",
+    subName: "With leftover Christmas goodies",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "I’ve used a humble pack of filo here to bring all those leftover Christmassy goodies together in layers of crisp, golden pastry. Delicious. ",
+    description:
+      "“At Christmas time, like any other, the Oliver household has lots of leftover mince pies, Christmas pudding, mixed nuts, chocolate, clementines and posh biscuits. I’ve used a humble pack of filo here to bring all those festive flavours together in layers of crisp, golden pastry. Delicious. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Christmas",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Christmas", "Leftovers"],
+    ingredients: [
       "100 g unsalted butter",
       "2 clementines",
       "1 pinch of ground cinnamon",
@@ -178,41 +168,39 @@
       "2 ginger nut biscuits",
       "2 teaspoons runny honey",
       "icing sugar , for dusting",
-      "ready-made custard, vanilla ice cream, or Greek-style yoghurt , to serve"
+      "ready-made custard, vanilla ice cream, or Greek-style yoghurt , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4. Place the butter in a small saucepan on a low heat. As it melts, finely grate over the clementine zest and squeeze in the juice, add the cinnamon, then bring to the boil and turn the heat off.",
       "Lay out 4 sheets of pastry on a clean tea towel, slightly overlapping, so they cover the tea towel completely, with a little overhang at one of the shorter ends. Working quickly so your pastry doesn’t dry out, drizzle over half of the spiced melted butter, then brush all over, using it to secure the pastry where it overlaps – this will help protect the pastry and flavour it. Sprinkle over 1 heaped teaspoon of sugar to add a nice bit of crunch, then carefully layer the rest of the pastry sheets on top and brush over half of the remaining melted butter.",
       "Use your hands to crumble the leftover goodies over the pastry from a height, making sure they are evenly distributed, and leaving the two shortest edges empty (about 10cm). Bash up the nuts in a pestle and mortar, then add them to the party and break over the chocolate. Using a box grater, coarsely grate over the fruit (cores and all), break in the biscuits, then drizzle everything with the honey.",
       "Fold the shortest edges inwards, then lift up your tea towel at one of the longest ends and use it to help you carefully roll up your strudel.",
       "Brush a large non-stick baking tray with a little of the remaining butter and confidently transfer the strudel to the tray. Brush or rub it all over with the last of the butter, then sprinkle over a little sugar. Bake on the bottom of the hot oven for 35 minutes, or until crisp, golden, and gorgeous.",
-      "Once the time’s up, leave to cool, then dust with icing sugar and use a serrated knife to cut the strudel into 5cm slices. Delicious served with hot custard, a scoop of vanilla ice cream, or a dollop of Greek-style yoghurt."
+      "Once the time’s up, leave to cool, then dust with icing sugar and use a serrated knife to cut the strudel into 5cm slices. Delicious served with hot custard, a scoop of vanilla ice cream, or a dollop of Greek-style yoghurt.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/117161147.jpg",
-    "imageAlt": "Anything goes Christmas strudel"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/117161147.jpg",
+    imageAlt: "Anything goes Christmas strudel",
   },
   {
-    "name": "Christmas hodgepodge pie",
-    "subName": "With leftover cooked turkey & stuffing",
-    "specialDiets": [],
-    "metaDescription": "A glorious mixture of all those lovely roast dinner leftovers, enveloped in a smooth, silky sauce and hugged by beautifully crumbly pastry.",
-    "description": "“I like to call this my Christmas hodgepodge pie. A glorious mixture of all those lovely roast dinner leftovers, enveloped in a smooth, silky sauce and hugged by beautifully crumbly pastry. ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "2 hours",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours"
+    name: "Christmas hodgepodge pie",
+    subName: "With leftover cooked turkey & stuffing",
+    specialDiets: [],
+    metaDescription:
+      "A glorious mixture of all those lovely roast dinner leftovers, enveloped in a smooth, silky sauce and hugged by beautifully crumbly pastry.",
+    description:
+      "“I like to call this my Christmas hodgepodge pie. A glorious mixture of all those lovely roast dinner leftovers, enveloped in a smooth, silky sauce and hugged by beautifully crumbly pastry. ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "2 hours",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Christmas",
-      "Turkey",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Christmas", "Turkey", "Leftovers"],
+    ingredients: [
       "2 rashers of higher-welfare smoked streaky bacon",
       "25 g unsalted butter",
       "olive oil",
@@ -230,9 +218,9 @@
       "PASTRY",
       "500 g plain flour , plus extra for dusting",
       "250 g cold unsalted butter",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "For the pastry, put the flour and 1 teaspoon of sea salt into a bowl, cube and add the butter, then use your thumbs and forefingers to rub the butter into the flour until it resembles breadcrumbs.",
       "Beat the egg, then stir into the bowl with 3 to 4 tablespoons of ice-cold water. Use your hands to gently bring it together into a ball, but don’t overwork it. Divide into two pieces and flatten each into a circle (for the top and bottom of your pie), then wrap in greaseproof paper and chill in the fridge for at least 30 minutes.",
       "Finely chop the bacon, then place in a large non-stick frying pan on a medium heat with the butter and 1 tablespoon of olive oil (or turkey fat, if you have any). Pick, roughly chop and add the rosemary, then cook for 3 minutes, or until golden.",
@@ -242,36 +230,31 @@
       "Preheat the oven to 170°C/325°F/gas 3 and grease the bottom of a round 30cm pie dish with a little oil (or leftover turkey fat, if you have any). Roll out half the pastry on a clean flour-dusted surface to ½cm thick and use it to line the pie dish, then tip in your turkey pie filling. Dollop the cranberry sauce on top. Beat the egg, then use it to brush the edges.",
       "Roll out the remaining pastry to ½cm thick and a little bigger than the pie dish. Use a selection of cutters to cut out shapes in the middle, and set aside. Carefully place the pastry left behind on top of the pie dish and brush with beaten egg, then place the reserved pastry shapes on top, filling any gaps. Trim off any pastry, then roll out again and cut out more shapes, until all the gaps are filled.",
       "Brush the top with beaten egg, and press a fork around the edges to seal. Bake at the bottom of the oven for 45 to 50 minutes, or until the pastry is golden and the filling is piping hot.",
-      "When you’re nearly ready to serve, reheat the remaining sauce until piping hot, then take it to the table alongside the pie. Delicious with steamed greens and peas."
+      "When you’re nearly ready to serve, reheat the remaining sauce until piping hot, then take it to the table alongside the pie. Delicious with steamed greens and peas.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/117159266.jpg",
-    "imageAlt": "Christmas hodgepodge pie"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/117159266.jpg",
+    imageAlt: "Christmas hodgepodge pie",
   },
   {
-    "name": "Toad in the hole",
-    "subName": "Yorkshire pudding filled with leftovers & dirty gravy",
-    "specialDiets": [],
-    "metaDescription": "This epic leftovers recipe from Jamie Oliver is just perfect for using up leftovers from a Sunday roast or even Christmas dinner. Served with proper gravy.",
-    "description": "“What’s not to love about this bad boy – all the best bits of the Christmas Day meal, wrapped up in crispy fluffy Yorkshire pudding like an extra present! You can pretty much use whatever leftovers you have in this epic creation – enjoy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Toad in the hole",
+    subName: "Yorkshire pudding filled with leftovers & dirty gravy",
+    specialDiets: [],
+    metaDescription:
+      "This epic leftovers recipe from Jamie Oliver is just perfect for using up leftovers from a Sunday roast or even Christmas dinner. Served with proper gravy.",
+    description:
+      "“What’s not to love about this bad boy – all the best bits of the Christmas Day meal, wrapped up in crispy fluffy Yorkshire pudding like an extra present! You can pretty much use whatever leftovers you have in this epic creation – enjoy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Turkey",
-      "Christmas",
-      "Dinner Party",
-      "Pork",
-      "Sausage",
-      "Potato"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Turkey", "Christmas", "Dinner Party", "Pork", "Sausage", "Potato"],
+    ingredients: [
       "2 rashers of higher-welfare smoked streaky bacon",
       "4 higher-welfare chipolata sausages",
       "4 fresh sage leaves",
@@ -290,9 +273,9 @@
       "80 g leftover cooked higher-welfare turkey meat",
       "1 heaped tablespoon plain flour",
       "1 tablespoon cranberry sauce",
-      "700 ml free-range chicken stock"
+      "700 ml free-range chicken stock",
     ],
-    "instructions": [
+    instructions: [
       "So, guys, to make this incredible treat obviously requires you to have leftovers, which will differ for all of us. I’ve given you the recipe for the pigs in blankets and the batter, and everything else is based on what you’ve got – just don’t overload it.",
       "Start by moving your oven shelves around so you have plenty of space in the middle of the oven for your Yorkshire to grow.",
       "Preheat the oven to 220ºC/425ºF/gas 7.",
@@ -306,46 +289,45 @@
       "For the next bit, you need to be cool, calm and safe, as you’re working with hot oil, and you want to retain the heat from the oven.",
       "Have your jug of batter ready and two oven gloves or tea towels. Keep the tray of oil in the oven and carefully pull the shelf out a little.Holding it steady, pour in the batter, then gently transfer everything from the tray above into the centre.",
       "Push the shelf back in and keep the door shut for 20 to 25 minutes, or until the Yorkshire is puffed up and golden.",
-      "Serve the Christmas toad in the hole with the dirty gravy, any extra cranberry sauce, and with a nice fresh slaw on the side."
+      "Serve the Christmas toad in the hole with the dirty gravy, any extra cranberry sauce, and with a nice fresh slaw on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/90246165.jpg",
-    "imageAlt": "Toad in the hole"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/90246165.jpg",
+    imageAlt: "Toad in the hole",
   },
   {
-    "name": "Bubble & squeak",
-    "subName": "Crispy, gnarly, caramelised veg",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Bubble and squeak is a great way to use up leftovers. This is an easy Jamie Oliver recipe to make for friends. which is also gluten-free. Perfect for brunch",
-    "description": "“Bubble and squeak is a dish created out of leftovers and it’s become one of our great British recipes. The first recorded recipes for it were written in the early 1800s, when any roasted shredded meat or vegetables left over from Sunday’s dinner would be fried in the pan the next day to create this big and beautiful veggie patty. But it’s so damn good you shouldn’t have to wait for leftovers to enjoy it, so I’m giving you this recipe as a guide. As long as you use 60% potato, you can make the rest up using whatever you’ve got to hand – vegetables, crumbled chestnuts, herbs, crispy bacon or leftover meat. In the cockney cafés they call this ‘bubble’, and serve it alongside eggs for breakfast. Because it often sits in the pan for ages getting dark and crispy, it tends to take on a fairly dark grey and rather ugly colour, but ironically, those are often the tastiest bubble and squeaks of all. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Bubble & squeak",
+    subName: "Crispy, gnarly, caramelised veg",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Bubble and squeak is a great way to use up leftovers. This is an easy Jamie Oliver recipe to make for friends. which is also gluten-free. Perfect for brunch",
+    description:
+      "“Bubble and squeak is a dish created out of leftovers and it’s become one of our great British recipes. The first recorded recipes for it were written in the early 1800s, when any roasted shredded meat or vegetables left over from Sunday’s dinner would be fried in the pan the next day to create this big and beautiful veggie patty. But it’s so damn good you shouldn’t have to wait for leftovers to enjoy it, so I’m giving you this recipe as a guide. As long as you use 60% potato, you can make the rest up using whatever you’ve got to hand – vegetables, crumbled chestnuts, herbs, crispy bacon or leftover meat. In the cockney cafés they call this ‘bubble’, and serve it alongside eggs for breakfast. Because it often sits in the pan for ages getting dark and crispy, it tends to take on a fairly dark grey and rather ugly colour, but ironically, those are often the tastiest bubble and squeaks of all. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Great Britain",
       "Vegetables",
       "Potato",
       "Breakfast",
       "Kale",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg fluffy potatoes , such as Maris Piper",
       "600 g mixed vegetables , such as carrots, swede, turnips, parsnips, kale, Brussels sprouts... anything you like!",
       "40 g unsalted butter",
       "olive oil",
-      "a few sprigs of fresh herbs , such as rosemary, sage, thyme or whatever you have knocking about in the fridge"
+      "a few sprigs of fresh herbs , such as rosemary, sage, thyme or whatever you have knocking about in the fridge",
     ],
-    "instructions": [
+    instructions: [
       "Peel and trim all the vegetables, cutting the root veg into 2.5cm dice.",
       "Cook the veg in a large pan of boiling salted water for 10 minutes, or until they are all cooked through.",
       "If you’re using swede or turnips, put them in about 5 minutes earlier than everything else as they take slightly longer to soften up. If using kale, just blanch this for a few minutes right at the end.",
@@ -354,36 +336,31 @@
       "Pick and chop the herb leaves, then add to the pan with the cooked vegetables. Season well with sea salt and white pepper, then mash everything up in the pan.",
       "Pat everything into a flat layer and cook for 3 to 4 minutes, or until a lovely golden crust starts forming underneath. Fold those crispy bits back into the mash, then pat and flatten down and repeat the process for about 15 or 20 minutes. Concentrate on building up flavours, character and crispiness.",
       "Halfway through the cooking, flip it over using a fish slice, or like a pancake if you’re brave. If it breaks don’t worry, just push it back together.",
-      "Let it crisp up on the underside then nick a bit and taste it. This is the time to correct the seasoning. Once you’re happy, serve it with a blob of HP sauce and whatever else you fancy."
+      "Let it crisp up on the underside then nick a bit and taste it. This is the time to correct the seasoning. Once you’re happy, serve it with a blob of HP sauce and whatever else you fancy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/91994145.jpg",
-    "imageAlt": "Bubble & squeak"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/91994145.jpg",
+    imageAlt: "Bubble & squeak",
   },
   {
-    "name": "Turkey risotto",
-    "subName": "Sweet leeks, Parmesan, Prosecco, crispy turkey skin & gravy",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "This Jamie Oliver risotto recipe is the perfect way to use up the leftover turkey this Christmas; enjoy this beautiful recipe from Jamie Oliver's Christmas Cookbook.",
-    "description": "“Ladies and gentlemen, let me introduce you to one of the very nicest risottos on planet earth – it’s oozy, delicate and super-comforting, with wafer-thin crispy turkey skin, and a well in the middle for your steaming leftover gravy. Amen. ”",
-    "servings": "4 or 8 as a starter",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Turkey risotto",
+    subName: "Sweet leeks, Parmesan, Prosecco, crispy turkey skin & gravy",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "This Jamie Oliver risotto recipe is the perfect way to use up the leftover turkey this Christmas; enjoy this beautiful recipe from Jamie Oliver's Christmas Cookbook.",
+    description:
+      "“Ladies and gentlemen, let me introduce you to one of the very nicest risottos on planet earth – it’s oozy, delicate and super-comforting, with wafer-thin crispy turkey skin, and a well in the middle for your steaming leftover gravy. Amen. ”",
+    servings: "4 or 8 as a starter",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Turkey",
-      "Christmas",
-      "Leftovers",
-      "Pasta & risotto"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Turkey", "Christmas", "Leftovers", "Pasta & risotto"],
+    ingredients: [
       "leftover cooked higher-welfare turkey skin",
       "8 sprigs of fresh thyme",
       "1 onion",
@@ -398,9 +375,9 @@
       "50 g Parmesan cheese",
       "25 g unsalted butter",
       "1 tablespoon mascarpone cheese",
-      "new season's extra virgin olive oil , optional"
+      "new season's extra virgin olive oil , optional",
     ],
-    "instructions": [
+    instructions: [
       "I like to place any leftover turkey skin from the bottom of the carcass into a cold casserole pan, then put it on a medium heat so the fat naturally renders out and it becomes super-crisp, like crackling, turning halfway.",
       "When it’s golden, strip in the thyme leaves to crisp up for just 10 seconds, then scoop the crispy skin and thyme on to a plate, keeping the pan of flavoursome fat to one side.",
       "Peel the onion, wash the leek and trim with the celery, then finely chop it all.",
@@ -411,37 +388,32 @@
       "When the risotto is done, add enough extra stock to make it oozy, then remove from the heat.",
       "Finely grate over most of the Parmesan and beat it in with the butter and mascarpone, then taste and season to perfection. Put the lid on and take to the table.",
       "Divide between your hot plates, make a well in the middle of each portion and flamboyantly pour in the hot gravy, then crack and crumble the crispy skin and thyme over the top.",
-      "Finish with a tiny extra grating of Parmesan, and a thimble of new season’s extra virgin olive oil, if you’ve got it."
+      "Finish with a tiny extra grating of Parmesan, and a thimble of new season’s extra virgin olive oil, if you’ve got it.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/2HKDAhve4dJ96skYay_75A.jpg",
-    "imageAlt": "Turkey risotto"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/2HKDAhve4dJ96skYay_75A.jpg",
+    imageAlt: "Turkey risotto",
   },
   {
-    "name": "Turkey sloppy Joes",
-    "subName": "Tasty slaw with gherkins & chilli, homemade BBQ sauce",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Giving sloppy Joes the Christmas treatment in this turkey sloppy Joe recipe from Jamie Oliver’s Christmas Cookbook is a stroke of genius. Delicious!",
-    "description": "“The sloppy Joe is so much more than a sandwich or a burger, and giving it the Christmas treatment means we’re taking that bun filled with delicious pulled meat and crunchy exciting veg, served with gravy for dunking, to the next level. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Turkey sloppy Joes",
+    subName: "Tasty slaw with gherkins & chilli, homemade BBQ sauce",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Giving sloppy Joes the Christmas treatment in this turkey sloppy Joe recipe from Jamie Oliver’s Christmas Cookbook is a stroke of genius. Delicious!",
+    description:
+      "“The sloppy Joe is so much more than a sandwich or a burger, and giving it the Christmas treatment means we’re taking that bun filled with delicious pulled meat and crunchy exciting veg, served with gravy for dunking, to the next level. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Turkey",
-      "Christmas",
-      "Leftovers",
-      "Beef",
-      "Bread"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Turkey", "Christmas", "Leftovers", "Beef", "Bread"],
+    ingredients: [
       "200 g leftover cooked higher-welfare turkey meat",
       "200 ml leftover higher-welfare turkey gravy",
       "1 carrot",
@@ -456,43 +428,39 @@
       "1 tablespoon HP sauce",
       "1 teaspoon English mustard",
       "½ teaspoon chipotle Tabasco sauce",
-      "1 splash of Worcestershire sauce"
+      "1 splash of Worcestershire sauce",
     ],
-    "instructions": [
+    instructions: [
       "Shred and pull apart your leftover turkey meat and place in a small pan with a splash of water and 4 tablespoons of gravy. Pop a lid on and place on the lowest heat for 10 minutes to warm through.",
       "Warm the rest of the gravy in a separate pan, ready to use it for dunking later.",
       "Meanwhile, peel and finely shred the carrot, matchstick the apple, peel and finely slice the red onion, and pick and slice the mint leaves. Place it all in a bowl with 1 tablespoon of pickling liquid from your gherkin jar.",
       "Finely slice the gherkins, using a crinkle-cut knife if you’ve got one, and the chilli, add to the bowl, mix well, lightly season and put aside.",
       "Mix all the BBQ sauce ingredients together.",
       "Split and toast your buns, then spread the BBQ sauce inside them, top and bottom. Pile your pulled turkey on the bun bases, drizzle with a little gravy and top with some of that tasty slaw. Pop the bun lids on, and you’re away.",
-      "Serve the rest of the gravy on the side for a naughty dunk, along with any leftover slaw."
+      "Serve the rest of the gravy on the side for a naughty dunk, along with any leftover slaw.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51137629.jpg",
-    "imageAlt": "Turkey sloppy Joes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51137629.jpg",
+    imageAlt: "Turkey sloppy Joes",
   },
   {
-    "name": "Leftover squash fritters with tomato salsa",
-    "subName": "Sweet roasted squash, ricotta & punchy salsa ",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Make Jamie Oliver's easy fritters using leftover roasted butternut squash and ricotta cheese, and serve with a tomato, chilli and basil salsa.",
-    "description": "",
-    "servings": "Serves Makes 12 fritters, Serves 6",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Leftover squash fritters with tomato salsa",
+    subName: "Sweet roasted squash, ricotta & punchy salsa ",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Make Jamie Oliver's easy fritters using leftover roasted butternut squash and ricotta cheese, and serve with a tomato, chilli and basil salsa.",
+    description: "",
+    servings: "Serves Makes 12 fritters, Serves 6",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Leftovers"],
+    ingredients: [
       "SALSA",
       "2 green tomatoes",
       "2 ripe red tomatoes",
@@ -507,45 +475,47 @@
       "½ teaspoon ground allspice",
       "2 large free-range eggs",
       "2 tablespoons wholewheat self-raising flour",
-      "½ teaspoon baking powder"
+      "½ teaspoon baking powder",
     ],
-    "instructions": [
+    instructions: [
       "Chop all the tomatoes, some roughly and some finely so you've got a range of shapes and textures, then scrape into a bowl.",
       "Deseed and finely slice the chilli and trim and finely chop the spring onion, then add to the bowl. Squeeze in half the lemon juice.",
       "Pick and roughly chop the basil leaves, then add to the tomatoes along with a good pinch of sea salt, some black pepper and a drizzle of oil. Mix well.",
       "Roughly chop the leftover squash, scrape into a large bowl, then add the ricotta, allspice and a pinch of salt and pepper.",
       "Crack in the eggs and whisk to combine, then fold through the flour and baking powder.",
       "Heat 1 tablespoon of oil in a non-stick frying pan over a medium heat, add 6 large spoonfuls of batter and fry for 3 to 4 minutes, or until golden and crisp on the bottom. Flip the fritters over and fry for a further 3 to 4 minutes, or until golden and cooked through.",
-      "Serve immediately with a generous dollop of tomato salsa, then repeat with the remaining batter."
+      "Serve immediately with a generous dollop of tomato salsa, then repeat with the remaining batter.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/51137640.jpg",
-    "imageAlt": "Leftover squash fritters with tomato salsa"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/51137640.jpg",
+    imageAlt: "Leftover squash fritters with tomato salsa",
   },
   {
-    "name": "Super couscous salad",
-    "subName": "The perfect portable lunch",
-    "specialDiets": [],
-    "metaDescription": "A brilliant, quick and easy packed lunch recipe. Couscous, broccoli, feta cheese and a zingy pesto-style dressing. A Jamie Oliver recipe.",
-    "description": "“Think of this couscous salad as a starting point, rather than a fixed recipe, and use it as inspiration to start jazzing up couscous with your own favourite veg or leftovers to create a unique and delicious lunch. Try chunks of roasted squash, pomegranate seeds, fresh herbs, a squeeze of citrus, I could go on…. ”",
-    "servings": "1 (for 2 days)",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Super couscous salad",
+    subName: "The perfect portable lunch",
+    specialDiets: [],
+    metaDescription:
+      "A brilliant, quick and easy packed lunch recipe. Couscous, broccoli, feta cheese and a zingy pesto-style dressing. A Jamie Oliver recipe.",
+    description:
+      "“Think of this couscous salad as a starting point, rather than a fixed recipe, and use it as inspiration to start jazzing up couscous with your own favourite veg or leftovers to create a unique and delicious lunch. Try chunks of roasted squash, pomegranate seeds, fresh herbs, a squeeze of citrus, I could go on…. ”",
+    servings: "1 (for 2 days)",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Couscous",
       "Feta",
       "Vegetable sides",
       "Healthy vegetarian recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g couscous",
       "1 small head of broccoli , (250g)",
       "20 g feta cheese",
@@ -555,9 +525,9 @@
       "1 small handful of pine nuts",
       "2 tablespoons extra virgin olive oil",
       "1 orange",
-      "½ a bunch of fresh mint , (15g)"
+      "½ a bunch of fresh mint , (15g)",
     ],
-    "instructions": [
+    instructions: [
       "Place 100g of couscous into a mixing bowl with a pinch of sea salt and just cover with boiling water. Pop a plate on the top and leave for 5 to 10 minutes to do its thing.",
       "Trim the stalky-end off 1 small head of broccoli (250g) and place the whole broccoli head in a medium pan of boiling water over a medium-high heat and cook for about 4 minutes, or until bright green and tender.",
       "Remove with a pair of tongs and place in a colander to steam-dry for a minute or two.",
@@ -565,84 +535,77 @@
       "Add 1 small handful each of sultanas and pine nuts, 2 tablespoons of extra virgin olive oil and squeeze in the juice from 1 orange.",
       "Pick the leaves from ½ a bunch of fresh mint (15g) and set aside the smaller leaves for garnish. Finely chop the rest and add to the jar with a pinch of sea salt and black pepper. Pop the lid on and shake well to combine.",
       "On a large chopping board, chop up the broccoli until fairly fine. Fluff up the couscous with a fork, then scrape the broccoli into the bowl and mix well.",
-      "Take half the couscous to work with a little pot containing half the dressing and toss them together, scatter with half of the baby mint leaves and crumble over half of the feta before serving, then repeat the following day!"
+      "Take half the couscous to work with a little pot containing half the dressing and toss them together, scatter with half of the baby mint leaves and crumble over half of the feta before serving, then repeat the following day!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/70611584.jpg",
-    "imageAlt": "Super couscous salad"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/70611584.jpg",
+    imageAlt: "Super couscous salad",
   },
   {
-    "name": "Potato & chorizo breakfast hash",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Potato & chorizo breakfast hash",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Father's day",
       "Christmas",
       "Sausage",
-      "Chorizo"
+      "Chorizo",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "1 clove of garlic",
       "120 g quality chorizo",
       "2-3 cooked potatoes",
       "1/2 bunch of fresh flat-leaf parsley",
       "olive oil",
-      "2 large free-range eggs"
+      "2 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Peel and finely chop the onion and garlic, chop the chorizo, dice up the cooked potato and pick and finely chop the parsley.",
       "Gently fry the onion and garlic in a little oil in an ovenproof pan until the onion is soft. Add the chorizo and fry for 2 to 3 minutes.",
       "Add the potatoes and cook for 5 minutes more, then crack the eggs on top.",
       "Transfer the pan to the preheated oven and bake for 8 minutes, or until the egg white is set but the yolk is still runny.",
-      "Sprinkle with sea salt, black pepper and the parsley, to serve."
+      "Sprinkle with sea salt, black pepper and the parsley, to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
-    "imageAlt": "Potato & chorizo breakfast hash"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
+    imageAlt: "Potato & chorizo breakfast hash",
   },
   {
-    "name": "Pork fried noodles",
-    "subName": "With ginger, spring onions & peas",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This fragrant Asian pork fried noodles recipe from Jamie magazine is a great way to use up leftover cooked pork – a delicious main meal.",
-    "description": "“A clever and tasty way to use up leftover cooked pork. Adding sambal oelek – a delicious Indonesian chilli sauce – really takes this dish up a notch. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Pork fried noodles",
+    subName: "With ginger, spring onions & peas",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This fragrant Asian pork fried noodles recipe from Jamie magazine is a great way to use up leftover cooked pork – a delicious main meal.",
+    description:
+      "“A clever and tasty way to use up leftover cooked pork. Adding sambal oelek – a delicious Indonesian chilli sauce – really takes this dish up a notch. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Pork",
-      "Mains",
-      "Quick fixes",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Pork", "Mains", "Quick fixes", "Leftovers"],
+    ingredients: [
       "150 g leftover higher-welfare roast pork",
       "2 cloves of garlic",
       "3cm piece of ginger",
@@ -651,43 +614,45 @@
       "2 tablespoons peanut or sunflower oil",
       "2 tablespoons sambal oelek",
       "300 g ready-prepared rice vermicelli",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "Shred or roughly chop the pork. Peel and finely chop the garlic and ginger. Trim and finely slice the whites and greens of the spring onions.",
       "Boil some water in a small pan and add the peas, then bring the water back to the boil. By this stage the peas should be defrosted. Drain and refresh with cold water.",
       "Pour the oil into a large frying pan add garlic, ginger, spring onion, and cook for a couple of minutes.",
       "Stir in sambal olek (or use 2 fresh red chillies, deseeded and finely chopped instead) and cook for a couple more minutes.",
-      "Add the noodles, pork and peas to the pan and heat through, stirring well. Squeeze over the lime, toss together well, then serve."
+      "Add the noodles, pork and peas to the pan and heat through, stirring well. Squeeze over the lime, toss together well, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46263829.jpg",
-    "imageAlt": "Pork fried noodles"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46263829.jpg",
+    imageAlt: "Pork fried noodles",
   },
   {
-    "name": "Irish potato cakes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie's Irish potato cakes recipe, served with smoked salmon or poached eggs, is a simple recipe which makes a delicious starter or light lunch.",
-    "description": "“This makes a delicious lunch when served with a fresh green salad. You need to use really dry potatoes for this, so, if you’re not using leftovers, be sure to let your spuds cool and lose as much moisture as possible before starting the recipe. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes plus chilling"
+    name: "Irish potato cakes",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's Irish potato cakes recipe, served with smoked salmon or poached eggs, is a simple recipe which makes a delicious starter or light lunch.",
+    description:
+      "“This makes a delicious lunch when served with a fresh green salad. You need to use really dry potatoes for this, so, if you’re not using leftovers, be sure to let your spuds cool and lose as much moisture as possible before starting the recipe. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Dinner Party",
       "Starters",
       "Potato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "80 g plain flour , plus extra for dusting",
       "250 g leftover boiled, steamed or baked potatoes",
       "1 large free-range egg yolk",
@@ -698,45 +663,48 @@
       "extra virgin olive oil",
       "olive oil",
       "100 g smoked salmon, from sustainable sources , or 4 free-range eggs, to serve",
-      "1 handful of watercress"
+      "1 handful of watercress",
     ],
-    "instructions": [
+    instructions: [
       "Liberally dust a clean work surface with flour. Mash the leftover potatoes or push through a sieve, then season with sea salt and black pepper.",
       "Beat the egg yolk and chop the wild garlic or chives, then add to the potatoes with the flour. Mix well.",
       "Lightly knead, then place the soft dough on the floured surface and roll out to about ½cm thick.",
       "Divide the dough into 4 and shape into rounds.",
       "Allow to chill in the fridge for at least 30 minutes, or until needed.\nMeanwhile, finely grate the horseradish (if using fresh) and combine with the crème fraîche. Add a squeeze of lemon juice, pepper and a dash of extra virgin olive oil.",
       "Preheat a flat griddle or non-stick frying pan until very hot, then cook the potato cakes in a little olive oil for 4 to 5 minutes on each side until golden, crisp and hot all the way through.",
-      "Serve with slices of smoked salmon – or poach the eggs to your liking (2 minutes for soft or 4 minutes for firm) – along with picked watercress leaves dressed with a squeeze of lemon and extra virgin olive oil and a side salad, if you like."
+      "Serve with slices of smoked salmon – or poach the eggs to your liking (2 minutes for soft or 4 minutes for firm) – along with picked watercress leaves dressed with a squeeze of lemon and extra virgin olive oil and a side salad, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4g64hU6rK1t96jg78whU5s.jpg",
-    "imageAlt": "Irish potato cakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4g64hU6rK1t96jg78whU5s.jpg",
+    imageAlt: "Irish potato cakes",
   },
   {
-    "name": "Chicken & herb biscuits",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Love your leftovers! Use up Sunday's roast chicken in this comforting recipe. The 'biscuits' – an all-American classic – are almost like savoury scones… and totally delicious!",
-    "description": "“This hearty dish of tender meat and vegetables is a great way to use up any leftover roast bird. ”",
-    "servings": "6 - 8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Chicken & herb biscuits",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Love your leftovers! Use up Sunday's roast chicken in this comforting recipe. The 'biscuits' – an all-American classic – are almost like savoury scones… and totally delicious!",
+    description:
+      "“This hearty dish of tender meat and vegetables is a great way to use up any leftover roast bird. ”",
+    servings: "6 - 8",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Dinner Party",
       "American",
       "Mains",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "2 sticks of celery",
       "1 onion",
       "350 g butternut squash",
@@ -752,9 +720,9 @@
       "230 g plain flour , plus extra for dusting",
       "1 tablespoon baking powder",
       "110 g unsalted butter",
-      "240 ml single cream"
+      "240 ml single cream",
     ],
-    "instructions": [
+    instructions: [
       "For the biscuits, pick and finely chop the herb leaves, then combine with the flour, baking powder and 1½ teaspoons sea salt.",
       "Cut the butter into chunks, and work into the flour with your fingers until the mixture forms big crumbs, the size of small peas.",
       "Add the cream and mix until evenly incorporated and slightly sticky.",
@@ -766,36 +734,38 @@
       "Preheat the oven to 190ºC/gas 5.",
       "In a bowl, whisk 120ml of cold water with the flour until combined. Add a cup of the hot broth to the mixture and whisk well. Strain the mixture and whisk it back into the broth.",
       "Bring the broth to the boil. Shred or dice the chicken, add to the pan and season with sea salt and black pepper. Reduce the heat and simmer for 5 minutes.",
-      "Pour the broth into a 2.8-litre baking dish. Top the chicken with the uncooked biscuits and bake for 35 to 40 minutes, or until the biscuits are golden and cooked through, and the broth is bubbling. Serve straightaway."
+      "Pour the broth into a 2.8-litre baking dish. Top the chicken with the uncooked biscuits and bake for 35 to 40 minutes, or until the biscuits are golden and cooked through, and the broth is bubbling. Serve straightaway.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46261575.jpg",
-    "imageAlt": "Chicken & herb biscuits"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46261575.jpg",
+    imageAlt: "Chicken & herb biscuits",
   },
   {
-    "name": "Beef hash cakes with chipotle yoghurt",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "These beef hash cakes served with chipotle yoghurt are a perfect breakfast if you have leftover roast beef, try this easy recipe from Jamie Oliver.",
-    "description": "“This is the perfect breakfast when you have leftover roast beef. But if you don’t, a good quality corned beef also works a treat here. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes plus chilling"
+    name: "Beef hash cakes with chipotle yoghurt",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "These beef hash cakes served with chipotle yoghurt are a perfect breakfast if you have leftover roast beef, try this easy recipe from Jamie Oliver.",
+    description:
+      "“This is the perfect breakfast when you have leftover roast beef. But if you don’t, a good quality corned beef also works a treat here. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Father's day",
       "Breakfast",
       "Leftovers",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g leftover braised beef , such as shin, feather or brisket",
       "2 sprigs of fresh flat-leaf parsley",
       "a few fresh chives",
@@ -805,44 +775,39 @@
       "50 g plain flour",
       "2 medium free-range eggs",
       "75 g panko breadcrumbs",
-      "200 ml groundnut oil"
+      "200 ml groundnut oil",
     ],
-    "instructions": [
+    instructions: [
       "Shred the beef, then roughly chop the parsley leaves, chives and gherkins.",
       "Place in a large bowl with the mashed potato, mustard and a pinch of sea salt and black pepper, then mix until combined.",
       "Using your hands, roll it into four balls, before flattening each one into a patty.",
       "Set out three shallow dishes. Put the flour in the first and season, beat the eggs in the second, and add the panko breadcrumbs in the third.",
       "Roll each patty in the flour, then the egg, shaking off any excess, then the breadcrumbs, until well coated. Pop them on a plate, cover with clingfilm and chill in the fridge for 30 minutes.",
       "Heat the oil in a large frying pan over a medium heat and cook the patties gently for 4 minutes on each side, or until golden and crisp.",
-      "In a serving bowl, mix the yoghurt and Tabasco, then serve it alongside the beef hash cakes. Delicious with dressed rocket and a poached egg."
+      "In a serving bowl, mix the yoghurt and Tabasco, then serve it alongside the beef hash cakes. Delicious with dressed rocket and a poached egg.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260123.jpg",
-    "imageAlt": "Beef hash cakes with chipotle yoghurt"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260123.jpg",
+    imageAlt: "Beef hash cakes with chipotle yoghurt",
   },
   {
-    "name": "Game salad recipe | Jamie Oliver recipes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Pheasant recipe",
-    "description": "“This is made with leftover roast partridge and pheasant, but you can use any game you fancy. Duck would work well, as would roast chicken. ”",
-    "servings": "4 as a main",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Game salad recipe | Jamie Oliver recipes",
+    subName: "",
+    specialDiets: [],
+    metaDescription: "Pheasant recipe",
+    description:
+      "“This is made with leftover roast partridge and pheasant, but you can use any game you fancy. Duck would work well, as would roast chicken. ”",
+    servings: "4 as a main",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Game",
-      "Mains",
-      "Starters",
-      "Leftovers"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Game", "Mains", "Starters", "Leftovers"],
+    ingredients: [
       "2 bunches of watercress",
       "a few sprigs of fresh thyme",
       "½ a ready-to-bake ciabatta",
@@ -854,47 +819,47 @@
       "3 tablespoons crème fraîche",
       "extra virgin olive oil",
       "1 lemon",
-      "300-400 g leftover roast pheasant and partridge"
+      "300-400 g leftover roast pheasant and partridge",
     ],
-    "instructions": [
+    instructions: [
       "Pick the watercress and thyme leaves. Trim the crusts off the ciabatta, tear the bread into chunks and whiz in a food processor.",
       "Heat the groundnut oil in a wide non-stick pan and add the breadcrumbs, thyme, a grating of nutmeg and a pinch of sea salt and black pepper, and fry until golden.",
       "Drain on kitchen paper and keep warm.",
       "Trim and cook the green beans in simmering salted water. Drain, then leave to cool.",
       "Put the horseradish into a mixing bowl and mix in the vinegar, crème fraîche, 6 tablespoons of extra virgin olive oil and a pinch of salt and pepper.",
       "Toss the watercress and beans in just enough lemon juice and extra virgin olive oil to coat.",
-      "Lay on plates, shred and add chunks of pheasant and partridge, then drizzle over the dressing and finish with the warm crumbs."
+      "Lay on plates, shred and add chunks of pheasant and partridge, then drizzle over the dressing and finish with the warm crumbs.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4uCU1z6L4mjBo2ORgantqU.jpg",
-    "imageAlt": "Game salad recipe | Jamie Oliver recipes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4uCU1z6L4mjBo2ORgantqU.jpg",
+    imageAlt: "Game salad recipe | Jamie Oliver recipes",
   },
   {
-    "name": "Veggie ‘fish finger’ sandwiches",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Why miss out on fish finger sandwiches just because you're a vegetarian? Try this super healthy, super tasty veggie fish fingers recipe from Jamie Oliver!",
-    "description": "",
-    "servings": "Serves Makes 6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Veggie ‘fish finger’ sandwiches",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Why miss out on fish finger sandwiches just because you're a vegetarian? Try this super healthy, super tasty veggie fish fingers recipe from Jamie Oliver!",
+    description: "",
+    servings: "Serves Makes 6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Healthy meals",
       "Leftovers",
       "Lunch & dinner recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g leftover mash , (made with both sweet potato and potato)",
       "6 spring onions",
       "olive oil",
@@ -909,9 +874,9 @@
       "1 soft round lettuce",
       "2 tablespoons free-range mayonnaise",
       "2 tablespoons greek-style yoghurt",
-      "6 soft bread rolls"
+      "6 soft bread rolls",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to its lowest setting.",
       "Place the mash in a large bowl, then slice the spring onions.",
       "Set a medium saucepan on a medium heat. Add a little splash of oil, followed by the spring onion. Cook for about 10 minutes or until just starting to soften.",
@@ -926,35 +891,30 @@
       "Place back on the tray, drizzle with oil and bake for 12 to 15 minutes, or until golden and cooked through.",
       "In the meantime, prepare your sandwiches. Discard the outer leaves from the lettuce, then break off the nice, smaller ones. Rinse, pat dry with kitchen paper and set aside.",
       "In a small bowl, mix the mayonnaise and yoghurt together with a little squeeze of lemon juice. Cut the rolls in half.",
-      "When the fingers are ready, remove from the oven. Fill the buns with the fingers, lettuce, parsley leaves, mayonnaise mixture and top with a snipping of salad cress. Delicious served with sweet potato wedges."
+      "When the fingers are ready, remove from the oven. Fill the buns with the fingers, lettuce, parsley leaves, mayonnaise mixture and top with a snipping of salad cress. Delicious served with sweet potato wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260083.jpg",
-    "imageAlt": "Veggie ‘fish finger’ sandwiches"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260083.jpg",
+    imageAlt: "Veggie ‘fish finger’ sandwiches",
   },
   {
-    "name": "Turkey & coconut milk soup",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Use up leftover turkey in this easy Thai-style soup with lemongrass, birds-eye chillies and coriander. The mushrooms add lovely texture too",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Turkey & coconut milk soup",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Use up leftover turkey in this easy Thai-style soup with lemongrass, birds-eye chillies and coriander. The mushrooms add lovely texture too",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Turkey",
-      "Christmas",
-      "Leftovers",
-      "Mains"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Turkey", "Christmas", "Leftovers", "Mains"],
+    ingredients: [
       "2 lemongrass stalks",
       "3 Thai shallots",
       "2 bird’s-eye chillies",
@@ -968,45 +928,45 @@
       "200 g cooked, skinless turkey",
       "1-2 tablespoons fish sauce",
       "1/2 lime",
-      "a few sprigs of fresh coriander"
+      "a few sprigs of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Trim and bruise the lemongrass, peel and bruise the shallots and bruise the chillies. Thinly slice the galangal or ginger, then scrub and bruise the coriander roots (if using).",
       "Add the stock and coconut milk to a large saucepan. Bring to the boil, then turn the heat down.",
       "Add the sugar, lemongrass, shallots, chillies, lime leaves, galangal or ginger and coriander roots (if using). Season and simmer gently for 5 minutes.",
       "Tear the mushrooms and shred or slice the turkey, then add to the pan and reduce the heat to low. Simmer for another 2 to 3 minutes, then add fish sauce and lime juice to taste.",
-      "The finished soup should be sour, salty and hot so add another bruised chilli or two, if needed. Serve hot, with a few coriander leaves scattered on top."
+      "The finished soup should be sour, salty and hot so add another bruised chilli or two, if needed. Serve hot, with a few coriander leaves scattered on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9rWL9OhKaEWBuh6n0DUkip.jpg",
-    "imageAlt": "Turkey & coconut milk soup"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9rWL9OhKaEWBuh6n0DUkip.jpg",
+    imageAlt: "Turkey & coconut milk soup",
   },
   {
-    "name": "Leftover squash pancakes",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Use up leftover squash with this leftover butternut squash in these thick pancakes, with Parmesan cheese, nutmeg and rosemary.",
-    "description": "",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Leftover squash pancakes",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Use up leftover squash with this leftover butternut squash in these thick pancakes, with Parmesan cheese, nutmeg and rosemary.",
+    description: "",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Pancake day",
       "Thanksgiving",
       "Christmas",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g leftover roasted squash",
       "1 fresh red chilli",
       "2 sprigs of fresh rosemary",
@@ -1016,45 +976,44 @@
       "150 g self-raising flour",
       "1 whole nutmeg , for grating",
       "olive oil",
-      "rocket"
+      "rocket",
     ],
-    "instructions": [
+    instructions: [
       "Remove the skin from the roasted squash, then deseed and finely chop the chilli. Pick and finely chop the rosemary leaves, discarding the stalks, and finely grate the Parmesan.",
       "In a large bowl, mash the squash with a fork, then whisk in the egg, milk and flour. Add the chilli, rosemary, Parmesan and a grating of nutmeg.",
       "Heat a little oil in a frying pan and, once hot, add half a ladle of mixture per pancake into the pan. Cook for 1 to 2 mins on each side, until golden and crisp.",
-      "Keep warm in a low oven until ready, then serve with and extra grating of Parmesan and some rocket."
+      "Keep warm in a low oven until ready, then serve with and extra grating of Parmesan and some rocket.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/94qp2qtMqmn9l8M7RdvIzp.jpg",
-    "imageAlt": "Leftover squash pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/94qp2qtMqmn9l8M7RdvIzp.jpg",
+    imageAlt: "Leftover squash pancakes",
   },
   {
-    "name": "Christmas Mulligatawny soup",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "East meets West in this Christmas Mulligatawny Soup, a classic soup inspired by India gets a festive makeover in this recipe from Jamie Oliver.",
-    "description": "“A spicy soup given a twist with Christmas leftovers ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Christmas Mulligatawny soup",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "East meets West in this Christmas Mulligatawny Soup, a classic soup inspired by India gets a festive makeover in this recipe from Jamie Oliver.",
+    description: "“A spicy soup given a twist with Christmas leftovers ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Turkey",
       "Christmas",
       "Thanksgiving",
       "Gorgeous Winter Soups",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "2 cloves of garlic",
       "1 carrot",
@@ -1068,42 +1027,45 @@
       "1 x 400 g tin chopped tomatoes",
       "750 ml hot organic chicken or giblet stock",
       "300 g basmati rice",
-      "a few sprigs of fresh coriander"
+      "a few sprigs of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the onion and garlic, slice up the carrot, and cut the squash into 5mm chunks. Peel and finely grate the ginger.",
       "Heat the oil in a large saucepan over a medium heat, then add the onion, garlic, carrot, ginger and dried chilli. Pop the lid on and cook, stirring occasionally, until all the vegetables are soft, cooked through and lightly golden.",
       "Add the butternut squash, tomato purée and curry paste, then shred in the turkey, and stir well, making sure everything is well coated. Add the chopped tomatoes and season with sea salt and black pepper.",
-      "Pour in the hot stock and bring to the boil, then reduce to a simmer and cook for 15 minutes. Now add the basmati rice and simmer for a further 10 minutes, until the rice is cooked. Season to taste, serve in big bowls and pick over the coriander leaves to garnish."
+      "Pour in the hot stock and bring to the boil, then reduce to a simmer and cook for 15 minutes. Now add the basmati rice and simmer for a further 10 minutes, until the rice is cooked. Season to taste, serve in big bowls and pick over the coriander leaves to garnish.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4sWwaefgarSBEJchLWE3uS.jpg",
-    "imageAlt": "Christmas Mulligatawny soup"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4sWwaefgarSBEJchLWE3uS.jpg",
+    imageAlt: "Christmas Mulligatawny soup",
   },
   {
-    "name": "Christmas kedgeree breakfast tarts",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Whether you're looking for a festive breakfast on the go or just an original way to present a classic try Jamie's Christmas Kedgeree Breakfast Tart recipe.",
-    "description": "“This is a lovely way to use up leftover kedgeree and makes a great breakfast or brunch dish. If you use smaller tins, this makes 14 to 16 tarts – you’ll need to add more eggs, of course. ”",
-    "servings": "Serves Makes 8",
-    "time": {
-      "prep": "",
-      "cook": "3 hours 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "3 hours 20 minutes"
+    name: "Christmas kedgeree breakfast tarts",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Whether you're looking for a festive breakfast on the go or just an original way to present a classic try Jamie's Christmas Kedgeree Breakfast Tart recipe.",
+    description:
+      "“This is a lovely way to use up leftover kedgeree and makes a great breakfast or brunch dish. If you use smaller tins, this makes 14 to 16 tarts – you’ll need to add more eggs, of course. ”",
+    servings: "Serves Makes 8",
+    time: {
+      prep: "",
+      cook: "3 hours 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "3 hours 20 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Starters",
       "Breakfast",
       "Leek",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "5 cm piece of ginger",
       "1 red onion",
       "1 clove of garlic",
@@ -1132,9 +1094,9 @@
       "2 large free-range eggs",
       "CHILLI GLAZE",
       "2 small red chillies",
-      "3 tablespoons olive oil"
+      "3 tablespoons olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Start by making the sauce. Peel and finely slice the onion, deseed and finely chop the chilli, and peel and finely chop the garlic.",
       "Heat the oil in a saucepan over a medium heat and sauté the onion, chilli, garlic and oregano until softened – about 5 minutes.",
       "Season and add the tinned tomatoes, tomato paste and 200ml of water. Lower the heat and simmer, stirring occasionally, for 40 minutes, or until thickened. Transfer the sauce to a bowl until ready to use.",
@@ -1151,36 +1113,39 @@
       "Add the fish, rice, lemon zest and juice to the onion mixture, stir well and cook for a few more minutes. Transfer back to the bowl and allow to cool for 5 minutes.",
       "Divide the kedgeree between your tart tins, making a small well in the middle of each one. Crack an egg into every well, place the tins on a baking tray and pop in the oven for 20 to 25 minutes, or until the eggs are cooked to your liking.",
       "Meanwhile, make the chilli glaze by deseeding and finely chopping the chillies, and combining it with the oil in a small saucepan and cooking over a medium heat for 10 minutes.",
-      "Divide the kedgeree tarts between plates. Brush the top of each tart with chilli glaze, pick over the coriander leaves and serve with the tomato and chilli sauce on the side."
+      "Divide the kedgeree tarts between plates. Brush the top of each tart with chilli glaze, pick over the coriander leaves and serve with the tomato and chilli sauce on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CXwBA6zJqE3AQS54mzkBpN.jpg",
-    "imageAlt": "Christmas kedgeree breakfast tarts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CXwBA6zJqE3AQS54mzkBpN.jpg",
+    imageAlt: "Christmas kedgeree breakfast tarts",
   },
   {
-    "name": "Jamie’s turkey, pork & cranberry pie",
-    "subName": "Topped with crispy sage",
-    "specialDiets": [],
-    "metaDescription": "Jamie Oliver's turkey, pork & cranberry pie recipe combines all of the festive flavours that you know and love into one pot of pastry wrapped goodness. ",
-    "description": "“Christmas is the perfect excuse to invest some serious time and love in creating something truly spectacular, and this Boxing Day treat won’t let you down – with its crumbly pastry, flavour-packed filling and spicy cranberry topping, this twist on a festive classic is hard to beat. Plus, there’ll be no leftovers in sight – double bonus! ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "6 hours 20 minutes plus setting",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "6 hours 20 minutes plus setting"
+    name: "Jamie’s turkey, pork & cranberry pie",
+    subName: "Topped with crispy sage",
+    specialDiets: [],
+    metaDescription:
+      "Jamie Oliver's turkey, pork & cranberry pie recipe combines all of the festive flavours that you know and love into one pot of pastry wrapped goodness. ",
+    description:
+      "“Christmas is the perfect excuse to invest some serious time and love in creating something truly spectacular, and this Boxing Day treat won’t let you down – with its crumbly pastry, flavour-packed filling and spicy cranberry topping, this twist on a festive classic is hard to beat. Plus, there’ll be no leftovers in sight – double bonus! ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "6 hours 20 minutes plus setting",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "6 hours 20 minutes plus setting",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Turkey",
       "Aussie Christmas",
       "Christmas",
       "Thanksgiving",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "FILLING",
       "2 large onions",
       "olive oil",
@@ -1209,9 +1174,9 @@
       "1 stick of cinnamon",
       "180 ml port",
       "1 tablespoon runny honey",
-      "a few sprigs of fresh sage"
+      "a few sprigs of fresh sage",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Peel and finely slice the onions, then place in a frying pan with 1 tablespoon of oil and cook gently over a medium heat for 30 minutes, or until dark, sweet and sticky.",
       "Pick and finely chop the sage leaves, then roughly chop the bacon and add both to the pan after 10 minutes. Once cooked, add the onion mixture to a large bowl and leave to cool.",
@@ -1226,39 +1191,38 @@
       "Using a small funnel, pour the gravy into the pie through the hole in the top, adding just a little at a time and allowing each addition to sink in before adding the next.",
       "To make the cranberry topping, place all the cranberries in a pan. Using a speed-peeler, strip in the orange zest, then squeeze in the all juice. Add the remaining topping ingredients, except for the sage, and simmer for 15 to 20 minutes, or until thickened, stirring regularly.",
       "Taste and add a little extra sugar, if needed, then remove the cinnamon stick, cloves and orange peel. Leave to cool and thicken for 45 minutes, then spoon it on top of the pie. Place in the fridge overnight to set.",
-      "Just before serving, pick the sage leaves, and fry over a medium-high heat until crispy, then scatter over the pie."
+      "Just before serving, pick the sage leaves, and fry over a medium-high heat until crispy, then scatter over the pie.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/53yIUHTLaA1AyzbmfsBn1Z.jpg",
-    "imageAlt": "Jamie’s turkey, pork & cranberry pie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/53yIUHTLaA1AyzbmfsBn1Z.jpg",
+    imageAlt: "Jamie’s turkey, pork & cranberry pie",
   },
   {
-    "name": "Smoked salmon omelette with sprouts",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This smoked salmon omelette recipe with sprouts from Jamie Oliver makes the perfect, luxurious dish for breakfast, brunch or lunch this holiday season.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Smoked salmon omelette with sprouts",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This smoked salmon omelette recipe with sprouts from Jamie Oliver makes the perfect, luxurious dish for breakfast, brunch or lunch this holiday season.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Christmas",
       "Salmon",
       "Leftovers",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "6 cloves of garlic",
       "5cm piece of ginger",
       "170 g purple sprouting broccoli",
@@ -1273,9 +1237,9 @@
       "180 g long red chillies",
       "peanut oil",
       "20 ml fish sauce",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "First make your chilli sauce, peel and finely slice the shallots, and grate the palm sugar. Finely chop the chillies.",
       "Heat 2 tablespoons of peanut oil in a small saucepan, add the shallots and chilli and sauté over a low heat until very soft, about 10 minutes.",
       "Add the palm sugar and 20ml of water, increase the heat to high and bring it to the boil. Cook for 8 to 10 minutes, or until caramelised. Add the fish sauce and a the lime juice, then remove from the heat. Set aside until needed (you won’t need it all for this dish but the rest will keep in the fridge for up to two weeks).",
@@ -1283,36 +1247,38 @@
       "Heat 50ml of oil in a large frying pan or wok over a high heat, add the garlic and ginger and cook, stirring, for 30 seconds. Add the broccoli and brussels sprouts and cook, stirring, for 8 minutes. Stir in the fish sauce, put the lid on the pan and cook for 2 minutes, or until the vegetables are just tender. Add the beansprouts and toss to combine. Divide between four serving plates.",
       "Wipe out the pan and return it to the heat, add a splash of oil and let it get nice and hot. In a bowl, whisk two eggs with a pinch of sea salt, pour them into the pan and swirl to coat it in a thin layer.",
       "Cook until the eggs are just set, then lay half of the salmon on top and roll up to enclose. Slice the rolls in half and set aside. Repeat with the remaining ingredients to make another omelette roll.",
-      "Arrange the pieces of omelette on top of the vegetables and serve with a little chilli sauce on the side."
+      "Arrange the pieces of omelette on top of the vegetables and serve with a little chilli sauce on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/F6zWhnIeK2EBvvkTxTo_lu.jpg",
-    "imageAlt": "Smoked salmon omelette with sprouts"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/F6zWhnIeK2EBvvkTxTo_lu.jpg",
+    imageAlt: "Smoked salmon omelette with sprouts",
   },
   {
-    "name": "Winter pasta salad",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This Winter pasta salad recipe from Jamie Oliver is a fantastic way to use up your leftover Christmas turkey in a delicious sweet and savoury salad. ",
-    "description": "",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Winter pasta salad",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This Winter pasta salad recipe from Jamie Oliver is a fantastic way to use up your leftover Christmas turkey in a delicious sweet and savoury salad. ",
+    description: "",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Aussie Christmas",
       "Christmas",
       "Leftovers",
       "Turkey",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "a few sprigs of fresh thyme",
       "300 g wild mushrooms",
@@ -1322,47 +1288,46 @@
       "3 tablespoons crème fraîche",
       "200 g baby spinach",
       "Parmesan cheese",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the garlic, pick the thyme leaves, and clean and tear up the mushrooms. Shred up the leftover ham or turkey.",
       "Cook the pasta in a pan of boiling salted water according to the packet.",
       "Heat a little oil in a large pan, add the garlic and cook for 1 minute, until golden. Add the thyme, mushrooms, sea salt and black pepper and fry for 5 to 8 minutes.",
       "Stir in the ham or turkey, and continue to cook for 5 minutes, so everything gets some colour. Stir in the crème fraîche and remove the pan from the heat. Drain the pasta once cooked – saving a mugful of the cooking water – and let it cool slightly. Toss the pasta with a little oil, then stir into the sauce. Add a little cooking water to loosen, if needed.",
-      "Stir in the spinach, add a good grating of Parmesan, squeeze in the lemon juice, then season to taste before serving."
+      "Stir in the spinach, add a good grating of Parmesan, squeeze in the lemon juice, then season to taste before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/1BSdoLz-4bB9U6Y0Y0AsHO.jpg",
-    "imageAlt": "Winter pasta salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/1BSdoLz-4bB9U6Y0Y0AsHO.jpg",
+    imageAlt: "Winter pasta salad",
   },
   {
-    "name": "Christmas veg laksa",
-    "subName": "A celebration of leftover veg",
-    "specialDiets": [
-      "Vegetarian",
-      "Vegan",
-      "Dairy-free"
-    ],
-    "metaDescription": "Laksa is a traditional soup from Malaysia, in this Christmas vegetable laksa recipe, Jamie Oliver adds a vegetarian festive twist to the mix. ",
-    "description": "“Don’t be too precise with the type or amount of veg in this soup – anything you have left over should taste great – as will adding shredded turkey, goose, pork or other roast meat. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Christmas veg laksa",
+    subName: "A celebration of leftover veg",
+    specialDiets: ["Vegetarian", "Vegan", "Dairy-free"],
+    metaDescription:
+      "Laksa is a traditional soup from Malaysia, in this Christmas vegetable laksa recipe, Jamie Oliver adds a vegetarian festive twist to the mix. ",
+    description:
+      "“Don’t be too precise with the type or amount of veg in this soup – anything you have left over should taste great – as will adding shredded turkey, goose, pork or other roast meat. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Aussie Christmas",
       "Leftovers",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "2 sticks of lemongrass",
       "5 cm piece of ginger",
       "6 cloves of garlic",
@@ -1377,43 +1342,46 @@
       "200 g vermicelli or thin rice noodles",
       "200 g beansprouts",
       "750 g leftover roasted vegetables , such as butternut squash, parsnips, carrots",
-      "2 limes"
+      "2 limes",
     ],
-    "instructions": [
+    instructions: [
       "Halve the lemongrass, peel the ginger, and peel and roughly chop the garlic and shallots. Pick the coriander leaves and finely chop the stalks.",
       "Place the lemongrass, ginger, ground coriander, garlic, chillies (leave the seeds in, unless you don’t like it hot), shallots, lime leaves and coriander stalks in a food processor with a good drizzle of oil and blitz to a paste. Add the soy sauce and blitz again.",
       "Heat a little oil in a big saucepan and fry the paste for 1 minute, stirring all the time. Stir in the stock and coconut milk. Bring to the boil, then reduce the heat and simmer for 15 minutes.",
       "Bring a pan of salted water to the boil. Add the noodles and beansprouts and cook for 3 minutes. Drain and refresh in cold water, then add to the soup with the veg to cook for the last 5 minutes.",
-      "Transfer to bowls, top with coriander leaves, and cut the limes into wedges for squeezing over."
+      "Transfer to bowls, top with coriander leaves, and cut the limes into wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9Wn0rh7Haj696qhEpriFr0.jpg",
-    "imageAlt": "Christmas veg laksa"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9Wn0rh7Haj696qhEpriFr0.jpg",
+    imageAlt: "Christmas veg laksa",
   },
   {
-    "name": "Christmas cake trifle",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Try this fantastically festive Christmas cake trifle recipe from Jamie magazine for an unusual yet delicious dessert filled with holiday flair.",
-    "description": "“This is a great way to use up leftover Christmas cake or pudding. The amounts given here are just a guide – adjust it according to how much leftover cake you have, and whatever fruits you have to hand. ”",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes plus chilling"
+    name: "Christmas cake trifle",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Try this fantastically festive Christmas cake trifle recipe from Jamie magazine for an unusual yet delicious dessert filled with holiday flair.",
+    description:
+      "“This is a great way to use up leftover Christmas cake or pudding. The amounts given here are just a guide – adjust it according to how much leftover cake you have, and whatever fruits you have to hand. ”",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "30 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes plus chilling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Rum",
       "Leftovers",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small mango",
       "1 small pineapple",
       "½ a pomegranate",
@@ -1426,127 +1394,134 @@
       "120 g quality cherry jam",
       "2 clementines",
       "230 ml double cream",
-      "15 g dark chocolate (70%)"
+      "15 g dark chocolate (70%)",
     ],
-    "instructions": [
+    instructions: [
       "Prepare the mango and pineapple, peeling and roughly chopping all the flesh. Place in a bowl along with the pomegranate seeds. Mix in 20ml of the dark rum and set aside.",
       "Heat a pan over a medium heat, add the almonds and sugar and cook for 2 to 3 minutes or until golden. Add the golden rum and cook for a few minutes. Transfer to a bowl and leave to cool.",
       "Roughly chop the Christmas pudding or cake, then place in a 1.5-litre glass bowl and press firmly into the base. Drizzle over the remaining 80ml dark rum, then pour over the custard.",
       "Cover the bowl with clingfilm and refrigerate for at least 3 hours so the custard can set a little.",
       "Remove the trifle from the fridge and spoon the cherry jam over the custard. Finely grate the clementine zest and put aside, then break up into segments. Add the chopped fruit to the trifle, then layer over the clementine segments.",
-      "Whip the cream to soft peaks, then use it to top the trifle. Decorate with the toasted almonds, scatter over the reserved clementine zest, then shave over the chocolate and serve."
+      "Whip the cream to soft peaks, then use it to top the trifle. Decorate with the toasted almonds, scatter over the reserved clementine zest, then shave over the chocolate and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BQS3pMD0KbQAeUq4tOKf8h.jpg",
-    "imageAlt": "Christmas cake trifle"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BQS3pMD0KbQAeUq4tOKf8h.jpg",
+    imageAlt: "Christmas cake trifle",
   },
   {
-    "name": "Christmas quiche",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Let the kids help make this Christmas quiche recipe from Jamie Oliver, sure to be a party staple the recipe epitomises the flavours of the festive season. ",
-    "description": "",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes plus chilling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes plus chilling"
+    name: "Christmas quiche",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Let the kids help make this Christmas quiche recipe from Jamie Oliver, sure to be a party staple the recipe epitomises the flavours of the festive season. ",
+    description: "",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "55 minutes plus chilling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes plus chilling",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Christmas",
       "Aussie Christmas",
       "Dinner Party",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "375 g pre-rolled shortcrust pastry",
       "3 large free-range eggs",
       "150 ml single cream",
       "50 g Cheddar cheese",
       "100 g cooked higher-welfare ham",
       "50 g stilton",
-      "a few sprigs of fresh sage"
+      "a few sprigs of fresh sage",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Line a 20cm tart tin with the pastry, prick with a fork and place in the freezer for an hour.",
       "Line the tart case with greaseproof paper and fill with baking beans or rice. Blind bake in the oven for 15 minutes. Remove the paper and beans and bake for a further 5 minutes.",
       "In a large bowl, beat the eggs with the cream. Coarsely grate and sprinkle in the Cheddar and shred in the ham. Crumble in the stilton, snip in the sage leaves and season with some black pepper. Mix all together with a fork, and carefully pour into the pastry case.",
-      "Place back in the oven and bake for a further 25 minutes until golden."
+      "Place back in the oven and bake for a further 25 minutes until golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/35b3f2s7KBZ93wQeonZ2hK.jpg",
-    "imageAlt": "Christmas quiche"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/35b3f2s7KBZ93wQeonZ2hK.jpg",
+    imageAlt: "Christmas quiche",
   },
   {
-    "name": "Boxing day quesadillas",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Kids will love cooking these festive Boxing Day Quesadillas, these babies from Jamie Oliver are a different way to use up all your Christmas leftovers.",
-    "description": "“If you and the children are fed up of leftovers this is a fantastic twist on the traditional Boxing Day turkey sandwich. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Boxing day quesadillas",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Kids will love cooking these festive Boxing Day Quesadillas, these babies from Jamie Oliver are a different way to use up all your Christmas leftovers.",
+    description:
+      "“If you and the children are fed up of leftovers this is a fantastic twist on the traditional Boxing Day turkey sandwich. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Turkey",
       "Christmas",
       "Aussie Christmas",
       "Snacks",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "8 soft tortillas",
       "8 tablespoons quality cranberry sauce",
       "300 g leftover cooked higher-welfare turkey",
       "1 x 150 g camembert",
-      "a few sprigs of fresh thyme"
+      "a few sprigs of fresh thyme",
     ],
-    "instructions": [
+    instructions: [
       "Lay out 4 tortillas and spread them with 2 tablespoons of cranberry sauce, then shred up and divide the turkey between them.",
       "Slice the camembert as thinly as you can and spread out evenly over the turkey and scatter with thyme leaves. Top each with a final tortilla.",
       "One by one, dry fry the tortillas in a large frying pan over a medium heat.",
-      "Once the underside is crisp and golden (about 2 to 3 minutes), gently flip over and fry for a few minutes, then slide onto a board and cut into wedges."
+      "Once the underside is crisp and golden (about 2 to 3 minutes), gently flip over and fry for a few minutes, then slide onto a board and cut into wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46256719.jpg",
-    "imageAlt": "Boxing day quesadillas"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46256719.jpg",
+    imageAlt: "Boxing day quesadillas",
   },
   {
-    "name": "Gobble-oink pie",
-    "subName": "With a swede & sweet potato topping",
-    "specialDiets": [],
-    "metaDescription": "Gobble-oink pie is a great way to get the kids involved in the kitchen – create pie perfection for all the family using leftovers from your fridge. ",
-    "description": "“Gobble-oink pie is a great way to get the kids involved in the kitchen – create pie perfection for all the family using leftovers from your fridge. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Gobble-oink pie",
+    subName: "With a swede & sweet potato topping",
+    specialDiets: [],
+    metaDescription:
+      "Gobble-oink pie is a great way to get the kids involved in the kitchen – create pie perfection for all the family using leftovers from your fridge. ",
+    description:
+      "“Gobble-oink pie is a great way to get the kids involved in the kitchen – create pie perfection for all the family using leftovers from your fridge. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Turkey",
       "Christmas",
       "Thanksgiving",
       "Mince",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small swede",
       "2 sweet potatoes",
       "1 knob of unsalted butter",
@@ -1558,46 +1533,46 @@
       "500 g higher-welfare turkey mince (or leftover cooked higher-welfare turkey)",
       "50 g higher-welfare ham",
       "500 ml organic chicken or vegetable stock",
-      "a few sprigs of fresh sage"
+      "a few sprigs of fresh sage",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Peel and roughly chop the swede and sweet potatoes, then boil in a pan of water for 20 minutes, or until soft. Drain and leave to steam dry, then mash with butter and set aside.",
       "Finely chop the carrot and celery, then peel and finely chop the onion and garlic.",
       "Heat a lug of oil in a large pan over a medium heat. Cook the carrot, celery, onion and garlic, stirring occasionally, until softened. Add the turkey and cook for another 10 minutes (skip this stage if using cooked turkey.)",
       "Shred in the ham and turkey (if using cooked turkey), then add the stock. Pick in the sage leaves and leave it all to bubble for another 10 minutes.",
-      "Spoon into little ovenproof dishes and top with the mash. Bake for 20 to 25 minutes, or until hot through and golden."
+      "Spoon into little ovenproof dishes and top with the mash. Bake for 20 to 25 minutes, or until hot through and golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46455436.jpg",
-    "imageAlt": "Gobble-oink pie"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46455436.jpg",
+    imageAlt: "Gobble-oink pie",
   },
   {
-    "name": "Green veggie fritters",
-    "subName": "Leftover sprouts, cheese & egg",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This green vegetable fritters recipe from Jamie magazine is a great for using up leftovers. It's a particularly good quick and healthy lunch idea for kids.",
-    "description": "“This recipe works with all sorts of greens, and any cheese left on your cheeseboard. A soft variety, such as Brie or Reblochon, works particularly well. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Green veggie fritters",
+    subName: "Leftover sprouts, cheese & egg",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This green vegetable fritters recipe from Jamie magazine is a great for using up leftovers. It's a particularly good quick and healthy lunch idea for kids.",
+    description:
+      "“This recipe works with all sorts of greens, and any cheese left on your cheeseboard. A soft variety, such as Brie or Reblochon, works particularly well. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Thanksgiving",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g leftover cooked Brussels sprouts",
       "2 handfuls of leftover cooked greens , (100g)",
       "1/2 a clove of garlic",
@@ -1605,44 +1580,46 @@
       "a few sprigs of fresh dill",
       "50 g leftover cheese",
       "3 large free-range eggs",
-      "oil , for frying"
+      "oil , for frying",
     ],
-    "instructions": [
+    instructions: [
       "Shred the leftover cooked sprouts and greens. Peel and finely chop the garlic, and finely grate the lemon zest. Pick and finely chop the dill.",
       "Put the shredded sprouts and greens into a bowl. Crumble in the cheese and add the garlic, dill and lemon zest. Add a good pinch of sea salt and black pepper, then mix well.",
       "Crack in the eggs and mix to combine.",
       "Place a large frying pan over a medium heat and add a generous lug of oil. Once the oil is hot, carefully lower in heaped tablespoons of the mixture and flatten them out into little patties.",
       "Fry for 2 to 3 minutes, or until the egg is beginning to set, then carefully flip and fry on the other side for 2 more minutes, until the egg is completely cooked.",
-      "Halve and serve the lemon on the side for squeezing over."
+      "Halve and serve the lemon on the side for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BCo1wz214SS8JUzccUk2F9.jpg",
-    "imageAlt": "Green veggie fritters"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BCo1wz214SS8JUzccUk2F9.jpg",
+    imageAlt: "Green veggie fritters",
   },
   {
-    "name": "Green eggs & ham",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Green eggs & ham",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Father's day",
       "Christmas",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small knob of unsalted butter",
       "½ tablespoon olive oil",
       "160 g cooked sliced higher-welfare ham",
@@ -1652,41 +1629,44 @@
       "a few sprigs of fresh mixed herbs, such as flat-leaf parsley, tarragon, basil, mint, dill, marjoram, chives",
       "6 tablespoons olive oil",
       "1 teaspoon cider vinegar",
-      "½ a lime"
+      "½ a lime",
     ],
-    "instructions": [
+    instructions: [
       "For the salsa, deseed and finely chop the chilli and place in a bowl. Pick, finely chop and add the herbs. Add the oil and vinegar, squeeze in the lime juice and mix together, then set aside.",
       "Heat the butter and oil in a frying pan over a medium heat. Once hot, add the ham slices. Immediately break the eggs over the ham and fry for 3 to 4 minutes or until the eggs are cooked to your liking.",
-      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top."
+      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
-    "imageAlt": "Green eggs & ham"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
+    imageAlt: "Green eggs & ham",
   },
   {
-    "name": "Bubble & squeak hamburgers",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie Oliver has updated a retro classic in this recipe for Bubble and Squeak Hamburgers, a great way to use up leftovers to try this Christmas.",
-    "description": "“A satisfying supper that’s a brilliant way to use leftover vegetables and ham. It’s a pretty loose recipe – you want the burgers to hold together, so you need enough vegetables to bind the ham, but you don’t want too much veg, or the texture will be overly mushy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Bubble & squeak hamburgers",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie Oliver has updated a retro classic in this recipe for Bubble and Squeak Hamburgers, a great way to use up leftovers to try this Christmas.",
+    description:
+      "“A satisfying supper that’s a brilliant way to use leftover vegetables and ham. It’s a pretty loose recipe – you want the burgers to hold together, so you need enough vegetables to bind the ham, but you don’t want too much veg, or the texture will be overly mushy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Christmas",
       "Thanksgiving",
       "Leftovers",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 red onion",
       "2 teaspoons cider vinegar",
       "600 g mixed leftover roast veg, including potatoes, swede, parsnips, carrots, sprouts",
@@ -1695,42 +1675,44 @@
       "1 tablespoon olive oil",
       "4 English muffins or rolls",
       "1 handful of lettuce leaves, such as baby cos, frisée",
-      "ketchup , optional"
+      "ketchup , optional",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the onion, then place in a small bowl. Cover with the vinegar and set aside.",
       "Mash all the veg well with a potato masher, then shred add the ham and season generously. Mix together well, then shape into 4 burgers and chill in the fridge to firm up, until ready to use.",
       "Heat the butter and oil in a large frying pan over a medium heat and cook the burgers, in batches if needed, for 3 to 5 minutes each side or until crisping up and turning golden brown.",
-      "To serve, slice the muffins or burger rolls in half and fill with the bubble and squeak hamburgers, pickled red onion, lettuce and ketchup, if desired."
+      "To serve, slice the muffins or burger rolls in half and fill with the bubble and squeak hamburgers, pickled red onion, lettuce and ketchup, if desired.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257688.jpg",
-    "imageAlt": "Bubble & squeak hamburgers"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257688.jpg",
+    imageAlt: "Bubble & squeak hamburgers",
   },
   {
-    "name": "Incredible leftover lasagne",
-    "subName": "With homemade pasta, rich ragù & cheesy béchamel",
-    "specialDiets": [],
-    "metaDescription": "Jamie's Incredible Leftover Lasagne is fresh take on an Italian favourite, made in one pot to cut down on washing up it's a perfect family dish. ",
-    "description": "“When you’re dealing with leftovers, you never quite know how it’s going to turn out. But if you sweat off a load of beautiful vegetables, add a little garlic, some herbs, leftover cooked meats, stock or wine and a little tomato, after a little bit of simmering it will be heavenly. ”",
-    "servings": "12 to 16",
-    "time": {
-      "prep": "",
-      "cook": "3 hours 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "3 hours 30 minutes"
+    name: "Incredible leftover lasagne",
+    subName: "With homemade pasta, rich ragù & cheesy béchamel",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's Incredible Leftover Lasagne is fresh take on an Italian favourite, made in one pot to cut down on washing up it's a perfect family dish. ",
+    description:
+      "“When you’re dealing with leftovers, you never quite know how it’s going to turn out. But if you sweat off a load of beautiful vegetables, add a little garlic, some herbs, leftover cooked meats, stock or wine and a little tomato, after a little bit of simmering it will be heavenly. ”",
+    servings: "12 to 16",
+    time: {
+      prep: "",
+      cook: "3 hours 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "3 hours 30 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Lasagne",
       "Mains",
       "Leftovers",
-      "Pasta & risotto"
+      "Pasta & risotto",
     ],
-    "ingredients": [
+    ingredients: [
       "EGG PASTA DOUGH",
       "700 g tipo 00 flour",
       "7 large free-range eggs , or 14 yolks",
@@ -1751,9 +1733,9 @@
       "75 g plain flour",
       "100 g Parmesan cheese",
       "1 x 125 g ball of buffalo mozzarella",
-      "a few sprigs of fresh basil"
+      "a few sprigs of fresh basil",
     ],
-    "instructions": [
+    instructions: [
       "Make your dough first. Place the flour on a board or in a bowl and make a well in the centre. Beat the egg until smooth, then pour it into the well.",
       "Using the tips of your fingers, gradually mix the egg with the flour until combined.",
       "Knead the bits of dough into one smooth lump. You can also do this step in a food processor – just whiz the flour and egg until the mixture resembles breadcrumbs. Tip onto a work surface and bring together with your hands.",
@@ -1778,36 +1760,38 @@
       "Drape a single layer of lasagne over the base of the baking dish. Spread over a thin layer of ragù, top with another layer of pasta and then spread over a thin layer of béchamel sauce.",
       "Repeat as many times as you can (6 to 8, ideally), finishing with a layer of pasta topped with béchamel sauce.",
       "Tear over the mozzarella, then finish with the remaining grated Parmesan and a drizzle of oil. Pick and scatter over the basil leaves.",
-      "Bake the lasagne in the oven for 45 minutes, or until golden on top and bubbling at the edges. Let stand for 5 minutes before serving."
+      "Bake the lasagne in the oven for 45 minutes, or until golden on top and bubbling at the edges. Let stand for 5 minutes before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257437.jpg",
-    "imageAlt": "Incredible leftover lasagne"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257437.jpg",
+    imageAlt: "Incredible leftover lasagne",
   },
   {
-    "name": "Firecracker chicken noodle salad",
-    "subName": "Carrot ribbons, baby gem & mixed seeds",
-    "specialDiets": [],
-    "metaDescription": "Fill your lunch box with this spicy Asian inspired Firecracker chicken noodle salad from Jamie magazine – a great way to use up leftover chicken at lunchtime.",
-    "description": "“The chilli, coriander, mint and lime in this salad will really pop in your mouth, and are sure to warm you up on a wintry day. This recipe has been created to take to work in your lunchbox. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Firecracker chicken noodle salad",
+    subName: "Carrot ribbons, baby gem & mixed seeds",
+    specialDiets: [],
+    metaDescription:
+      "Fill your lunch box with this spicy Asian inspired Firecracker chicken noodle salad from Jamie magazine – a great way to use up leftover chicken at lunchtime.",
+    description:
+      "“The chilli, coriander, mint and lime in this salad will really pop in your mouth, and are sure to warm you up on a wintry day. This recipe has been created to take to work in your lunchbox. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Leftovers",
       "Lunch & dinner recipes",
       "Prep & go recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g rice noodles , (1 nest)",
       "100 g cooked free-range chicken",
       "¼ of a cucumber",
@@ -1821,88 +1805,92 @@
       "1 tablespoon sweet chilli sauce",
       "½ tablespoon low-salt soy sauce",
       "½ tablespoon runny honey",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "Cook and refresh the noodles. Shred the chicken, finely chop the cucumber and shave the carrot into ribbons using a speed-peeler.",
       "Shred up the baby gem, finely chop the sugar snaps and pick and roughly chop the mint leaves. Lightly toast the mixed seeds.",
       "Combine the shredded chicken, cooked noodles and coriander oil in a bowl. Add all the remaining salad ingredients, toss to combine, place in your lunchbox and keep chilled.",
       "Place the sweet chilli sauce, soy and honey in a small jam jar. Squeeze in the lime juice, secure the lid and take to work with your lunchbox.",
       "When you are ready to eat, shake the jam jar to mix the ingredients then dress your salad. Close your lunchbox again and give it a good shake to coat.",
-      "If you fancy a little winter warmth, remove the lid from the jam jar and briefly heat the dressing in the microwave before pouring it over your chicken salad."
+      "If you fancy a little winter warmth, remove the lid from the jam jar and briefly heat the dressing in the microwave before pouring it over your chicken salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/2remfkO2K2DAXJGO2U3Sm7.jpg",
-    "imageAlt": "Firecracker chicken noodle salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/2remfkO2K2DAXJGO2U3Sm7.jpg",
+    imageAlt: "Firecracker chicken noodle salad",
   },
   {
-    "name": "Gennaro's pasta frittata – lots of ways",
-    "subName": "Perfect for picnics",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This pasta frittata recipe from Gennaro's is an easy and delicious dish; using pasta is a convenient alternative and can be enjoyed both hot and cold.",
-    "description": "“Delicious hot or cold, pasta frittata is a great way of using up leftover pasta and it’s super quick to make ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Gennaro's pasta frittata – lots of ways",
+    subName: "Perfect for picnics",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This pasta frittata recipe from Gennaro's is an easy and delicious dish; using pasta is a convenient alternative and can be enjoyed both hot and cold.",
+    description:
+      "“Delicious hot or cold, pasta frittata is a great way of using up leftover pasta and it’s super quick to make ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Italian",
       "Leftovers",
       "Cheap & cheerful",
       "Mains",
       "One-pan recipes",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "4 large eggs",
       "40 g Parmesan cheese , plus extra to serve",
       "sea salt",
       "freshly ground black pepper",
       "400 g leftover cooked pasta",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6. Beat the eggs in a large bowl, then finely grate in the Parmesan. Season with a little salt and a good twist of pepper. Whisk well, then stir in your pasta.",
       "To cook the frittata, heat 3 tablespoons of oil in a 26cm non-stick ovenproof frying pan over a medium heat. Add the frittata mixture and cook for about 5 minutes, or until crisp underneath, then place in the oven for another 5 minutes, or until firm. Carefully flip the frittata onto a large plate, then slide it back into the pan and return it to the oven for a further 5 minutes, or until crisp underneath. Serve with an extra grating of Parmesan.",
       "If you’ve got about 400g of leftover cooked pasta that is already coated in sauce, you can swap that in for an easy twist on my basic recipe. Or try making a pizzaiola pasta frittata – make the basic pasta frittata (I like to use fusilli, but use whatever shape you have), then serve by slicing and layering over 6 ripe cherry tomatoes and 40g of fontina cheese. Scatter over a few fresh basil leaves, and finish with an extra grating of Parmesan.",
       "If it’s springtime, make the basic recipe extra special by adding peas and pancetta. Heat 1½ tablespoons of extra virgin olive oil in a 26cm non-stick ovenproof frying pan. Peel, finely slice and add 1 onion, then sweat for a few minutes. Very finely slice 6 higher-welfare slices of pancetta and add to the pan for a further 2 to 3 minutes. Stir in 200g of peas, pour in 400ml of hot water, then turn the heat up to high and bring to the boil. Leave it to simmer for 10 to 15 minutes, or until the liquid has evaporated, then cool. Make the basic pasta frittata mixture, finely chop and add the leaves from 4 sprigs of fresh mint,, squeeze in the juice from 1 lemon, then stir in the cooled pea mixture. Cook your frittata as above, and serve with an extra grating of Parmesan.",
-      "Tip: Pasta frittata is delicious served hot or cold – I like to wrap it up to have as a snack during a long walk or a day out foraging in the woods or, take it out for a picnic."
+      "Tip: Pasta frittata is delicious served hot or cold – I like to wrap it up to have as a snack during a long walk or a day out foraging in the woods or, take it out for a picnic.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1561_1_1436870629.jpg",
-    "imageAlt": "Gennaro's pasta frittata – lots of ways"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1561_1_1436870629.jpg",
+    imageAlt: "Gennaro's pasta frittata – lots of ways",
   },
   {
-    "name": "Polpette di pollo",
-    "subName": "Chicken meatballs in rich tomato sauce",
-    "specialDiets": [],
-    "metaDescription": "Light and tasty, Chiappas' chicken meatballs are a delicious and simple dish designed to feed the whole family.",
-    "description": "“We serve these lovely little meatballs hot with a tasty tomato sugo (sauce), but they’re also delicious with pasta and rice, or eaten cold with a green salad and some chilli jam. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Polpette di pollo",
+    subName: "Chicken meatballs in rich tomato sauce",
+    specialDiets: [],
+    metaDescription:
+      "Light and tasty, Chiappas' chicken meatballs are a delicious and simple dish designed to feed the whole family.",
+    description:
+      "“We serve these lovely little meatballs hot with a tasty tomato sugo (sauce), but they’re also delicious with pasta and rice, or eaten cold with a green salad and some chilli jam. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Dinner Party",
       "Italian",
       "Bread",
-      "Tomato"
+      "Tomato",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g cooked free-range chicken",
       "3 slices of brown bread , crusts removed (plus extra breadcrumbs, if needed)",
       "50 ml milk",
@@ -1916,9 +1904,9 @@
       "TOMATO SUGO",
       "3 cloves of garlic",
       "2 x 400 g tins of quality chopped tomatoes",
-      "½ a teaspoon sugar , optional"
+      "½ a teaspoon sugar , optional",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350ºF/gas 4.",
       "Using a large knife, roughly chop up the chicken, giving it some texture, then set aside. Roughly break up the bread into a bowl and pour over the milk, tossing it together, and set aside until the milk is absorbed.",
       "Meanwhile, peel the garlic, and pick and finely chop the parsley.",
@@ -1927,39 +1915,39 @@
       "Place the meatballs in a greased ovenproof dish. Drizzle generously with oil and bake in the oven for 30 minutes, turning the balls halfway so they’re golden on all sides.",
       "While the meatballs are cooking, make your sugo: heat 2 tablespoons of oil in a large frying pan over a medium heat, peel and crush in the garlic and cook for 3 minutes, or until softened but not coloured.",
       "Tip in the tinned tomatoes, then fill the empty tin a third of the way up with water and add this as well. Cook over a high heat for 8 to 10 minutes, stirring occasionally, until the sauce has reduced and thickened. If your tomatoes taste slightly acidic, stir in the sugar to sweeten. Season with salt and pepper.",
-      "Add the sauce to the dish 5 to 10 minutes before the meatballs have finished cooking. Serve with the parsley scattered on top."
+      "Add the sauce to the dish 5 to 10 minutes before the meatballs have finished cooking. Serve with the parsley scattered on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1511_40_1438867974.jpg",
-    "imageAlt": "Polpette di pollo"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1511_40_1438867974.jpg",
+    imageAlt: "Polpette di pollo",
   },
   {
-    "name": "Gluten-free veggie pasties",
-    "subName": "With gluten-free shortcrust pastry",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Why not try Jamie's gluten free pasty recipe? Everyone can enjoy these gluten free veggie pasties and are perfect for using up leftover veg.",
-    "description": "“These gluten-free pasties are perfect for using up leftover veggies from your roast dinner ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Gluten-free veggie pasties",
+    subName: "With gluten-free shortcrust pastry",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Why not try Jamie's gluten free pasty recipe? Everyone can enjoy these gluten free veggie pasties and are perfect for using up leftover veg.",
+    description:
+      "“These gluten-free pasties are perfect for using up leftover veggies from your roast dinner ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Vegetables",
       "Christmas",
       "Thanksgiving",
       "Wimbledon",
       "Bonfire night recipes",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large leek",
       "1 knob of unsalted butter",
       "5 sprigs of fresh thyme",
@@ -1975,47 +1963,47 @@
       "1 tsp salt",
       "1 tsp xanthan gum",
       "50 g unsalted butter",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "To make the pastry, sieve the flour, salt and xanthan gum into a bowl. Place the butter and 130ml water into a small pan over a low heat and bring to the boil, then set aside to cool slightly. Beat the eggs, then stir into the flour mixture. Gradually add the warm butter until it comes together into a rough dough, then bring it together with your hands. Cover and leave to rest while you make the filling.",
       "Preheat the oven to 180ºC/350ºF/gas 4. Line a large baking tray with greaseproof paper.",
       "Trim and finely chop the leek. Melt the butter in a medium pan over a low heat, then add the leek and thyme leaves. Cook for 10 to 12 minutes, or until softened, then leave to cool. Pick and roughly chop the parsley leaves, then add to a bowl with the leftover veggies, mustard and a pinch of salt and pepper. Mash well, stir in the cooled leeks and grate in the cheese.",
       "On a lightly floured surface, divide the pastry into 12 equal pieces, then roll each one out to roughly the thickness of a pound coin (if you find the pastry crumbles too much, roll it out between two large pieces of clingfilm). Using a saucer (roughly 12cm in diameter) as a guide, cut the pastry into circles.",
       "Place roughly a spoonful of the mixture on one half of each pastry round, spreading it out slightly. Beat the egg, then brush it around the edges. Gently fold the pastry over the filling, pressing the edges to seal. Place on the prepared baking tray, brush with a little more egg, then pop in the hot oven for 35 to 40 minutes, or until golden and crisp, brushing with a little more egg halfway through. Serve hot!",
-      "TOP TIP If you’re short of time, you can buy ready-made gluten-free pastry in the freezer section of most supermarkets – just remember to fully defrost it before using."
+      "TOP TIP If you’re short of time, you can buy ready-made gluten-free pastry in the freezer section of most supermarkets – just remember to fully defrost it before using.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1339_1_1436799069.jpg",
-    "imageAlt": "Gluten-free veggie pasties"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1339_1_1436799069.jpg",
+    imageAlt: "Gluten-free veggie pasties",
   },
   {
-    "name": "Gluten-free curried veg pie",
-    "subName": "With gluten-free shortcrust pastry",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a vegetable pie that's gluten free, too? Look no further than Jamie's tasty gluten-free curried veg pie; a great way to use up leftover Christmas veg!",
-    "description": "“Use up any leftover veg from your Sunday lunch in this spiced and super-tasty gluten-free pie, with homemade gluten-free pastry. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Gluten-free curried veg pie",
+    subName: "With gluten-free shortcrust pastry",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Looking for a vegetable pie that's gluten free, too? Look no further than Jamie's tasty gluten-free curried veg pie; a great way to use up leftover Christmas veg!",
+    description:
+      "“Use up any leftover veg from your Sunday lunch in this spiced and super-tasty gluten-free pie, with homemade gluten-free pastry. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Vegetables",
       "Christmas",
       "British",
       "Leftovers",
       "Mains",
-      "Pies & pastries"
+      "Pies & pastries",
     ],
-    "ingredients": [
+    ingredients: [
       "2 onions",
       "olive oil",
       "1½ tablespoons rogan josh paste",
@@ -2032,9 +2020,9 @@
       "250 g gluten-free plain flour , plus extra for dusting (I used Doves Farm)",
       "1 teaspoon xanthan gum",
       "50 g unsalted butter",
-      "1 large free-range egg"
+      "1 large free-range egg",
     ],
-    "instructions": [
+    instructions: [
       "To make the pastry, sieve the flour and xanthan gum into a bowl, then add 1 teaspoon of sea salt.",
       "Place the butter and 150ml water into a small pan over a low heat and bring to the boil, then set aside to cool slightly.",
       "Beat the egg, then stir into the flour mixture with the warm butter until it comes together into a rough dough. Bring it together with your hands, then cover and leave to rest while you make the filling.",
@@ -2045,36 +2033,38 @@
       "On a lightly floured surface, roll out the pastry to roughly ½cm thick (if you find it crumbles too much, roll it out between two large pieces of clingfilm).",
       "Beat the egg, then brush it around the edges of the pie dish. Carefully place the pastry on top, trim away any scruffy edges, then pinch the edges to seal.",
       "Score a cross in the middle, use any extra bits of pastry to decorate the top, then brush over more egg.",
-      "Place the pie dish on a baking tray, then pop in the hot oven for 30 to 35 minutes, or until golden and piping hot through, brushing over more egg halfway through cooking. Delicious served with gravy and steamed greens."
+      "Place the pie dish on a baking tray, then pop in the hot oven for 30 to 35 minutes, or until golden and piping hot through, brushing over more egg halfway through cooking. Delicious served with gravy and steamed greens.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/84644546.jpg",
-    "imageAlt": "Gluten-free curried veg pie"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/84644546.jpg",
+    imageAlt: "Gluten-free curried veg pie",
   },
   {
-    "name": "Turkey tonnato",
-    "subName": "With tuna-spiked mayo",
-    "specialDiets": [],
-    "metaDescription": "Jamie's turkey tonnato recipe is a brilliant twist on the Italian classic served with a tuna spiked mayo it is simply delicious.",
-    "description": "“This is my twist on a classic dish from the Italian region of Piedmont – it’s totally retro and really delicious ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Turkey tonnato",
+    subName: "With tuna-spiked mayo",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's turkey tonnato recipe is a brilliant twist on the Italian classic served with a tuna spiked mayo it is simply delicious.",
+    description:
+      "“This is my twist on a classic dish from the Italian region of Piedmont – it’s totally retro and really delicious ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Turkey",
       "Christmas",
       "Thanksgiving",
       "Dinner Party",
       "Italian",
-      "Tuna"
+      "Tuna",
     ],
-    "ingredients": [
+    ingredients: [
       "4 fresh red chillies",
       "4 anchovies",
       "2 tablespoons small capers",
@@ -2087,45 +2077,46 @@
       "sea salt",
       "freshly ground black pepper",
       "800 g free-range cooked turkey breast , ask your butcher to slice it very finely for you",
-      "60 g rocket"
+      "60 g rocket",
     ],
-    "instructions": [
+    instructions: [
       "Get your butcher to very finely slice the cooked turkey breast for you – it’ll save you a lot of time and trouble.",
       "Prick the chillies with a knife, then hold them over a direct flame on the hob (or place under the grill) for around 5 minutes, or until blackened and blistered all over, turning occasionally. Transfer to a bowl, cover with clingfilm and leave to cool for around 10 minutes.",
       "Halve the anchovies lengthways, then add to a bowl along with the capers, red wine vinegar and extra virgin olive oil. Scrape off and discard the blackened skin from the cooled chillies. Halve, deseed and finely slice them lengthways, then add to the bowl. Mix well.",
       "Mash the tuna in a pestle and mortar to a smooth, creamy paste. Stir in the mayo, a pinch of cayenne, a squeeze of lemon juice and roughly 1 tablespoon of the dressing from the anchovies and chillies. Taste and season with salt and pepper, if you think it needs it.",
-      "Arrange the turkey slices on a large platter, then drizzle over the tuna-spiked mayo. Now it’s time to get retro – lay over the anchovy fillets in neat vertical lines, then place the chillies horizontally on top so you’ve created a pattern, a bit like a checkerboard! Sprinkle over the capers and the rocket and drizzle over the remaining dressing. Finish with a sprinkling of cayenne and a good grating of lemon zest, then tuck in."
+      "Arrange the turkey slices on a large platter, then drizzle over the tuna-spiked mayo. Now it’s time to get retro – lay over the anchovy fillets in neat vertical lines, then place the chillies horizontally on top so you’ve created a pattern, a bit like a checkerboard! Sprinkle over the capers and the rocket and drizzle over the remaining dressing. Finish with a sprinkling of cayenne and a good grating of lemon zest, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1319_13_1412612063.jpg",
-    "imageAlt": "Turkey tonnato"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1319_13_1412612063.jpg",
+    imageAlt: "Turkey tonnato",
   },
   {
-    "name": "Oozy cheesy pasta with crispy pangritata",
-    "subName": "Comfort food at its best",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Use up leftover Christmas cheese (or any cheese you like) in this super-easy pasta dish with a cheesy mascarpone sauce and a crispy herby breadcrumb sprinkle. So simple but so satisfying.",
-    "description": "“A comforting, delicious dinner, which you can bosh together without too much hassle. This recipe is great for using up any leftover cheese from your Christmas cheeseboard – I tend to chuck in a mixture of hard, soft, strong and mild cheeses, but go easy on the blue cheese (that stuff can be strong!). ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Oozy cheesy pasta with crispy pangritata",
+    subName: "Comfort food at its best",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Use up leftover Christmas cheese (or any cheese you like) in this super-easy pasta dish with a cheesy mascarpone sauce and a crispy herby breadcrumb sprinkle. So simple but so satisfying.",
+    description:
+      "“A comforting, delicious dinner, which you can bosh together without too much hassle. This recipe is great for using up any leftover cheese from your Christmas cheeseboard – I tend to chuck in a mixture of hard, soft, strong and mild cheeses, but go easy on the blue cheese (that stuff can be strong!). ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Festive Feast",
       "Christmas",
       "Italian",
       "Bread",
       "Leftovers",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "3 heaped tablespoons mascarpone cheese or crème fraîche",
       "100 g mixed leftover cheese",
       "250 g dried taglierini",
@@ -2135,44 +2126,47 @@
       "1 clove of garlic",
       "5 shelled walnuts",
       "1 sprig of fresh rosemary, thyme or marjoram",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "To make the pangritata, lightly toast the sourdough. Peel the garlic, then put in a food processor with the toasted bread and the walnuts. Pick in the leaves of the herbs and blitz until fine.",
       "Preheat a non-stick frying pan over a medium heat, add a drizzle of olive oil, then add the pangritata and fry for around 5 minutes, or until golden and crisp.",
       "Meanwhile, bring a large pan of salted water to the boil, then reduce the heat to low and place a large heatproof bowl on top. Add the mascarpone or crème fraîche to the bowl along with the leftover cheeses, crumbling or grating any harder varieties first, then stir until melted.",
       "Carefully remove the bowl from the heat and set aside, then turn the heat up to high. Once the water is boiling, add the pasta and cook according to packet instructions.",
       "Drain the pasta, reserving a cupful of cooking water, then add to the bowl of melted cheese and toss to coat, adding a splash of the reserved cooking water to loosen, if needed.",
-      "Transfer to a serving platter, drizzle over a little extra virgin olive oil, sprinkle the crispy pangritata on top and serve right away."
+      "Transfer to a serving platter, drizzle over a little extra virgin olive oil, sprinkle the crispy pangritata on top and serve right away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1031_2_1438765479.jpg",
-    "imageAlt": "Oozy cheesy pasta with crispy pangritata"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1031_2_1438765479.jpg",
+    imageAlt: "Oozy cheesy pasta with crispy pangritata",
   },
   {
-    "name": "Leftover turkey banh mi",
-    "subName": "Vietnamese street food",
-    "specialDiets": [],
-    "metaDescription": "Turkey Banh Mi is a brilliant leftover turkey recipe packed full of flavour and served in a baguette; don't waste those leftovers from Christmas !",
-    "description": "“The perfect leftover turkey recipe – these crispy meat, paté and pickle-filled baguettes are to die for. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Leftover turkey banh mi",
+    subName: "Vietnamese street food",
+    specialDiets: [],
+    metaDescription:
+      "Turkey Banh Mi is a brilliant leftover turkey recipe packed full of flavour and served in a baguette; don't waste those leftovers from Christmas !",
+    description:
+      "“The perfect leftover turkey recipe – these crispy meat, paté and pickle-filled baguettes are to die for. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Turkey",
       "Christmas",
       "Thanksgiving",
       "Asian",
       "Bread",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 teaspoon low-salt soy sauce",
       "1 tablespoon white wine vinegar",
       "4 tablespoons leftover chicken liver pate",
@@ -2192,45 +2186,45 @@
       "1 carrot",
       "½ cucumber",
       "¼ of a white cabbage",
-      "sesame oil"
+      "sesame oil",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need 190g leftover cooked turkey, preferably brown meat",
       "Preheat the oven to 130ºC/250ºF/gas ½. Add a splash of olive oil to a large frying pan over a medium heat. Roughly shred and add the turkey (if you’ve got the skin, add that too) and cook for 2 to 3 minutes, or until warmed through. Grate in the lime zest and stir in the chilli sauce, then reduce the heat to low and cook for a further 2 to 3 minutes, or until crisp and slightly caramelised.",
       "Meanwhile, place the baguettes in the oven to warm through. Peel and add the garlic and most of the ginger to a pestle and mortar, then bash to a smooth paste with a pinch of salt and 2 to 3 tablespoons of extra virgin olive oil. Muddle in the mayo and the juice from the lime, then pick in the coriander leaves and stir to combine. Set aside.",
       "To make the pickle, peel the carrot, then coarsely grate and add to a large bowl along with the cucumber and cabbage. Peel, finely chop and add the remaining ginger, then sprinkle over a pinch of salt and scrunch together with your hands to get rid of any excess liquid. Add 1 teaspoon of sesame oil, the soy and vinegar and toss well to combine.",
-      "Open out the warm baguettes, spread the chicken liver paté onto one side of each, then pile over the turkey and pickled veg. Finish with a dollop of lime-spiked mayo, then finely chop and scatter over the chilli (if using) along with the reserved coriander leaves. Press down slightly on the baguettes to close, then cut the banh mi into chunks and tuck in."
+      "Open out the warm baguettes, spread the chicken liver paté onto one side of each, then pile over the turkey and pickled veg. Finish with a dollop of lime-spiked mayo, then finely chop and scatter over the chilli (if using) along with the reserved coriander leaves. Press down slightly on the baguettes to close, then cut the banh mi into chunks and tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1028_1_1421669577.jpg",
-    "imageAlt": "Leftover turkey banh mi"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1028_1_1421669577.jpg",
+    imageAlt: "Leftover turkey banh mi",
   },
   {
-    "name": "Turkey salad & warm clementine dressing",
-    "subName": "With cranberries & pomegranate",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Our turkey salad recipe is really easy and a great way to use up leftovers from Christmas; served with a warm clementine dressing this turkey salad is a winner!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Turkey salad & warm clementine dressing",
+    subName: "With cranberries & pomegranate",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Our turkey salad recipe is really easy and a great way to use up leftovers from Christmas; served with a warm clementine dressing this turkey salad is a winner!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Turkey",
       "Aussie Christmas",
       "Christmas",
       "Thanksgiving",
       "Fruit",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "2 banana shallots",
       "olive oil",
       "2 clementines",
@@ -2243,47 +2237,48 @@
       "75 g watercress",
       "75 g rocket",
       "2 tablespoons low-fat natural yoghurt",
-      "1 pomegranate"
+      "1 pomegranate",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need 250 g leftover free-range turkey.",
       "Peel and finely dice the shallots, then add to a small frying pan with a splash of olive oil and cook over a medium-low heat for around 5 minutes, or until golden and sticky.",
       "Finely grate in the zest from the clementines, then squeeze in the juice and cook for a further 5 minutes, or until reduced to a nice, syrupy consistency.",
       "Pour in the vinegar and 4 tablespoons of olive oil, season to taste with sea salt and freshly ground black pepper, then reduce the heat to low and leave to simmer until needed.",
       "Heat a lug of olive oil in a large non-stick frying pan over a medium-high heat. Shred and add the turkey (I use both the brown and white meat) and fry for around 5 minutes, or until crispy. Roughly bash the nuts and seeds in a pestle and mortar, then add to the pan with the cranberries and honey. Season and cook for a further couple of minutes, or until sticky and caramelised.",
       "Meanwhile, trim the nice tops off the chicory, leaving them whole, then trim and finely slice the base. Place the chicory leaves onto a serving platter with the watercress and rocket. Drizzle over the warm clementine dressing, pile the sticky, caramelised turkey on top and spoon over the yoghurt.",
-      "Halve the pomegranate, then hold one half cut-side down in your hand and bash the back with a spoon so the seeds fall over the salad. Serve and enjoy!"
+      "Halve the pomegranate, then hold one half cut-side down in your hand and bash the back with a spoon so the seeds fall over the salad. Serve and enjoy!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/983_1_1383844140.jpg",
-    "imageAlt": "Turkey salad & warm clementine dressing"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/983_1_1383844140.jpg",
+    imageAlt: "Turkey salad & warm clementine dressing",
   },
   {
-    "name": "Chicken & squash salad",
-    "subName": "With lovely leftover stuffing toast",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This squash and chicken salad recipes a great way of using up leftover roast chicken and stuffing; a healthy and delicious chicken recipe from Jamie.",
-    "description": "“If you've got a bit of leftover chicken, veg and stuffing around at Christmas, this salad is perfect. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Chicken & squash salad",
+    subName: "With lovely leftover stuffing toast",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This squash and chicken salad recipes a great way of using up leftover roast chicken and stuffing; a healthy and delicious chicken recipe from Jamie.",
+    description:
+      "“If you've got a bit of leftover chicken, veg and stuffing around at Christmas, this salad is perfect. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Christmas",
       "Leftovers",
       "Healthy lunch ideas",
-      "Winter salad"
+      "Winter salad",
     ],
-    "ingredients": [
+    ingredients: [
       "1 butternut squash , (1.2kg)",
       "1 tablespoon coriander seeds",
       "1 dried red chilli",
@@ -2299,9 +2294,9 @@
       "2 handfuls of rocket",
       "2 handfuls of free-range roast chicken",
       "½ a bunch of fresh flat-leaf parsley , (15g)",
-      "leftover stuffing"
+      "leftover stuffing",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need any leftover stuffing",
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Halve the butternut squash lengthways, then scrape out and reserve the seeds. Cut the squash into wedges and spread out on a baking tray, skin-side down.",
@@ -2315,36 +2310,39 @@
       "Halve the garlic clove, then rub the ciabatta all over with the cut side. Drizzle with a little extra virgin olive oil, then spread over the leftover stuffing.",
       "Shred the chicken, then place into a large bowl. Trim and roughly slice the lettuce, then add to the bowl with the rocket and most of the seeds and chickpeas.",
       "Chop or tear the roasted squash into nice chunks, add these to the bowl and drizzle over the dressing. Toss gently then transfer to a large platter. Scatter over the remaining seeds and chickpeas.",
-      "Drizzle the ciabatta with a little more extra virgin olive oil. Pick, finely chop and sprinkle over the parsley, and serve alongside the salad."
+      "Drizzle the ciabatta with a little more extra virgin olive oil. Pick, finely chop and sprinkle over the parsley, and serve alongside the salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/819_1_1438866050.jpg",
-    "imageAlt": "Chicken & squash salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/819_1_1438866050.jpg",
+    imageAlt: "Chicken & squash salad",
   },
   {
-    "name": "Bubble and squeak with ham and eggs",
-    "subName": "Topped with a poached egg",
-    "specialDiets": [],
-    "metaDescription": "Boxing Day recipes always make the best of Christmas leftovers, and this bubble and squeak recipe from Jamie Oliver is no exception. It's just so good!",
-    "description": "“This is the ideal Boxing Day breakfast (although you can of course make this all year round). It’s so easy to make, and you're transforming leftover vegetables into a properly satisfying meal. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 5 minutes"
+    name: "Bubble and squeak with ham and eggs",
+    subName: "Topped with a poached egg",
+    specialDiets: [],
+    metaDescription:
+      "Boxing Day recipes always make the best of Christmas leftovers, and this bubble and squeak recipe from Jamie Oliver is no exception. It's just so good!",
+    description:
+      "“This is the ideal Boxing Day breakfast (although you can of course make this all year round). It’s so easy to make, and you're transforming leftover vegetables into a properly satisfying meal. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 5 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Pork",
       "Christmas",
       "St. George's Day",
       "Potato",
       "Leftovers",
-      "Eggs"
+      "Eggs",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g mixed vegetables , cut into chunks",
       "8 slices higher-welfare cold honey roast ham",
       "750 g floury potatoes , cut into chunks",
@@ -2352,44 +2350,45 @@
       "1 knob unsalted butter",
       "4 large free-range eggs",
       "sea salt",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "If you managed to get through all of the vegetables you served with your Christmas dinner then just boil the potatoes and raw vegetables together in a large pan of salted, boiling water for 15 to 20 minutes until they are all cooked through. Drain and put to one side to steam dry. If using leftover veg, you can add these directly to the cooked potatoes now.",
       "Heat a lug of olive oil and a good knob of butter in a large frying pan over a medium heat. Add the potatoes and vegetables and gently mash them up in the pan to give a nice bubble and squeak mixture. Pat it down into a thick pancake shape and keep frying on a medium heat for about 30 minutes, checking it every 5 minutes or so to make sure the bottom isn’t burning. If it is, then lower the heat and keep watching it. Once the bottom turns golden, carefully flip it over bit by bit and mash it back into itself. Pat it out flat again and continue cooking until really crisp all over. If it still hasn’t browned, then pop the pan (only if it’s ovenproof though!) under a hot grill for 5 minutes.",
       "When the bubble and squeak is nearly ready to come off the heat, start on the eggs. Bring a large pan of salted water to the boil then turn down to a simmer and add the 4 eggs. Remember when it comes to poaching eggs, the fresher the eggs the better the result. Cook for 4 to 5 minutes for a soft to firm egg or a bit longer if you prefer your eggs a little harder.",
-      "Serve a slice of the bubble and squeak topped with a seasoned poached egg, and 2 slices of ham per person. If you ask me, I think this is brilliant with a cold Guinness!"
+      "Serve a slice of the bubble and squeak topped with a seasoned poached egg, and 2 slices of ham per person. If you ask me, I think this is brilliant with a cold Guinness!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/813_1_1350300254.jpg",
-    "imageAlt": "Bubble and squeak with ham and eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/813_1_1350300254.jpg",
+    imageAlt: "Bubble and squeak with ham and eggs",
   },
   {
-    "name": "Gennaro's beautiful leftover bruschetta",
-    "subName": "Perfect for piling high with roasted veggies",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This bruschetta recipe is great if you have lots of leftover veg; make sure you rub some raw garlic onto toasted bread and add whatever toppings you fancy!",
-    "description": "“These roasted vegetable bruschetta are delicious and easy. All you have to do is season and dress the leftover roasted veggies carefully to bring them back to life and you’ve got a perfect snack or light lunch. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Gennaro's beautiful leftover bruschetta",
+    subName: "Perfect for piling high with roasted veggies",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This bruschetta recipe is great if you have lots of leftover veg; make sure you rub some raw garlic onto toasted bread and add whatever toppings you fancy!",
+    description:
+      "“These roasted vegetable bruschetta are delicious and easy. All you have to do is season and dress the leftover roasted veggies carefully to bring them back to life and you’ve got a perfect snack or light lunch. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Vegetables",
       "Christmas",
       "Italian",
       "Bread",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 slice of sourdough bread",
       "1 piece of leftover roast turnip",
       "2 pieces leftover roast beetroot",
@@ -2401,46 +2400,47 @@
       "1 handful of mixed salad leaves",
       "1 sprig of fresh mint",
       "1 lemon",
-      "Parmesan cheese"
+      "Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Pop the bread on a hot griddle pan and toast it on both sides.",
       "Roughly mash the leftover vegetables. Season with sea salt and black pepper, drizzle over some extra virgin olive oil and a little splash of balsamic, then mash again.",
       "Halve the garlic clove, then rub the cut-sides all over the toast, then spoon the mashed vegetables on top.",
       "Pick and roughly chop the parsley leaves, then scatter on top.",
       "Pick the mint leaves, then toss with the salad leaves, a good pinch of salt, a splash of extra virgin olive oil, a drizzle of balsamic and a squeeze of lemon juice.",
-      "Put a pinch of salad leaves on top of the bruschetta, then shave over some Parmesan. Finish with a drizzle of extra virgin olive oil and serve right away with the rest of the salad on the side."
+      "Put a pinch of salad leaves on top of the bruschetta, then shave over some Parmesan. Finish with a drizzle of extra virgin olive oil and serve right away with the rest of the salad on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/755_1_1436795528.jpg",
-    "imageAlt": "Gennaro's beautiful leftover bruschetta"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/755_1_1436795528.jpg",
+    imageAlt: "Gennaro's beautiful leftover bruschetta",
   },
   {
-    "name": "Turkey con chilli",
-    "subName": "With fresh, zingy homemade guacamole",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Turkey chilli is the best meal to make with turkey leftovers; build up the layers of flavour with a sweet vegetable base and you are away, so beautiful.",
-    "description": "“No one will recognise leftover turkey once it's jazzed up in this spicy chilli with attitude ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 35 minutes"
+    name: "Turkey con chilli",
+    subName: "With fresh, zingy homemade guacamole",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Turkey chilli is the best meal to make with turkey leftovers; build up the layers of flavour with a sweet vegetable base and you are away, so beautiful.",
+    description:
+      "“No one will recognise leftover turkey once it's jazzed up in this spicy chilli with attitude ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "2 hours 35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Turkey",
       "Christmas",
       "Dinner Party",
       "Thanksgiving",
-      "Mexican"
+      "Mexican",
     ],
-    "ingredients": [
+    ingredients: [
       "2 red onions",
       "1 carrot",
       "1 leek",
@@ -2466,9 +2466,9 @@
       "½ a clove of garlic",
       "1 fresh green chilli",
       "1 bunch of fresh coriander , (30g)",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need 600 g turkey, leftover, shredded.",
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Peel and roughly chop the onions and carrot, and trim and roughly chop the leek. Deseed and roughly chop the peppers, and deseed and finely chop the chillies.",
@@ -2480,36 +2480,39 @@
       "While that’s cooking, make your guacamole. Peel and destone the avocados and put one of them in a food processor. Halve the tomatoes, peel the onion and garlic, and deseed the chilli, and add it all to the food processor with the coriander and blitz.",
       "Use a fork to mash the other avocado in a bowl so it’s nice and chunky. Taste the mixture in the food processor and add salt and squeezes of lime juice until the taste is just right for you. Whiz up one more time, then tip into the bowl with your chunky avocado and mix together.",
       "Take the chilli out of the oven and scrape all the gnarly bits from the edge of the pan back into the chilli for added flavour. Squeeze in some lime juice, and stir through most of the reserved coriander leaves.",
-      "Have a taste to check the seasoning, then serve with steamed basmati rice or tortillas, and a good dollop of soured cream and guacamole on top. Scatter over your remaining coriander leaves and some finely sliced fresh chilli if you fancy, then get everyone to tuck in!"
+      "Have a taste to check the seasoning, then serve with steamed basmati rice or tortillas, and a good dollop of soured cream and guacamole on top. Scatter over your remaining coriander leaves and some finely sliced fresh chilli if you fancy, then get everyone to tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EfalAQFJaysB-MjY-6tWzT.jpg",
-    "imageAlt": "Turkey con chilli"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EfalAQFJaysB-MjY-6tWzT.jpg",
+    imageAlt: "Turkey con chilli",
   },
   {
-    "name": "Turkey and sweet leek pie",
-    "subName": "With a gorgeous chestnut and sage puff pastry topping",
-    "specialDiets": [],
-    "metaDescription": "This turkey & leek pie recipe from Jamie Oliver is dead simple, completely versatile, and absolutely gorgeous. It's one of the best leftover turkey recipes.",
-    "description": "“This comforting pie with homemade gravy turns leftover turkey meat into a real crowd pleaser ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 45 minutes"
+    name: "Turkey and sweet leek pie",
+    subName: "With a gorgeous chestnut and sage puff pastry topping",
+    specialDiets: [],
+    metaDescription:
+      "This turkey & leek pie recipe from Jamie Oliver is dead simple, completely versatile, and absolutely gorgeous. It's one of the best leftover turkey recipes.",
+    description:
+      "“This comforting pie with homemade gravy turns leftover turkey meat into a real crowd pleaser ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 45 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Cooks Christmas",
       "Turkey",
       "Christmas",
       "Thanksgiving",
       "British",
-      "Leek"
+      "Leek",
     ],
-    "ingredients": [
+    ingredients: [
       "2 rashers higher-welfare smoked streaky bacon , roughly chopped",
       "½ bunch fresh thyme , leaves picked",
       "olive oil",
@@ -2523,46 +2526,47 @@
       "500 g puff pastry",
       "12 jarred or vac-packed chesntnuts , roasted and peeled",
       "2 sprigs of fresh sage , leaves picked",
-      "1 free-range egg , beaten"
+      "1 free-range egg , beaten",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need 800 g cooked white turkey meat, torn into big chunks.",
       "This is dead simple, completely versatile and absolutely gorgeous. It’s not a pretty-boy pie; it’s a proper, old-school pie that everyone will be over the moon to see on the table. I’m putting leftover white turkey meat to good use here, but you could also mix brown meat in there too.",
       "Preheat your oven to 190°C/375°F/gas 5. Put your bacon in a large pan on a medium heat and add your thyme leaves. Add a lug of olive oil and let it all fry off a few minutes. Add all of your prepped leeks and fry them off for about 3 minutes. Add a pinch of salt and pepper then pop the lid on top, turn the heat down to medium and let them cook away gently for 30 minutes, stirring every 5 to 10 minutes to make sure they don’t catch. There’s going to be enough moisture in the leeks to keep them happy in the pan so they should be soft and melt in your mouth once they’re done.",
       "When your leeks are ready, add the turkey meat to them and stir. If you’ve got a bit of stuffing mixed in there you can put that in too. Add the flour, mix it in well then pour in your stock and stir again. Add the crème fraîche then turn the heat up and bring everything back up to the boil. Have a taste and add a bit more salt and pepper if it needs it then turn the heat off. Pour the mixture through a sieve over another large empty pan and let the wonderful gravy from the mixture drip into the pan while you roll out your pastry.",
       "Get a deep baking dish roughly 22 x 30cm. Dust a clean surface and a rolling pin with a bit of flour and roll your pastry out so it’s about double the size of your dish. Crumble the chestnuts over one half of the pastry then tear a few of the sage leaves over the chestnuts. Fold the other half of pastry on top then roll it out carefully and evenly so you have a rectangle big enough to cover your baking tray. Don’t worry if a few bits stick out here and there.",
-      "Spoon that thick leek mixture from your sieve into the pie dish and spread it out evenly. Lay your pastry on top, tuck the ends under then gently score the pastry diagonally with your knife. Add a pinch of salt to your beaten egg then paint this egg wash over the top of your pastry. Pop your pie in the oven for about 35 to 40 minutes or until the pastry is puffed up and golden brown. When the pie is ready, re-heat the lovely gravy and serve with your pie, along with some peas tossed in butter, lemon, salt and pepper and everyone’s happy!"
+      "Spoon that thick leek mixture from your sieve into the pie dish and spread it out evenly. Lay your pastry on top, tuck the ends under then gently score the pastry diagonally with your knife. Add a pinch of salt to your beaten egg then paint this egg wash over the top of your pastry. Pop your pie in the oven for about 35 to 40 minutes or until the pastry is puffed up and golden brown. When the pie is ready, re-heat the lovely gravy and serve with your pie, along with some peas tossed in butter, lemon, salt and pepper and everyone’s happy!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/633_1_1438783763.jpg",
-    "imageAlt": "Turkey and sweet leek pie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/633_1_1438783763.jpg",
+    imageAlt: "Turkey and sweet leek pie",
   },
   {
-    "name": "Pytt y panna (Little pieces in a pan)",
-    "subName": "An incredible one-pan Swedish hash",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A delicious everyday beef recipe made up of leftover meat and potatoes, inspired by the Swedish hash recipe it's a comforting and tasty dish",
-    "description": "“My take on Pytt y panna is a great way to use leftover meat and a beautiful meal in its own right ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Pytt y panna (Little pieces in a pan)",
+    subName: "An incredible one-pan Swedish hash",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A delicious everyday beef recipe made up of leftover meat and potatoes, inspired by the Swedish hash recipe it's a comforting and tasty dish",
+    description:
+      "“My take on Pytt y panna is a great way to use leftover meat and a beautiful meal in its own right ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Does...",
       "Beef",
       "Christmas",
       "Sausage",
       "Pork",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "2 thick slices higher-welfare smoked bacon , or 6 rashers of higher-welfare smoked streaky bacon",
       "2 quality smoked or regular sausages , cooked",
       "300 g quality cooked brisket , or other leftover cooked meat",
@@ -2579,175 +2583,179 @@
       "3 tablespoons extra virgin olive oil",
       "1 small handful fresh chives , finely chopped",
       "1 small handful fresh dill , roughly chopped",
-      "1 small handful fresh flat-leaf parsley , leaves picked"
+      "1 small handful fresh flat-leaf parsley , leaves picked",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/427_1_1436879729.jpg",
-    "imageAlt": "Pytt y panna (Little pieces in a pan)"
+    instructions: [],
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/427_1_1436879729.jpg",
+    imageAlt: "Pytt y panna (Little pieces in a pan)",
   },
   {
-    "name": "Leftovers affogato",
-    "subName": "With crumbled amaretti biscuits",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Affogato is a quick fix pud that you can knock up easily in seconds; it's a great recipe to have up your sleeve if you need to rustle something up quick.",
-    "description": "“Knock together this quick-fix affogato in just 45 seconds and reinvent any lovely leftover puds ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Leftovers affogato",
+    subName: "With crumbled amaretti biscuits",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Affogato is a quick fix pud that you can knock up easily in seconds; it's a great recipe to have up your sleeve if you need to rustle something up quick.",
+    description:
+      "“Knock together this quick-fix affogato in just 45 seconds and reinvent any lovely leftover puds ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Christmas",
       "British",
       "Leftovers",
       "Desserts",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "75 g leftover dessert , Christmas pudding, chocolate mousse, tart, torte or pie",
       "1 scoop good-quality vanilla ice cream",
       "1 shot good-quality hot espresso",
-      "1-2 amaretti biscuits"
+      "1-2 amaretti biscuits",
     ],
-    "instructions": [
+    instructions: [
       "This is a quick fix pud that you can knock together in just 45 seconds. It’s a nice little recipe to have up your sleeve if you need to rustle something up with no notice. It’s also a fantastic way of bringing back to life any leftover puds you’ve got sitting in the fridge.",
-      "You can use cups, glasses or little bowls to make this pud. Spoon or crumble your leftover pudding into the bottom of each, then top with the scoop of ice cream and pour over the shot of espresso. If you’re doing this for kids, you could use decaffeinated coffee. Bash and crunch up your amaretti biscuits, then scatter one or two over the top of each pud and tuck in!"
+      "You can use cups, glasses or little bowls to make this pud. Spoon or crumble your leftover pudding into the bottom of each, then top with the scoop of ice cream and pour over the shot of espresso. If you’re doing this for kids, you could use decaffeinated coffee. Bash and crunch up your amaretti biscuits, then scatter one or two over the top of each pud and tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/308_1_1439916216.jpg",
-    "imageAlt": "Leftovers affogato"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/308_1_1439916216.jpg",
+    imageAlt: "Leftovers affogato",
   },
   {
-    "name": "Jamie's leftover Christmas pudding and ice cream sundae",
-    "subName": "With flaked almonds, dark chocolate & cranberry sauce",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "For an ice cream sundae recipe with a festive twist, try this after-Christmas treat using your leftover Christmas pudding, cranberry sauce and ice cream!",
-    "description": "“This recipe uses up leftover Christmas pud brilliantly. What I’m giving you here is really more of a suggestion because the amount of Christmas pudding you’ll have left over will really depend on how greedy your guests were on Christmas Day. I think it’s almost worth having another pudding stashed away so you can make this as an after-Christmas treat. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Jamie's leftover Christmas pudding and ice cream sundae",
+    subName: "With flaked almonds, dark chocolate & cranberry sauce",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "For an ice cream sundae recipe with a festive twist, try this after-Christmas treat using your leftover Christmas pudding, cranberry sauce and ice cream!",
+    description:
+      "“This recipe uses up leftover Christmas pud brilliantly. What I’m giving you here is really more of a suggestion because the amount of Christmas pudding you’ll have left over will really depend on how greedy your guests were on Christmas Day. I think it’s almost worth having another pudding stashed away so you can make this as an after-Christmas treat. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Cooks Christmas",
       "Fruit",
       "Christmas",
       "British",
       "Leftovers",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "200 g Christmas pudding , leftover",
       "6 tablespoons cranberry sauce",
       "red or mulled wine",
       "2 teaspoons sugar , to taste, optional",
       "500 ml good-quality vanilla ice cream",
       "1 large handful of flaked almonds",
-      "100 g good-quality dark chocolate (70% cocoa solids)"
+      "100 g good-quality dark chocolate (70% cocoa solids)",
     ],
-    "instructions": [
+    instructions: [
       "Put a pan over a medium heat and crumble in your Christmas pudding. Squash it down a bit with a wooden spoon to help it heat up and get a bit crispy. Fry for about 4 to 5 minutes, stirring every so often so it doesn’t catch.",
       "In another small pan on a low heat, add your cranberry sauce with a splash of red or mulled wine. Stir in and cook for a few minutes until warmed through. If your sauce is too tart for your liking, add a teaspoon or two of sugar. If you’ve made up a batch of my spiced sugar, then use that because it will be delicious with the cranberry.",
       "Toast the almonds under a hot grill under light brown.",
       "Once your pudding is warm and slightly crispy and the sauce has heated up, divide half of your pudding between your four glasses or bowls. Add a scoop of vanilla ice cream on top of the pudding, drizzle over your hot cranberry sauce, and a good sprinkling of toasted flaked almonds.",
       "Divide the remaining Christmas pud between your glasses and layer again with ice cream, cranberry sauce and flaked almonds.",
-      "Finish the sundae off by grating over a bit of nice dark chocolate and dig in before the ice cream melts."
+      "Finish the sundae off by grating over a bit of nice dark chocolate and dig in before the ice cream melts.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/290_1_1438866638.jpg",
-    "imageAlt": "Jamie's leftover Christmas pudding and ice cream sundae"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/290_1_1438866638.jpg",
+    imageAlt: "Jamie's leftover Christmas pudding and ice cream sundae",
   },
   {
-    "name": "Christmas pudding spoons",
-    "subName": "Great for a little taster of pud",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "For a fun Christmas dessert, treat your guests to Jamie's Christmas Pudding Spoons; this recipe serves 30 making it great Christmas party food.",
-    "description": "“These kinda Christmas pudding canapés with custard are great for parties or big buffet lunches. You’ll need 30 spoons for this recipe. ”",
-    "servings": "Serves Makes 30",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Christmas pudding spoons",
+    subName: "Great for a little taster of pud",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "For a fun Christmas dessert, treat your guests to Jamie's Christmas Pudding Spoons; this recipe serves 30 making it great Christmas party food.",
+    description:
+      "“These kinda Christmas pudding canapés with custard are great for parties or big buffet lunches. You’ll need 30 spoons for this recipe. ”",
+    servings: "Serves Makes 30",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Christmas",
       "Dinner Party",
       "British",
       "Desserts",
-      "Puddings & desserts"
+      "Puddings & desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "142 ml double cream",
       "2 tablespoons caster sugar",
       "250 g custard , warmed",
       "450 g Christmas pudding , heated",
       "1 handful flaked almonds , toasted and chopped, to decorate",
-      "1 orange , zest of"
+      "1 orange , zest of",
     ],
-    "instructions": [
+    instructions: [
       "Whip the double cream and caster sugar together until stiff.",
       "Lay out all your spoons on serving plates and put a blob of custard on each one – not too much or they will overflow when you add the pudding. Take a teaspoon, scoop out lumps of the hot Christmas pudding and drop them onto the custard. Top with a dollop of the whipped cream.",
-      "Scatter with the almonds and grated orange zest and serve while warm."
+      "Scatter with the almonds and grated orange zest and serve while warm.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/140_1_1439309460.jpg",
-    "imageAlt": "Christmas pudding spoons"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/140_1_1439309460.jpg",
+    imageAlt: "Christmas pudding spoons",
   },
   {
-    "name": "Boxing Day bubble & squeak",
-    "subName": "Packed with leftover seasonal veg",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Looking for a bubble and squeak recipe? Jamie's epic bubble and squeak is the perfect recipe to make with all those yummy Christmas leftovers!",
-    "description": "“I've played with a classic bubble and squeak recipe to reinvent any leftover Christmas bits and bobs – out of uninspiring leftovers comes a festive treat that will make everyone super-happy! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Boxing Day bubble & squeak",
+    subName: "Packed with leftover seasonal veg",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Looking for a bubble and squeak recipe? Jamie's epic bubble and squeak is the perfect recipe to make with all those yummy Christmas leftovers!",
+    description:
+      "“I've played with a classic bubble and squeak recipe to reinvent any leftover Christmas bits and bobs – out of uninspiring leftovers comes a festive treat that will make everyone super-happy! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Pork",
       "Eggs",
       "Vegetables",
       "Christmas",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "800 g leftover veg , about half potatoes, then brussels sprouts, carrots, turnip",
       "4 ripe tomatoes",
       "4 large field mushrooms",
       "8 rashers of higher-welfare smoked streaky bacon",
       "4 higher-welfare chipolatas",
-      "4 large free-range eggs"
+      "4 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the grill to high.",
       "Drizzle 1 tablespoon of oil into a non-stick ovenproof frying pan over a medium heat, add the leftover veg and start mashing them together.",
       "Cook for 15 to 20 minutes, and keep mashing them over the course of the cooking time so they break down and get nice and crisp on the bottom.",
@@ -2757,38 +2765,38 @@
       "When the tray of extras is just about perfect, turn the oven to 180ºC/350ºF/gas 4 and pop them down at the bottom of the oven to keep warm,",
       "Give the bubble and squeak one final pat down and use the back of a spoon to make four dents, evenly spaced around the pan. Crack in the eggs – it looks fantastic, isn’t predictable and saves on washing up.",
       "Season with a tiny bit of salt and pepper and put in the oven for about 8 minutes, or until the eggs are cooked to your liking.",
-      "To serve, pop the tray of bubble & squeak and eggs in the middle of the table with the tray of extras on the side."
+      "To serve, pop the tray of bubble & squeak and eggs in the middle of the table with the tray of extras on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46293391.jpg",
-    "imageAlt": "Boxing Day bubble & squeak"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46293391.jpg",
+    imageAlt: "Boxing Day bubble & squeak",
   },
   {
-    "name": "Jamie's beautiful leftover bruschetta",
-    "subName": "Topped with roasted fennel & mozzarella",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Get creative with bruschetta toppings, make the most out of leftovers and discover new bruschetta topping ideas from leftover lamb to anchovies and fish.",
-    "description": "“As long as you've got bread and a topping that takes your fancy, rustling up bruschetta is easy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Jamie's beautiful leftover bruschetta",
+    subName: "Topped with roasted fennel & mozzarella",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Get creative with bruschetta toppings, make the most out of leftovers and discover new bruschetta topping ideas from leftover lamb to anchovies and fish.",
+    description:
+      "“As long as you've got bread and a topping that takes your fancy, rustling up bruschetta is easy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Bread",
       "Christmas",
       "Italian",
       "Leftovers",
-      "Vegetables"
+      "Vegetables",
     ],
-    "ingredients": [
+    ingredients: [
       "2 bulbs of leftover roasted fennel",
       "a few sprigs of fresh basil",
       "1 fresh red chilli",
@@ -2797,46 +2805,47 @@
       "extra virgin olive oil",
       "50 g Parmesan cheese",
       "125 g buffalo mozzarella",
-      "1 clove of garlic"
+      "1 clove of garlic",
     ],
-    "instructions": [
+    instructions: [
       "Roughly slice the roasted fennel, pick and finely chop the basil, reserving a few baby leaves for garnish, and deseed and finely chop the chilli.",
       "Place a griddle pan on a high heat and toast the bread.",
       "Meanwhile, place the fennel in a bowl with the chopped basil leaves and most of the chilli. Squeeze in the lemon juice, add a good drizzle of extra virgin olive oil, a pinch of sea salt and black pepper and a few shavings of Parmesan, then toss everything together. Have a quick taste and add a bit more lemon juice, salt or pepper, if needed.",
       "When the bread is nice and charred, halve the unpeeled garlic clove and rub the cut side all over both sides.",
       "Drizzle with a little extra virgin olive oil, then top with a small handful of the fennel mixture.",
-      "Tear the mozzarella into quarters and place one on each bruschetta, then top with some thin shavings of Parmesan, a few little sprinkles of chilli and the reserved basil."
+      "Tear the mozzarella into quarters and place one on each bruschetta, then top with some thin shavings of Parmesan, a few little sprinkles of chilli and the reserved basil.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/69_1_1433848856.jpg",
-    "imageAlt": "Jamie's beautiful leftover bruschetta"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/69_1_1433848856.jpg",
+    imageAlt: "Jamie's beautiful leftover bruschetta",
   },
   {
-    "name": "Leftover turkey salad",
-    "subName": "With nuts, cranberries & an amazing zingy dressing",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A brilliant way to use leftover turkey after Christmas – beats turkey sarnies any day of the week!",
-    "description": "“A brilliant way to use leftover turkey after Christmas – beats turkey sarnies any day of the week! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Leftover turkey salad",
+    subName: "With nuts, cranberries & an amazing zingy dressing",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A brilliant way to use leftover turkey after Christmas – beats turkey sarnies any day of the week!",
+    description:
+      "“A brilliant way to use leftover turkey after Christmas – beats turkey sarnies any day of the week! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Cooks Christmas",
       "Turkey",
       "Christmas",
       "Leftovers",
       "Healthy meals",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large handfuls of brown turkey meat",
       "1 large handful of cashew nuts",
       "1 handful of dried cranberries",
@@ -2854,9 +2863,9 @@
       "extra virgin olive oil",
       "1 tablespoon soy sauce",
       "1 teaspoon sesame oil",
-      "5 cm piece of ginger"
+      "5 cm piece of ginger",
     ],
-    "instructions": [
+    instructions: [
       "Shred the brown turkey meat into thin strips using your fingers and put it into a dry pan over a medium heat.",
       "Add the cashew nuts, dried cranberries and Chinese five-spice, give it all a good stir, then let it toast away while you get on with your salad, shaking the pan occasionally to stop it from catching.",
       "Pick the mint and most of the coriander leaves into a bowl, then add the salad leaves and toss together.",
@@ -2869,9 +2878,10 @@
       "At this point, make sure your guests are all at the table and ready to eat so you can serve the salad as soon as the hot meat hits the salad leaves. Toss half of the pan-fried ingredients through the salad leaves and transfer to a serving platter.",
       "Spoon the remaining nuts, cranberries and crispy meat over the top of the salad and add another drizzle of dressing.",
       "Hold the remaining pomegranate half over the salad and gently smack it with a wooden spoon so that the seeds tumble out over the salad.",
-      "Garnish with a nice sprinkling of fresh red chilli, and the remaining coriander leaves and serve right away."
+      "Garnish with a nice sprinkling of fresh red chilli, and the remaining coriander leaves and serve right away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/29_1_1438866003.jpg",
-    "imageAlt": "Leftover turkey salad"
-  }
-]
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/29_1_1438866003.jpg",
+    imageAlt: "Leftover turkey salad",
+  },
+];

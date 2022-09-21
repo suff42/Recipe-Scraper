@@ -1,28 +1,23 @@
-[
+export const onePan = [
   {
-    "name": "Upside down fish pie",
-    "subName": "Salmon, prawns, tartare mash, broccoli, chives & tomatoes",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Jamie's flavour-packed fish pie with salmon, prawns, tartare mash, broccoli, chives & tomatoes is a guaranteed family favourite and ready in under an hour.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "54 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "54 minutes"
+    name: "Upside down fish pie",
+    subName: "Salmon, prawns, tartare mash, broccoli, chives & tomatoes",
+    specialDiets: ["Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Jamie's flavour-packed fish pie with salmon, prawns, tartare mash, broccoli, chives & tomatoes is a guaranteed family favourite and ready in under an hour.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "54 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "54 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Salmon",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Salmon", "One-pan recipes"],
+    ingredients: [
       "1 kg potatoes",
       "320 g sprouting broccoli",
       "100 g tartare sauce",
@@ -31,38 +26,31 @@
       "320 g ripe mixed-colour cherry tomatoes",
       "1 bunch of chives (20g)",
       "165 g raw peeled king prawns",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136867685.jpg",
-    "imageAlt": "Upside down fish pie"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136867685.jpg",
+    imageAlt: "Upside down fish pie",
   },
   {
-    "name": "Tomato fritters",
-    "subName": "Fragrant herbs, feta & hot chilli sauce",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's easy veggie tomato fritters can be on the table in just 20 minutes. With fragrant herbs, feta & hot chilli sauce, it's a thing of joy. ",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Tomato fritters",
+    subName: "Fragrant herbs, feta & hot chilli sauce",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's easy veggie tomato fritters can be on the table in just 20 minutes. With fragrant herbs, feta & hot chilli sauce, it's a thing of joy. ",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Vegetables",
-      "One-pan recipes",
-      "Tomato",
-      "Pork",
-      "Pork belly"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Vegetables", "One-pan recipes", "Tomato", "Pork", "Pork belly"],
+    ingredients: [
       "250 g ripe mixed-colour cherry tomatoes",
       "½ a bunch of flat-leaf parsley (15g)",
       "1 teaspoon dried oregano",
@@ -73,34 +61,31 @@
       "1 large egg",
       "hot chilli sauce",
       "30 g feta cheese",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136706835.jpg",
-    "imageAlt": "Tomato fritters"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136706835.jpg",
+    imageAlt: "Tomato fritters",
   },
   {
-    "name": "Rolled pork belly",
-    "subName": "Amazing roasted fennel, sage & saffron risotto",
-    "specialDiets": [],
-    "metaDescription": "Jamie's delicious roast pork belly with roasted fennel, sage & saffron risotto makes for an impressive centrepiece at your next dinner party.",
-    "description": "",
-    "servings": "6 - 8 with leftover pork",
-    "time": {
-      "prep": "",
-      "cook": "3 hours 30 minutes (20 minutes prep, 190 minutes cook)",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "3 hours 30 minutes (20 minutes prep, 190 minutes cook)"
+    name: "Rolled pork belly",
+    subName: "Amazing roasted fennel, sage & saffron risotto",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's delicious roast pork belly with roasted fennel, sage & saffron risotto makes for an impressive centrepiece at your next dinner party.",
+    description: "",
+    servings: "6 - 8 with leftover pork",
+    time: {
+      prep: "",
+      cook: "3 hours 30 minutes (20 minutes prep, 190 minutes cook)",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "3 hours 30 minutes (20 minutes prep, 190 minutes cook)",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Pork",
-      "Pork belly",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Pork", "Pork belly", "One-pan recipes"],
+    ingredients: [
       "2 bunches of sage (40g total)",
       "olive oil",
       "red wine vinegar",
@@ -109,37 +94,39 @@
       "500 g risotto rice",
       "1 big pinch of saffron",
       "150 ml white wine",
-      "60 g Parmesan cheese"
+      "60 g Parmesan cheese",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136706836.jpg",
-    "imageAlt": "Rolled pork belly"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136706836.jpg",
+    imageAlt: "Rolled pork belly",
   },
   {
-    "name": "Speedy folded flatbread",
-    "subName": "Cheese & ham",
-    "specialDiets": [],
-    "metaDescription": "For those days when you’re after a quick bite to eat, this speedy flatbread hits the spot. You’ll only need one pan, a handful of ingredients and less than 15 minutes.",
-    "description": "“On those days when you really need a quick bite to eat but you’re fresh out of bread, no problem! This is the perfect little hack to ensure you’ve got something scrumptious to stuff with your favourite fillings. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "13 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "13 minutes"
+    name: "Speedy folded flatbread",
+    subName: "Cheese & ham",
+    specialDiets: [],
+    metaDescription:
+      "For those days when you’re after a quick bite to eat, this speedy flatbread hits the spot. You’ll only need one pan, a handful of ingredients and less than 15 minutes.",
+    description:
+      "“On those days when you really need a quick bite to eat but you’re fresh out of bread, no problem! This is the perfect little hack to ensure you’ve got something scrumptious to stuff with your favourite fillings. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "13 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "13 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Bread",
       "Pork",
       "One-pan recipes",
       "Quick & easy recipes",
       "Quick & healthy recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "20 g Gouda , or Cheddar cheese",
       "1 slice of smoked ham",
       "4 fresh chives",
@@ -148,38 +135,37 @@
       "4 tablespoons strong white bread flour",
       "1 level teaspoon baking powder",
       "1 tablespoon natural yoghurt",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136595727.jpg",
-    "imageAlt": "Speedy folded flatbread"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136595727.jpg",
+    imageAlt: "Speedy folded flatbread",
   },
   {
-    "name": "Smoky mussel laksa",
-    "subName": "Blackened aubergine, juicy noodles, coconut, coriander & lime",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie's fragrant and warming smoky mussel laksa can be on the table in under 20 minutes.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "16 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "16 minutes"
+    name: "Smoky mussel laksa",
+    subName: "Blackened aubergine, juicy noodles, coconut, coriander & lime",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Jamie's fragrant and warming smoky mussel laksa can be on the table in under 20 minutes.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "16 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "16 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Seafood",
       "Mussels",
       "Fruit",
       "One-pan recipes",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 x 50g nests of folded rice noodles",
       "600g mussels, scrubbed, debearded, from sustainable sources",
       "1 large aubergine (400g)",
@@ -187,37 +173,38 @@
       "½ a bunch of coriander (15g)",
       "2 limes",
       "2 tablespoons laksa paste",
-      "1 x 400ml tin of light coconut milk"
+      "1 x 400ml tin of light coconut milk",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136440331.jpg",
-    "imageAlt": "Smoky mussel laksa"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136440331.jpg",
+    imageAlt: "Smoky mussel laksa",
   },
   {
-    "name": "Chicken & mushroom puff pie",
-    "subName": "Peppery greens, mustard, spring onions & a crisp pastry lid",
-    "specialDiets": [],
-    "metaDescription": "Jamie's comforting chicken & mushroom puff pie is quick to make and can easily be made veggie.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "33 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "33 minutes"
+    name: "Chicken & mushroom puff pie",
+    subName: "Peppery greens, mustard, spring onions & a crisp pastry lid",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's comforting chicken & mushroom puff pie is quick to make and can easily be made veggie.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "33 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "33 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Chicken thighs",
       "Mushroom",
       "Pies & pastries",
       "One-pan recipes",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g free-range skinless boneless chicken thighs",
       "olive oil",
       "1 bunch of spring onions",
@@ -226,33 +213,31 @@
       "600 ml semi-skimmed milk",
       "1 heaped tablespoon plain flour",
       "1 tablespoon wholegrain mustard",
-      "80g mixed bag of watercress, spinach & rocket"
+      "80g mixed bag of watercress, spinach & rocket",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136440026.jpg",
-    "imageAlt": "Chicken & mushroom puff pie"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136440026.jpg",
+    imageAlt: "Chicken & mushroom puff pie",
   },
   {
-    "name": "Sweet tomato gnocchi",
-    "subName": "Fresh spinach & hazelnut pesto, asparagus & olives",
-    "specialDiets": [],
-    "metaDescription": "Jamie's simple gnocchi makes the perfect midweek supper. ",
-    "description": "",
-    "servings": "2 with leftover pesto",
-    "time": {
-      "prep": "",
-      "cook": "18 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "18 minutes"
+    name: "Sweet tomato gnocchi",
+    subName: "Fresh spinach & hazelnut pesto, asparagus & olives",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's simple gnocchi makes the perfect midweek supper. ",
+    description: "",
+    servings: "2 with leftover pesto",
+    time: {
+      prep: "",
+      cook: "18 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "18 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Tomato",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Tomato", "One-pan recipes"],
+    ingredients: [
       "2 cloves of garlic",
       "olive oil",
       "400 g potato gnocchi",
@@ -262,70 +247,71 @@
       "20 g Parmesan cheese",
       "1 x 400g tin of quality plum tomatoes",
       "250 g asparagus",
-      "4 black olives , stone in"
+      "4 black olives , stone in",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136295679.jpg",
-    "imageAlt": "Sweet tomato gnocchi"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136295679.jpg",
+    imageAlt: "Sweet tomato gnocchi",
   },
   {
-    "name": "Salmon in a bag",
-    "subName": "Pepper & chickpea",
-    "specialDiets": [],
-    "metaDescription": "Jamie shows you one of his favourite ways of cooking salmon with this satisfying 15-minute recipe.",
-    "description": "“Salmon is one of the most common fish that we buy, so I wanted to share one of my favourite cooking methods for it. By creating a foil parcel, you not only beautifully steam the fish, but also impart wonderful flavour from exciting ingredient combos, giving you a satisfying meal in just 15 minutes of oven time. Treat this recipe as a principle, have a go, then why not come up with your own combos? ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Salmon in a bag",
+    subName: "Pepper & chickpea",
+    specialDiets: [],
+    metaDescription:
+      "Jamie shows you one of his favourite ways of cooking salmon with this satisfying 15-minute recipe.",
+    description:
+      "“Salmon is one of the most common fish that we buy, so I wanted to share one of my favourite cooking methods for it. By creating a foil parcel, you not only beautifully steam the fish, but also impart wonderful flavour from exciting ingredient combos, giving you a satisfying meal in just 15 minutes of oven time. Treat this recipe as a principle, have a go, then why not come up with your own combos? ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Salmon",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Salmon", "One-pan recipes"],
+    ingredients: [
       "½ x 460 g jar of roasted red peppers",
       "15 g smoked almonds",
       "1 x 400 g tin of chickpeas",
       "½ a bunch of flat-leaf parsley (15g)",
       "30 g higher-welfare chorizo",
       "1 x 150 g salmon fillets , skin on, scaled, pin-boned, from sustainable sources",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/136706837.jpg",
-    "imageAlt": "Salmon in a bag"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/136706837.jpg",
+    imageAlt: "Salmon in a bag",
   },
   {
-    "name": "Spring chicken stew",
-    "subName": "Loadsa lovely veg, bacon & barley",
-    "specialDiets": [],
-    "metaDescription": "Not only is a steaming bowl of this beautiful Spring chicken stew good for you, but it's super-tasty, too.",
-    "description": "“Humble pearl barley – a brilliant store-cupboard staple – is a source of several essential vitamins and minerals, especially manganese, which we need for good bone health. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Spring chicken stew",
+    subName: "Loadsa lovely veg, bacon & barley",
+    specialDiets: [],
+    metaDescription:
+      "Not only is a steaming bowl of this beautiful Spring chicken stew good for you, but it's super-tasty, too.",
+    description:
+      "“Humble pearl barley – a brilliant store-cupboard staple – is a source of several essential vitamins and minerals, especially manganese, which we need for good bone health. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Stew",
       "Chicken breast",
       "Chicken",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "2 rashers of higher-welfare smoked streaky bacon",
       "2 sprigs of fresh rosemary",
@@ -340,9 +326,9 @@
       "1 bunch of asparagus , (350g)",
       "200 g green beans",
       "4 x 120 g free-range skinless chicken breasts",
-      "1 tablespoon mint sauce"
+      "1 tablespoon mint sauce",
     ],
-    "instructions": [
+    instructions: [
       "Put a large casserole pan on a medium heat with 1 tablespoon of olive oil. Finely slice and add 2 rashers of smoked streaky bacon, strip in the leaves from 2 sprigs of fresh rosemary, and leave to get golden, stirring regularly.",
       "Meanwhile, start prepping your veg. The idea here is to chop everything roughly the same size – around 2cm – stirring each veg into the pan as you prep it. Peel, chop and add 2 onions, followed by 2 carrots, then 400g of new potatoes.",
       "Stir in 100g of pearl barley and cook everything for 10 minutes, or until starting to soften but not colour, stirring regularly.",
@@ -350,35 +336,31 @@
       "Simmer for 10 minutes, while you trim and quarter 2 courgettes lengthways, trim the woody ends off 1 bunch of asparagus (350g), trim just the stalk end off 200g of green beans, then chop it all into 2cm chunks. Chop 4 x 120g of chicken breast into 2cm chunks, too.",
       "Stir the chicken and courgettes into the pan, cover with a scrunched sheet of wet greaseproof paper, and simmer on a low heat for 20 minutes.",
       "Give it a good stir, add the asparagus and beans, replace the paper and cook for a further 20 minutes, or until thickened and cooked through, stirring occasionally.",
-      "Stir 1 tablespoon of mint sauce through the stew, taste, season to perfection, and serve."
+      "Stir 1 tablespoon of mint sauce through the stew, taste, season to perfection, and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134584623.jpg",
-    "imageAlt": "Spring chicken stew"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134584623.jpg",
+    imageAlt: "Spring chicken stew",
   },
   {
-    "name": "One-pan herby green rice & fish",
-    "subName": "With harissa-rippled yoghurt & lemon",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Regular rice is made special in this one-pan dish. It's the perfect midweek meal - fresh, tasty and ready in 15 minutes!",
-    "description": "“Turn regular rice into something extraordinary and exciting with this joyful one-pan dish. Now, I want you to think of this recipe as more of a principle – it’s fairly flexible and can be taken in lots of different directions. Jazz it up with your favourite seafood, mix up the greens you choose or throw in some additional vegetables – whatever you fancy. For me, this makes the perfect midweek meal – fresh, tasty, ready in 15-minutes flat, and with minimal washing up. Yes please! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "One-pan herby green rice & fish",
+    subName: "With harissa-rippled yoghurt & lemon",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Regular rice is made special in this one-pan dish. It's the perfect midweek meal - fresh, tasty and ready in 15 minutes!",
+    description:
+      "“Turn regular rice into something extraordinary and exciting with this joyful one-pan dish. Now, I want you to think of this recipe as more of a principle – it’s fairly flexible and can be taken in lots of different directions. Jazz it up with your favourite seafood, mix up the greens you choose or throw in some additional vegetables – whatever you fancy. For me, this makes the perfect midweek meal – fresh, tasty, ready in 15-minutes flat, and with minimal washing up. Yes please! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Spinach",
-      "One-pan recipes",
-      "Quick & healthy recipes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Spinach", "One-pan recipes", "Quick & healthy recipes"],
+    ingredients: [
       "8 spring onions",
       "2 cloves of garlic",
       "1 bunch of fresh coriander , (30g)",
@@ -389,47 +371,45 @@
       "4 tablespoons natural yoghurt",
       "2 teaspoons harissa",
       "optional: ½ a fresh red chilli",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Trim 8 spring onions (put one aside for later), peel 2 cloves of garlic and pick the leaves from 1 bunch of fresh coriander (30g), reserving a few to garnish, then place in a blender.",
       "Add 100g of baby spinach, along with 2 mugs (600ml) of water and blitz until smooth – you may need to work in batches.",
       "Tip 1 mug of rice (300g) into a large shallow casserole pan, pour over the green sauce, mix well and cook on a high heat uncovered for 5 minutes.",
       "Give the rice a good stir, then carefully place 4 x 150g white fish fillets on top. Season to taste with sea salt and black pepper, drizzle with 1 tablespoon of olive oil, then cover with a lid, reduce the heat to low and cook gently for a further 5 to 7 minutes, or until the rice is fluffy and fragrant and the fish is pearly white and flaking.",
       "Dollop 4 tablespoons of natural yoghurt into a bowl, ripple through 2 teaspoons of harissa and drizzle lightly with olive oil.",
-      "Finely slice the remaining spring onion and ½ a fresh red chilli (if using), then scatter over the top along with the reserved coriander leaves. Cut 1 lemon into wedges for squeezing over, then serve along with the harissa yoghurt. Delicious with a crunchy green salad."
+      "Finely slice the remaining spring onion and ½ a fresh red chilli (if using), then scatter over the top along with the reserved coriander leaves. Cut 1 lemon into wedges for squeezing over, then serve along with the harissa yoghurt. Delicious with a crunchy green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134396853.jpg",
-    "imageAlt": "One-pan herby green rice & fish"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134396853.jpg",
+    imageAlt: "One-pan herby green rice & fish",
   },
   {
-    "name": "Potato, pepper & broccoli frittata",
-    "subName": "With Cheddar & smoked paprika",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Brilliantly simple, this veg-packed frittata makes a great midweek meal for the whole family.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Potato, pepper & broccoli frittata",
+    subName: "With Cheddar & smoked paprika",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Brilliantly simple, this veg-packed frittata makes a great midweek meal for the whole family.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Vegetables",
       "Potato",
       "Healthy dinner ideas",
       "Healthy meals",
       "Healthy vegetarian recipes",
-      "Quick & healthy recipes"
+      "Quick & healthy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "600 g Maris Piper potatoes",
       "1 bunch of spring onions",
       "1 head of broccoli , (375g)",
@@ -442,9 +422,9 @@
       "olive oil",
       "sea salt",
       "black pepper",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Drizzle 1 tablespoon of olive oil into a 28cm ovenproof non-stick frying pan on a medium-high heat.",
       "Scrub 600g of potatoes and chop into 1cm dice, adding to the pan as you go.",
@@ -453,38 +433,38 @@
       "Crack 8 large eggs into a bowl and beat together, grate in 30g of Cheddar cheese and season with salt and pepper. Mix together well.",
       "Roughly chop half the watercress, spinach & rocket (40g) and stir into the pan, then pour over the egg mixture, swirling to coat the base of the pan.",
       "Grate over the remaining 10g of Cheddar and cook for 2 minutes, then bake for 10 minutes, or until golden and set.",
-      "Slide the frittata out onto a serving board and cut into wedges. Dress the remaining watercress, spinach & rocket (40g) in 1 tablespoon of extra virgin olive oil and serve alongside."
+      "Slide the frittata out onto a serving board and cut into wedges. Dress the remaining watercress, spinach & rocket (40g) in 1 tablespoon of extra virgin olive oil and serve alongside.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134593077.jpg",
-    "imageAlt": "Potato, pepper & broccoli frittata"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134593077.jpg",
+    imageAlt: "Potato, pepper & broccoli frittata",
   },
   {
-    "name": "My veggie black bean enchiladas",
-    "subName": "Tasty tomato sauce & zingy sweetcorn salsa",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's expression of a Mexican-inspired veggie enchilada is super quick to make and can be made in one pan. An absolute winner!",
-    "description": "“Looking for midweek inspiration? Give my expression of a beautiful Mexican-inspired veggie enchilada a try – it’s crisp and spicy, but also fresh and zingy. Plus, it’s a great way to get veg into your life. It’s just the kind of thing my kids go nuts for, and with it being a one-pan wonder, the clear up is super-speedy, too – big smiles all round! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "My veggie black bean enchiladas",
+    subName: "Tasty tomato sauce & zingy sweetcorn salsa",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's expression of a Mexican-inspired veggie enchilada is super quick to make and can be made in one pan. An absolute winner!",
+    description:
+      "“Looking for midweek inspiration? Give my expression of a beautiful Mexican-inspired veggie enchilada a try – it’s crisp and spicy, but also fresh and zingy. Plus, it’s a great way to get veg into your life. It’s just the kind of thing my kids go nuts for, and with it being a one-pan wonder, the clear up is super-speedy, too – big smiles all round! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Vegetables",
       "Mexican",
       "One-pan recipes",
       "Healthy dinner ideas",
       "Healthy vegetarian recipes",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 red peppers",
       "2 fresh red chillies",
       "8 spring onions",
@@ -499,9 +479,9 @@
       "8 corn or flour tortillas",
       "2 large or 4 small corn on the cob",
       "extra virgin olive oil",
-      "natural yoghurt or soured cream , to serve"
+      "natural yoghurt or soured cream , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Halve, deseed and remove the stalks from 2 red peppers and 2 fresh red chillies.",
       "Blacken and char 6 spring onions, 400g of tomatoes, the peppers, chillies, and 2 cloves of garlic in a large dry ovenproof non-stick pan (or directly over the flame of a gas hob) on a high heat – you may need to work in batches.",
@@ -515,38 +495,38 @@
       "To make a quick sweetcorn salsa, char 2 large or 4 small corn on the cob directly over the flame of a gas hob (or in a dry pan) on a medium heat for a few minutes, turning regularly, then slice off the corn kernels and place into a bowl.",
       "Drizzle over 1 tablespoon of extra virgin olive oil and squeeze over the juice from the remaining ½ a lime.",
       "Chop 2 spring onions and most of the remaining coriander leaves, stir through the salsa, then season to taste with salt, pepper and chipotle chilli sauce.",
-      "Serve straight from the oven, scattered with the remaining coriander leaves, and with a spoonful of sweetcorn salsa and a dollop of yoghurt or soured cream. Nice served with cold lager or tequila!"
+      "Serve straight from the oven, scattered with the remaining coriander leaves, and with a spoonful of sweetcorn salsa and a dollop of yoghurt or soured cream. Nice served with cold lager or tequila!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134397244.jpg",
-    "imageAlt": "My veggie black bean enchiladas"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134397244.jpg",
+    imageAlt: "My veggie black bean enchiladas",
   },
   {
-    "name": "Mild chicken, chickpea & squash curry",
-    "subName": "Yoghurt ripple & mango chutney",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Perfect for the whole family, this mild and healthy curry recipe is a real weeknight winner.",
-    "description": "“Perfect for the whole family, this mild and healthy curry is a real weeknight winner, and a great introduction to spice for little ones. Boasting 4 of your 5-a-day, it ticks the boxes on the veg front, but also saves on the amount of chicken you need to buy – double win! ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Mild chicken, chickpea & squash curry",
+    subName: "Yoghurt ripple & mango chutney",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Perfect for the whole family, this mild and healthy curry recipe is a real weeknight winner.",
+    description:
+      "“Perfect for the whole family, this mild and healthy curry is a real weeknight winner, and a great introduction to spice for little ones. Boasting 4 of your 5-a-day, it ticks the boxes on the veg front, but also saves on the amount of chicken you need to buy – double win! ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Curry",
       "Chicken breast",
       "Healthy chicken recipes",
       "Family one-pan recipes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "600 g butternut squash",
       "2 onions",
       "1 bunch of fresh coriander , (30g)",
@@ -557,47 +537,47 @@
       "500 ml organic chicken stock",
       "1 x 400 g tin of chickpeas",
       "mango chutney",
-      "2 tablespoons natural yoghurt"
+      "2 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Scrub 600g of butternut squash (deseed, if necessary) and peel 2 onions, then chop into rough 1cm chunks. Pick the leaves from 1 bunch of fresh coriander (30g), and finely chop the stalks.",
       "Drizzle 1 tablespoon of vegetable oil into a large casserole pan, add the squash, onions and coriander stalks, then cook for 15 minutes, stirring regularly.",
       "Stir in 2 heaped tablespoons of korma paste and cook for a further 5 minutes, or until the veg has started to soften.",
       "Slice 2 chicken breasts into 3cm chunks and add to the pan with 50g of ground almonds, stirring well to coat.",
       "Tip in 500ml of chicken stock and 1 x 400g tin of chickpeas (juices and all), then cook for 8 minutes, or until the chicken is cooked through and the sauce has thickened, stirring regularly.",
       "Stir most of the reserved coriander leaves through the sauce with 1 teaspoon of mango chutney, then season to taste with sea salt and black pepper.",
-      "Ripple 2 tablespoons of natural yoghurt through the sauce and scatter over the reserved coriander leaves, then serve fluffy rice or naan bread, and extra mango chutney."
+      "Ripple 2 tablespoons of natural yoghurt through the sauce and scatter over the reserved coriander leaves, then serve fluffy rice or naan bread, and extra mango chutney.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134655538.jpg",
-    "imageAlt": "Mild chicken, chickpea & squash curry"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134655538.jpg",
+    imageAlt: "Mild chicken, chickpea & squash curry",
   },
   {
-    "name": "One-pan veggie lasagne",
-    "subName": "Sweet leek, asparagus, peas & broad beans",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Twisted, rustic layers of beautiful lasagne and delicate veg that can be cooked, baked and served in just one pan. Enjoy!",
-    "description": "“Twisted, rustic layers of beautiful lasagne and delicate veg that can be cooked, baked and served in just one pan. Enjoy! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "One-pan veggie lasagne",
+    subName: "Sweet leek, asparagus, peas & broad beans",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Twisted, rustic layers of beautiful lasagne and delicate veg that can be cooked, baked and served in just one pan. Enjoy!",
+    description:
+      "“Twisted, rustic layers of beautiful lasagne and delicate veg that can be cooked, baked and served in just one pan. Enjoy! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Italian",
       "Lasagne",
       "Leek",
       "Pasta Bake",
       "Pasta & risotto",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "1 leek",
       "50 g unsalted butter",
       "olive oil",
@@ -613,9 +593,9 @@
       "250 g fresh lasagne sheets",
       "50 g blanched almonds",
       "1 lemon , optional",
-      "green pesto , optional"
+      "green pesto , optional",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Wash, trim and slice 1 leek (see tip) and place in a large shallow ovenproof pan on a medium-low heat with 50g of unsalted butter and a splash of olive oil.",
       "Line up 500g of asparagus, trim off the woody ends, then finely slice and add the stems to the pan, reserving the tips for later.",
@@ -625,38 +605,38 @@
       "Smash up the veg for 1 minute with a potato masher, then grate in 70g each of Parmesan and Cheddar and add the asparagus tips.",
       "Tear in the pasta sheets, mix up really well to coat and separate, then pull some of the sheets to the top to create a top layer – use the back of a spoon to create some dips and wells.",
       "Roughly bash the almonds so you have a mixture of fine and chunky bits, then sprinkle on top and grate over the remaining 10g each of Parmesan and Cheddar cheese. Finish with a drizzle of olive oil and a few scrapings of lemon zest (if using).",
-      "Bake for 20 to 25 minutes, or until golden and bubbling. Serve topped with a little dollop of pesto (if using), a crunchy green salad and an extra grating of Parmesan, if you like."
+      "Bake for 20 to 25 minutes, or until golden and bubbling. Serve topped with a little dollop of pesto (if using), a crunchy green salad and an extra grating of Parmesan, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134657931.jpg",
-    "imageAlt": "One-pan veggie lasagne"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134657931.jpg",
+    imageAlt: "One-pan veggie lasagne",
   },
   {
-    "name": "Gnarly oven-baked mushrooms",
-    "subName": "Simple cherry tom sauce & lemony couscous",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A totally delicious oven-baked mushroom recipe, with a simple tomato sauce, halloumi and couscous. Delicious!",
-    "description": "“Don't be tempted to take the mushrooms out of the oven too soon – leave them to get beautifully dark and gnarly at the edges for bonus flavour. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Gnarly oven-baked mushrooms",
+    subName: "Simple cherry tom sauce & lemony couscous",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A totally delicious oven-baked mushroom recipe, with a simple tomato sauce, halloumi and couscous. Delicious!",
+    description:
+      "“Don't be tempted to take the mushrooms out of the oven too soon – leave them to get beautifully dark and gnarly at the edges for bonus flavour. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Mushroom",
       "Couscous",
       "Tomato",
       "Mains",
       "One-pan recipes",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "8 portobello mushrooms",
       "olive oil",
       "1 lemon",
@@ -667,9 +647,9 @@
       "2 tablespoons baby capers",
       "2 x 400 g tins of quality cherry tomatoes",
       "80 g halloumi cheese",
-      "40 g unsalted pistachios"
+      "40 g unsalted pistachios",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220°C/425°F/gas 7.",
       "Peel 8 portobello mushrooms and place cap-side up in a 25cm x 35cm sturdy roasting tray.",
       "Drizzle over 1 tablespoon of olive oil and season with sea salt and black pepper, then bake for 20 minutes, or until golden.",
@@ -679,39 +659,38 @@
       "Place the roasting tray on the hob over a medium-high heat with 1 tablespoon of olive oil, add the garlic and rosemary and cook for 1 minute, then stir in the 2 tablespoons of baby capers and 2 x 400g tins of cherry tomatoes. Cook for 5 minutes, or until slightly thickened and reduced, stirring occasionally.",
       "Arrange the mushrooms snugly in the sauce, tear over 80g of halloumi and scatter over 40g of shelled unsalted pistachios, then return to the oven at 200°C/400°F/gas 6 for 15 minutes, or until gnarly at the edges.",
       "Fork up the couscous, squeeze over the juice from the zested lemon and toss together, discarding the mint. Season to taste.",
-      "Serve the mushrooms and sauce on top of the couscous, then pick and tear over the remaining 2 sprigs of fresh mint."
+      "Serve the mushrooms and sauce on top of the couscous, then pick and tear over the remaining 2 sprigs of fresh mint.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449904.jpg",
-    "imageAlt": "Gnarly oven-baked mushrooms"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449904.jpg",
+    imageAlt: "Gnarly oven-baked mushrooms",
   },
   {
-    "name": "Vivid green risotto",
-    "subName": "Mixed seasonal greens, Parmesan & fresh herbs",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy.",
-    "description": "“Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy – there’s a real harmony between the shape of the veg and the size of the rice. For me, this is comfort food at its best. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Vivid green risotto",
+    subName: "Mixed seasonal greens, Parmesan & fresh herbs",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy.",
+    description:
+      "“Oozy and delicate with amazing colour, this vivid green risotto is a thing of real joy – there’s a real harmony between the shape of the veg and the size of the rice. For me, this is comfort food at its best. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Dinner Party",
       "Italian",
       "Mains",
       "One-pan recipes",
       "Family one-pan recipes",
-      "Freezer-friendly recipes"
+      "Freezer-friendly recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "180 g mixed seasonal greens , such as kale, cavolo nero, swiss chard, spinach, broccoli",
       "1.8 litres organic vegetable stock",
       "3 tablespoons extra virgin olive oil",
@@ -722,9 +701,9 @@
       "400 g risotto rice",
       "½ a bunch of fresh thyme or marjoram , (15g)",
       "125 ml white wine",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "Wash and prep 180g of mixed seasonal greens, removing any tough stalky bits, as necessary. Meanwhile, bring 1.8 litres of vegetable stock to a simmer over a medium heat.",
       "Add the prepped greens to the stock, pop the lid on and cook for 3 minutes, or until just tender.",
       "Carefully remove the greens to a blender using tongs, add 3 tablespoons of extra virgin olive oil and season to taste with sea salt and black pepper.",
@@ -735,38 +714,31 @@
       "Pour a decent splash of stock into the pan and wait until it’s been fully absorbed before adding another, stirring constantly and adding splashes of stock until the rice is tender but still holding its shape – it will take 16 to 18 minutes.",
       "When the rice has absorbed all the stock, start gradually adding up to half the blended greens (save the rest for another day), stirring until slightly thickened.",
       "Turn off the heat, add 1 knob of unsalted butter, grate in 30g of Parmesan and stir to combine.",
-      "Taste and season to perfection with salt, pepper and a squeeze of lemon juice, then pop the lid on and leave to rest for a minute or two before serving. Finish with a fine grating of Parmesan, if you like."
+      "Taste and season to perfection with salt, pepper and a squeeze of lemon juice, then pop the lid on and leave to rest for a minute or two before serving. Finish with a fine grating of Parmesan, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134449913.jpg",
-    "imageAlt": "Vivid green risotto"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134449913.jpg",
+    imageAlt: "Vivid green risotto",
   },
   {
-    "name": "Buddy’s smoky beans",
-    "subName": "Perfect on a baked potato",
-    "specialDiets": [
-      "Vegetarian",
-      "Vegan",
-      "Dairy-free"
-    ],
-    "metaDescription": "Beans are healthy and nutritious: they’re a source of fibre, protein and other important vitamins and minerals, and they count as one of your 5-a-day!",
-    "description": "“Beans are healthy and nutritious: they’re a source of fibre, protein and other important vitamins and minerals, and they count as one of your 5-a-day! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Buddy’s smoky beans",
+    subName: "Perfect on a baked potato",
+    specialDiets: ["Vegetarian", "Vegan", "Dairy-free"],
+    metaDescription:
+      "Beans are healthy and nutritious: they’re a source of fibre, protein and other important vitamins and minerals, and they count as one of your 5-a-day!",
+    description:
+      "“Beans are healthy and nutritious: they’re a source of fibre, protein and other important vitamins and minerals, and they count as one of your 5-a-day! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Tomato",
-      "Leek",
-      "Family one-pan recipes",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Tomato", "Leek", "Family one-pan recipes", "One-pan recipes"],
+    ingredients: [
       "2 medium leeks",
       "2 sticks of celery",
       "2 red peppers",
@@ -778,51 +750,48 @@
       "1 tablespoon brown sauce",
       "500 ml passata",
       "2 x 400 g tins of mixed beans",
-      "a few sprigs of fresh flat-leaf parsley , optional"
+      "a few sprigs of fresh flat-leaf parsley , optional",
     ],
-    "instructions": [
+    instructions: [
       "Trim and wash the leeks and celery and deseed the peppers, then roughly chop them all. Peel and finely chop the garlic, then use the cross-chop method to run your knife through all the vegetables.",
       "Heat 1 tablespoon of oil in a large ovenproof casserole pan over a medium heat. Add the leeks, celery, red pepper and garlic and cook for around 10 minutes, or until the leeks start to soften, stirring regularly.",
       "Add the spices and cook for a further 2 minutes, then add the remaining ingredients, refilling one of the bean tins with water and adding that to the pan, too.",
       "Stir well and bring to the boil, then turn the heat down to a simmer and cook for 45 minutes. Regularly check that it isn’t getting too dry while it’s cooking – you can always add a splash of water if it is.",
       "Have a taste and see if you think it needs a pinch of salt or pepper, then roughly chop and scatter over the parsley (if using).",
-      "Delicious served on a baked sweet potato, or with brown rice and a nice chopped green salad."
+      "Delicious served on a baked sweet potato, or with brown rice and a nice chopped green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/125001758.jpg",
-    "imageAlt": "Buddy’s smoky beans"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/125001758.jpg",
+    imageAlt: "Buddy’s smoky beans",
   },
   {
-    "name": "Pan-fried pork chops",
-    "subName": "With rosemary, sage & pear",
-    "specialDiets": [],
-    "metaDescription": "These pork chops are as amazing as any good steak. Follow this simple cooking method and you can say goodbye to dry and uninteresting pork chops forever! ",
-    "description": "“I’m going back to basics here to show you how to make pork chops as amazing as any good steak. The key to delicious and juicy meat is to use a thick, double chop, marinating it in lots of garlic and fresh herbs, and rendering out that fat for incredible flavour. Follow this simple cooking method and you can say goodbye to dry and uninteresting pork chops forever! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Pan-fried pork chops",
+    subName: "With rosemary, sage & pear",
+    specialDiets: [],
+    metaDescription:
+      "These pork chops are as amazing as any good steak. Follow this simple cooking method and you can say goodbye to dry and uninteresting pork chops forever! ",
+    description:
+      "“I’m going back to basics here to show you how to make pork chops as amazing as any good steak. The key to delicious and juicy meat is to use a thick, double chop, marinating it in lots of garlic and fresh herbs, and rendering out that fat for incredible flavour. Follow this simple cooking method and you can say goodbye to dry and uninteresting pork chops forever! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Pork",
-      "Fruit",
-      "One-pan recipes",
-      "Lunch & dinner recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Pork", "Fruit", "One-pan recipes", "Lunch & dinner recipes"],
+    ingredients: [
       "2 x 380 g higher-welfare double pork chops , (approximately 2.5cm thick), rind on",
       "2 sprigs of fresh rosemary",
       "½ a bunch of fresh sage , (15g)",
       "2 cloves of garlic",
       "red wine vinegar",
       "olive oil",
-      "2 ripe pears"
+      "2 ripe pears",
     ],
-    "instructions": [
+    instructions: [
       "Place the pork chops, skin-side down, on a chopping board. Carefully run a sharp knife along the edge of the chops, removing the skin and leaving a thin layer of pork fat on the chop. (You could ask your butcher to do this for you.) Set aside.",
       "To make the marinade, pick and finely chop the rosemary leaves and most of the sage leaves, then lightly crush the unpeeled garlic cloves with the palm of your hand. Tip into a bowl and mix with 1 tablespoon of red wine vinegar and 3 tablespoons of olive oil. Rub the marinade into the pork chops, then cover and leave to marinate in the fridge for at least 30 minutes, or preferably overnight.",
       "When you’re ready to cook your pork chops, slice the pork skin into 1cm-thick lardons and place in a large frying pan on a medium heat. Fry the lardons, stirring occasionally, for 10 minutes until golden and crisp. Remove from the pan and drain on kitchen paper.",
@@ -830,36 +799,31 @@
       "Lay the chops down flat in the pan, throwing in the garlic too, and cook for 7 minutes, turning every minute or so and basting with the lovely pan juices, until browned and cooked through.",
       "With 2 minutes of the pork cooking time left to go, quarter and core the pears, then nestle them into the pan alongside the chops and poke in the remaining sage leaves and cook for 1 minute.",
       "Remove the pork to a board to rest, then reduce the temperature to medium-low and leave the pears to caramelise for 5 minutes, stirring regularly.",
-      "Slice the pork off the bone and carve into slices and squeeze the garlic from their skins. Serve with the caramelised pear, crispy sage, a little crispy crackling, your favourite style potatoes (I like hasselback) and some seasonal greens."
+      "Slice the pork off the bone and carve into slices and squeeze the garlic from their skins. Serve with the caramelised pear, crispy sage, a little crispy crackling, your favourite style potatoes (I like hasselback) and some seasonal greens.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/119280358.jpg",
-    "imageAlt": "Pan-fried pork chops"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/119280358.jpg",
+    imageAlt: "Pan-fried pork chops",
   },
   {
-    "name": "The ultimate chicken in milk",
-    "subName": "With lemon, fennel & sage ",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "This indulgent recipe has lovely nutty, savoury flavours from the burnt butter, and citrussy, almost wine-gumminess of the slow-cooked lemon. Beautiful. ",
-    "description": "“This is one of my absolute favourite dishes, it’s a real treat – you’ve got the lovely nutty, savoury flavours from the burnt butter, and citrussy, almost wine-gumminess of the slow-cooked lemon. It’s certainly not an everyday meal, but it’s just beautiful for a weekend lunch or a special occasion. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 40 minutes"
+    name: "The ultimate chicken in milk",
+    subName: "With lemon, fennel & sage ",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "This indulgent recipe has lovely nutty, savoury flavours from the burnt butter, and citrussy, almost wine-gumminess of the slow-cooked lemon. Beautiful. ",
+    description:
+      "“This is one of my absolute favourite dishes, it’s a real treat – you’ve got the lovely nutty, savoury flavours from the burnt butter, and citrussy, almost wine-gumminess of the slow-cooked lemon. It’s certainly not an everyday meal, but it’s just beautiful for a weekend lunch or a special occasion. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Chicken",
-      "Chicken breast",
-      "Chicken thighs",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Chicken", "Chicken breast", "Chicken thighs", "One-pan recipes"],
+    ingredients: [
       "1 x 1.8 kg whole free-range chicken",
       "1 teaspoon fennel seeds",
       "200 g unsalted butter",
@@ -869,9 +833,9 @@
       "1 lemon",
       "1 large bunch of fresh sage (30g) , mixed-colour, if possible",
       "1- inch stick of cinnamon",
-      "1–1.5 litres whole milk"
+      "1–1.5 litres whole milk",
     ],
-    "instructions": [
+    instructions: [
       "First up, if you’re jointing the chicken yourself, break the knuckles and chop them off with a sharp knife, through the joint.",
       "Pull out the wings and cut them off at the base, cutting slightly into the breast so you get a generous meaty portion. Lightly cut through the skin between the chicken leg and breast, so that the leg falls to the side.",
       "Bend the leg backwards to disjoint it, and turn breast-side down. Cut between the leg and breast, removing the whole leg, then repeat.",
@@ -885,38 +849,39 @@
       "Scrape up any sticky bits from the bottom of the pan, then make a well in the middle and add the final 50g of butter.",
       "Use a speed-peeler to peel big chunks of lemon zest into the butter, pick in a large handful of sage leaves and add the cinnamon stick. Fry for a couple of minutes, or until the veg is softened, stirring occasionally.",
       "Pour in around 1 litre of milk (half of the chicken should be submerged) and scrape up all the lovely sticky bits. Squeeze in the lemon juice. The lemon zest will sort of split the milk, making a sauce which is absolutely fantastic. Reduce the heat, cover with a cartouche (greaseproof-paper disc) and simmer for 50 minutes, removing for the final 20 minutes. Taste and check the seasoning and remove the cinnamon stick.",
-      "To serve, pull the meat off the bones and divide between plates. Spoon over plenty of juice and the little curds. Delicious served with Parmesan polenta and lemony greens."
+      "To serve, pull the meat off the bones and divide between plates. Spoon over plenty of juice and the little curds. Delicious served with Parmesan polenta and lemony greens.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/114185880.jpg",
-    "imageAlt": "The ultimate chicken in milk"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/114185880.jpg",
+    imageAlt: "The ultimate chicken in milk",
   },
   {
-    "name": "Pepper & chicken jalfrezi traybake",
-    "subName": "Lots of fresh bay, soft garlic, fresh green chilli, sweet onion & yoghurt",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "This one-tray wonder is about big flavour, minimal effort. The oven does most of the hard work, leaving you with tender chicken and next-level deliciousness. ",
-    "description": "“This jalfrezi-inspired one-tray wonder is all about big flavours with minimal effort. I’ve made the most of two fantastic flavour shortcuts: a spice-packed jalfrezi curry paste, and an onion marmalade to bring sweetness, stickiness, and sourness. The oven does most of the hard work, leaving you with tender, succulent chicken thighs, vibrant colour, and next-level deliciousness. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Pepper & chicken jalfrezi traybake",
+    subName:
+      "Lots of fresh bay, soft garlic, fresh green chilli, sweet onion & yoghurt",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "This one-tray wonder is about big flavour, minimal effort. The oven does most of the hard work, leaving you with tender chicken and next-level deliciousness. ",
+    description:
+      "“This jalfrezi-inspired one-tray wonder is all about big flavours with minimal effort. I’ve made the most of two fantastic flavour shortcuts: a spice-packed jalfrezi curry paste, and an onion marmalade to bring sweetness, stickiness, and sourness. The oven does most of the hard work, leaving you with tender, succulent chicken thighs, vibrant colour, and next-level deliciousness. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "7 Ways",
       "Chicken",
       "Chicken thighs",
       "Family one-pan recipes",
       "One-pan recipes",
-      "Healthy chicken recipes"
+      "Healthy chicken recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 chicken thighs , skin on, bone in",
       "olive oil",
       "8 cloves of garlic",
@@ -926,39 +891,39 @@
       "1 heaped tablespoons jalfrezi curry paste",
       "2 tablespoon onion marmalade",
       "red wine vinegar",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/109469686.jpg",
-    "imageAlt": "Pepper & chicken jalfrezi traybake"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/109469686.jpg",
+    imageAlt: "Pepper & chicken jalfrezi traybake",
   },
   {
-    "name": "Chorizo, pepper & prawn bake",
-    "subName": "Beautifully fluffy rice, garlic, parsley, lemon & yoghurt",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "With crispy chorizo, gorgeous prawns and sweet peppers surrounded by soft plump rice, this easy one-pot wonder is packed full of flavour.",
-    "description": "“With crispy chorizo, gorgeous prawns and sweet peppers surrounded by soft plump rice, this easy one-pot wonder is packed full of flavour. It’s colourful, classy, and guaranteed to make people happy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Chorizo, pepper & prawn bake",
+    subName: "Beautifully fluffy rice, garlic, parsley, lemon & yoghurt",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "With crispy chorizo, gorgeous prawns and sweet peppers surrounded by soft plump rice, this easy one-pot wonder is packed full of flavour.",
+    description:
+      "“With crispy chorizo, gorgeous prawns and sweet peppers surrounded by soft plump rice, this easy one-pot wonder is packed full of flavour. It’s colourful, classy, and guaranteed to make people happy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "7 Ways",
       "Chorizo",
       "Seafood",
       "Fruit",
       "Family one-pan recipes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "3 mixed-colour peppers",
       "½ a bunch of flat-leaf parsley , (15g)",
       "50 g higher-welfare chorizo",
@@ -968,35 +933,37 @@
       "320 g raw peeled king prawns , from sustainable sources",
       "2 lemons",
       "extra virgin olive oil",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/120942567.jpg",
-    "imageAlt": "Chorizo, pepper & prawn bake"
+    instructions: [],
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/120942567.jpg",
+    imageAlt: "Chorizo, pepper & prawn bake",
   },
   {
-    "name": "Cheat’s deep-pan pizza",
-    "subName": "Sausage, sweet onions & cheese",
-    "specialDiets": [],
-    "metaDescription": "So simple and so delicious, this super-easy method allows you to make tasty pizza in a flash using just 3 ingredients for the base – flour, salt, water.",
-    "description": "“So simple and so delicious, this super-easy method allows you to make tasty pizza in a flash. We’re talking crispy on the outside, spongy in the middle, with just three ingredients for the base – flour, salt, water. Plus we’re only using one pan, meaning minimal washing up. I’ve given you one of my favourite flavour combos for the topping here, but you can use whatever you’ve got. Be creative, and embrace what’s in your fridge and store cupboard – the possibilities are endless. Check out some more tasty flavour combos here. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Cheat’s deep-pan pizza",
+    subName: "Sausage, sweet onions & cheese",
+    specialDiets: [],
+    metaDescription:
+      "So simple and so delicious, this super-easy method allows you to make tasty pizza in a flash using just 3 ingredients for the base – flour, salt, water.",
+    description:
+      "“So simple and so delicious, this super-easy method allows you to make tasty pizza in a flash. We’re talking crispy on the outside, spongy in the middle, with just three ingredients for the base – flour, salt, water. Plus we’re only using one pan, meaning minimal washing up. I’ve given you one of my favourite flavour combos for the topping here, but you can use whatever you’ve got. Be creative, and embrace what’s in your fridge and store cupboard – the possibilities are endless. Check out some more tasty flavour combos here. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Sausage",
       "Keep cooking and carry on",
       "One-pan recipes",
-      "Cheap & cheerful"
+      "Cheap & cheerful",
     ],
-    "ingredients": [
+    ingredients: [
       "2 Cumberland sausages",
       "olive oil",
       "1 pinch of dried oregano",
@@ -1004,9 +971,9 @@
       "2 red onions",
       "8 sliced jalapeños in brine",
       "500 g self-raising flour , plus extra for dusting",
-      "50 g Cheddar cheese"
+      "50 g Cheddar cheese",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 240°C/475°F/gas 9 (full whack). Put a large non-stick, ovenproof frying pan on a medium-high heat.",
       "Squeeze the sausage meat out of the skins directly into the frying pan, with ½ a tablespoon of olive oil. Use a wooden spoon to roughly break up the meat.",
       "Add the oregano and fennel seeds, and stir-fry until the sausage meat is lightly golden.",
@@ -1015,36 +982,38 @@
       "Knead the dough on a lightly floured surface for a couple of minutes, then form into a rough round.",
       "Now, tip your topping out of the pan for a moment, returning the pan to a medium heat. Place the dough in the pan and – being careful not to touch the hot pan – use your fingertips to stretch out the dough to cover the base.",
       "Spoon the topping back over the pizza, spreading it out and pushing the sausage into the dough, then grate over the cheese.",
-      "Turn the heat back up to medium-high and cook for 3 to 5 minutes, or until the base has started to crisp up. Transfer to the oven for 10 minutes, or until golden, puffed up and sizzling. Serve with a nice salad, if you like."
+      "Turn the heat back up to medium-high and cook for 3 to 5 minutes, or until the base has started to crisp up. Transfer to the oven for 10 minutes, or until golden, puffed up and sizzling. Serve with a nice salad, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/105232682.jpg",
-    "imageAlt": "Cheat’s deep-pan pizza"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/105232682.jpg",
+    imageAlt: "Cheat’s deep-pan pizza",
   },
   {
-    "name": "Beautiful courgette carbonara",
-    "subName": "Made the proper Italian way with penne",
-    "specialDiets": [],
-    "metaDescription": "This courgette carbonara recipe includes courgettes for an extra special summer twist; A great way to spice up your courgette pasta recipe this summer.",
-    "description": "“Carbonara is a classic pasta sauce made with cream, bacon and Parmesan and is absolutely delicious. I've added gorgeous courgettes for a summery twist. Try to buy the best ingredients you can, as that’s what really helps to make this dish amazing. I’m using a flowering variety of thyme but normal thyme is fine to use. When it comes to the type of pasta, you can serve carbonara with spaghetti or linguine, but I’ve been told by Italian mammas (who I don’t argue with!) that penne is the original, so that’s what I’m using in this recipe. Before you start cooking, it’s important to get yourself a very large pan, or use a high-sided roasting tray so you can give the pasta a good toss. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Beautiful courgette carbonara",
+    subName: "Made the proper Italian way with penne",
+    specialDiets: [],
+    metaDescription:
+      "This courgette carbonara recipe includes courgettes for an extra special summer twist; A great way to spice up your courgette pasta recipe this summer.",
+    description:
+      "“Carbonara is a classic pasta sauce made with cream, bacon and Parmesan and is absolutely delicious. I've added gorgeous courgettes for a summery twist. Try to buy the best ingredients you can, as that’s what really helps to make this dish amazing. I’m using a flowering variety of thyme but normal thyme is fine to use. When it comes to the type of pasta, you can serve carbonara with spaghetti or linguine, but I’ve been told by Italian mammas (who I don’t argue with!) that penne is the original, so that’s what I’m using in this recipe. Before you start cooking, it’s important to get yourself a very large pan, or use a high-sided roasting tray so you can give the pasta a good toss. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie at Home",
       "Italian",
       "Pork",
       "Courgette",
       "Lunch & dinner recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "6 medium green and yellow courgettes",
       "500 g penne",
       "4 large eggs",
@@ -1053,9 +1022,9 @@
       "olive oil",
       "6 slices of back bacon",
       "½ a bunch of fresh thyme , (15g)",
-      "a few courgette flowers , (optional)"
+      "a few courgette flowers , (optional)",
     ],
-    "instructions": [
+    instructions: [
       "Put a large pan of salted water on to boil.",
       "Halve and then quarter any larger courgettes lengthways. Cut out and discard any fluffy middle bits, and slice the courgettes at an angle into pieces roughly the same size and shape as the penne. Smaller courgettes can simply be sliced finely.",
       "Your water will now be boiling, so add the penne to the pan and cook according to the packet instructions.",
@@ -1064,36 +1033,30 @@
       "Add the courgette slices and 2 big pinches of black pepper, not just to season but to give it a bit of a kick. Pick, chop and sprinkle in the thyme leaves (reserving any flowers), give everything a stir, so the courgettes become coated with all the lovely bacon-flavoured oil, and fry until they start to turn lightly golden and have softened slightly.",
       "It’s very important to get this next bit right or your carbonara could end up ruined. You need to work quickly. When the pasta is cooked, drain it, reserving a little of the cooking water. Immediately, toss the pasta in the pan with the courgettes, bacon and lovely flavours, then remove from the heat and add a ladleful of the reserved cooking water and your creamy sauce. Stir together quickly. (No more cooking now, otherwise you’ll scramble the eggs.)",
       "Get everyone around the table, ready to eat straight away. While you’re tossing the pasta and sauce, grate in the rest of the Parmesan and add a little more of the cooking water if needed, to give you a silky and shiny sauce. Taste quickly for seasoning.",
-      "If you’ve managed to get any courgette flowers, tear them over the top, then serve and eat immediately, as the sauce can become thick and stodgy if left too long."
+      "If you’ve managed to get any courgette flowers, tear them over the top, then serve and eat immediately, as the sauce can become thick and stodgy if left too long.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/94356757.jpg",
-    "imageAlt": "Beautiful courgette carbonara"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/94356757.jpg",
+    imageAlt: "Beautiful courgette carbonara",
   },
   {
-    "name": "Mediterranean vegetable rice",
-    "subName": "Bombs of green pesto, olive tapenade, creamy mozzarella & basil",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This gorgeous vegetarian traybake recipe from Jamie Oliver is a real weeknight winner. Olive tapenade, oozy cheese, fresh basil and loadsa veg – come on!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Mediterranean vegetable rice",
+    subName: "Bombs of green pesto, olive tapenade, creamy mozzarella & basil",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This gorgeous vegetarian traybake recipe from Jamie Oliver is a real weeknight winner. Olive tapenade, oozy cheese, fresh basil and loadsa veg – come on!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Courgette",
-      "Tomato",
-      "One-pan recipes",
-      "Family one-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Courgette", "Tomato", "One-pan recipes", "Family one-pan recipes"],
+    ingredients: [
       "300 g basmati rice",
       "1 small red onion",
       "1 courgette",
@@ -1104,229 +1067,220 @@
       "white wine vinegar",
       "extra virgin olive oil",
       "4 sprigs of fresh basil",
-      "½ x 125 g ball of mozzarella cheese"
+      "½ x 125 g ball of mozzarella cheese",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the grill to high.",
       "Tip the rice into a 25cm x 35cm roasting tray (or use a large round shallow ovenproof pan or tray, like I’ve done here, if you have one), pour over 650ml of boiling salted water and cook over a medium heat for 12 minutes, stirring occasionally, then turn off the heat.",
       "Meanwhile, peel the red onion, then very finely slice with the courgette, or use a mandolin (use the guard!). Finely slice the tomatoes into rounds.",
       "Randomly bomb the pesto over the rice, then start layering up your veg: cover the rice with rounds of onion, then move on to a layer of courgettes, overlapping them as you go, followed by a layer of tomatoes. Repeat, moving slightly nearer the middle each time until you’ve covered the whole surface (use the picture to help you out – it might look a bit fiddly, but it’s child’s play to make).",
       "Drizzle with 2 tablespoons of olive oil and sprinkle with black pepper, then place under the grill on the middle shelf for 25 minutes, or until beautifully gratinated.",
       "Meanwhile, for the tapenade, destone and very finely chop the olives, then mix with ½ a tablespoon each of vinegar and extra virgin olive oil.",
-      "To serve, pick over the basil leaves, dot over the olive tapenade and delicately tear over the mozzarella."
+      "To serve, pick over the basil leaves, dot over the olive tapenade and delicately tear over the mozzarella.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/94741165.jpg",
-    "imageAlt": "Mediterranean vegetable rice"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/94741165.jpg",
+    imageAlt: "Mediterranean vegetable rice",
   },
   {
-    "name": "Chicken baked in a bag",
-    "subName": "With mushrooms, butter, white wine & thyme",
-    "specialDiets": [],
-    "metaDescription": "An easy gluten-free chicken recipe from Jamie Oliver. Mixed mushrooms, white wine, fresh thyme and garlic make this a gorgeous one-pan dinner. Happy days! ",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Chicken baked in a bag",
+    subName: "With mushrooms, butter, white wine & thyme",
+    specialDiets: [],
+    metaDescription:
+      "An easy gluten-free chicken recipe from Jamie Oliver. Mixed mushrooms, white wine, fresh thyme and garlic make this a gorgeous one-pan dinner. Happy days! ",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Dinner for two",
       "Chicken breast",
       "Mushroom",
       "One-pan recipes",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g mixed mushrooms",
       "2 cloves of garlic",
       "1 handful of dried porcini mushrooms",
       "2 x 200 g skinless free-range chicken breasts",
       "1 large wineglass of white wine",
       "3 large knobs of unsalted butter",
-      "1 handful of fresh thyme"
+      "1 handful of fresh thyme",
     ],
-    "instructions": [
+    instructions: [
       "As this is for 2 people, I’m going to make a large envelope/bag to cook everything in. Using wide tin foil, make the bag by placing 2 pieces on top of each other (about as big as 2 shoeboxes in length), folding 3 sides in and leaving 1 side open.",
       "Preheat the oven to 220°C/425°F/gas 7.",
       "Tear up the mixed mushrooms. Peel and slice the garlic. Mix everything together in a bowl, including the chicken. Place in the bag, with all the liquid, making sure you don’t pierce the foil.",
       "Close up the final edge, making sure the bag is tightly sealed and secure on all sides, and carefully slide it on to a roasting tray. Place the tray on a high heat on the hob for 1 minute to get the heat going, then bake in the middle of the oven for 25 minutes.",
-      "Remove from the oven, place the bag on a big plate, take it to the table and carefully break open the foil. Feel free to vary the recipe – things like grated parsnip, smoked bacon and red wine also work well."
+      "Remove from the oven, place the bag on a big plate, take it to the table and carefully break open the foil. Feel free to vary the recipe – things like grated parsnip, smoked bacon and red wine also work well.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/89080407.jpg",
-    "imageAlt": "Chicken baked in a bag"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/89080407.jpg",
+    imageAlt: "Chicken baked in a bag",
   },
   {
-    "name": "Succulent lamb stew",
-    "subName": "Slow-cooked in an olive & tomato sauce",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This beautiful one-pan lamb stew uses only 5 ingredients. Not only that, just 6 minutes of prep means that the oven does all the hard work. ",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 6 minutes (6 minutes prep, 2 hours cook)",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 6 minutes (6 minutes prep, 2 hours cook)"
+    name: "Succulent lamb stew",
+    subName: "Slow-cooked in an olive & tomato sauce",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This beautiful one-pan lamb stew uses only 5 ingredients. Not only that, just 6 minutes of prep means that the oven does all the hard work. ",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "2 hours 6 minutes (6 minutes prep, 2 hours cook)",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 6 minutes (6 minutes prep, 2 hours cook)",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Stew",
-      "Tomato",
-      "One-pan recipes",
-      "Cheap & cheerful"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Stew", "Tomato", "One-pan recipes", "Cheap & cheerful"],
+    ingredients: [
       "½ a bunch of fresh rosemary , (15g)",
       "800 g lamb shoulder , bone out",
       "150 g mixed-colour olives , (stone in)",
       "1 x 280 g jar of silverskin pickled onions",
-      "2 x 400 g tins of plum tomatoes"
+      "2 x 400 g tins of plum tomatoes",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/325ºF/gas 3.",
       "Place a 30cm shallow casserole pan on a high heat, strip in the rosemary leaves, add 1 tablespoon of olive oil, and crisp up for 1 minute while you dice the lamb into 3cm chunks.",
       "Scoop out the rosemary and put aside, adding the lamb to the pan for 2 minutes to get some colour.",
       "Meanwhile, squash the olives and remove the stones. Drain the pickled onions and stir into the pan with the olives. Toss well, then pour in the tinned tomatoes, breaking them up with a wooden spoon, as well as 2 tins’ worth of water.",
       "Cover and cook in the oven for 2 hours, or until thick, delicious and tender, stirring halfway and loosening with a splash of water, if needed.",
-      "Taste, season to perfection with sea salt and black pepper, sprinkle over the crispy rosemary leaves, and serve. Simple."
+      "Taste, season to perfection with sea salt and black pepper, sprinkle over the crispy rosemary leaves, and serve. Simple.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/108765141.jpg",
-    "imageAlt": "Succulent lamb stew"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/108765141.jpg",
+    imageAlt: "Succulent lamb stew",
   },
   {
-    "name": "Comforting sausage bake",
-    "subName": "Baked tomatoes, creamy white beans & garlic",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "The clue’s in the title with this one – comforting and super-delicious. Let the recipe flex to what you’ve got, check out the easy swaps for inspiration. ",
-    "description": "“The clue’s in the title with this one – it’s not the prettiest recipe in the world, but boy is it comforting and super-delicious. Let the recipe flex to what you’ve got in the house – check out the easy swaps below for ideas. ”",
-    "servings": "Serves Makes 4",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes (10 minutes prep, 45 minutes cook)",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes (10 minutes prep, 45 minutes cook)"
+    name: "Comforting sausage bake",
+    subName: "Baked tomatoes, creamy white beans & garlic",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "The clue’s in the title with this one – comforting and super-delicious. Let the recipe flex to what you’ve got, check out the easy swaps for inspiration. ",
+    description:
+      "“The clue’s in the title with this one – it’s not the prettiest recipe in the world, but boy is it comforting and super-delicious. Let the recipe flex to what you’ve got in the house – check out the easy swaps below for ideas. ”",
+    servings: "Serves Makes 4",
+    time: {
+      prep: "",
+      cook: "55 minutes (10 minutes prep, 45 minutes cook)",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes (10 minutes prep, 45 minutes cook)",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Pork",
       "Sausage",
       "Bread",
       "Tomato",
       "Keep cooking and carry on",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "600 g ripe mixed-colour cherry tomatoes",
       "4 cloves of garlic",
       "200 g rosemary focaccia",
       "1 x 660 g jar of white beans",
-      "12 chipolatas , the best quality you can afford"
+      "12 chipolatas , the best quality you can afford",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Halve the cherry tomatoes, peel and finely slice the garlic, and tear the bread into bite-sized chunks.",
       "Place it all in a 30cm x 35cm roasting tray, pour in the beans and their juice, drizzle with 1 tablespoon each of olive oil and red wine vinegar, add a splash of water, and mix it all together.",
       "Quickly pinch and twist each chipolata in the middle to make it into two mini ones, then randomly dot them around your bake, lightly pressing them into the beans and tomatoes.",
-      "Roast for 45 minutes, or until everything is golden, bubbling and delicious."
+      "Roast for 45 minutes, or until everything is golden, bubbling and delicious.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/64975476.jpg",
-    "imageAlt": "Comforting sausage bake"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/64975476.jpg",
+    imageAlt: "Comforting sausage bake",
   },
   {
-    "name": "Spiced whole roast cauli",
-    "subName": "With beautiful rose harissa, dukkah & jewels of pomegranate",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Rose harissa, dukkah and pomegranate are a real treat for the taste buds in this roast cauli dish. Just 5 ingredients and the oven does all the hard work. ",
-    "description": "",
-    "servings": "2 to 4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 34 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 34 minutes"
+    name: "Spiced whole roast cauli",
+    subName: "With beautiful rose harissa, dukkah & jewels of pomegranate",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Rose harissa, dukkah and pomegranate are a real treat for the taste buds in this roast cauli dish. Just 5 ingredients and the oven does all the hard work. ",
+    description: "",
+    servings: "2 to 4",
+    time: {
+      prep: "",
+      cook: "1 hour 34 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 34 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Dinner for two",
       "Romantic meals",
       "Cauliflower",
       "One-pan recipes",
       "Healthy dinner ideas",
-      "Healthy vegetarian recipes"
+      "Healthy vegetarian recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small head of cauliflower , (600g)",
       "2 heaped teaspoons rose harissa",
       "2 heaped tablespoons natural yoghurt",
       "1 pomegranate",
-      "1 tablespoon dukkah"
+      "1 tablespoon dukkah",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Discard any tough outer leaves from the cauliflower, then, keeping it whole, use a sharp knife to carefully slice a cross deep into the stalk so you can easily portion it up later.",
       "In a bowl, mix together the harissa, yoghurt, ½ a tablespoon of red wine vinegar and a little sea salt and black pepper, then quickly rub the mixture all over the cauli. Place it in a snug-fitting ovenproof frying pan or roasting tray.",
       "Halve the pomegranate and squeeze the juice of one half through a sieve over the cauli. Add 100ml of water at the base, and roast for 1 hour 15 minutes.",
       "When the time’s up, baste the cauli with the juices in the pan, then return to the oven for a final 10 minutes.",
       "Remove the pan, spoon the juices back over the cauli, then quickly sprinkle over the dukkah so it sticks.",
-      "Holding the remaining pomegranate half cut-side down in your fingers, bash the back of it with a spoon so all the seeds tumble over the cauli, then halve or quarter, and dish up."
+      "Holding the remaining pomegranate half cut-side down in your fingers, bash the back of it with a spoon so all the seeds tumble over the cauli, then halve or quarter, and dish up.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/108258856.jpg",
-    "imageAlt": "Spiced whole roast cauli"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/108258856.jpg",
+    imageAlt: "Spiced whole roast cauli",
   },
   {
-    "name": "Sticky hoisin chicken",
-    "subName": "With blood orange & spring onion",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A delicious chicken recipe from Jamie Oliver. These sticky hoisin chicken legs are ready in just 30 minutes, plus it's a dairy-free chicken recipe. Yum!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Sticky hoisin chicken",
+    subName: "With blood orange & spring onion",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A delicious chicken recipe from Jamie Oliver. These sticky hoisin chicken legs are ready in just 30 minutes, plus it's a dairy-free chicken recipe. Yum!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Dinner for two",
       "Romantic meals",
       "Fruit",
       "Chicken thighs",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 x 200 g chicken legs",
       "8 spring onions",
       "1-2 fresh mixed-colour chillies",
       "3 regular oranges , or blood oranges",
-      "2 heaped tablespoons hoisin sauce"
+      "2 heaped tablespoons hoisin sauce",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Put a non-stick ovenproof frying pan on a high heat. Pull off the chicken skin, put both skin and legs into the pan, season with sea salt and black pepper and let the fat render out and the chicken get golden for 5 minutes, turning halfway, while you trim the spring onions and halve across the middle, putting the green halves aside.",
       "Toss the white spring onions into the pan, then transfer to the oven for 15 minutes.",
@@ -1335,126 +1289,128 @@
       "Remove the chicken skin and soft spring onions from the pan and put aside.",
       "Cook the chicken for 10 more minutes, or until tender and cooked through.",
       "In a bowl, loosen the hoisin with a splash of red wine vinegar, then spoon over the chicken. Leave it in the oven while you drain and divide up the salad.",
-      "Sit the chicken and soft spring onions on top and crack over the crispy skin."
+      "Sit the chicken and soft spring onions on top and crack over the crispy skin.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/89080978.jpg",
-    "imageAlt": "Sticky hoisin chicken"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/89080978.jpg",
+    imageAlt: "Sticky hoisin chicken",
   },
   {
-    "name": "Patsy's garlic & chilli prawns",
-    "subName": "Smoked paprika, fresh parsley & lemon",
-    "specialDiets": [],
-    "metaDescription": "Looking for seafood starter ideas? This spicy, flavourful garlic and chilli prawns recipe is totally delicious and perfect to make for a dinner party.",
-    "description": "“Patsy first tried these amazing garlic and chilli prawns in Torremolinos in southern Spain, where she enjoyed them as part of a delicious tapas spread. Eaten by the sea with a glass of chilled white wine, this was the standout dish. These gorgeous prawns are super-easy to recreate at home; the beachfront setting is optional, but for maximum Spanish effect, the chilled wine and crusty bread are not! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Patsy's garlic & chilli prawns",
+    subName: "Smoked paprika, fresh parsley & lemon",
+    specialDiets: [],
+    metaDescription:
+      "Looking for seafood starter ideas? This spicy, flavourful garlic and chilli prawns recipe is totally delicious and perfect to make for a dinner party.",
+    description:
+      "“Patsy first tried these amazing garlic and chilli prawns in Torremolinos in southern Spain, where she enjoyed them as part of a delicious tapas spread. Eaten by the sea with a glass of chilled white wine, this was the standout dish. These gorgeous prawns are super-easy to recreate at home; the beachfront setting is optional, but for maximum Spanish effect, the chilled wine and crusty bread are not! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Seafood",
       "Dinner for two",
       "Spanish",
       "Prawns",
       "Lunch & dinner recipes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "8 large raw shell-on king prawns , from sustainable sources",
       "3 cloves of garlic",
       "1 fresh red chilli",
       "a few sprigs of fresh flat-leaf parsley",
       "50 ml olive oil , ideally Spanish",
       "½ teaspoon smoked paprika",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Peel the prawns, removing the heads and leaving the tails on. Run the tip of a knife down the backs of the peeled prawns and pull out and discard the dark vein.",
       "Peel the garlic and finely chop with the chilli (deseed if you like). Pick and finely chop the parsley leaves.",
       "Drizzle the oil into a shallow heatproof terracotta dish or a small frying pan over a medium-high heat, add the garlic and chilli and fry for 30 seconds to flavour the oil, before stirring in the paprika.",
       "Add the prawns and fry for 2 minutes on each side, or until cooked through, adding most of the parsley when you turn the prawns.",
       "Squeeze half the lemon juice into the dish, then remove from the heat and sprinkle over the remaining parsley and a pinch of sea salt.",
-      "Serve sizzling with warm crusty bread, the remaining lemon cut wedges for squeezing over, and a glass of good Spanish wine."
+      "Serve sizzling with warm crusty bread, the remaining lemon cut wedges for squeezing over, and a glass of good Spanish wine.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/59888883.jpg",
-    "imageAlt": "Patsy's garlic & chilli prawns"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/59888883.jpg",
+    imageAlt: "Patsy's garlic & chilli prawns",
   },
   {
-    "name": "Epic rib-eye steak",
-    "subName": "With white beans & mixed mushrooms",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Make Jamie Oliver's quick and easy recipe for steak with white beans and rosemary in just 26 minutes. Amazing!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "26 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "26 minutes"
+    name: "Epic rib-eye steak",
+    subName: "With white beans & mixed mushrooms",
+    specialDiets: ["Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Make Jamie Oliver's quick and easy recipe for steak with white beans and rosemary in just 26 minutes. Amazing!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "26 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "26 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Beef",
       "Steak",
       "Mushroom",
       "Quick & easy recipes",
       "Quick fixes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "600 g piece of rib-eye steak , (ideally 5cm thick), fat removed",
       "4 sprigs of fresh rosemary",
       "4 cloves of garlic",
       "350 g mixed mushrooms",
-      "1 x 600 g jar of quality white beans"
+      "1 x 600 g jar of quality white beans",
     ],
-    "instructions": [
+    instructions: [
       "Place a large non-stick frying pan on a medium-high heat.",
       "Rub the steak all over with a pinch of sea salt and black pepper, then sear on all sides for 10 minutes in total, so you achieve good colour on the outside but keep it medium rare in the middle, or cook to your liking, turning regularly with tongs.",
       "Meanwhile, strip the rosemary leaves off the sprigs, peel and finely slice the garlic, and tear up any larger mushrooms.",
       "When the steak’s done, remove to a plate and cover with tin foil.",
       "Reduce the heat under the pan to medium, and crisp up the rosemary for 30 seconds, then add the garlic and mushrooms and cook for 8 minutes, or until golden, tossing regularly.",
       "Pour in the beans and their juice, add 1 tablespoon of red wine vinegar and simmer for 5 minutes, then season to perfection.",
-      "Sit the steak on top and pour over any resting juices. Slice and serve at the table, finishing with a little extra virgin olive oil, if you like."
+      "Sit the steak on top and pour over any resting juices. Slice and serve at the table, finishing with a little extra virgin olive oil, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/55846364.jpg",
-    "imageAlt": "Epic rib-eye steak"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/55846364.jpg",
+    imageAlt: "Epic rib-eye steak",
   },
   {
-    "name": "Sicilian fish bake",
-    "subName": "Aubergine, tomatoes, pine nuts & raisins",
-    "specialDiets": [],
-    "metaDescription": "White fish is a great, nutritious lean source of protein in this veg-packed Sicilian fish bake.",
-    "description": "“White fish is a great, nutritious lean source of protein, and is packed with lots of micronutrients, such as the mineral selenium, for cell protection and efficient immune system function. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes"
+    name: "Sicilian fish bake",
+    subName: "Aubergine, tomatoes, pine nuts & raisins",
+    specialDiets: [],
+    metaDescription:
+      "White fish is a great, nutritious lean source of protein in this veg-packed Sicilian fish bake.",
+    description:
+      "“White fish is a great, nutritious lean source of protein, and is packed with lots of micronutrients, such as the mineral selenium, for cell protection and efficient immune system function. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Super Food Family Classics",
       "Tomato",
       "Mains",
       "One-pan recipes",
       "Family one-pan recipes",
-      "Healthy dinner ideas"
+      "Healthy dinner ideas",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg ripe mixed-colour tomatoes",
       "1 red onion",
       "4 cloves of garlic",
@@ -1470,48 +1426,47 @@
       "1 orange",
       "250 g wholewheat couscous",
       "40 g rocket",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Very finely slice 2 large aubergines and 1kg of mixed-colour tomatoes into rounds. Peel and very finely slice 1 red onion and 4 cloves of garlic. Trim 1 celery heart, halve, and finely slice lengthways. Throw it all into a large roasting tray with 1 tablespoon of dried oregano, 1 pinch of chilli flakes, 1 heaped teaspoon of baby capers, and 40g each of raisins and pine nuts.",
       "Crush 4 black olives with the heel of your hand, tear out the stones, then tear the flesh into the tray. Add 2 tablespoons of oil and a good pinch of sea salt and black pepper, then toss well. Arrange evenly, pulling a layer of tomatoes to the top, and bake on the bottom shelf of the oven for 40 minutes.",
       "Meanwhile, place 4 fish fillets in a sandwich bag, squeeze in the juice from 1 orange (reserving the halves), add a pinch of salt and leave aside.",
       "When the time’s up on the veg, remove from the oven and place 4 fish fillets on top, skin side up. Drizzle over the juice from 1 orange, then return to the bottom shelf of the oven for 15 more minutes, or until the fish is cooked through.",
       "Put the squeezed orange halves and 250g of wholewheat couscous into a bowl, just cover the couscous with boiling kettle water, then pop a plate on top and leave to fluff up.",
-      "Sprinkle 40g of rocket over the gorgeous traybake, fluff up the couscous, season to perfection, divide it all up, and serve each portion with 1 tablespoon of yoghurt."
+      "Sprinkle 40g of rocket over the gorgeous traybake, fluff up the couscous, season to perfection, divide it all up, and serve each portion with 1 tablespoon of yoghurt.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134584621.jpg",
-    "imageAlt": "Sicilian fish bake"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134584621.jpg",
+    imageAlt: "Sicilian fish bake",
   },
   {
-    "name": "Batch minced meat ragù",
-    "subName": "Loadsa veg, beans, sun-dried tomatoes",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Bulking out minced meat with beans in a ragu is a great habit to get into, as it means we get extra protein without extra saturated fat from the mince, plus beans give us gut-friendly fibre – win, win!",
-    "description": "“This is a really convenient, nutritious standby to have in the fridge or freezer, which can easily be taken lots of ways – serve simply with pasta, hunks of bread or a jacket potato, or use in cottage pie, lasagne, cannelloni and chilli. ”",
-    "servings": "Serves Makes 10 portions (3kg)",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 50 minutes"
+    name: "Batch minced meat ragù",
+    subName: "Loadsa veg, beans, sun-dried tomatoes",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Bulking out minced meat with beans in a ragu is a great habit to get into, as it means we get extra protein without extra saturated fat from the mince, plus beans give us gut-friendly fibre – win, win!",
+    description:
+      "“This is a really convenient, nutritious standby to have in the fridge or freezer, which can easily be taken lots of ways – serve simply with pasta, hunks of bread or a jacket potato, or use in cottage pie, lasagne, cannelloni and chilli. ”",
+    servings: "Serves Makes 10 portions (3kg)",
+    time: {
+      prep: "",
+      cook: "1 hour 50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Super Food Family Classics",
       "Italian",
       "Minced beef",
       "Beef",
       "Tomato",
-      "Freezer-friendly recipes"
+      "Freezer-friendly recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 rashers of higher-welfare smoked streaky bacon",
       "olive oil",
       "1 kg higher-welfare lean minced beef",
@@ -1524,47 +1479,47 @@
       "1 celery heart",
       "1 x 280 g jar of sun-dried tomatoes in oil",
       "2 tablespoons balsamic vinegar",
-      "2 x 400 g tins of quality plum tomatoes"
+      "2 x 400 g tins of quality plum tomatoes",
     ],
-    "instructions": [
+    instructions: [
       "Finely slice 2 rashers of smoked streaky bacon and place in a large casserole pan on a medium-high heat with 1 tablespoon of olive oil. Once golden, stir in 1kg of minced beef, breaking it up with a wooden spoon.",
       "Drain and add 2 x 400g tins of beans, pick, finely chop and add the leaves from 2 sprigs of fresh rosemary, along with 2 fresh bay leaves, then cook it all for 20 minutes, or until dark golden, stirring regularly. Any time it starts to catch at the bottom of the pan, simply add a splash of red wine (if using) or water to pick up all those nice, sticky bits.",
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Peel 2 large onions and 2 large carrots, trim 1 celery heart, then finely chop it all (by hand or in a food processor). Stir into the pan and cook for another 15 minutes.",
       "Tip the contents of the sun-dried tomato jar (280g) into a blender, add 2 tablespoons of balsamic and blitz until smooth. Stir 2 tablespoons into the pan, then decant the rest back into the jar, popping it into the fridge for another day – it will be delicious brushed on to meat, fish or veg before roasting or grilling, or used on crostini.",
       "Pour 2 x 400g tins of plum tomatoes into the pan, along with 2 tins’ worth of water. Mix well, bring to the boil, then pop into the oven uncovered for 1 hour, or until thick and reduced.",
-      "Taste, season to perfection, and cool. Once cool, divide between tubs or bags, and pop portions into the fridge or freezer until needed."
+      "Taste, season to perfection, and cool. Once cool, divide between tubs or bags, and pop portions into the fridge or freezer until needed.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/134457875.jpg",
-    "imageAlt": "Batch minced meat ragù"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/134457875.jpg",
+    imageAlt: "Batch minced meat ragù",
   },
   {
-    "name": "Lamb & chickpea curry",
-    "subName": "Nutritious & delicious",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Follow this lamb and chickpea curry recipe and create an incredible, super-tasty curry from scratch that is so much healthier than a takeaway.",
-    "description": "“This incredibly easy curry is far tastier and healthier than a takeaway – enjoy! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 20 minutes"
+    name: "Lamb & chickpea curry",
+    subName: "Nutritious & delicious",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Follow this lamb and chickpea curry recipe and create an incredible, super-tasty curry from scratch that is so much healthier than a takeaway.",
+    description:
+      "“This incredibly easy curry is far tastier and healthier than a takeaway – enjoy! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "2 hours 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Curry",
       "Spinach",
       "Fruit",
       "Mains",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "300 g diced lean lamb shoulder",
       "1 teaspoon mustard seeds",
@@ -1580,45 +1535,47 @@
       "1 x 400 g tin of quality plum tomatoes",
       "½ x 400 g tin of light coconut milk",
       "200 g baby spinach",
-      "1 bunch of fresh coriander"
+      "1 bunch of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Heat 1 tablespoon of oil in a large pan over a medium heat, add the lamb, spices and curry powder, then cook gently for 15 minutes, or until browned all over, stirring occasionally.",
       "Meanwhile, peel and finely slice the ginger, garlic and onions. Add the sliced ingredients and curry leaves to the pan, then cook for a further 10 to 15 minutes, or until softened, stirring occasionally.",
       "Tip in the chickpeas (and their juice), then crumble in the stock cube. Pour in the tomatoes and 1 tin’s worth of hot water.",
       "Season lightly with sea salt and black pepper, then slowly bring to the boil, breaking up the tomatoes with the back of a spoon.",
       "Cover with a lid, reduce the heat to low, and simmer gently for 1 hour 30 minutes, or until the lamb is tender and the sauce has thickened and reduced, occasionally stirring and scraping any bits from the bottom of the pan.",
       "Add the coconut milk and spinach to the pan, stir well, then bring just back to the boil.",
-      "Have a taste and season to perfection, then tear the coriander leaves over the top. Delicious served with brown basmati rice."
+      "Have a taste and season to perfection, then tear the coriander leaves over the top. Delicious served with brown basmati rice.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46287891.jpg",
-    "imageAlt": "Lamb & chickpea curry"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46287891.jpg",
+    imageAlt: "Lamb & chickpea curry",
   },
   {
-    "name": "Minestrone soup",
-    "subName": "Wholesome & hearty",
-    "specialDiets": [],
-    "metaDescription": "Wondering what to do with leftover vegetables? Have a go at this delightfully easy minestrone soup recipe that is always healthy & nutritious. Happy days!",
-    "description": "“Hearty and nutritious, minestrone soup is a tasty crowd-pleaser and is super-easy to tweak according to the vegetables you have in the house. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Minestrone soup",
+    subName: "Wholesome & hearty",
+    specialDiets: [],
+    metaDescription:
+      "Wondering what to do with leftover vegetables? Have a go at this delightfully easy minestrone soup recipe that is always healthy & nutritious. Happy days!",
+    description:
+      "“Hearty and nutritious, minestrone soup is a tasty crowd-pleaser and is super-easy to tweak according to the vegetables you have in the house. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Vegetables",
       "Gorgeous Winter Soups",
       "Pork",
       "Tomato",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 clove of garlic",
       "1 red onion",
       "2 carrots",
@@ -1636,9 +1593,9 @@
       "1 large handful of seasonal greens , such as savoy cabbage, curly kale, chard",
       "100 g wholemeal pasta",
       "½ a bunch of fresh basil , optional",
-      "Parmesan cheese"
+      "Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the garlic and onion. Trim and roughly chop the carrots, celery and courgette, then add the vegetables to a large bowl.",
       "Cut the ends off the leek, quarter it lengthways, wash it under running water, then cut into 1cm slices. Add to the bowl.",
       "Scrub and dice the potato. Drain the cannellini beans, then set aside.\nFinely slice the bacon.",
@@ -1651,39 +1608,38 @@
       "To check the potato is cooked, pierce a chunk of it with a sharp knife – if it pierces easily, it’s done.",
       "Add the greens and pasta to the pan, and cook for a further 10 minutes, or until the pasta is al dente. This translates as ‘to the tooth’ and means that it should be soft enough to eat, but still have a bit of a bite and firmness to it. Try some just before the time is up to make sure you cook it perfectly.",
       "Add a splash more stock or water to loosen, if needed.",
-      "Pick over the basil leaves (if using) and stir through. Season to taste with sea salt and black pepper, then serve with a grating of Parmesan and a slice of wholemeal bread, if you like."
+      "Pick over the basil leaves (if using) and stir through. Season to taste with sea salt and black pepper, then serve with a grating of Parmesan and a slice of wholemeal bread, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46287898.jpg",
-    "imageAlt": "Minestrone soup"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46287898.jpg",
+    imageAlt: "Minestrone soup",
   },
   {
-    "name": "Roast chicken with potatoes & carrots",
-    "subName": "A healthy roast for the whole family",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Use high quality, certified humane birds to create this roast chicken recipe and make a guilt free, classic Sunday dinner that is as easy as it is tasty. ",
-    "description": "“This is a classic Sunday dinner that the whole family will love. It’s super simple too. Always try to buy the best quality chicken you can afford – aim for RSPCA-Assured birds as a minimum, then trade up when you can. I’ve seen the way low-standard chickens are kept and I’d never feed them to my kids. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 45 minutes"
+    name: "Roast chicken with potatoes & carrots",
+    subName: "A healthy roast for the whole family",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Use high quality, certified humane birds to create this roast chicken recipe and make a guilt free, classic Sunday dinner that is as easy as it is tasty. ",
+    description:
+      "“This is a classic Sunday dinner that the whole family will love. It’s super simple too. Always try to buy the best quality chicken you can afford – aim for RSPCA-Assured birds as a minimum, then trade up when you can. I’ve seen the way low-standard chickens are kept and I’d never feed them to my kids. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Chicken",
       "Sunday lunch",
       "Potato",
       "Fruit",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "500 g carrots",
       "600 g potatoes",
       "1 bulb of garlic",
@@ -1691,9 +1647,9 @@
       "olive oil",
       "1 x 1.6 kg whole free-range chicken",
       "1 lemon",
-      "5 sprigs of fresh thyme"
+      "5 sprigs of fresh thyme",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220°C/425°F/gas 7.",
       "Scrub, trim and halve the carrots lengthways.",
       "Scrub, peel and halve the potatoes, quartering any larger ones. Add to a large roasting tray.",
@@ -1706,92 +1662,84 @@
       "Once cooked, transfer the chicken to a board and return the vegetables to the oven for a final 5 minutes to crisp up, if needed.",
       "Cover the chicken with a layer of tin foil and a tea towel, then leave to rest for 10 to 15 minutes.",
       "Using a sharp carving knife, carve up the chicken, then serve with the roasted veg. Delicious with a green salad on the side.",
-      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)"
+      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46287921.jpg",
-    "imageAlt": "Roast chicken with potatoes & carrots"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46287921.jpg",
+    imageAlt: "Roast chicken with potatoes & carrots",
   },
   {
-    "name": "Simple houmous",
-    "subName": "Tasty, healthy snack",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Have you ever wondered how to make hummus? This easy homemade hummus recipe shows you how! It's great with crudités and warm pitta breads for dunking.",
-    "description": "“Chickpeas – the star ingredient in houmous – are incredibly good for you. High in protein and fibre and more than ten micronutrients, including a hefty amount of the mineral copper, keeping our hair and skin nice and healthy, this is a great, nutritious snack. Serve it with crunchy veg for dipping, breadsticks or lovely warm flatbreads. ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Simple houmous",
+    subName: "Tasty, healthy snack",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Have you ever wondered how to make hummus? This easy homemade hummus recipe shows you how! It's great with crudités and warm pitta breads for dunking.",
+    description:
+      "“Chickpeas – the star ingredient in houmous – are incredibly good for you. High in protein and fibre and more than ten micronutrients, including a hefty amount of the mineral copper, keeping our hair and skin nice and healthy, this is a great, nutritious snack. Serve it with crunchy veg for dipping, breadsticks or lovely warm flatbreads. ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Snacks",
       "Healthy snack ideas",
       "Healthy vegetarian recipes",
       "One-pan recipes",
-      "Prep & go recipes"
+      "Prep & go recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 400 g tin of chickpeas",
       "1 small clove of garlic",
       "1 tablespoon tahini",
       "1 lemon",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Drain and tip the chickpeas into a food processor.",
       "Peel and add the garlic, then add the tahini, a good squeeze of lemon juice and 1 tablespoon of oil.",
       "Season with a pinch of sea salt, then pop the lid on and blitz.",
       "Use a spatula to scrape the houmous down the sides of the bowl, then blitz again until smooth.",
       "Have a taste and add more lemon juice or a splash of water to loosen, if needed, then transfer to a serving bowl.",
       "Serve with sliced crunchy veg, such as carrots, cucumbers, radishes or peppers, and some warm flatbreads.",
-      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)"
+      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46287939.jpg",
-    "imageAlt": "Simple houmous"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46287939.jpg",
+    imageAlt: "Simple houmous",
   },
   {
-    "name": "Simple cheese omelette",
-    "subName": "Simple, quick and nutritious",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "An easy cheese omelette recipe shows you the easiest way to make an omelette. This is a great quick meal for any time of day! Delicious with a green salad.",
-    "description": "“This is a great quick meal at any time of the day. Eggs are a fantastic, affordable source of protein, helping our muscles to grow and repair and helping us to feel fuller for longer. Serve your omelette with wholemeal bread and a simple tomato salad for a healthy, balanced meal. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Simple cheese omelette",
+    subName: "Simple, quick and nutritious",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "An easy cheese omelette recipe shows you the easiest way to make an omelette. This is a great quick meal for any time of day! Delicious with a green salad.",
+    description:
+      "“This is a great quick meal at any time of the day. Eggs are a fantastic, affordable source of protein, helping our muscles to grow and repair and helping us to feel fuller for longer. Serve your omelette with wholemeal bread and a simple tomato salad for a healthy, balanced meal. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Eggs",
       "Breakfast",
       "Brilliant breakfast recipes",
       "Family one-pan recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
-      "2 large eggs",
-      "olive oil",
-      "10 g Cheddar cheese"
-    ],
-    "instructions": [
+    ingredients: ["2 large eggs", "olive oil", "10 g Cheddar cheese"],
+    instructions: [
       "Crack the eggs into a mixing bowl, season with a pinch of sea salt and black pepper, then beat well with a fork until fully combined.",
       "Place a small non-stick frying pan on a low heat to warm up.",
       "Grate the cheese onto a board and set aside.",
@@ -1800,82 +1748,83 @@
       "When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the cheese.",
       "Using a spatula, ease around the edges of the omelette, then fold it over in half.",
       "When it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette onto a plate. Delicious with a tomato salad and wholemeal bread.",
-      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)"
+      "PRINT THIS RECIPE (UK)\nPRINT THIS RECIPE (USA)",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/0siQaM1MqTv8KwCQYOv41F.jpg",
-    "imageAlt": "Simple cheese omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/0siQaM1MqTv8KwCQYOv41F.jpg",
+    imageAlt: "Simple cheese omelette",
   },
   {
-    "name": "Baked sweet potatoes, avocado & queso fresco",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's Mexican inspired baked sweet potatoes are easy to throw together and taste absolutely great, add avocado and queso fresco for a tasty midweek meal.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes"
+    name: "Baked sweet potatoes, avocado & queso fresco",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Jamie's Mexican inspired baked sweet potatoes are easy to throw together and taste absolutely great, add avocado and queso fresco for a tasty midweek meal.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Mexican",
       "Potato",
       "Sweet potato",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "4 sweet potatoes",
       "olive oil",
       "2 ripe avocados",
       "1-2 limes",
       "1 handful of pumpkin seeds",
-      "150 g Mexican queso fresco or Spanish manchego"
+      "150 g Mexican queso fresco or Spanish manchego",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Drizzle the potatoes with oil, sprinkle with sea salt and black pepper, wrap in foil and bake in the oven for 1 hour to 1 hour 15 minutes, or until tender.",
       "When the potatoes are nearly done, destone and roughly chop the avocados and toss with the juice from half a lime.",
       "Toast the pumpkin seeds in a dry pan for a few minutes until slightly golden.",
       "Top the potatoes with the avocado, crumble over the cheese and sprinkle with the toasted seeds.",
-      "Delicious with a hibiscus, chipotle & tamarind salsa. Serve with lime wedges for squeezing."
+      "Delicious with a hibiscus, chipotle & tamarind salsa. Serve with lime wedges for squeezing.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46263377.jpg",
-    "imageAlt": "Baked sweet potatoes, avocado & queso fresco"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46263377.jpg",
+    imageAlt: "Baked sweet potatoes, avocado & queso fresco",
   },
   {
-    "name": "Spring chicken & citrus stew",
-    "subName": "With fennel, asparagus & tarragon",
-    "specialDiets": [],
-    "metaDescription": "This colourful chicken and citrus one-pot is a real celebration of the joys of spring, with fresh broad beans, peas and asparagus. Lemon juice gives the stew a lovely fresh finish too. Gorgeous.",
-    "description": "“This is a brilliant transitional dish. You’ve got the stew element, which is warming, comforting and exactly what you want during the colder months, but there are loads of fresh colours and flavours to remind you what’s around the corner at this time of year. The lemon and egg sauce you stir through at the end is something I first saw added to Greek stews. I know it might sound a bit unusual, but the results will make you sit up and smile. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 35 minutes"
+    name: "Spring chicken & citrus stew",
+    subName: "With fennel, asparagus & tarragon",
+    specialDiets: [],
+    metaDescription:
+      "This colourful chicken and citrus one-pot is a real celebration of the joys of spring, with fresh broad beans, peas and asparagus. Lemon juice gives the stew a lovely fresh finish too. Gorgeous.",
+    description:
+      "“This is a brilliant transitional dish. You’ve got the stew element, which is warming, comforting and exactly what you want during the colder months, but there are loads of fresh colours and flavours to remind you what’s around the corner at this time of year. The lemon and egg sauce you stir through at the end is something I first saw added to Greek stews. I know it might sound a bit unusual, but the results will make you sit up and smile. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "1 hour 35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Dinner Party",
       "Sunday lunch",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range chicken",
       "olive oil",
       "6 cloves of garlic",
@@ -1895,9 +1844,9 @@
       "2 large free-range eggs",
       "2 tablespoons natural yoghurt",
       "extra virgin olive oil",
-      "Parmesan cheese"
+      "Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Joint the chicken into legs, thighs, breasts and wings.",
       "Put a large casserole pan over a medium heat and add 3 tablespoons of olive oil. Season the chicken portions and place in the pan. Cook for 10 minutes, until browned on all sides, turning regularly, then remove to a plate.",
       "Meanwhile, prep your veg. Peel and finely chop the garlic and onion. Trim and finely chop the fennel, trim and finely slice the leek and snap the woody ends off the asparagus. Pod the peas and broad beans, then pick the herb leaves and finely chop the stalks.",
@@ -1906,39 +1855,39 @@
       "Bring the mixture back up to a boil, destone and stir in the olives, peas, broad beans and cannellini beans. When the vegetables are done, add most of the herb leaves, reserving some for garnish.",
       "Remove the chicken from the stew and use 2 forks to pull the meat off the bones. Discard the bones, return the meat to the pan, then season to perfection and remove from the heat.",
       "At this point, the stew will be delicious, but it’s the next step that makes it amazing. Beat the juice of 2 lemons and the eggs together well, then pour slowly into the stew – don’t let it boil or the egg mixture with scramble – it should just add a gorgeous shine.",
-      "Stir in the yoghurt before ladling the stew into bowls. Drizzle a little extra virgin olive oil over each bowl, grate over a little Parmesan and serve sprinkled with the reserved herbs."
+      "Stir in the yoghurt before ladling the stew into bowls. Drizzle a little extra virgin olive oil over each bowl, grate over a little Parmesan and serve sprinkled with the reserved herbs.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/3TiRvISsawYAwqa4Xy7PMd.jpg",
-    "imageAlt": "Spring chicken & citrus stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/3TiRvISsawYAwqa4Xy7PMd.jpg",
+    imageAlt: "Spring chicken & citrus stew",
   },
   {
-    "name": "Simple veggie & tofu stir-fry",
-    "subName": "With toasted cashews & sesame seeds",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free"
-    ],
-    "metaDescription": "Tofu stir fry is a brilliantly simple, flavour-packed supper for two. If you're vegan, you could swap the honey in this for maple syrup instead. Get stuck in!",
-    "description": "“A brilliantly simple, flavour-packed supper for two – get stuck in to this tasty stir-fry! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Simple veggie & tofu stir-fry",
+    subName: "With toasted cashews & sesame seeds",
+    specialDiets: ["Vegetarian", "Dairy-free"],
+    metaDescription:
+      "Tofu stir fry is a brilliantly simple, flavour-packed supper for two. If you're vegan, you could swap the honey in this for maple syrup instead. Get stuck in!",
+    description:
+      "“A brilliantly simple, flavour-packed supper for two – get stuck in to this tasty stir-fry! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "One-pan recipes",
       "Quick fixes",
       "Mains",
-      "Tofu"
+      "Tofu",
     ],
-    "ingredients": [
+    ingredients: [
       "2 tablespoons cashew nuts",
       "3 tablespoons sesame seeds",
       "175 g firm tofu",
@@ -1954,9 +1903,9 @@
       "4 baby sweetcorn",
       "80 g sweetcorn",
       "1 lime",
-      "low-salt soy sauce"
+      "low-salt soy sauce",
     ],
-    "instructions": [
+    instructions: [
       "Place a frying pan or wok over a high heat. Add the cashew nuts, then 30 seconds later add the sesame seeds. Toss for a further 30 seconds until golden, then tip into a bowl.",
       "Cut the tofu into cubes, then place in a bowl and dust with the cornflour and a pinch of sea salt and black pepper.",
       "Add a good lug of oil to the pan or wok and place back over a medium-high heat.",
@@ -1964,82 +1913,77 @@
       "Peel and slice the garlic and ginger, then trim and slice the spring onions on an angle. Slice the chillies (if using), cut the broccoli into florets, then slice the pepper. Halve the sweetcorn lengthways.",
       "Return the pan to a medium heat and add the garlic, ginger, spring onions and chillies (if using). Stir-fry for 30 seconds, or until the garlic turns golden.",
       "Add your vegetables and stir-fry for a further 4 minutes. Squeeze in the juice from half the lime and add a splash of soy sauce.",
-      "Tip the vegetables into bowls, top with the crispy tofu and serve with the remaining lime wedges and some chilli sauce, if you like extra heat."
+      "Tip the vegetables into bowls, top with the crispy tofu and serve with the remaining lime wedges and some chilli sauce, if you like extra heat.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/3VlWU94safrBEtz0VDtGUX.jpg",
-    "imageAlt": "Simple veggie & tofu stir-fry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/3VlWU94safrBEtz0VDtGUX.jpg",
+    imageAlt: "Simple veggie & tofu stir-fry",
   },
   {
-    "name": "Roasted razor clams",
-    "subName": "Red chillies, garlic & rosemary",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Try something a bit different – these roasted razor clams are actually super easy and will be on the table in 15 minutes. An extraordinary little starter to wow your guests.",
-    "description": "“Be sure to wash these beforehand, or just leave them in a bucket of water for a few hours to get rid of any sand. Don’t eat the little black bit inside, which is the clam’s stomach – it can be a bit gritty. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Roasted razor clams",
+    subName: "Red chillies, garlic & rosemary",
+    specialDiets: ["Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Try something a bit different – these roasted razor clams are actually super easy and will be on the table in 15 minutes. An extraordinary little starter to wow your guests.",
+    description:
+      "“Be sure to wash these beforehand, or just leave them in a bucket of water for a few hours to get rid of any sand. Don’t eat the little black bit inside, which is the clam’s stomach – it can be a bit gritty. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Seafood",
       "Starters",
       "Quick fixes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg razor clams, from sustainable sources",
       "2 fresh red chillies",
       "3 cloves of garlic",
       "3 sprigs of fresh rosemary",
       "olive oil",
-      "1-2 lemons"
+      "1-2 lemons",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to full whack.",
       "Rinse your clams under cold running water and pull off any seaweed. Make sure the shells are all tightly closed. Spread out in a roasting tray.",
       "Slice the chillies and unpeeled garlic lengthways, then scatter over the clams. Pick over the rosemary leaves, then drizzle everything with olive oil and pop in the oven.",
       "Roast for 5 to 6 minutes, or until the shells start to open.",
       "Turn the tray around to make sure the clams cook evenly, then return to the oven until all the clams are open.",
       "Remove them from the oven and squeeze over the juice from half a lemon. Using tongs, lift the clams onto a serving dish and spoon any tray juices over the top.",
-      "Drizzle with extra virgin olive oil and serve with crusty bread. Cut the remaining lemons into wedges and serve on the side for squeezing over."
+      "Drizzle with extra virgin olive oil and serve with crusty bread. Cut the remaining lemons into wedges and serve on the side for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5Jx-vNU-KLWBcU6GmsctA4.jpg",
-    "imageAlt": "Roasted razor clams"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5Jx-vNU-KLWBcU6GmsctA4.jpg",
+    imageAlt: "Roasted razor clams",
   },
   {
-    "name": "Poached chicken",
-    "subName": "with tarragon, parsley & bay",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Get gorgeously tender poached chicken with this super-easy recipe that's dairy-free and gluten-free. Plus you make an epic chicken stock to use for amazing gravy another day!",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 55 minutes"
+    name: "Poached chicken",
+    subName: "with tarragon, parsley & bay",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Get gorgeously tender poached chicken with this super-easy recipe that's dairy-free and gluten-free. Plus you make an epic chicken stock to use for amazing gravy another day!",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 55 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Chicken",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Chicken", "One-pan recipes"],
+    ingredients: [
       "2 large onions",
       "1-2 leeks",
       "4 celery stalks",
@@ -2049,44 +1993,47 @@
       "3-4 fresh bay leaves",
       "3 sprigs of fresh tarragon",
       "1 large bunch of fresh parsley (or just stalks if you’re using leaves for something else)",
-      "1 teaspoon whole black peppercorns"
+      "1 teaspoon whole black peppercorns",
     ],
-    "instructions": [
+    instructions: [
       "Peel and halve the onions, then chop the leeks, celery and carrots into large chunks. Halve the garlic bulb around the equator.",
       "Put all the ingredients in a large pan with a pinch of sea salt, then cover with cold water.",
       "Place on the hob over a medium heat and bring just to the boil. Reduce the heat to a low simmer, skimming off any scum that rises to the top.",
       "Simmer gently for about 1 hour, or until the juices run clear when you pierce the meat.",
       "Remove the bird from the pan and bubble the poaching liquid for 40 minutes, or until reduced by about one-third (to add more flavour, you could strip the meat from the chicken and return the bones to the stock, too).",
-      "Sieve the stock, then store in the fridge for up to 1 week."
+      "Sieve the stock, then store in the fridge for up to 1 week.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/2Tm-PNMLa3RBevgZGeqUGM.jpg",
-    "imageAlt": "Poached chicken"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/2Tm-PNMLa3RBevgZGeqUGM.jpg",
+    imageAlt: "Poached chicken",
   },
   {
-    "name": "Roasted salmon & veg traybake",
-    "subName": "With basil & mustard yoghurt ",
-    "specialDiets": [],
-    "metaDescription": "A beautiful salmon traybake recipe – a beautiful seasonal favourite that all comes together in one tray. ",
-    "description": "“Wonderfully simple to knock together, this is the kind of dish you can make from memory again and again. The clean, light flavours are a joy to eat, and the basil & mustard yoghurt adds an extra punch of delicious flavour. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Roasted salmon & veg traybake",
+    subName: "With basil & mustard yoghurt ",
+    specialDiets: [],
+    metaDescription:
+      "A beautiful salmon traybake recipe – a beautiful seasonal favourite that all comes together in one tray. ",
+    description:
+      "“Wonderfully simple to knock together, this is the kind of dish you can make from memory again and again. The clean, light flavours are a joy to eat, and the basil & mustard yoghurt adds an extra punch of delicious flavour. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Easter treats",
       "Dinner Party",
       "Potato",
       "Tomato",
       "Salmon",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g baby potatoes",
       "200 g green beans",
       "1 bunch of fresh basil",
@@ -2098,9 +2045,9 @@
       "½ a small clove of garlic",
       "½ teaspoon Dijon mustard",
       "4 tablespoons Greek yoghurt",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Scrub the potatoes clean, halving any larger ones, then cook in a pan of boiling salted water over a medium-high heat for 10 to 12 minutes, or until cooked through.",
       "Trim the green beans and add to the pan for the final 2 minutes. Pick the basil leaves.",
@@ -2109,38 +2056,37 @@
       "Place the salmon fillets into the bowl, add ½ a tablespoon of olive oil, and squeeze in the juice of ½ a lemon. Season lightly and toss to coat.",
       "Lay the salmon fillets on top of the vegetables, skin-side up. Slice off 4 rounds of lemon and lay on top of the fillets, then roast for 10 minutes, or until cooked through.",
       "To make the basil & mustard yoghurt, bash the remaining basil leaves in a pestle and mortar with a pinch of sea salt. Peel and add the garlic and bash again.",
-      "Scrape the mixture into a bowl and add the mustard, 4 tablespoons of Greek yoghurt and the remaining lemon juice. Add 1 tablespoon of extra virgin olive oil, mix well, season to taste and serve with the salmon traybake."
+      "Scrape the mixture into a bowl and add the mustard, 4 tablespoons of Greek yoghurt and the remaining lemon juice. Add 1 tablespoon of extra virgin olive oil, mix well, season to taste and serve with the salmon traybake.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46210896.jpg",
-    "imageAlt": "Roasted salmon & veg traybake"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46210896.jpg",
+    imageAlt: "Roasted salmon & veg traybake",
   },
   {
-    "name": "Slow-cooked pigeon",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Delicious game recipe for slow-cooked pigeon that takes four hours to cook until it falls off the bone",
-    "description": "“This is one of Luis Gallego’s favourite pigeon recipes. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "4 hours 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "4 hours 20 minutes"
+    name: "Slow-cooked pigeon",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Delicious game recipe for slow-cooked pigeon that takes four hours to cook until it falls off the bone",
+    description: "“This is one of Luis Gallego’s favourite pigeon recipes. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "4 hours 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "4 hours 20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Game",
       "Mains",
       "One-pan recipes",
       "Stew",
-      "Slow-cooker"
+      "Slow-cooker",
     ],
-    "ingredients": [
+    ingredients: [
       "2 small onions",
       "2 carrots",
       "2 cloves of garlic",
@@ -2149,46 +2095,44 @@
       "8 tablespoons olive oil",
       "2 tablespoons plain flour",
       "250 ml dry white wine",
-      "750 ml organic chicken stock"
+      "750 ml organic chicken stock",
     ],
-    "instructions": [
+    instructions: [
       "Peel and chop the onions, carrots and garlic, halve the pigeons, then pick and finely chop the parsley.",
       "Heat the oil in a casserole dish over a medium heat, then sauté the onion, carrot and garlic until softened. Add the pigeon and brown for 3 to 5 minutes. Sprinkle the flour in and stir well.",
       "Add the wine and stock, season generously, then increase the heat and bring to the boil. Lower the heat, stir in the parsley, then simmer with the lid on for 4 hours. Check on it now and again, adding an extra splash of water, if needed.",
-      "When the pigeon is nearly ready, use a fork to shred the meat off the bone – it should fall off easily. Serve with potatoes or crusty bread – be careful of the bones!"
+      "When the pigeon is nearly ready, use a fork to shred the meat off the bone – it should fall off easily. Serve with potatoes or crusty bread – be careful of the bones!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AgT0WQLh4syAz0Xg6PfhUX.jpg",
-    "imageAlt": "Slow-cooked pigeon"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AgT0WQLh4syAz0Xg6PfhUX.jpg",
+    imageAlt: "Slow-cooked pigeon",
   },
   {
-    "name": "Thai-inspired vegetable broth",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Vegan"
-    ],
-    "metaDescription": "Try this Asian vegetable broth from Jamie Oliver; perfect for the whole family, enjoy a beautiful hearty broth which is quick, easy and truly delicious.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Thai-inspired vegetable broth",
+    subName: "",
+    specialDiets: ["Vegetarian", "Dairy-free", "Vegan"],
+    metaDescription:
+      "Try this Asian vegetable broth from Jamie Oliver; perfect for the whole family, enjoy a beautiful hearty broth which is quick, easy and truly delicious.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Gorgeous Winter Soups",
       "Asian",
       "Light meals",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "3 cloves of garlic",
       "5cm piece of ginger",
       "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
@@ -2201,136 +2145,130 @@
       "1 teaspoon fish sauce , (optional)",
       "1 teaspooon soy sauce",
       "1 small punnet shiso cress",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.",
       "Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.",
       "Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.",
       "A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.",
-      "Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime."
+      "Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262269.jpg",
-    "imageAlt": "Thai-inspired vegetable broth"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262269.jpg",
+    imageAlt: "Thai-inspired vegetable broth",
   },
   {
-    "name": "Radish pickle",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This pickled radish recipe from Jamie Oliver makes a perfect jar in pretty colours, a great way of preserving the delicate flavour and crunch of radishes. ",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Radish pickle",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This pickled radish recipe from Jamie Oliver makes a perfect jar in pretty colours, a great way of preserving the delicate flavour and crunch of radishes. ",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "One-pan recipes",
       "Quick fixes",
       "Sides",
-      "Store cupboard recipes"
+      "Store cupboard recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 bunch of radishes",
       "2 tablespoons red wine vinegar",
-      "2 tablespoons caster sugar"
+      "2 tablespoons caster sugar",
     ],
-    "instructions": [
+    instructions: [
       "Trim and finely slice the radishes.",
       "In a bowl mix together the vinegar and sugar.",
-      "Add the radishes and toss together, with a pinch of sea salt, leaving to marinate for 10 to 15 minutes."
+      "Add the radishes and toss together, with a pinch of sea salt, leaving to marinate for 10 to 15 minutes.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Fg6UsL1m4Y-BpO4yfiWqdH.jpg",
-    "imageAlt": "Radish pickle"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Fg6UsL1m4Y-BpO4yfiWqdH.jpg",
+    imageAlt: "Radish pickle",
   },
   {
-    "name": "Potato & chorizo breakfast hash",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Potato & chorizo breakfast hash",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This tasty chorizo & potato hash recipe from Jamie Oliver is a great way to use up leftovers, and a really brilliant weekend brunch dish. Good for a crowd!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Father's day",
       "Christmas",
       "Sausage",
-      "Chorizo"
+      "Chorizo",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "1 clove of garlic",
       "120 g quality chorizo",
       "2-3 cooked potatoes",
       "1/2 bunch of fresh flat-leaf parsley",
       "olive oil",
-      "2 large free-range eggs"
+      "2 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Peel and finely chop the onion and garlic, chop the chorizo, dice up the cooked potato and pick and finely chop the parsley.",
       "Gently fry the onion and garlic in a little oil in an ovenproof pan until the onion is soft. Add the chorizo and fry for 2 to 3 minutes.",
       "Add the potatoes and cook for 5 minutes more, then crack the eggs on top.",
       "Transfer the pan to the preheated oven and bake for 8 minutes, or until the egg white is set but the yolk is still runny.",
-      "Sprinkle with sea salt, black pepper and the parsley, to serve."
+      "Sprinkle with sea salt, black pepper and the parsley, to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
-    "imageAlt": "Potato & chorizo breakfast hash"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EuyL8O4m4mdAjhZHE3zAVH.jpg",
+    imageAlt: "Potato & chorizo breakfast hash",
   },
   {
-    "name": "Green dream noodles",
-    "subName": "Miso, rice noodles & fresh greens",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "A quick vegetarian noodle recipe for evenings where you need dinner on the table fast! This flavour-packed solo supper provides maximum flavour with minimum fuss.",
-    "description": "“This solo supper is proper soul food. Light, nutritious and filling. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Green dream noodles",
+    subName: "Miso, rice noodles & fresh greens",
+    specialDiets: ["Vegetarian", "Dairy-free", "Gluten-free"],
+    metaDescription:
+      "A quick vegetarian noodle recipe for evenings where you need dinner on the table fast! This flavour-packed solo supper provides maximum flavour with minimum fuss.",
+    description:
+      "“This solo supper is proper soul food. Light, nutritious and filling. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Healthy lunch ideas",
       "Healthy vegetarian recipes",
       "Healthy meals",
-      "Healthy soup recipes"
+      "Healthy soup recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small handful of sugar snap peas",
       "1 handful of button mushrooms",
       "1 clove of garlic",
@@ -2339,44 +2277,43 @@
       "1 small handful of broccoli",
       "1 large handful of baby spinach",
       "100 g rice noodles",
-      "a few sprigs of fresh coriander"
+      "a few sprigs of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Halve the sugar snaps and button mushrooms, peel and finely slice the garlic, and peel and finely grate the ginger.",
       "Dilute the miso in a pan as per packet instructions. Bring to a simmer and add the broccoli, sugar snaps and mushrooms, and cook until the broccoli has softened.",
-      "Add the spinach, garlic, ginger and noodles until the noodles soften, then pick over the coriander leaves."
+      "Add the spinach, garlic, ginger and noodles until the noodles soften, then pick over the coriander leaves.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262913.jpg",
-    "imageAlt": "Green dream noodles"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262913.jpg",
+    imageAlt: "Green dream noodles",
   },
   {
-    "name": "Charred avo & eggs",
-    "subName": "Sweet potato, spring onion & red pepper",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Super-tasty and easy to knock together, this healthy egg breakfast, brunch or lunch is a real winner. Sure to become a weekend favourite - enjoy!",
-    "description": "“Super-tasty and easy to knock together, this healthy egg brekkie is a real winner. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Charred avo & eggs",
+    subName: "Sweet potato, spring onion & red pepper",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Super-tasty and easy to knock together, this healthy egg breakfast, brunch or lunch is a real winner. Sure to become a weekend favourite - enjoy!",
+    description:
+      "“Super-tasty and easy to knock together, this healthy egg brekkie is a real winner. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Fruit",
       "Breakfast",
       "Potato",
-      "Sweet potato"
+      "Sweet potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 red pepper",
       "4 spring onions",
       "½ a ripe avocado",
@@ -2385,48 +2322,47 @@
       "2 large free-range eggs",
       "2 tablespoons cottage cheese",
       "½ a fresh red chilli",
-      "a few sprigs of fresh soft herbs, such as parsley, mint, coriander"
+      "a few sprigs of fresh soft herbs, such as parsley, mint, coriander",
     ],
-    "instructions": [
+    instructions: [
       "Halve and deseed the pepper, then slice into fine strips. Trim and finely slice the spring onions, then destone, peel and chop the avocado.",
       "Heat 1 tablespoon of oil in a medium frying pan over a medium-high heat, add the spring onions, avocado and pepper and fry for 3 to 4 minutes, or until lightly charred.",
       "Using a speed-peeler, peel the skin from the sweet potato, then continue peeling into fine ribbons. Add to the pan, tossing with the charred veg, and fry for 3 minutes, or until the sweet potato ribbons start to char.",
       "Spread the veg evenly in the pan, then use the back of a spoon to push and dig out two pockets. Crack an egg into each one, then tilt the pan so the whites run into the veg and bind everything together.",
       "Season with sea salt and black pepper, cover with a lid or tin foil, then reduce the heat to medium–low and let the eggs cook for 3 to 5 minutes, depending on how runny you like your yolks.",
       "Meanwhile, deseed and finely chop the chilli, and pick and roughly chop the herbs.",
-      "Spoon the mixture onto a plate, dollop with cottage cheese and sprinkle over the chilli and herbs, then tuck in!"
+      "Spoon the mixture onto a plate, dollop with cottage cheese and sprinkle over the chilli and herbs, then tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46259052.jpg",
-    "imageAlt": "Charred avo & eggs"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46259052.jpg",
+    imageAlt: "Charred avo & eggs",
   },
   {
-    "name": "One-pan huevos rancheros",
-    "subName": "Tomatoes, potatoes & smoky paprika",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "A brilliant one-pan brunch dish from Jamie Oliver. This quick and easy brunch recipe combines the epic combo of spicy chorizo, eggs and crispy potatoes.",
-    "description": "“For a show-stopping brunch, this paprika-spiked feast is hard to beat. Serve it in the middle of the table with some crusty bread, and let everyone dig in and help themselves. What could be better? ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "One-pan huevos rancheros",
+    subName: "Tomatoes, potatoes & smoky paprika",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "A brilliant one-pan brunch dish from Jamie Oliver. This quick and easy brunch recipe combines the epic combo of spicy chorizo, eggs and crispy potatoes.",
+    description:
+      "“For a show-stopping brunch, this paprika-spiked feast is hard to beat. Serve it in the middle of the table with some crusty bread, and let everyone dig in and help themselves. What could be better? ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Eggs",
       "Potato",
       "Chorizo",
       "Tomato",
       "One-pan recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "a few sprigs of fresh flat-leaf parsley",
       "1 red pepper",
@@ -2436,9 +2372,9 @@
       "olive oil",
       "75 g higher-welfare chorizo",
       "½ teaspoon sweet smoked paprika",
-      "4 large free-range eggs"
+      "4 large free-range eggs",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the garlic, pick and roughly chop the parsley leaves and finely chop the stalks, deseed and finely slice the peppers. Roughly chop the tomatoes.",
       "Halve any larger potatoes, then cook in a pan of boiling salted water for 15 minutes, or until tender. Drain and leave aside to cool.",
       "Heat a drizzle of oil in a large non-stick frying pan on a medium heat, roughly chop the chorizo into 1cm pieces, then add to the pan and fry for 3 to 4 minutes, or until golden.",
@@ -2447,36 +2383,37 @@
       "Squash the potatoes slightly and add to the pan. Turn the heat back up and fry for a few more minutes, stirring.",
       "Add the tomatoes and continue cooking for 5 minutes, or until the tomatoes have cooked down slightly.",
       "Make 4 wells in the pan, then carefully crack in the eggs. Cook for a couple of minutes, then pop the pan under the grill for 2 to 3 minutes, or until cooked to your liking – keep an eye on it.",
-      "Season to taste with sea salt and black pepper, sprinkle over the parsley leaves, then serve straight away."
+      "Season to taste with sea salt and black pepper, sprinkle over the parsley leaves, then serve straight away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46176130.jpg",
-    "imageAlt": "One-pan huevos rancheros"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46176130.jpg",
+    imageAlt: "One-pan huevos rancheros",
   },
   {
-    "name": "Irish stew",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This Irish stew combines lamb, crispy potatoes, barley and herbs to make a banging stew. Just what you need to celebrate St Patrick's Day.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 55 minutes"
+    name: "Irish stew",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This Irish stew combines lamb, crispy potatoes, barley and herbs to make a banging stew. Just what you need to celebrate St Patrick's Day.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Mains",
       "One-pan recipes",
       "Stew",
       "Potato",
-      "Winter warmers"
+      "Winter warmers",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g butter",
       "8 lamb chump chops",
       "3 onions",
@@ -2484,9 +2421,9 @@
       "2 large potatoes",
       "6 sprigs of fresh thyme",
       "3 fresh bay leaves",
-      "150 g pearl barley"
+      "150 g pearl barley",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Heat the butter in a large frying pan over a medium heat and brown the lamb chops, then remove to a plate.",
       "Peel and finely slice the onions and carrots, then add to the pan and soften for 5 minutes. Transfer to a bowl.",
@@ -2494,35 +2431,38 @@
       "Peel and slice the potato, then spread half in a layer in a large casserole dish and season well.",
       "Add a layer of onion and carrot, the lamb chops, thyme and bay leaves, then season again.",
       "Add the remaining onion and carrot and sprinkle the pearl barley on top. Layer over the remaining potato, the deglazed liquid and 500ml of water.",
-      "Cover and bake for 1 hour 30 minutes, or until the meat is tender and the potato starts to crisp up, then serve."
+      "Cover and bake for 1 hour 30 minutes, or until the meat is tender and the potato starts to crisp up, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CLrw7sbIadHA4H2Op8t1zN.jpg",
-    "imageAlt": "Irish stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CLrw7sbIadHA4H2Op8t1zN.jpg",
+    imageAlt: "Irish stew",
   },
   {
-    "name": "Chicken noodle soup",
-    "subName": "Dry sherry, saffron & sweet ginger vinegar",
-    "specialDiets": [],
-    "metaDescription": "Fancy a big bowl of comforting broth? This chicken noodle soup recipe is packed full of veg, and spiked with saffron and sweet ginger vinegar to make it more luxurious. ",
-    "description": "“One of everyone’s favourite comfort foods. As long as you’ve got a decent chicken, you can't really go wrong. Try adding seasonal veg and enhancing the stock with slightly more luxurious ingredients, such as saffron or sweet ginger vinegar. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 40 minutes"
+    name: "Chicken noodle soup",
+    subName: "Dry sherry, saffron & sweet ginger vinegar",
+    specialDiets: [],
+    metaDescription:
+      "Fancy a big bowl of comforting broth? This chicken noodle soup recipe is packed full of veg, and spiked with saffron and sweet ginger vinegar to make it more luxurious. ",
+    description:
+      "“One of everyone’s favourite comfort foods. As long as you’ve got a decent chicken, you can't really go wrong. Try adding seasonal veg and enhancing the stock with slightly more luxurious ingredients, such as saffron or sweet ginger vinegar. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "One-pan recipes",
       "Mains",
-      "Winter warmers"
+      "Winter warmers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 celery heart",
       "200 g small carrots",
       "100 g baby leeks",
@@ -2535,132 +2475,124 @@
       "dry sherry",
       "1 pinch of saffron",
       "sweet ginger vinegar , optional",
-      "300 g mixed fine pasta shapes"
+      "300 g mixed fine pasta shapes",
     ],
-    "instructions": [
+    instructions: [
       "Roughly chop the celery heart, peel and trim the carrots and trim the leeks. Peel the garlic, onions and ginger, keeping them whole.",
       "Place into a very large saucepan with the chicken, bay leaves and parsley stalks. Season well with sea salt and black pepper and add enough water to just cover the chicken (about 3 litres).",
       "Bring to the boil, then turn the heat down and simmer for 1 hour.",
       "Remove everything from the pan, leaving only the stock. Throw away the herbs and ginger and once it’s cool enough to touch, shred the chicken.",
       "Bring the stock back to the boil and add a good splash of sherry, the saffron and a splash of ginger vinegar (if using).",
       "Add the pasta and continue to boil until the pasta is al dente.",
-      "Return the chicken and vegetables to the pan and simmer over low heat until they are warmed through."
+      "Return the chicken and vegetables to the pan and simmer over low heat until they are warmed through.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257894.jpg",
-    "imageAlt": "Chicken noodle soup"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257894.jpg",
+    imageAlt: "Chicken noodle soup",
   },
   {
-    "name": "Easy tomato chutney",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian",
-      "Vegan"
-    ],
-    "metaDescription": "Discover this easy tomato chutney recipe, the perfect way to complement a piece of hard cheese; try this recipe today and preserve the taste of summer.",
-    "description": "",
-    "servings": "Serves Makes 1 large jar",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Easy tomato chutney",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian", "Vegan"],
+    metaDescription:
+      "Discover this easy tomato chutney recipe, the perfect way to complement a piece of hard cheese; try this recipe today and preserve the taste of summer.",
+    description: "",
+    servings: "Serves Makes 1 large jar",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Tomato",
       "One-pan recipes",
-      "Sauces & condiments"
+      "Sauces & condiments",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g red onions",
       "500 g mixed-colour tomatoes",
       "1 fresh red chilli",
       "75 ml red wine vinegar",
-      "140 g brown sugar"
+      "140 g brown sugar",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the onions, roughly chop the tomatoes and deseed and finely slice the chilli.",
-      "Put everything in a pan, season to taste and stir well to combine. Simmer for 30 to 40 minutes or until jammy. Pour into a sterilised jar and leave to cool. Keeps for up to 4 weeks in the fridge. Perfect on toast with a chunk of cheddar."
+      "Put everything in a pan, season to taste and stir well to combine. Simmer for 30 to 40 minutes or until jammy. Pour into a sterilised jar and leave to cool. Keeps for up to 4 weeks in the fridge. Perfect on toast with a chunk of cheddar.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/DQp8Pf7d43_BBMKgqOTB4O.jpg",
-    "imageAlt": "Easy tomato chutney"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/DQp8Pf7d43_BBMKgqOTB4O.jpg",
+    imageAlt: "Easy tomato chutney",
   },
   {
-    "name": "Trout with ham and cider",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "An alternative trout recipe, this one uses ham and cider to make the flavour of the fish sing. Ready in 20 minutes, you have to give this a go. ",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Trout with ham and cider",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "An alternative trout recipe, this one uses ham and cider to make the flavour of the fish sing. Ready in 20 minutes, you have to give this a go. ",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Jamie Magazine",
-      "Mains",
-      "Quick fixes",
-      "One-pan recipes",
-      "Pork"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Jamie Magazine", "Mains", "Quick fixes", "One-pan recipes", "Pork"],
+    ingredients: [
       "2 whole trout , from sustainable sources",
       "1 thick slice of ham",
       "a few sprigs of fresh parsley",
       "plain flour , for dusting",
       "1 knob of unsalted butter",
       "1 tablespoon olive oil",
-      "1 wineglass of dry cider"
+      "1 wineglass of dry cider",
     ],
-    "instructions": [
+    instructions: [
       "Season the trout. Julienne the ham, pick and finely chop the parsley leaves, then place half into the trout cavities.",
       "Carefully roll the trout in flour.",
       "Over a medium heat, melt the butter and oil in a frying pan that fits both fish. Fry the trout for 5 minutes on each side, or until cooked and golden on the outside.",
       "Add the cider and cook for 2 minutes, till bubbling and reducing.",
-      "Scatter over remaining ham and parsley. Place on plates and drizzle with sauce left in the pan to serve."
+      "Scatter over remaining ham and parsley. Place on plates and drizzle with sauce left in the pan to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/FqZTrPAe4krAKJyf7kPgiu.jpg",
-    "imageAlt": "Trout with ham and cider"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/FqZTrPAe4krAKJyf7kPgiu.jpg",
+    imageAlt: "Trout with ham and cider",
   },
   {
-    "name": "Celeriac boulangère",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try this unusual twist on the classic boulangere recipe from Jamie Oliver made with celeriac in place of the normal potato for delicious flavour.",
-    "description": "",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 5 minutes to 2 hours 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 5 minutes to 2 hours 10 minutes"
+    name: "Celeriac boulangère",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try this unusual twist on the classic boulangere recipe from Jamie Oliver made with celeriac in place of the normal potato for delicious flavour.",
+    description: "",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "2 hours 5 minutes to 2 hours 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 5 minutes to 2 hours 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Sunday lunch",
       "Sides",
       "One-pan recipes",
-      "Vegetable sides"
+      "Vegetable sides",
     ],
-    "ingredients": [
+    ingredients: [
       "1 handful of herbs, such as fresh thyme, rosemary, sage",
       "2 onions",
       "500 g potatoes",
@@ -2669,47 +2601,46 @@
       "1 clove of garlic",
       "400 ml organic vegetable stock",
       "50 g unsalted butter",
-      "stale breadcrumbs"
+      "stale breadcrumbs",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Pick and finely chop the herbs, then peel and thinly slice the onions, potatoes and celeriac.",
       "Heat the oil in a frying pan and sauté the onions with most of the herbs until soft.",
       "Cut the garlic in half and rub over a baking dish, then layer the potatoes in a dish with the onions and celeriac and season well.",
       "Pour over the vegetable stock and top with knobs of butter, then cover with tin foil and bake for 45 minutes.",
       "Mix the breadcrumbs with the rest of the herbs and a drizzle of oil.",
-      "After 45 minutes, remove the foil, sprinkle over the breadcrumbs and bake for a further 15 to 20 minutes, or until golden."
+      "After 45 minutes, remove the foil, sprinkle over the breadcrumbs and bake for a further 15 to 20 minutes, or until golden.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260814.jpg",
-    "imageAlt": "Celeriac boulangère"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260814.jpg",
+    imageAlt: "Celeriac boulangère",
   },
   {
-    "name": "Whole roasted ricotta with honeyed figs",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Try this roasted ricotta recipe, served with honeyed figs, garlicy toast and plenty of fresh herbs, as a delicious sharing starter with friends or family.",
-    "description": "",
-    "servings": "8 as a canapé",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Whole roasted ricotta with honeyed figs",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Try this roasted ricotta recipe, served with honeyed figs, garlicy toast and plenty of fresh herbs, as a delicious sharing starter with friends or family.",
+    description: "",
+    servings: "8 as a canapé",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Christmas",
       "Dinner Party",
       "Fruit",
       "Starters",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "a few fresh bay leaves",
       "½ a bunch of fresh oregano",
       "8 figs",
@@ -2720,44 +2651,47 @@
       "ciabatta",
       "a few garlic cloves",
       "a large handful of rocket",
-      "a few sprigs of fresh mint"
+      "a few sprigs of fresh mint",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Place the bay in a roasting tray, pick over the oregano and sit the ricotta on top. Season generously.",
       "Halve and scatter the figs around the cheese, finely grate over the orange zest then drizzle everything with oil and honey.",
       "Rub the flavours into the cheese with your hands, then scatter over the remaining oregano, then roast for 30 to 35 minutes, or until golden and firm.",
       "Slice up the ciabatta, then peel and halve the garlic cloves. Preheat a griddle pan and griddle thin slices of ciabatta. Rub the toast with the cut side of the garlic. Drizzle with oil and leave to one side.",
-      "Serve the roasted ricotta on a board with a stack of toast, the sticky figs and some rocket and picked fresh mint on the side."
+      "Serve the roasted ricotta on a board with a stack of toast, the sticky figs and some rocket and picked fresh mint on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/1A5o1jPjadfAyN8mrnLkj-.jpg",
-    "imageAlt": "Whole roasted ricotta with honeyed figs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/1A5o1jPjadfAyN8mrnLkj-.jpg",
+    imageAlt: "Whole roasted ricotta with honeyed figs",
   },
   {
-    "name": "Celeriac & quince soup",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "A hearty warming celeriac and quince soup recipe is available online and uses fresh, seasonal fruit and vegetables to give it a delicious flavour.",
-    "description": "“Anna doesn’t use citrus in her cooking, so for anything that needs a sour flavour element she uses quince instead. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Celeriac & quince soup",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "A hearty warming celeriac and quince soup recipe is available online and uses fresh, seasonal fruit and vegetables to give it a delicious flavour.",
+    description:
+      "“Anna doesn’t use citrus in her cooking, so for anything that needs a sour flavour element she uses quince instead. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Gorgeous Winter Soups",
       "Starters",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large celeriac",
       "1 quince",
       "2 banana shallots",
@@ -2770,46 +2704,46 @@
       "TO SERVE",
       "1 small handful of walnuts",
       "1 tablespoon crème fraîche",
-      "a few sprigs of fresh dill"
+      "a few sprigs of fresh dill",
     ],
-    "instructions": [
+    instructions: [
       "Peel and roughly chop the celeriac, quince, shallots and garlic.",
       "Add a generous lug of oil to a large pan and place over a medium-low heat, then add the chopped veg, along with all the other ingredients, crumbling in the stock cube.",
       "Cook slowly for 20 to 25 minutes, or until the vegetables start to soften, stirring occasionally to make sure nothing catches on the bottom.",
       "When everything is softened, pour in enough boiling water to cover the vegetables by 2cm. Pop the lid on and gently simmer for 20 to 25 minutes, or until the vegetables are cooked through.",
       "Using a stick blender, blitz to the consistency you like.",
-      "Roughly chop the walnuts and toast in a little butter. Top the soup with a swirl of crème fraîche, a little picked dill and a handful of chopped toasted walnuts."
+      "Roughly chop the walnuts and toast in a little butter. Top the soup with a swirl of crème fraîche, a little picked dill and a handful of chopped toasted walnuts.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46416235.jpg",
-    "imageAlt": "Celeriac & quince soup"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46416235.jpg",
+    imageAlt: "Celeriac & quince soup",
   },
   {
-    "name": "Chicken ‘paella’",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A chicken paella recipe is such a great staple. This paella recipe from Jamie magazine is impressive enough for a dinner party, but also easy enough for a weeknight.",
-    "description": "“This paella-style dish is a simple one-pan meal that makes the most of tasty and cheap chicken drumettes. (This is the meaty upper part of a chicken wing – if separating your own wings, keep the tips and use them to make soup or stock.) If you’re feeling flush, add a pinch of saffron to the tomato pureé for a more complex flavour, but it’s still nice and smoky without. ”",
-    "servings": "8 to 10",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Chicken ‘paella’",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A chicken paella recipe is such a great staple. This paella recipe from Jamie magazine is impressive enough for a dinner party, but also easy enough for a weeknight.",
+    description:
+      "“This paella-style dish is a simple one-pan meal that makes the most of tasty and cheap chicken drumettes. (This is the meaty upper part of a chicken wing – if separating your own wings, keep the tips and use them to make soup or stock.) If you’re feeling flush, add a pinch of saffron to the tomato pureé for a more complex flavour, but it’s still nice and smoky without. ”",
+    servings: "8 to 10",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Spanish",
       "Mains",
       "One-pan recipes",
-      "Pasta & risotto"
+      "Pasta & risotto",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g quality chorizo",
       "1 small onion",
       "50 g jarred piquillo peppers",
@@ -2822,9 +2756,9 @@
       "120 ml white wine",
       "750 ml organic chicken stock",
       "200 g frozen peas",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Slice the chorizo, peel and finely dice the onion, and finely dice the peppers. Pick and finely chop the parsley.",
       "Season the drumettes all over with sea salt and black pepper. Place a 30cm ovenproof sauté pan over a medium-high heat, add the oil, then add the chicken drumettes, in batches, and brown well on all sides. Remove the chicken from the pan and set aside.",
@@ -2833,38 +2767,37 @@
       "Add the wine, stir through and bring to the boil. Once the rice has absorbed the wine, add 750ml hot water or stock, then stir in the peas and half the parsley. Arrange all of the chicken drumettes on top of the rice, in a spoke pattern.",
       "Bring the paella back to the boil then transfer to the oven and bake, uncovered, for 30 minutes, or until the rice is nice and tender.",
       "Remove the paella from the oven, cover lightly with foil and leave to rest for about 10 minutes.",
-      "Serve with the rest of the parsley on top and lemon wedges on the side."
+      "Serve with the rest of the parsley on top and lemon wedges on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46261594.jpg",
-    "imageAlt": "Chicken ‘paella’"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46261594.jpg",
+    imageAlt: "Chicken ‘paella’",
   },
   {
-    "name": "Spanish-style prawns with fennel",
-    "subName": "Cherry tomatoes, garlic & white wine",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A colourful tapas dish that makes a great starter too, plus it's dairy-free. Flavoured with fennel, garlic, tomatoes and white wine, this is one super-delicious prawn dish.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Spanish-style prawns with fennel",
+    subName: "Cherry tomatoes, garlic & white wine",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A colourful tapas dish that makes a great starter too, plus it's dairy-free. Flavoured with fennel, garlic, tomatoes and white wine, this is one super-delicious prawn dish.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Seafood",
       "Alfresco",
       "Australia day",
       "Aussie Christmas",
-      "Dinner for two"
+      "Dinner for two",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "1 bulb of fennel",
       "a few sprigs of fresh flat-leaf parsley",
@@ -2872,46 +2805,46 @@
       "750 g ripe cherry tomatoes",
       "1 large wineglass of white wine",
       "10 large raw prawns, from sustainable sources",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the garlic, then trim and slice the fennel. Pick and roughly chop the parsley leaves, and roughly chop the stalks.",
       "Heat a good lug of oil in a saucepan and gently fry the garlic till golden.",
       "Add the fennel and parsley stalks, then reduce the heat to low and sauté for 10 minutes, or until softened but not coloured.",
       "Halve half the tomatoes, leaving the rest whole, then add to the pan with the wine. Bring to the boil, then simmer for 5 to 10 minutes, or until thickened. If it’s too thick, add a splash of water.",
       "Peel the prawns, leaving the tails on, then butterfly them by cutting along the back of each one and opening them out like a book.",
       "Add to the pan and cook for 4 minutes, or until they’re cooked and pink.",
-      "Stir through parsley leaves and season. Serve with lemon wedges and nice bread."
+      "Stir through parsley leaves and season. Serve with lemon wedges and nice bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/FY8QtBSEaAcAmOX_to51ii.jpg",
-    "imageAlt": "Spanish-style prawns with fennel"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/FY8QtBSEaAcAmOX_to51ii.jpg",
+    imageAlt: "Spanish-style prawns with fennel",
   },
   {
-    "name": "Squash & goat’s cheese bruschetta",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": " We've got a lovely twist on the classic tomato bruschetta for you! This recipe uses the classic combo of goat's cheese and squash and makes a fab veggie brunch option, or serve it as a starter.",
-    "description": "",
-    "servings": "8-10",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes plus cooling"
+    name: "Squash & goat’s cheese bruschetta",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      " We've got a lovely twist on the classic tomato bruschetta for you! This recipe uses the classic combo of goat's cheese and squash and makes a fab veggie brunch option, or serve it as a starter.",
+    description: "",
+    servings: "8-10",
+    time: {
+      prep: "",
+      cook: "50 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "One-pan recipes",
       "Starters",
-      "Bread"
+      "Bread",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small butternut squash",
       "6 cloves of garlic",
       "3 sprigs of sage",
@@ -2919,90 +2852,94 @@
       "olive oil",
       "1 small loaf of rye bread",
       "125 g soft goat's cheese",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Halve the squash lengthways, remove the seeds and cut into 8 wedges. Place in a roasting tray.",
       "Smash the garlic and add to the tray, pick in the sage leaves, then add the chilli flakes, a drizzle of olive oil and a pinch of sea salt and black pepper.",
       "Toss the wedges well, spread out evenly and roast for 35 to 40 minutes, or until golden. Remove from the oven and cool.",
       "Slice up the bread and toast on a griddle pan for 1 minute on each side. Remove to a board and spread each slice with the peeled, roasted garlic.",
-      "Scoop the squash flesh into a bowl (discard the skins) and lightly mash with a fork. Spread onto the bread slices and top with the cheese, some sage leaves and a drizzle of extra virgin olive oil."
+      "Scoop the squash flesh into a bowl (discard the skins) and lightly mash with a fork. Spread onto the bread slices and top with the cheese, some sage leaves and a drizzle of extra virgin olive oil.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/ELNOkbvSqQ1B1AQNc3rLcL.jpg",
-    "imageAlt": "Squash & goat’s cheese bruschetta"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/ELNOkbvSqQ1B1AQNc3rLcL.jpg",
+    imageAlt: "Squash & goat’s cheese bruschetta",
   },
   {
-    "name": "World’s most elegant winter pasta",
-    "subName": "Cavolo nero, garlic & extra virgin olive oil",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This colourful pasta dish is a beautiful vegetarian option - cavolo nero or kale and extra virgin olive oil are the stars of the show here. Perfect for a Meat-Free Monday.",
-    "description": "“In this dish, it’s important to use really good olive oil. If you can’t get any, then use the best you have but half the amount shown here. Think of olive oil as a feature ingredient, not just a staple. The better your oil, the better the flavour. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "World’s most elegant winter pasta",
+    subName: "Cavolo nero, garlic & extra virgin olive oil",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This colourful pasta dish is a beautiful vegetarian option - cavolo nero or kale and extra virgin olive oil are the stars of the show here. Perfect for a Meat-Free Monday.",
+    description:
+      "“In this dish, it’s important to use really good olive oil. If you can’t get any, then use the best you have but half the amount shown here. Think of olive oil as a feature ingredient, not just a staple. The better your oil, the better the flavour. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Leek",
       "Mains",
       "One-pan recipes",
       "Quick fixes",
-      "Pasta & risotto"
+      "Pasta & risotto",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large leek",
       "6 cloves of garlic",
       "2 large handfuls of cavolo nero, dark curly kale or savoy cabbage",
       "100 ml extra virgin olive oil",
       "500 g dried pasta , such as penne, linguine or spaghetti",
-      "100 g Parmesan cheese"
+      "100 g Parmesan cheese",
     ],
-    "instructions": [
+    instructions: [
       "Trim, halve and chop the leek into chunks, and peel the garlic.",
       "Put a large pan of salted water on to boil, then drop in the leek and garlic cloves. Cook for 3 minutes, then add your cavolo nero, kale or cabbage. Cook for another 3 to 3½ minutes, but no more! Don’t be tempted.",
       "Using tongs or a slotted spoon, move the veg to a liquidiser – it’s OK if a bit of water comes with it. Add your oil and liquidise until you’ve got a vivid green purée, the same consistency as double cream. If it’s a bit too dry, add a splash of the cooking water. Have a taste, season with sea salt and black pepper, then put aside.",
       "Bring the water back to boil, and cook the pasta according to the packet instructions.",
       "Drain and return the pasta to the pan, add the sauce and allow it to simmer over a medium-low heat for 30 seconds.",
       "As it comes back to the boil, remove from the heat and finely grate in the Parmesan. Be quick, so your pasta doesn’t overcook, then check the balance of cheese, salt and pepper.",
-      "Finely grate over extra Parmesan, then serve on a big platter and eat as soon as possible."
+      "Finely grate over extra Parmesan, then serve on a big platter and eat as soon as possible.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CaIW2UumqP89ZYr1_w6MRF.jpg",
-    "imageAlt": "World’s most elegant winter pasta"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CaIW2UumqP89ZYr1_w6MRF.jpg",
+    imageAlt: "World’s most elegant winter pasta",
   },
   {
-    "name": "Super-speedy steamed salmon",
-    "subName": "With jewelled couscous & yoghurt",
-    "specialDiets": [],
-    "metaDescription": "Looking for a one-pan supper? This speedy steamed salmon with jewelled couscous will be on the table in 30 minutes – and it's a source of omega-3 fatty acids, which helps keep your heart healthy. Winner!",
-    "description": "“This one-pan wonder is a lifesaver when you’re short on time. As well as filling you up, the salmon is a source of omega-3 fatty acids, which helps keep your heart healthy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Super-speedy steamed salmon",
+    subName: "With jewelled couscous & yoghurt",
+    specialDiets: [],
+    metaDescription:
+      "Looking for a one-pan supper? This speedy steamed salmon with jewelled couscous will be on the table in 30 minutes – and it's a source of omega-3 fatty acids, which helps keep your heart healthy. Winner!",
+    description:
+      "“This one-pan wonder is a lifesaver when you’re short on time. As well as filling you up, the salmon is a source of omega-3 fatty acids, which helps keep your heart healthy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Salmon",
       "Couscous",
       "Tomato",
       "Fruit",
       "Mains",
-      "Quick & healthy recipes"
+      "Quick & healthy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 red onions",
       "1 red pepper",
       "1 fresh red chilli",
@@ -3015,9 +2952,9 @@
       "4 x 100 g salmon fillets, skin on, scaled, pin-boned, from sustainable sources",
       "extra virgin olive oil",
       "1 lemon",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Peel the onions, halve and deseed the pepper, then finely chop both. Halve, deseed and finely chop the chilli. Pick the basil leaves and finely chop the stalks.",
       "Heat 1 teaspoon of olive oil in a large, deep frying pan over a medium heat, add the basil stalks and chopped veg and cook gently for 5 minutes, or until the vegetables are soft, stirring occasionally.",
       "Pound the fennel seeds in a pestle and mortar or bash with the base of a pan until fine, then add to the pan with the bay leaf.",
@@ -3028,83 +2965,84 @@
       "Finely grate over the lemon zest and squeeze over the juice.",
       "Cover the pan with a lid or tin foil, and cook on a low heat for 12 to 15 minutes, or until the couscous has fluffed up and the salmon is just cooked.",
       "Top each salmon fillet with 1 tablespoon of yoghurt, drizzle with extra virgin olive oil and season with salt and pepper.",
-      "Roughly tear and scatter over the basil leaves, then place the pan in the middle of the table and enjoy."
+      "Roughly tear and scatter over the basil leaves, then place the pan in the middle of the table and enjoy.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46261856.jpg",
-    "imageAlt": "Super-speedy steamed salmon"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46261856.jpg",
+    imageAlt: "Super-speedy steamed salmon",
   },
   {
-    "name": "Spiced sea bass with caramelised fennel",
-    "subName": "With garlic, chilli & lemon",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Don't be scared of cooking fish – this baked spiced sea bass with caramelised fennel is super easy and on the table within 45 minutes. And the flavours are just beautiful - enjoy!",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Spiced sea bass with caramelised fennel",
+    subName: "With garlic, chilli & lemon",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Don't be scared of cooking fish – this baked spiced sea bass with caramelised fennel is super easy and on the table within 45 minutes. And the flavours are just beautiful - enjoy!",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner for two",
       "Romantic meals",
       "Mains",
       "Sea bass",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "3 bulbs of fennel",
       "40 g butter",
       "olive oil",
       "2 whole seabass , gutted and scaled, from sustainable sources",
       "1 clove of garlic",
       "1 fresh red chilli",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Reserving the tops, cut the fennel into wedges.",
       "Place the butter and a splash of oil in a pan over a low heat, add the fennel and cook for 40 minutes, or until golden and caramelised.",
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Score the fish on each side. Peel and finely chop the garlic, deseed and finely chop the chilli, then rub all over the fish with the lemon zest.",
       "Season with sea salt and black pepper, then slice the lemon into rounds and place 2 to 3 slices inside each fish cavity.",
       "Bake for 20 minutes, or until cooked.",
-      "Serve with the fennel, scattered with the reserved tops."
+      "Serve with the fennel, scattered with the reserved tops.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/ECCkfI1EKFz8UMYOzGaOzA.jpg",
-    "imageAlt": "Spiced sea bass with caramelised fennel"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/ECCkfI1EKFz8UMYOzGaOzA.jpg",
+    imageAlt: "Spiced sea bass with caramelised fennel",
   },
   {
-    "name": "Mussels with Guinness",
-    "subName": "Shallot, bacon & double cream",
-    "specialDiets": [],
-    "metaDescription": "Don't be scared of cooking mussels – follow this super easy recipe and you'll have a gorgeous bowl of mussels with Guiness in just 15 minutes. Amazing! ",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Mussels with Guinness",
+    subName: "Shallot, bacon & double cream",
+    specialDiets: [],
+    metaDescription:
+      "Don't be scared of cooking mussels – follow this super easy recipe and you'll have a gorgeous bowl of mussels with Guiness in just 15 minutes. Amazing! ",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Seafood",
       "Mains",
       "Quick fixes",
       "Stew",
-      "Mussels"
+      "Mussels",
     ],
-    "ingredients": [
+    ingredients: [
       "1 shallot",
       "2 cloves of garlic",
       "2 rashers of higher-welfare smoked bacon",
@@ -3114,43 +3052,45 @@
       "1 fresh bay leaf",
       "1 kg mussels , cleaned and debearded, from sustainable sources",
       "250 ml Guinness",
-      "50 ml double cream"
+      "50 ml double cream",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the shallot and garlic, and finely chop the bacon. Pick and finely chop the parsley and thyme.",
       "In a pan, melt the butter and sweat the shallot, garlic and bacon for 4 to 5 minutes.",
       "Add half the herbs, the bay, and a pinch of sea salt and black pepper.",
       "Next, add the mussels (if any are open, give them a tap; if they don’t close, throw them away), then the Guinness. Boil, then lower the heat, cover and steam for 3 to 5 minutes, or until the mussels have opened (discard any unopened ones).",
-      "Stir in the cream and remaining herbs, adjust the seasoning and serve with bread."
+      "Stir in the cream and remaining herbs, adjust the seasoning and serve with bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AN9P_4gVqYH9QPmxbq6AFS.jpg",
-    "imageAlt": "Mussels with Guinness"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AN9P_4gVqYH9QPmxbq6AFS.jpg",
+    imageAlt: "Mussels with Guinness",
   },
   {
-    "name": "Wild rabbit stew",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Try something a bit different and ask your butcher for a couple of wild rabbits for this delicious stew. A cracking weekend lunch.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Wild rabbit stew",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Try something a bit different and ask your butcher for a couple of wild rabbits for this delicious stew. A cracking weekend lunch.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Jamie Magazine",
       "Game",
       "Sunday lunch",
       "British",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 whole rabbits , wild if possible",
       "2 tablespoons English mustard powder",
       "2 tablespoons plain flour",
@@ -3159,9 +3099,9 @@
       "1 tablespoon butter",
       "a few sprigs of fresh thyme",
       "570 ml pale ale",
-      "½ teaspoon English mustard"
+      "½ teaspoon English mustard",
     ],
-    "instructions": [
+    instructions: [
       "Joint the rabbits (or ask the butcher to do it. If you bought your rabbits from the supermarket, they will probably be pre-jointed, but they’ll also be farmed – tender but not so tasty).",
       "Cut the shoulders and legs off, and cut them in halves at the elbows and knees. Turn each rabbit so its backbone is on the board. Put a knife across the body, below the ribcage, and whack the back of the knife with a rolling pin. If you’ve done it hard enough, you will have cut the rabbit in two.",
       "Do the same thing at the other end to chop the pelvis off. Throw away the rib cages and pelvises. You will be left with a rectangular bit of the rabbit’s back, about 10cm long. Chop that in half, across the spine, giving you 10 pieces from each rabbit.",
@@ -3170,39 +3110,39 @@
       "Melt the butter in a large, shallow sauté pan over a medium heat. Add the rabbit and brown evenly on all sides, adding butter as required.",
       "Add the onions, celery, carrots and thyme, and cook gently until soft and fragrant.",
       "Pour over the ale, topping up with enough water to cover. Simmer gently for about 45 minutes, or until the meat is tender, adding water if the liquid gets low.",
-      "Once cooked, simmer the liquid to thicken, and stir in the mustard before serving with crusty bread and a watercress salad."
+      "Once cooked, simmer the liquid to thicken, and stir in the mustard before serving with crusty bread and a watercress salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5WRn2EKJaJmAM80j1PRMa9.jpg",
-    "imageAlt": "Wild rabbit stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5WRn2EKJaJmAM80j1PRMa9.jpg",
+    imageAlt: "Wild rabbit stew",
   },
   {
-    "name": "Cheesy leeks à la Oliver",
-    "subName": "Garlic, thyme, Parmesan, Cheddar & Brie",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jazz up your side dish offering with this easy cheesy leeks recipe from Jamie Oliver. Sweet leeks in Parmesan, Cheddar and brie, baked to perfection – yum!",
-    "description": "“If you want to take this dish to the next level, invest time in cooking your leeks super-slowly until sticky and sweet. ”",
-    "servings": "12 as a side",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Cheesy leeks à la Oliver",
+    subName: "Garlic, thyme, Parmesan, Cheddar & Brie",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Jazz up your side dish offering with this easy cheesy leeks recipe from Jamie Oliver. Sweet leeks in Parmesan, Cheddar and brie, baked to perfection – yum!",
+    description:
+      "“If you want to take this dish to the next level, invest time in cooking your leeks super-slowly until sticky and sweet. ”",
+    servings: "12 as a side",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Christmas",
       "Thanksgiving",
       "British",
-      "Leek"
+      "Leek",
     ],
-    "ingredients": [
+    ingredients: [
       "6 large leeks",
       "2 cloves of garlic",
       "5 sprigs of fresh thyme",
@@ -3211,9 +3151,9 @@
       "100 ml single cream",
       "100 g Cheddar cheese",
       "50 g Parmesan cheese",
-      "100 g brie"
+      "100 g brie",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Trim, wash and slice the leeks, about 2cm thick, at an angle. Peel and slice the garlic, then pick the thyme leaves.",
       "Put a large casserole-type pan (ideally one you’d be happy to serve in) on a medium heat and add a drizzle of oil, the butter, thyme leaves and garlic.",
@@ -3222,38 +3162,38 @@
       "Turn the heat under the pan down a little and cook the leeks for about 35 minutes, or until soft and intensely gorgeous, stirring every now and then.",
       "Season, then spoon it all into a dish, or leave in the pan.",
       "Stir in the cream and splash of water, grate over the Cheddar and Parmesan, then pull the brie into parts and bomb those on top.",
-      "Pop in the oven for 15 minutes, or until golden and bubbling."
+      "Pop in the oven for 15 minutes, or until golden and bubbling.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260638.jpg",
-    "imageAlt": "Cheesy leeks à la Oliver"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260638.jpg",
+    imageAlt: "Cheesy leeks à la Oliver",
   },
   {
-    "name": "Crusted lamb rack with rhubarb",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A beautiful almond and herb coated rack of lamb recipe with rhubarb gives you a delicious, super easy alternative to your normal Sunday roasts.",
-    "description": "“This almond- and herb-coated lamb gives a twist to your Sunday roast ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Crusted lamb rack with rhubarb",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A beautiful almond and herb coated rack of lamb recipe with rhubarb gives you a delicious, super easy alternative to your normal Sunday roasts.",
+    description:
+      "“This almond- and herb-coated lamb gives a twist to your Sunday roast ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Sunday lunch",
       "Mains",
       "One-pan recipes",
-      "Rhubarb"
+      "Rhubarb",
     ],
-    "ingredients": [
+    ingredients: [
       "750 g rhubarb",
       "6 tablespoons runny honey",
       "olive oil",
@@ -3261,44 +3201,47 @@
       "1 bunch of fresh mixed herbs , such as parsley, mint or chives",
       "1 handful of breadcrumbs",
       "2 racks of lamb",
-      "2 tablespoon Dijon mustard"
+      "2 tablespoon Dijon mustard",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Slice the rhubarb into 5cm pieces and place in a roasting tray. Drizzle over the honey and a good lug of oil, mix well, then spread out evenly over the pan.",
       "Blitz the almonds in a food processor with the herb leaves, then transfer to a bowl. Stir in the breadcrumbs and season.",
       "Using a sharp knife, score the fat on the lamb, rub in the mustard, then pat on the breadcrumb mix.",
       "Place the lamb on the rhubarb, drizzle with oil and cook for 22 to 35 minutes for medium, or a further 5 to 10 minutes for well done.",
-      "Rest for 5 to 10 minutes, then carve into cutlets and serve with the rhubarb."
+      "Rest for 5 to 10 minutes, then carve into cutlets and serve with the rhubarb.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/8nZC6iqSa_F8eDuZ8HEIeA.jpg",
-    "imageAlt": "Crusted lamb rack with rhubarb"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/8nZC6iqSa_F8eDuZ8HEIeA.jpg",
+    imageAlt: "Crusted lamb rack with rhubarb",
   },
   {
-    "name": "Food Allergy Mums' chicken casserole",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "This beautifully easy chicken casserole recipe for kids is gluten-free and dairy-free, so it's a perfect for the whole family! Delicious served with greens.",
-    "description": "“This is a great supper dish that is full of flavour and very easy to make. The sauce creates a delicious broth, which is perfect paired with mashed potato or simply boiled rice. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Food Allergy Mums' chicken casserole",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "This beautifully easy chicken casserole recipe for kids is gluten-free and dairy-free, so it's a perfect for the whole family! Delicious served with greens.",
+    description:
+      "“This is a great supper dish that is full of flavour and very easy to make. The sauce creates a delicious broth, which is perfect paired with mashed potato or simply boiled rice. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Potato",
       "Sweet potato",
       "Chicken thighs",
       "Mushroom",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "2 tablespoons olive oil",
       "4-6 boneless higher-welfare chicken thighs with skin on , (depending on the age and appetite of your children)",
       "100 g higher-welfare bacon lardons or chopped bacon",
@@ -3306,46 +3249,47 @@
       "2 small sweet potatoes , peeled and cut into cubes",
       "16 button mushrooms , cut into quarters",
       "500 ml fresh chicken stock",
-      "3 sprigs of thyme"
+      "3 sprigs of thyme",
     ],
-    "instructions": [
+    instructions: [
       "Heat the oil in a heavy-based pan over a medium to high heat and fry the chicken, skin side down, until it becomes crispy. It will take about 5 minutes to get a lovely golden colour. You may need to cook the chicken in batches if you have a small pan. Use a slotted spoon to remove the chicken pieces and set aside.",
       "Pour away any excess fat and then, in the same pan, cook the bacon lardons and onions for about 5 minutes until they have taken on some colour.",
       "Add the sweet potato and mushrooms and then return the chicken pieces to the pan, placing them on top, skin side up.",
       "Pour over the stock until it just reaches the chicken skin, add the thyme and cover with a lid.",
       "Leave to simmer very gently for about 10–15 minutes until the chicken is cooked through. The cooking time will depend on the size of the chicken pieces so do check by removing a piece of chicken and cutting into it with a sharp knife.",
-      "If you end up having more sauce than you’d like in the pan, simply strain into a clean saucepan, bring to the boil and reduce down and thicken by boiling it."
+      "If you end up having more sauce than you’d like in the pan, simply strain into a clean saucepan, bring to the boil and reduce down and thicken by boiling it.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AwHwFaIGqfj8ZurcqEa1AH.jpg",
-    "imageAlt": "Food Allergy Mums' chicken casserole"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AwHwFaIGqfj8ZurcqEa1AH.jpg",
+    imageAlt: "Food Allergy Mums' chicken casserole",
   },
   {
-    "name": "Potatoes yiachni",
-    "subName": "Onion, garlic, tomatoes & olives",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Make yourself a taste of the Mediterranean – in Greece and Turkey, yiachni refers to vegetables (green beans and potatoes) stewed simply with onions, tomato, garlic, herbs and olive oil. Love it! ",
-    "description": "“In Greece and Turkey, the cooking technique known as yiachni refers to any vegetables (notably green beans and potatoes) stewed simply with onions, tomato, garlic, herbs and lashings of olive oil. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45-55 minutes depending on cooking time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45-55 minutes depending on cooking time"
+    name: "Potatoes yiachni",
+    subName: "Onion, garlic, tomatoes & olives",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Make yourself a taste of the Mediterranean – in Greece and Turkey, yiachni refers to vegetables (green beans and potatoes) stewed simply with onions, tomato, garlic, herbs and olive oil. Love it! ",
+    description:
+      "“In Greece and Turkey, the cooking technique known as yiachni refers to any vegetables (notably green beans and potatoes) stewed simply with onions, tomato, garlic, herbs and lashings of olive oil. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45-55 minutes depending on cooking time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45-55 minutes depending on cooking time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "Greek",
       "Potato",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "3 cloves of garlic",
       "750 g all-rounder potatoes",
@@ -3355,89 +3299,87 @@
       "1 teaspoon dried oregano , plus extra to serve",
       "3 fresh bay leaves",
       "1 tablespoon tomato purée",
-      "feta cheese"
+      "feta cheese",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the onion, peel and finely slice the garlic, and quarter the potatoes. If using fresh, quarter the tomatoes. Destone the olives.",
       "Heat the oil in a large saucepan over a medium heat and sauté the onion, oregano and garlic for 4 to 5 minutes, or until softened. Season generously.",
       "Add the potatoes, tomatoes (breaking them up with a spoon, if using tinned), bay leaves and tomato purée to the pan and stir well. Add enough water to just cover the mixture and then simmer, covered, over a low heat for 20 to 30 minutes.",
       "Remove the lid, add the olives and continue to cook, stirring occasionally, for 10 minutes, or until the sauce has thickened and the potatoes are tender.",
-      "Serve hot or at room temperature with a slab of feta and a sprinkling of oregano and a drizzle of oil, or as a side to grilled poultry."
+      "Serve hot or at room temperature with a slab of feta and a sprinkling of oregano and a drizzle of oil, or as a side to grilled poultry.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7Blf31PEKGT8BuzeuPcQfp.jpg",
-    "imageAlt": "Potatoes yiachni"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7Blf31PEKGT8BuzeuPcQfp.jpg",
+    imageAlt: "Potatoes yiachni",
   },
   {
-    "name": "Warm potato salad with capers & rocket",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan"
-    ],
-    "metaDescription": "Need a barbecue or buffet side? Try this warm potato salad with capers and rocket – so simple but so delicious. It's vegan, gluten-free and dairy-free too, so everyone can enjoy it!",
-    "description": "“This goes well with any grilled meat, but we love it best with sardines. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Warm potato salad with capers & rocket",
+    subName: "",
+    specialDiets: ["Vegetarian", "Dairy-free", "Gluten-free", "Vegan"],
+    metaDescription:
+      "Need a barbecue or buffet side? Try this warm potato salad with capers and rocket – so simple but so delicious. It's vegan, gluten-free and dairy-free too, so everyone can enjoy it!",
+    description:
+      "“This goes well with any grilled meat, but we love it best with sardines. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Alfresco",
       "One-pan recipes",
       "Mains",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "1.5 kg mixed potatoes, such as new, Charlotte, Kipfler",
       "1 small bunch of rocket",
       "8 tablespoons extra virgin olive oil",
       "4 tablespoons red wine vinegar",
-      "2 tablespoons capers"
+      "2 tablespoons capers",
     ],
-    "instructions": [
+    instructions: [
       "Scrub and leave some of the potatoes whole, then peel and cut the rest into equal sizes.",
       "Place the potatoes in a saucepan of salted water. Bring to the boil, then simmer for 20 minutes, or until tender. Drain in a colander and transfer to a large serving bowl.",
-      "While the potatoes are still warm, add the remaining ingredients and season generously with sea salt and freshly ground black pepper. Transfer to plates and serve immediately."
+      "While the potatoes are still warm, add the remaining ingredients and season generously with sea salt and freshly ground black pepper. Transfer to plates and serve immediately.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Fm5vrRt2a-bBhZU0H-zIzy.jpg",
-    "imageAlt": "Warm potato salad with capers & rocket"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Fm5vrRt2a-bBhZU0H-zIzy.jpg",
+    imageAlt: "Warm potato salad with capers & rocket",
   },
   {
-    "name": "Braised spring chicken",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Bring the taste of spring to your table with Jamie's spring chicken recipe; braised whole chicken with spring vegetables and served with spring salsa.",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 55 minutes"
+    name: "Braised spring chicken",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Bring the taste of spring to your table with Jamie's spring chicken recipe; braised whole chicken with spring vegetables and served with spring salsa.",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Sunday lunch",
       "Mains",
       "One-pan recipes",
-      "Stew"
+      "Stew",
     ],
-    "ingredients": [
+    ingredients: [
       "5 shallots",
       "4 cloves of garlic",
       "200 g green beans",
@@ -3452,9 +3394,9 @@
       "1 big bunch of fresh basil",
       "1 bunch of fresh tarragon",
       "1 bunch of fresh flat-leaf parsley",
-      "1 bunch of fresh mint"
+      "1 bunch of fresh mint",
     ],
-    "instructions": [
+    instructions: [
       "Peel the shallots and garlic, then trim the green beans.",
       "Drizzle the chicken with oil and rub in a generous amount of sea salt and black pepper.",
       "Place the chicken in a casserole dish and surround with the shallots, garlic, leeks, fennel and bay.",
@@ -3462,81 +3404,78 @@
       "Add the wine and 400ml water, and bring to a boil over a high heat. Reduce the heat to a simmer and cover. Simmer gently for about 1¼ hours, till the chicken is cooked and tender. Spoon over the broth now and then and check it’s not bubbling too vigorously.",
       "When it’s 10 minutes from being done, check the liquid for seasoning. Add the green beans, then put the lid back on and leave to finish before removing from the heat.",
       "Pick all the herb leaves, discarding the stalks, then place in a food processor. If you can fish out the garlic from the casserole, add that too. Blitz to a paste, then transfer to a small bowl. Stir in a little oil and a few spoonfuls of braising liquid.",
-      "Sit the chicken on a board (discard the skin) and carve into thick slices. Divide the meat between bowls with the vegetables, spoon over some braising liquid and serve with the dressing."
+      "Sit the chicken on a board (discard the skin) and carve into thick slices. Divide the meat between bowls with the vegetables, spoon over some braising liquid and serve with the dressing.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262548.jpg",
-    "imageAlt": "Braised spring chicken"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262548.jpg",
+    imageAlt: "Braised spring chicken",
   },
   {
-    "name": "Omelette aux fines herbes",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "“The original, and best, simple Sunday supper for one. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Omelette aux fines herbes",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription: "Check out more of our recipes!",
+    description: "“The original, and best, simple Sunday supper for one. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "French",
       "Mains",
       "Meals for one",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large free-range eggs , at room temperature",
       "a few sprigs of mixed herbs, such as chives, tarragon, chervil and parsley",
-      "1 large knob of butter"
+      "1 large knob of butter",
     ],
-    "instructions": [
+    instructions: [
       "Break the eggs into a bowl and whisk lightly with a fork. Chop and add the herbs and season with sea salt and black pepper.",
       "Heat the butter in a 23cm non-stick or cast-iron pan over a medium-high heat until foaming.",
       "Once the foam dies down, pour in the egg mixture and gently shake the pan to distribute. Cook for 20 seconds or so, until it begins to bubble, then draw it into the centre with a wooden spoon and shake the pan again to redistribute the uncooked egg.",
       "Cook the omelette until the base is set, but it is still slightly runny in the middle (unless you don’t like that).",
-      "Remove the pan from the heat and fold 2 sides into the middle. Shake the pan so the edges roll together then turn the omelette onto a plate, folding it over in the process. Serve with crusty bread."
+      "Remove the pan from the heat and fold 2 sides into the middle. Shake the pan so the edges roll together then turn the omelette onto a plate, folding it over in the process. Serve with crusty bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CtvjX5FWK6v8CK0HTX8OaM.jpg",
-    "imageAlt": "Omelette aux fines herbes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CtvjX5FWK6v8CK0HTX8OaM.jpg",
+    imageAlt: "Omelette aux fines herbes",
   },
   {
-    "name": "Bertie’s Minervois lapin",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This is a beautiful rabbit recipe, from Jamie's friend Bernie, the sauce is flavoured with Muscat de St Jean de Minervois from which the dish gets its name.",
-    "description": "“Recipe from Bertie Eden, a British winemaker living in France. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Bertie’s Minervois lapin",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This is a beautiful rabbit recipe, from Jamie's friend Bernie, the sauce is flavoured with Muscat de St Jean de Minervois from which the dish gets its name.",
+    description:
+      "“Recipe from Bertie Eden, a British winemaker living in France. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Game",
       "Father's day",
       "Sunday lunch",
       "French",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "1 whole rabbit, gutted and jointed, liver and kidneys reserved",
       "1 onion",
@@ -3547,9 +3486,9 @@
       "4 fresh bay leaves",
       "100 g golden sultanas",
       "750 ml Muscat de St Jean de Minervois, or other sweet wine",
-      "1 tablespoon onion jam , optional"
+      "1 tablespoon onion jam , optional",
     ],
-    "instructions": [
+    instructions: [
       "In a large casserole dish over a medium heat, warm a good drizzle of oil, then brown the rabbit pieces, turning and adding the reserved offal. Remove with a slotted spoon and transfer to a plate.",
       "Peel, slice and add the onion to the casserole and fry until softened, translucent and sticky, adding more oil as necessary.",
       "Peel the garlic and shallots, keeping them whole. Wash, scrub and trim the carrots and baby turnips. If using a medium turnip, roughly chop it too.",
@@ -3557,38 +3496,38 @@
       "Add enough wine to cover, topping up with water as necessary, and the onion jam (if using).",
       "Bring the stew up to a simmer and cook gently for 45 minutes, or until the rabbit is tender and the sauce thickened.",
       "If the sauce isn’t reducing enough, transfer the rabbit and vegetables with a slotted spoon to a plate, turn up the heat and let the sauce bubble vigorously until reduced to your liking. Reduce the heat and return the rabbit and vegetables to the sauce to warm through.",
-      "Serve with rice, ideally the red variety from the Camargue region."
+      "Serve with rice, ideally the red variety from the Camargue region.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260619.jpg",
-    "imageAlt": "Bertie’s Minervois lapin"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260619.jpg",
+    imageAlt: "Bertie’s Minervois lapin",
   },
   {
-    "name": "Prawn & coconut curry",
-    "subName": "Ginger, lemongrass & lime leaves",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Made with juicy king prawns, this curry recipe is a real treat! Using a bit of coconut cream, rather than a lot of coconut milk, gives you the creamy taste, without as much fat. ",
-    "description": "“A little goes a long way here. Using a bit of coconut cream, rather than a lot of coconut milk, gives you the creamy taste, without as much fat. ”",
-    "servings": "3",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Prawn & coconut curry",
+    subName: "Ginger, lemongrass & lime leaves",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Made with juicy king prawns, this curry recipe is a real treat! Using a bit of coconut cream, rather than a lot of coconut milk, gives you the creamy taste, without as much fat. ",
+    description:
+      "“A little goes a long way here. Using a bit of coconut cream, rather than a lot of coconut milk, gives you the creamy taste, without as much fat. ”",
+    servings: "3",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Seafood",
       "Asian",
       "Mains",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "2 cloves of garlic",
       "1-2 fresh red chillies",
@@ -3602,45 +3541,45 @@
       "50 g coconut cream",
       "100 ml organic vegetable stock , optional",
       "Thai fish sauce or other Asian fish sauce",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "Peel the onion and finely slice along with the chillies. Peel and finely chop the garlic and ginger. Discard the outer layer of the lemongrass and finely chop.",
       "Drizzle 1 to 2 teaspoons of oil into a pan and sauté the onion, garlic, chilli, ginger, lemongrass and lime leaves (if using) over a medium heat for 4 to 5 minutes, until soft but not coloured.",
       "Add the prawns, vegetables, coconut cream and stock (or 100ml of water) to the pan. Bring to a gentle simmer and cook for 3 to 5 minutes, or until the prawns are cooked through and the vegetables are tender.",
       "Take the pan off the heat and add a splash of fish sauce and a squeeze of lime juice to taste.",
-      "Serve on a bed of rice (I like to garnish with sliced red chilli and coriander leaves) and lime wedges for squeezing over."
+      "Serve on a bed of rice (I like to garnish with sliced red chilli and coriander leaves) and lime wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260243.jpg",
-    "imageAlt": "Prawn & coconut curry"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260243.jpg",
+    imageAlt: "Prawn & coconut curry",
   },
   {
-    "name": "Lamb boti kabab",
-    "subName": "Fragrant spices, garlic, ginger, lime",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Try this lamb boti kabab recipe from Jamie magazine which marinates the lamb in acidic papaya paste to tenderise the meat for a delicious result. ",
-    "description": "“You can serve these with whatever accompaniments you like, but kachumber is a popular salad to eat with many Indian dishes – a medley of sliced tomato, cucumber and onion, dressed with lemon juice. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes plus marinating",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes plus marinating"
+    name: "Lamb boti kabab",
+    subName: "Fragrant spices, garlic, ginger, lime",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Try this lamb boti kabab recipe from Jamie magazine which marinates the lamb in acidic papaya paste to tenderise the meat for a delicious result. ",
+    description:
+      "“You can serve these with whatever accompaniments you like, but kachumber is a popular salad to eat with many Indian dishes – a medley of sliced tomato, cucumber and onion, dressed with lemon juice. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "25 minutes plus marinating",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes plus marinating",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Alfresco",
       "Indian",
       "Mains",
       "One-pan recipes",
-      "BBQ food"
+      "BBQ food",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg boneless lamb leg",
       "unsalted butter",
       "MARINADE",
@@ -3654,90 +3593,91 @@
       "1 teaspoon garam masala",
       "1 teaspoon red chilli powder",
       "1 pinch of cumin seeds",
-      "1 pinch of ground cumin"
+      "1 pinch of ground cumin",
     ],
-    "instructions": [
+    instructions: [
       "Trim the lamb of fat, then cut into 2.5cm cubes. Prick all over with a fork, then squeeze out any moisture and pat it dry with paper towels.",
       "Peel and finely grate the garlic and ginger, then mix with 1 tablespoon of lime juice, 1 teaspoon of sea salt and the remaining marinade ingredients.",
       "Submerge the lamb chunks in the marinade, ensuring they are covered, then pop in the fridge for at least 8 hours.",
       "When you’re ready to cook, preheat the grill to high. Thread the meat onto skewers, keeping them 2.5cm apart.",
       "Grill the kebabs for 5 minutes, then turn and cook them for another 2 minutes.",
       "Melt the butter, then use it to baste the kebabs and grill for a final 5 minutes.",
-      "Serve straight away. Delicious with a kachumber salad, coriander leaves and lime wedges on the side."
+      "Serve straight away. Delicious with a kachumber salad, coriander leaves and lime wedges on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260648.jpg",
-    "imageAlt": "Lamb boti kabab"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260648.jpg",
+    imageAlt: "Lamb boti kabab",
   },
   {
-    "name": "Runner beans, goat’s cheese & walnuts on sourdough",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Our favourite and simplest goats cheese recipes has to be this dish containing chopped runner beans, goats cheese & walnuts on top of slices of sourdough.",
-    "description": "",
-    "servings": "Serves 2 as a light lunch",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Runner beans, goat’s cheese & walnuts on sourdough",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Our favourite and simplest goats cheese recipes has to be this dish containing chopped runner beans, goats cheese & walnuts on top of slices of sourdough.",
+    description: "",
+    servings: "Serves 2 as a light lunch",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Bread",
       "Alfresco",
       "Light meals",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "150 g runner beans",
       "2 spring onions",
       "1 tablespoon walnuts",
       "olive oil",
       "4 slices sourdough bread",
       "50 g goat's cheese",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Trim and finely slice the beans and spring onions. Lightly toast the walnuts in a dry frying pan, then remove and finely chop.",
       "Heat 1 tablespoon of olive oil to the pan, then add the runner beans and spring onions and fry for 4 minutes, or until tender.",
       "Next, toast the sourdough.",
       "Season the beans and spring onions, then pile onto the toast.",
-      "Crumble the goat's cheese, then scatter over the top along with the walnuts, then finish with a drizzle of extra virgin olive oil."
+      "Crumble the goat's cheese, then scatter over the top along with the walnuts, then finish with a drizzle of extra virgin olive oil.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4dwu7sMM4qtAoURc85Ww-_.jpg",
-    "imageAlt": "Runner beans, goat’s cheese & walnuts on sourdough"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4dwu7sMM4qtAoURc85Ww-_.jpg",
+    imageAlt: "Runner beans, goat’s cheese & walnuts on sourdough",
   },
   {
-    "name": "Kale & Sausage Stew",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "You can't go wrong with the awesome combo of sausage and green kale in this hearty, warming stew. Beautiful!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Kale & Sausage Stew",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "You can't go wrong with the awesome combo of sausage and green kale in this hearty, warming stew. Beautiful!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Bonfire night recipes",
       "Kale",
       "Sausage",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "1 onion",
       "2 cloves of garlic",
@@ -3749,87 +3689,91 @@
       "1½ tablespoons plain flour",
       "1 x 400 g tin chopped tomatoes",
       "500 ml organic vegetable stock",
-      "1 large handful of kale"
+      "1 large handful of kale",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the onion, then add to a pan with 1 tablespoon of oil. Fry for 5 to 7 minutes, or until softened.",
       "Peel, finely slice and add the garlic, then peel 3 strips of zest from the lemon. Add to the pan along with the spices and bay leaf. Cook for 1 to 2 minutes.",
       "Chop the sausages and toss with the flour, then add to the pan and cook until browned all over.",
-      "Pour in the tomatoes and stock, and bring to a simmer. Let it bubble away for 20 minutes, chop and add the kale and cook for 5 minutes, then serve."
+      "Pour in the tomatoes and stock, and bring to a simmer. Let it bubble away for 20 minutes, chop and add the kale and cook for 5 minutes, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/6AOvX2Uy4NhBDQe_XyA4uc.jpg",
-    "imageAlt": "Kale & Sausage Stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/6AOvX2Uy4NhBDQe_XyA4uc.jpg",
+    imageAlt: "Kale & Sausage Stew",
   },
   {
-    "name": "Saltimbocca alla Romana",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Saltimbocca alla Romana is a classic dish thought to have originated from Brescia. Literally meaning 'jump in the mouth', this recipe will get your taste buds going.",
-    "description": "“Saltimbocca is thought to have been invented in Brescia, where the name loosely translates as ‘jump in the mouth’ – so you can be confident that it will taste great and the people you cook it for won’t be able to eat it fast enough. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Saltimbocca alla Romana",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Saltimbocca alla Romana is a classic dish thought to have originated from Brescia. Literally meaning 'jump in the mouth', this recipe will get your taste buds going.",
+    description:
+      "“Saltimbocca is thought to have been invented in Brescia, where the name loosely translates as ‘jump in the mouth’ – so you can be confident that it will taste great and the people you cook it for won’t be able to eat it fast enough. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Italian",
       "Mains",
       "Quick fixes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 x 150 g higher-welfare veal escalopes",
       "8 fresh sage leaves",
       "8 slices of higher-welfare prosciutto",
       "2 tablespoons unsalted butter",
       "olive oil",
       "1 good swig of marsala",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Place the veal escalopes on a chopping board, leaving a little space between them. Cover with clingfilm and, using your fists or a rolling pin, bash them out until they are about 5mm thick, then discard the clingfilm. Season both sides of the flattened veal with a little black pepper (there’s no need for salt as the prosciutto is quite salty). Lay 2 sage leaves flat on each piece of veal, then place 2 pieces of prosciutto on top to cover the meat, and fold over the sides to neaten up.",
       "Heat a frying pan over a medium heat and add 1 tbsp butter and a drizzle of oil. Add 2 escalopes to the pan and fry for about 2 minutes on each side, until golden brown.",
       "When done, remove to a plate and cover with foil to keep warm. Fry the other 2 escalopes in the same way, then remove to the plate, cover with foil and set aside.",
       "Put the pan back on the heat, add the remaining butter and the marsala and simmer for 1 minute until you have a lovely sweet, glossy sauce.",
-      "Serve the saltimbocca with pasta, polenta or boiled or roast potatoes, and cut the lemon into wedges for squeezing over."
+      "Serve the saltimbocca with pasta, polenta or boiled or roast potatoes, and cut the lemon into wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4_RlQAFY41FAwDd9JX0VmJ.jpg",
-    "imageAlt": "Saltimbocca alla Romana"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4_RlQAFY41FAwDd9JX0VmJ.jpg",
+    imageAlt: "Saltimbocca alla Romana",
   },
   {
-    "name": "Chilli con carne with popped kidney beans",
-    "subName": "Sweet smoky paprika, punchy fresh chilli",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "A cracking homemade chilli con carne recipe. this may be the best chilli recipe ever – crispy  kidney beans, fresh herbs and smoky paprika. What a combo!",
-    "description": "“A good, slow-cooked chilli always goes down a storm and is great for feeding a crowd. I’ve also included popped kidney beans for fantastic texture. Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, tacos – it’s your call. ”",
-    "servings": "Serves Makes 10",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 25 minutes"
+    name: "Chilli con carne with popped kidney beans",
+    subName: "Sweet smoky paprika, punchy fresh chilli",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "A cracking homemade chilli con carne recipe. this may be the best chilli recipe ever – crispy  kidney beans, fresh herbs and smoky paprika. What a combo!",
+    description:
+      "“A good, slow-cooked chilli always goes down a storm and is great for feeding a crowd. I’ve also included popped kidney beans for fantastic texture. Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, tacos – it’s your call. ”",
+    servings: "Serves Makes 10",
+    time: {
+      prep: "",
+      cook: "2 hours 25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Bonfire night recipes",
       "Father's day",
       "Mexican",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "2 dried chillies , such as chipotle",
       "2 red onions",
       "4 cloves of garlic",
@@ -3844,9 +3788,9 @@
       "500 g higher-welfare minced beef",
       "4 x 400 g tins of plum tomatoes",
       "3 mixed-colour peppers",
-      "2 x 400 g tins of kidney beans"
+      "2 x 400 g tins of kidney beans",
     ],
-    "instructions": [
+    instructions: [
       "Cover the dried chillies with boiling water and leave to rehydrate.",
       "Peel and finely chop the onions and garlic, pick the coriander leaves, then finely chop the stalks. Deseed and finely slice the fresh chillies.",
       "Drizzle 1 tablespoon of oil into a large pan over a medium heat, add the onions, garlic, coriander stalks and most of the fresh chilli, then cook for 10 minutes, or until the onion is soft but not coloured.",
@@ -3856,38 +3800,38 @@
       "Meanwhile, char the peppers by carefully holding them with tongs over a flame or placing under the grill, turning regularly until blackened all over. Place in a bowl, cover and leave to steam for 5 to 10 minutes.",
       "Discard the blackened skin and seeds from the charred peppers, then slice into strips and add to the chilli.",
       "With 5 minutes to go, toast the cumin seeds in a large non-stick frying pan over a medium heat for 2 minutes. Add a good drizzle of oil, drain and add the beans, then fry until crisp and starting to pop, tossing regularly. Season to taste, then tip into a serving bowl.",
-      "Season the chilli to taste, remove the cinnamon stick, then scatter over the reserved fresh chilli, coriander leaves and popped beans. Delicious served with a dollop of yoghurt or soured cream."
+      "Season the chilli to taste, remove the cinnamon stick, then scatter over the reserved fresh chilli, coriander leaves and popped beans. Delicious served with a dollop of yoghurt or soured cream.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258212.jpg",
-    "imageAlt": "Chilli con carne with popped kidney beans"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258212.jpg",
+    imageAlt: "Chilli con carne with popped kidney beans",
   },
   {
-    "name": "Pulled brisket chilli",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie swears by this pulled beef brisket chilli recipe because it has more texture than regular chilli, the same goes for his hand scrunched guacamole.",
-    "description": "“For me, the joy of a good chilli isn’t mince – I want texture. As for guacamole, don’t buy smooth pre-made stuff – the authentic stuff is hand-scrunched. You can also eat it with tacos, fajitas, fish… the options are endless. ”",
-    "servings": "20 to 25",
-    "time": {
-      "prep": "",
-      "cook": "4 hours 55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "4 hours 55 minutes"
+    name: "Pulled brisket chilli",
+    subName: "",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Jamie swears by this pulled beef brisket chilli recipe because it has more texture than regular chilli, the same goes for his hand scrunched guacamole.",
+    description:
+      "“For me, the joy of a good chilli isn’t mince – I want texture. As for guacamole, don’t buy smooth pre-made stuff – the authentic stuff is hand-scrunched. You can also eat it with tacos, fajitas, fish… the options are endless. ”",
+    servings: "20 to 25",
+    time: {
+      prep: "",
+      cook: "4 hours 55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "4 hours 55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Mains",
       "One-pan recipes",
       "Stew",
-      "Mexican"
+      "Mexican",
     ],
-    "ingredients": [
+    ingredients: [
       "1.5 kg beef brisket",
       "1 large stick of cinnamon",
       "1 tablespoon ground cumin",
@@ -3911,9 +3855,9 @@
       "1 small red onion",
       "4-5 limes",
       "4 ripe mixed colour tomatoes",
-      "1-2 fresh red chillies"
+      "1-2 fresh red chillies",
     ],
-    "instructions": [
+    instructions: [
       "Place the beef on a board and lightly score one side.",
       "Bash the cinnamon, cumin, paprika and oregano in pestle and mortar, then rub into the cuts in the beef. Season well with sea salt and black pepper, drizzle over a little oil and brown the brisket well in a large pan over a high heat.",
       "Place the bay leaves, whole peppers, plum tomatoes (breaking them up with the back of a spoon as you go), and the stock in a large pot and bring to the boil.",
@@ -3922,38 +3866,39 @@
       "Gently pull the beef apart using 2 forks. Remove the bay, add a little vinegar to taste, scatter over the coriander and adjust the seasoning to taste.",
       "For the guacamole, squeeze the avocado flesh into a bowl, discarding the skin and stones. Pick and roughly tear in the coriander leaves, peel and finely gate in the red onion, and squeeze in the lime juice.",
       "Have a taste, then tweak with more salt, pepper or lime juice, if needed. Roughly chop then scrunch in the tomatoes, picking out any large bits of skin.",
-      "Deseed and finely grate in the chilli flesh and mix well. Serve with the chilli, tortillas and dollops of yoghurt. Delicious served with a fresh green salad on the side, too."
+      "Deseed and finely grate in the chilli flesh and mix well. Serve with the chilli, tortillas and dollops of yoghurt. Delicious served with a fresh green salad on the side, too.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/0TSt2Nz9K4m95peIPPR-l7.jpg",
-    "imageAlt": "Pulled brisket chilli"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/0TSt2Nz9K4m95peIPPR-l7.jpg",
+    imageAlt: "Pulled brisket chilli",
   },
   {
-    "name": "Oozy courgette risotto",
-    "subName": "with buffalo mozzarella & fresh basil",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Create Jamie Oliver's simple courgette risotto recipe with buffalo mozzarella and fresh basil for yourself; a delicious dish perfect for the whole family.",
-    "description": "“This is the coming together of three beautiful ingredients – mozzarella, basil and courgette – to make an oozy, cheesy, scrumptious risotto. White wine gives any risotto a beautiful depth of flavour, but don’t worry if you haven’t got any, swap in the same amount of extra stock instead – it will still taste fantastic. This recipe includes two of your 5-a-day, so it’s comfort food that still delivers on the nutrition front – you’ve got to love it! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Oozy courgette risotto",
+    subName: "with buffalo mozzarella & fresh basil",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Create Jamie Oliver's simple courgette risotto recipe with buffalo mozzarella and fresh basil for yourself; a delicious dish perfect for the whole family.",
+    description:
+      "“This is the coming together of three beautiful ingredients – mozzarella, basil and courgette – to make an oozy, cheesy, scrumptious risotto. White wine gives any risotto a beautiful depth of flavour, but don’t worry if you haven’t got any, swap in the same amount of extra stock instead – it will still taste fantastic. This recipe includes two of your 5-a-day, so it’s comfort food that still delivers on the nutrition front – you’ve got to love it! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Dinner Party",
       "Italian",
       "Courgette",
       "Mains",
       "One-pan recipes",
-      "Pasta & risotto"
+      "Pasta & risotto",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large onion",
       "1 large clove of garlic",
       "2 sticks of celery",
@@ -3966,9 +3911,9 @@
       "300 g arborio rice",
       "200 ml white wine , optional",
       "1 fresh red chilli",
-      "2 x 125 g balls of buffalo mozzarella"
+      "2 x 125 g balls of buffalo mozzarella",
     ],
-    "instructions": [
+    instructions: [
       "Peel the onion and garlic, trim the celery and finely chop all three. Place a large saucepan over a medium-low heat.",
       "Place the butter in the hot pan with the onion, garlic and celery, a splash of oil, and a splash of water. Reduce the heat to low and cook for around 5 minutes, or until softened, stirring occasionally.",
       "Trim the courgettes, slice lengthways into quarters, then chop into small ½\u001fcm chunks and put to one side.",
@@ -3982,84 +3927,82 @@
       "Stir the chopped courgette into the stock, and keep adding it (courgette and all) until the rice is cooked and the risotto has a nice oozy consistency – if you run out of stock, use boiling water.",
       "Take the pan of risotto off the heat. Tear the mozzarella balls into pieces and stir into the pan with half the basil.",
       "Stir through half the grated Italian hard cheese, then season to taste with a good pinch of sea salt and black pepper. Cover with a lid and allow to sit for two minutes.",
-      "Divide the risotto between four plates, scatter over the remaining cheese, basil and the fresh chilli, then tuck in!"
+      "Divide the risotto between four plates, scatter over the remaining cheese, basil and the fresh chilli, then tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46337890.jpg",
-    "imageAlt": "Oozy courgette risotto"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46337890.jpg",
+    imageAlt: "Oozy courgette risotto",
   },
   {
-    "name": "Broccoli soup",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This broccoli and cheese soup recipe from Jamie Oliver is a great vegetarian inter warmer. It's a really easy broccoli soup recipe that's great with bread.",
-    "description": "",
-    "servings": "3",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Broccoli soup",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This broccoli and cheese soup recipe from Jamie Oliver is a great vegetarian inter warmer. It's a really easy broccoli soup recipe that's great with bread.",
+    description: "",
+    servings: "3",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Freezer-friendly recipes",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "1 clove of garlic",
       "2 sticks of celery",
       "400 g broccoli",
       "½ a bunch of fresh mint",
       "olive oil",
       "1 litre chicken or vegetable stock cube , organic if you can afford",
-      "ricotta cheese"
+      "ricotta cheese",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the garlic. Trim and roughly chop the celery and broccoli.",
       "Pick the mint leaves, then finely chop most of them, saving a few baby leaves to garnish.",
       "Heat a splash of oil in a pan, then soften the garlic and celery for about 2 to 3 minutes, then add the broccoli and stock.",
       "Continue cooking for another 5 minutes, then blitz with a handful of mint in a food processor.",
-      "Season and serve, then crumble over the ricotta and scatter with the reserved mint leaves."
+      "Season and serve, then crumble over the ricotta and scatter with the reserved mint leaves.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46257662.jpg",
-    "imageAlt": "Broccoli soup"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46257662.jpg",
+    imageAlt: "Broccoli soup",
   },
   {
-    "name": "One-tray bake",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "An easy chicken thigh tray bake recipe. There's nothing like a quick and easy tray bake recipe for a delicious weeknight family meal. Just add crusty bread.",
-    "description": "“So easy – chuck everything in one tray, then bung it in the oven. ”",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "One-tray bake",
+    subName: "",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "An easy chicken thigh tray bake recipe. There's nothing like a quick and easy tray bake recipe for a delicious weeknight family meal. Just add crusty bread.",
+    description:
+      "“So easy – chuck everything in one tray, then bung it in the oven. ”",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Mains",
       "One-pan recipes",
       "Chicken thighs",
-      "Tomato"
+      "Tomato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 bunch of fresh basil",
       "1 bulb of garlic",
       "1 handful of black olives",
@@ -4068,131 +4011,133 @@
       "2 handfuls of cherry tomatoes",
       "olive oil",
       "1 dried red chilli",
-      "8 slices of higher-welfare pancetta or thin-sliced smoked streaky bacon"
+      "8 slices of higher-welfare pancetta or thin-sliced smoked streaky bacon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4. Get a deep roasting tray big enough to fit all the chicken in one layer.",
       "Pick the basil leaves, break the bulb of garlic into cloves, then destone the olives.",
       "Rip the ciabatta into medium-sized chunks and place in the tray with the chicken, tomatoes, basil leaves, unpeeled garlic cloves and olives. Add a generous drizzle of oil, a pinch of sea salt and black pepper and the chilli.",
       "Toss to mix up well, then reposition the chicken on top. Bake in the oven, turning the chicken after 30 minutes.",
-      "After another 30 minutes, drape the pancetta or bacon on top of the chicken and return to the oven for 15 minutes, until the chicken is cooked and falling off the bone. Lovely with a crisp green salad."
+      "After another 30 minutes, drape the pancetta or bacon on top of the chicken and return to the oven for 15 minutes, until the chicken is cooked and falling off the bone. Lovely with a crisp green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EroaMZYD4Tn9Lhcefi0llH.jpg",
-    "imageAlt": "One-tray bake"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EroaMZYD4Tn9Lhcefi0llH.jpg",
+    imageAlt: "One-tray bake",
   },
   {
-    "name": "Carrots with garlic yoghurt",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Roasting carrots brings out the natural sweetness which is countered by the garlic yoghurt, try this easy recipe from Jamie Oliver with lentils or roasts.",
-    "description": "“Roasting brings out the lovely, sticky sweetness of carrots, which the garlic yoghurt counters nicely. This is great served with lentils or roasts. ”",
-    "servings": "6 as a side",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Carrots with garlic yoghurt",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Roasting carrots brings out the natural sweetness which is countered by the garlic yoghurt, try this easy recipe from Jamie Oliver with lentils or roasts.",
+    description:
+      "“Roasting brings out the lovely, sticky sweetness of carrots, which the garlic yoghurt counters nicely. This is great served with lentils or roasts. ”",
+    servings: "6 as a side",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Sides",
       "One-pan recipes",
-      "Vegetable sides"
+      "Vegetable sides",
     ],
-    "ingredients": [
+    ingredients: [
       "750 g small to medium carrots",
       "1 bulb of garlic",
       "1 teaspoon coriander seeds",
       "1 tablespoon sherry vinegar or red wine vinegar",
       "2 tablespoons olive oil",
-      "300 ml thick Greek-style yoghurt"
+      "300 ml thick Greek-style yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/gas 6.",
       "Halve the carrots lengthways, then separate and bash the garlic cloves, leaving their skins on.",
       "Place on a large baking tray. Lightly crush and add the coriander seeds, and drizzle over the vinegar and oil. Toss the carrots and garlic to coat, then season with sea salt and black pepper.",
       "Roast in the oven for 45 minutes, or until the carrots are tender and caramelised in places but still have some bite. Remove the garlic as it caramelises or if it looks like it’s burning.",
-      "Squeeze the garlic flesh from the skins and mash well. Mix through the yoghurt then serve in a bowl next to the roasted carrots."
+      "Squeeze the garlic flesh from the skins and mash well. Mix through the yoghurt then serve in a bowl next to the roasted carrots.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258149.jpg",
-    "imageAlt": "Carrots with garlic yoghurt"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258149.jpg",
+    imageAlt: "Carrots with garlic yoghurt",
   },
   {
-    "name": "Baked feta & tomatoes",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Baked feta is a traditional Greek dish which makes a great vegetarian starter, this easy recipe from Jamie Oliver pairs fresh tomatoes with salty feta. ",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Baked feta & tomatoes",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Baked feta is a traditional Greek dish which makes a great vegetarian starter, this easy recipe from Jamie Oliver pairs fresh tomatoes with salty feta. ",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Alfresco",
       "Feta",
       "Tomato",
       "Quick fixes",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g feta cheese",
       "500 g mixed tomatoes",
       "1 handful of kalamata olives (stone in)",
       "200 g sourdough",
       "½ bunch of fresh basil",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/gas 4.",
       "Crumble the feta into large chunks, roughly chop some of the tomatoes, leaving the smaller ones whole, then destone the olives.",
       "Tear the sourdough into chunks, and pick the basil leaves.",
       "Combine the feta cheese, tomatoes, olives, sourdough and a splash of oil in a baking tray.",
       "Season, then pop it into the oven for 30 minutes, or until the tomatoes are tender and the feta is golden at the edges.",
-      "Scatter over the basil and serve."
+      "Scatter over the basil and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46264722.jpg",
-    "imageAlt": "Baked feta & tomatoes"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46264722.jpg",
+    imageAlt: "Baked feta & tomatoes",
   },
   {
-    "name": "Salsa spaghetti",
-    "subName": "With black olives & fresh basil",
-    "specialDiets": [],
-    "metaDescription": "This spaghetti salsa recipe from Jamie Oliver is a fresh, delicious dish that can be enjoyed all year round and adds another pasta dish to your repertoire.",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Salsa spaghetti",
+    subName: "With black olives & fresh basil",
+    specialDiets: [],
+    metaDescription:
+      "This spaghetti salsa recipe from Jamie Oliver is a fresh, delicious dish that can be enjoyed all year round and adds another pasta dish to your repertoire.",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Italian",
       "Tomato",
       "Healthy dinner ideas",
       "Healthy meals",
       "Healthy vegetarian recipes",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "320 g dried spaghetti",
       "600 g mixed ripe tomatoes",
       "12 black olives (stone in)",
@@ -4200,9 +4145,9 @@
       "1 clove of garlic",
       "extra virgin olive oil",
       "2 tablespoons red wine vinegar",
-      "20 g hard Italian cheese"
+      "20 g hard Italian cheese",
     ],
-    "instructions": [
+    instructions: [
       "There are some beautiful Mediterranean vibes going on in this dish – juicy ripe tomatoes, fresh fragrant basil and delicious olives, all tossed and tangled up in al dente spaghetti. The flavour combo here is mega-simple, but when you put them together, something magical happens. Let the tomatoes ripen naturally out of the fridge – the warmth will ensure all those lovely flavours and juices are at their best and ready to flow. Tomatoes are a source of vitamin C, a nutrient our bodies need for so many different things, including immune function and keeping our energy levels up.",
       "Cook the spaghetti in a pan of boiling salted water for 8 to 10 minutes or until al dente, which means that it should be soft enough to eat, but still have a bit of bite and firmness to it.",
       "On a large chopping board, chop the tomatoes. Bash the olives and tear out the stones, then add the olives to the pile of tomatoes.",
@@ -4211,38 +4156,38 @@
       "Add a good couple of lugs of oil, the vinegar and a pinch of sea salt and black pepper, and keep chopping and mixing until well combined.",
       "Scoop out and reserve a cupful of the pasta cooking water, then drain the spaghetti in a colander.",
       "Pop the spaghetti in a large bowl, scrape in the salsa dressing, adding a splash of the reserved cooking water, if needed, to make a lovely loose sauce.",
-      "Sprinkle over the reserved baby basil leaves and add a grating of hard Italian cheese before serving."
+      "Sprinkle over the reserved baby basil leaves and add a grating of hard Italian cheese before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/64928485.jpg",
-    "imageAlt": "Salsa spaghetti"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/64928485.jpg",
+    imageAlt: "Salsa spaghetti",
   },
   {
-    "name": "Asian-style seafood parcels",
-    "subName": "Fragrant lemongrass, fresh ginger & lime",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Delicate Asian flavours coat the fish in this Asian-style recipe from Jamie Oliver. Use a nice selection of shellfish – clams, mussels, prawns & scallops.",
-    "description": "“This mighty recipe is a real celebration of seafood, and for me it ticks every box. The parcels seal in all the amazing Asian flavours, and you’re left with a dish that’s gorgeously fragrant and seriously satisfying. What a joy! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Asian-style seafood parcels",
+    subName: "Fragrant lemongrass, fresh ginger & lime",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "Delicate Asian flavours coat the fish in this Asian-style recipe from Jamie Oliver. Use a nice selection of shellfish – clams, mussels, prawns & scallops.",
+    description:
+      "“This mighty recipe is a real celebration of seafood, and for me it ticks every box. The parcels seal in all the amazing Asian flavours, and you’re left with a dish that’s gorgeously fragrant and seriously satisfying. What a joy! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Seafood",
       "Dinner for two",
       "Asian",
       "Mussels",
       "Scallops",
-      "Fruit"
+      "Fruit",
     ],
-    "ingredients": [
+    ingredients: [
       "1 bream fillet , skin on, scaled, pin-boned, from sustainable sources",
       "2 scallops , trimmed, roes attached, from sustainable sources",
       "2 large raw shell-on king prawns , from sustainable sources",
@@ -4263,9 +4208,9 @@
       "50 g choi sum",
       "1 large free-range egg",
       "150 g basmati rice",
-      "½ tablespoon coconut cream"
+      "½ tablespoon coconut cream",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220ºC/425ºF/gas 7.",
       "Halve the bream fillet and lightly score the skin, then lightly score the scallops in a criss-cross pattern. Peel the prawns, leaving the heads and tails on (for bonus flavour), then run the tip of a knife down their backs and pull out the vein. Put it all into a bowl.",
       "Pick through the mussels and clams, discarding any that remain open when tapped. Put aside in a separate bowl.",
@@ -4277,39 +4222,38 @@
       "Place on a baking tray, being careful not to pierce the foil, and place the tray on the bottom of the oven for 15 minutes.",
       "Meanwhile, put the rice and coconut cream into a medium pan with twice the volume of boiling salted water. Bring to the boil, then cover and cook on a low heat until tender.",
       "Remove the fish parcel from the oven and very carefully cut it open (mind out for the steam!). Place on a platter, discarding any mussels or clams that haven’t opened.",
-      "Finely slice and scatter over the remaining chilli, tear over the coriander leaves, and serve with the rice and lime wedges for squeezing over."
+      "Finely slice and scatter over the remaining chilli, tear over the coriander leaves, and serve with the rice and lime wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46229180.jpg",
-    "imageAlt": "Asian-style seafood parcels"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46229180.jpg",
+    imageAlt: "Asian-style seafood parcels",
   },
   {
-    "name": "Duck egg frittata with peas & beans",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "The duck egg in this frittata brings a richness which is balanced by fresh peas and hearty beans, try this mouth-watering recipe from Jamie Oliver today.",
-    "description": "“Duck eggs are richer, creamier and bigger than hen eggs, which really suits the freshness of the peas and broad beans and means you don’t need as many! ”",
-    "servings": "4–6",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Duck egg frittata with peas & beans",
+    subName: "",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "The duck egg in this frittata brings a richness which is balanced by fresh peas and hearty beans, try this mouth-watering recipe from Jamie Oliver today.",
+    description:
+      "“Duck eggs are richer, creamier and bigger than hen eggs, which really suits the freshness of the peas and broad beans and means you don’t need as many! ”",
+    servings: "4–6",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Alfresco",
       "Mains",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "300 g Jersey royal potatoes",
       "150 g small broad beans",
       "6 spring onions",
@@ -4319,9 +4263,9 @@
       "6 duck eggs",
       "150 g frozen peas , defrosted",
       "1 punnet of cress",
-      "70 g fresh goat's cheese"
+      "70 g fresh goat's cheese",
     ],
-    "instructions": [
+    instructions: [
       "Cook the potatoes in boiling water until cooked but not too soft, then set aside to cool.",
       "Cook the broad beans in boiling water for 2 to 3 minutes, or until tender. Drain, then refresh in cold water. When the beans are cool enough to handle, peel the outer skins.",
       "Finely chop the spring onions and chilli. Heat the oil in a 23cm pan and fry the spring onions and chilli over a medium heat for 2 minutes until soft.",
@@ -4329,79 +4273,80 @@
       "Chop the dill, add to the eggs and beat. Season well.",
       "Preheat the grill to high. Add the broad beans and peas to the pan and stir to combine. Tip in the beaten eggs and cook over a medium heat for 4 minutes, until starting to set.",
       "Remove the pan from the heat, place under the grill and continue cooking the frittata until golden.",
-      "Leave to cool slightly, then place a large plate upside-down over the pan and carefully turn it over so that the frittata falls onto the plate. Serve scattered with cress and fresh goat’s cheese."
+      "Leave to cool slightly, then place a large plate upside-down over the pan and carefully turn it over so that the frittata falls onto the plate. Serve scattered with cress and fresh goat’s cheese.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7U_CKVkqqHxB2E0GdIJrET.jpg",
-    "imageAlt": "Duck egg frittata with peas & beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7U_CKVkqqHxB2E0GdIJrET.jpg",
+    imageAlt: "Duck egg frittata with peas & beans",
   },
   {
-    "name": "Slow-roasted fennel",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This slow roasted fennel recipe brings out the delicious sweet flavours of seasonal fennel bulbs, creating a delicious vegetable side dish for any meal. ",
-    "description": "“You can vary the number and size of bulbs for this; just adjust the dish size and cooking time. ”",
-    "servings": "Serves Makes as much as you want",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 5 minutes"
+    name: "Slow-roasted fennel",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This slow roasted fennel recipe brings out the delicious sweet flavours of seasonal fennel bulbs, creating a delicious vegetable side dish for any meal. ",
+    description:
+      "“You can vary the number and size of bulbs for this; just adjust the dish size and cooking time. ”",
+    servings: "Serves Makes as much as you want",
+    time: {
+      prep: "",
+      cook: "1 hour 5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 5 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Sides",
       "One-pan recipes",
       "Vegetable sides",
-      "Tomato"
+      "Tomato",
     ],
-    "ingredients": [
+    ingredients: [
       "fennel bulbs",
       "cherry tomatoes",
       "1 pinch of caraway seeds",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160°C/325°F/gas 3.",
       "Trim and quarter the fennel bulbs, then lay in a roasting dish, scatter over the tomatoes and caraway seeds.",
-      "Season with sea salt and black pepper and drizzle with oil. Cook for 1 hour or until the fennel is tender and caramelised."
+      "Season with sea salt and black pepper and drizzle with oil. Cook for 1 hour or until the fennel is tender and caramelised.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BnGJRBJn4WqAcIfEaD3fK5.jpg",
-    "imageAlt": "Slow-roasted fennel"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BnGJRBJn4WqAcIfEaD3fK5.jpg",
+    imageAlt: "Slow-roasted fennel",
   },
   {
-    "name": "Shellfish & cider stew",
-    "subName": "With leeks, shallots & tomatoes",
-    "specialDiets": [],
-    "metaDescription": "Try this delicious shellfish stew recipe from Jamie magazine – the cider adds a nod to moules marinières with a touch of luxury from the langoustines.",
-    "description": "“This impressive seafood stew is reminiscent of moules marinières but is extra luxurious thanks to the addition of langoustines. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Shellfish & cider stew",
+    subName: "With leeks, shallots & tomatoes",
+    specialDiets: [],
+    metaDescription:
+      "Try this delicious shellfish stew recipe from Jamie magazine – the cider adds a nod to moules marinières with a touch of luxury from the langoustines.",
+    description:
+      "“This impressive seafood stew is reminiscent of moules marinières but is extra luxurious thanks to the addition of langoustines. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Seafood",
       "Mains",
       "One-pan recipes",
-      "Stew"
+      "Stew",
     ],
-    "ingredients": [
+    ingredients: [
       "3 leeks",
       "3 shallots",
       "4 ripe plum tomatoes",
@@ -4414,9 +4359,9 @@
       "600 g mussels , scrubbed, debearded, from sustainable sources",
       "600 g clams , scrubbed, from sustainable sources",
       "3 tablespoons double cream",
-      "1 teaspoon tomato purée"
+      "1 teaspoon tomato purée",
     ],
-    "instructions": [
+    instructions: [
       "Trim the leeks, cut off the green part and save it for another day. Halve the white part lengthways, then finely slice.",
       "Finely slice the shallots, then peel, deseed and cut the tomatoes into cubes. Roughly chop the parsley, including the stalks.",
       "Melt the butter in a large pan over a low heat and gently fry the leeks, shallots, tomatoes and parsley until soft.",
@@ -4425,40 +4370,39 @@
       "Add the langoustines and cover with a lid for 3 minutes, then add the razor clams. Replace the lid and cook for a further 2 minutes.",
       "Add the mussels and clams. Give it all a gentle stir, add another good splash of cider and replace the lid. Cook for a further 5 minutes, or until the mussels and clams have opened and the rest of the shellfish is cooked.",
       "Using tongs and a slotted spoon, transfer the shellfish to the warmed serving bowl and put the sauce back on the heat.",
-      "Add the cream and tomato purée and a little more cider if you want more sauce. Stir well to combine, and pour the sauce over the shellfish in the bowl. Serve immediately – delicious with crusty bread."
+      "Add the cream and tomato purée and a little more cider if you want more sauce. Stir well to combine, and pour the sauce over the shellfish in the bowl. Serve immediately – delicious with crusty bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/7AgL0WAFaQl8pyLyPeLkBs.jpg",
-    "imageAlt": "Shellfish & cider stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/7AgL0WAFaQl8pyLyPeLkBs.jpg",
+    imageAlt: "Shellfish & cider stew",
   },
   {
-    "name": "Sweet potato, chickpea & spinach curry",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian",
-      "Vegan"
-    ],
-    "metaDescription": "A hearty and warming sweet potato chickpea curry recipe. This healthy vegetable curry is a cheap and easy dish. You could add chopped cauliflower or pepper.",
-    "description": "“This is a cheap and easy dish. You could add chopped cauliflower, red pepper or aubergine before the sweet potato; throw in shredded cooked chicken with the tomatoes; add raw prawns or white fish pieces 5 minutes before the end of the cooking time; or serve in a flatbread with grated carrot, coriander and shredded lettuce. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Sweet potato, chickpea & spinach curry",
+    subName: "",
+    specialDiets: ["Dairy-free", "Vegetarian", "Vegan"],
+    metaDescription:
+      "A hearty and warming sweet potato chickpea curry recipe. This healthy vegetable curry is a cheap and easy dish. You could add chopped cauliflower or pepper.",
+    description:
+      "“This is a cheap and easy dish. You could add chopped cauliflower, red pepper or aubergine before the sweet potato; throw in shredded cooked chicken with the tomatoes; add raw prawns or white fish pieces 5 minutes before the end of the cooking time; or serve in a flatbread with grated carrot, coriander and shredded lettuce. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Curry",
       "Potato",
       "Sweet potato",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "2 red onions",
       "3 tablespoons rogan josh paste",
@@ -4469,9 +4413,9 @@
       "1 x 400 g tin chickpeas",
       "8 ripe tomatoes or 1 x 400g tin chopped tomatoes",
       "1 x 400 ml tin light coconut milk",
-      "400 g pre-washed spinach"
+      "400 g pre-washed spinach",
     ],
-    "instructions": [
+    instructions: [
       "Heat 2 tablespoons of oil in a large saucepan over a medium heat.",
       "Peel, finely slice and add the onion along with the curry paste, mix well, then cook for 10 minutes, or until the onion is soft and golden, stirring occasionally.",
       "Finely chop the chilli, then peel and finely grate the ginger. Pick the coriander leaves and finely slice the stalks. Chop the sweet potatoes into 2cm chunks.",
@@ -4480,40 +4424,39 @@
       "Reduce the heat to a simmer, then cover and cook for 10 to 15 minutes.",
       "Remove the lid, then cook for a further 15 to 20 minutes, stirring occasionally, or until the sweet potato is cooked through and the sauce thickened.",
       "Stir in the coconut milk and cook for a couple of minutes, then stir in the spinach and cook until wilted.",
-      "Scatter over the coriander leaves, then serve with poppadoms and rice, if you like."
+      "Scatter over the coriander leaves, then serve with poppadoms and rice, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/Erc0Vh3KaICBGqJ1V_nC6E.jpg",
-    "imageAlt": "Sweet potato, chickpea & spinach curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/Erc0Vh3KaICBGqJ1V_nC6E.jpg",
+    imageAlt: "Sweet potato, chickpea & spinach curry",
   },
   {
-    "name": "Seven-veg tagine",
-    "subName": "Chickpeas, pumpkin, carrot & aubergine",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Tagine is a traditional slow-cooked Moroccan dish. This delicious vegetable tagine recipe from Jamie Oliver is filled with chunky veg and warming spices. ",
-    "description": "“Tagine is Morocco’s best-known dish: a slow-cooked stew made with lamb, chicken or fish and vegetables. It’s named after the conical-lidded pot that the stew is traditionally cooked in – the design allows steam to condense back into the dish as it cooks, to retain its juices. This vegetarian tagine doesn’t need meat for flavour – the vegetables absorb the essences of the coriander, cumin, saffron, ginger and tomato-y stock. The vegetables should be chunky so they hold their shape during the slow cooking. Serve the tagine as the Moroccans do – over some nutty-tasting couscous. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Seven-veg tagine",
+    subName: "Chickpeas, pumpkin, carrot & aubergine",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Tagine is a traditional slow-cooked Moroccan dish. This delicious vegetable tagine recipe from Jamie Oliver is filled with chunky veg and warming spices. ",
+    description:
+      "“Tagine is Morocco’s best-known dish: a slow-cooked stew made with lamb, chicken or fish and vegetables. It’s named after the conical-lidded pot that the stew is traditionally cooked in – the design allows steam to condense back into the dish as it cooks, to retain its juices. This vegetarian tagine doesn’t need meat for flavour – the vegetables absorb the essences of the coriander, cumin, saffron, ginger and tomato-y stock. The vegetables should be chunky so they hold their shape during the slow cooking. Serve the tagine as the Moroccans do – over some nutty-tasting couscous. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Moroccan",
       "Family one-pan recipes",
       "Freezer-friendly recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g tinned or 200g dried chickpeas",
       "8 button onions",
       "2 carrots",
@@ -4531,9 +4474,9 @@
       "1 tablespoon tomato purée",
       "1 litre organic vegetable stock",
       "300 g couscous",
-      "harissa , to taste"
+      "harissa , to taste",
     ],
-    "instructions": [
+    instructions: [
       "If using dried chickpeas, soak them overnight. The next day, drain, place in a large pan, cover with water, bring to the boil then simmer for 1 hour, or until tender.",
       "Place the onions in a bowl, cover with boiling water and let stand for a couple of minutes. Remove them carefully, then peel.",
       "Trim the carrots and courgettes, then slice into large batons.",
@@ -4542,36 +4485,39 @@
       "Pick and roughly chop the herbs.",
       "Peel and roughly chop the ginger and place in a large pan with the saffron, cumin and coriander seeds, most of the mint and parsley leaves, the tomato purée and vegetable stock.",
       "Bring to the boil, then add the onions, carrot, pumpkin and potato. Cover and allow to bubble away for 10 minutes, then add the remaining veg and the cooked or tinned chickpeas. Cover again and leave to simmer away for a further 20 minutes, stirring occasionally.",
-      "Cook the couscous according to the packet instructions. Take the tagine off the heat. Spoon the couscous onto serving plates and top with the tagine, scatter with the remaining mint and parsley leaves. Serve immediately with harissa, to taste."
+      "Cook the couscous according to the packet instructions. Take the tagine off the heat. Spoon the couscous onto serving plates and top with the tagine, scatter with the remaining mint and parsley leaves. Serve immediately with harissa, to taste.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/C1SAkHfsqFU890V3KAY0eB.jpg",
-    "imageAlt": "Seven-veg tagine"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/C1SAkHfsqFU890V3KAY0eB.jpg",
+    imageAlt: "Seven-veg tagine",
   },
   {
-    "name": "Pork, spring green & black bean stir-fry",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie Oliver's pork stir fry recipe is made with spring greens, and black beans for a wonderfully easy, healthy dinner with absolutely bags of flavour. ",
-    "description": "“Track down a pack of fermented black beans from a Chinese supermarket or online, and a deeply savoury dish can be yours. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes plus marinating",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes plus marinating"
+    name: "Pork, spring green & black bean stir-fry",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie Oliver's pork stir fry recipe is made with spring greens, and black beans for a wonderfully easy, healthy dinner with absolutely bags of flavour. ",
+    description:
+      "“Track down a pack of fermented black beans from a Chinese supermarket or online, and a deeply savoury dish can be yours. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes plus marinating",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes plus marinating",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Chinese",
       "Light meals",
       "Lunch & dinner recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "2 tablespoons shaoxing wine or dry sherry",
       "1 tablespoon light soy sauce , plus extra to serve",
       "1 teaspoon caster sugar",
@@ -4583,89 +4529,89 @@
       "5 spring onions",
       "400 g spring green vegetables, such as asparagus, tenderstem or purple sprouting broccoli, mange tout, sugar snap peas",
       "1 tablespoon fermented black beans",
-      "2 tablespoons groundnut oil"
+      "2 tablespoons groundnut oil",
     ],
-    "instructions": [
+    instructions: [
       "At least 30 minutes before cooking, or even the day before, mix together the shaoxing wine or sherry, soy sauce, sugar and cornflour in a bowl. Trim and finely slice the pork, then add to the marinade and toss to coat. Cover and set aside (in the fridge if you’re marinating the meat for more than 30 minutes).",
       "Peel and finely chop the garlic and ginger, trim and finely chop the chilli (deseed, if you prefer) and spring onions, then trim and chop the green vegetables into 4cm lengths. Rinse and drain the black beans.",
       "Heat the oil in a wok until smoking hot. Drain the pork strips (reserve the marinade) and add to the wok. Stir-fry for 1 minute, then stir in the garlic, chilli and ginger and continue cooking for 1 more minute.",
       "Throw in the greens, spring onions and black beans along with the reserved marinade, and continue to stir-fry over a very high heat for a few minutes, until the vegetables just begin to soften. Add a splash of water if it starts to stick.",
-      "Serve your stir-fry on a bed of steamed or sticky rice, with an extra splash of soy sauce, if you like."
+      "Serve your stir-fry on a bed of steamed or sticky rice, with an extra splash of soy sauce, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46256503.jpg",
-    "imageAlt": "Pork, spring green & black bean stir-fry"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46256503.jpg",
+    imageAlt: "Pork, spring green & black bean stir-fry",
   },
   {
-    "name": "Veggie carbonara",
-    "subName": "With fresh peas, spinach & lemon",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Think that carbonara needs bacon? Think again! This vegetarian carbonara recipe uses leafy greens to make a beautiful pea and spinach carbonara. Happy days!",
-    "description": "“You can't get much simpler and tastier than this easy vegetable carbonara – a brilliant little recipe to add to your repertoire! ”",
-    "servings": "4 adults or 6 children",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Veggie carbonara",
+    subName: "With fresh peas, spinach & lemon",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Think that carbonara needs bacon? Think again! This vegetarian carbonara recipe uses leafy greens to make a beautiful pea and spinach carbonara. Happy days!",
+    description:
+      "“You can't get much simpler and tastier than this easy vegetable carbonara – a brilliant little recipe to add to your repertoire! ”",
+    servings: "4 adults or 6 children",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Family one-pan recipes",
       "Healthy meals",
       "Light meals",
       "Lunch & dinner recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "400 g dried linguine",
       "4 large free-range eggs",
       "2 tablespoons soft ricotta cheese",
       "1 lemon",
       "100 g fresh or frozen peas",
-      "100 g baby spinach"
+      "100 g baby spinach",
     ],
-    "instructions": [
+    instructions: [
       "Cook the linguine according to the packet instructions.",
       "Meanwhile, carefully crack the eggs into a small bowl and beat them with a fork. Season with a little black pepper, then stir in the ricotta finely grate in most of the lemon zest.",
       "When the pasta has 3 minutes left, add the peas. Reserve a little cooking water, then drain the linguine and peas, and return to the pan.",
       "Stir in the egg mixture and spinach with a wooden spoon – they’ll cook gently in the residual heat. Add a little pasta water to loosen, if needed.",
-      "Share between bowls and serve with a green salad."
+      "Share between bowls and serve with a green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/CxJXN5kMqE08N4t_qnng4w.jpg",
-    "imageAlt": "Veggie carbonara"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/CxJXN5kMqE08N4t_qnng4w.jpg",
+    imageAlt: "Veggie carbonara",
   },
   {
-    "name": "Chickpea curry",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A vegan chickpea curry recipe for days when you want straight straightforward comfort food. Add more chilli if you like it hot. Good served with rice.",
-    "description": "",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Chickpea curry",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A vegan chickpea curry recipe for days when you want straight straightforward comfort food. Add more chilli if you like it hot. Good served with rice.",
+    description: "",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Indian",
       "Curry",
       "Healthy meals",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 medium onions",
       "1 x 400 g tin chickpeas",
       "1-2 fresh green chillies",
@@ -4682,48 +4628,46 @@
       "1 teaspoon dhana jeera powder",
       "1-2 teaspoon sugar , optional",
       "a few sprigs of fresh coriander",
-      "½ teaspoon garam masala"
+      "½ teaspoon garam masala",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the onions, drain and rinse the chickpeas and finely slice the green chillies.",
       "Heat the oil in a saucepan over a medium heat and add the mustard seeds; once they’re crackling, add the asafoetida. Stir in the onions and fry until transparent and turning golden at the edges.",
       "Chop and add the tinned tomatoes, then cook for another 5 minutes, before adding the ginger, garlic and green chilli pastes, the red chilli powder, dhana jeera, sugar (if using), and a pinch of sea salt. Keep stirring and cook for further 5 minutes.",
       "Stir the chickpeas into the pan. Add 250ml water to make a thick sauce. Place the lid on the pan, lower the heat and simmer for 5 to 7 minutes.",
-      "Pick and finely chop the coriander, then sprinkle on top along with the garam masala and finely sliced green chillies, to serve."
+      "Pick and finely chop the coriander, then sprinkle on top along with the garam masala and finely sliced green chillies, to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/0Isr-A6OaOj9ABr96L08eT.jpg",
-    "imageAlt": "Chickpea curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/0Isr-A6OaOj9ABr96L08eT.jpg",
+    imageAlt: "Chickpea curry",
   },
   {
-    "name": "Rudolph’s rocket fuel",
-    "subName": "Carrots, parsnip & leek",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Enjoy this recipe for Rudolph's Rocket Fuel, a Christmas soup packed with vegetables guaranteed to get the kids eating their 5 a day this Christmas.",
-    "description": "“Omitting commercial stock from this simple soup cuts down on salt. ”",
-    "servings": "6 to 8",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Rudolph’s rocket fuel",
+    subName: "Carrots, parsnip & leek",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Enjoy this recipe for Rudolph's Rocket Fuel, a Christmas soup packed with vegetables guaranteed to get the kids eating their 5 a day this Christmas.",
+    description:
+      "“Omitting commercial stock from this simple soup cuts down on salt. ”",
+    servings: "6 to 8",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Potato",
       "Fruit",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "6 medium carrots",
       "1 parsnip",
       "1 large potato",
@@ -4732,44 +4676,44 @@
       "1 eating apple",
       "2 cloves of garlic",
       "olive oil",
-      "sweet paprika"
+      "sweet paprika",
     ],
-    "instructions": [
+    instructions: [
       "Start by chopping the carrots, parsnip and potato. Trim, wash and chop the leek, peel and chop the onion, and core and chop the apple. Peel and crush the garlic.",
       "Throw the veg and apple into a large pan with the garlic and a good lug of oil and mix it all up. Season to taste (minimally, if cooking for young children).",
       "Cook on a medium heat for 10 minutes, stirring occasionally, or till the veg start to soften. Add 2 litres of water to the pan, bring to the boil, then turn down to a simmer. Cook for 30 minutes, until all the veg are soft.",
-      "Blitz with a hand blender until smooth, then sprinkle with sweet paprika. Delicious served with buttered toast."
+      "Blitz with a hand blender until smooth, then sprinkle with sweet paprika. Delicious served with buttered toast.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/5A_TC5Qwakd8FX6WhKUwd2.jpg",
-    "imageAlt": "Rudolph’s rocket fuel"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/5A_TC5Qwakd8FX6WhKUwd2.jpg",
+    imageAlt: "Rudolph’s rocket fuel",
   },
   {
-    "name": "Grilled peaches with brandy & bay",
-    "subName": "",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "These grilled peaches from Jamie Oliver is inspired by an Aussie Christmas, try these delicious recipe with brandy & bay yourself this festive season. ",
-    "description": "",
-    "servings": "4 to 6",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Grilled peaches with brandy & bay",
+    subName: "",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "These grilled peaches from Jamie Oliver is inspired by an Aussie Christmas, try these delicious recipe with brandy & bay yourself this festive season. ",
+    description: "",
+    servings: "4 to 6",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Aussie Christmas",
       "Christmas",
       "Dinner Party",
-      "Desserts"
+      "Desserts",
     ],
-    "ingredients": [
+    ingredients: [
       "6 ripe peaches",
       "1 good splash of brandy",
       "1 orange",
@@ -4777,46 +4721,47 @@
       "3 tablespoons sugar",
       "2 fresh bay leaves",
       "1 handful of Italian biscotti",
-      "crème fraîche"
+      "crème fraîche",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the grill to high.",
       "Halve and destone the peaches, then place in a snug-fitting baking dish, drizzle with the brandy, grate over some orange zest and squeeze in a little orange juice.",
       "Halve the vanilla pod lengthways, scrape out the seeds and add to a bowl with the sugar, then mix to combine.",
       "Sprinkle the sugar over the peaches, then add the bay leaves and vanilla pod to the dish and gently toss everything together.",
       "Arrange the peaches in a single layer, cut-side up. Place the dish under the grill for 5 to 6 minutes, or until the fruit is golden and the juices bubbling.",
-      "Smash the biscotti and sprinkle on top, then serve with crème fraîche."
+      "Smash the biscotti and sprinkle on top, then serve with crème fraîche.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/0NTqZ61LqlgAafBTFGRvlc.jpg",
-    "imageAlt": "Grilled peaches with brandy & bay"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/0NTqZ61LqlgAafBTFGRvlc.jpg",
+    imageAlt: "Grilled peaches with brandy & bay",
   },
   {
-    "name": "Green veggie fritters",
-    "subName": "Leftover sprouts, cheese & egg",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This green vegetable fritters recipe from Jamie magazine is a great for using up leftovers. It's a particularly good quick and healthy lunch idea for kids.",
-    "description": "“This recipe works with all sorts of greens, and any cheese left on your cheeseboard. A soft variety, such as Brie or Reblochon, works particularly well. ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Green veggie fritters",
+    subName: "Leftover sprouts, cheese & egg",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This green vegetable fritters recipe from Jamie magazine is a great for using up leftovers. It's a particularly good quick and healthy lunch idea for kids.",
+    description:
+      "“This recipe works with all sorts of greens, and any cheese left on your cheeseboard. A soft variety, such as Brie or Reblochon, works particularly well. ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Christmas",
       "Thanksgiving",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g leftover cooked Brussels sprouts",
       "2 handfuls of leftover cooked greens , (100g)",
       "1/2 a clove of garlic",
@@ -4824,44 +4769,46 @@
       "a few sprigs of fresh dill",
       "50 g leftover cheese",
       "3 large free-range eggs",
-      "oil , for frying"
+      "oil , for frying",
     ],
-    "instructions": [
+    instructions: [
       "Shred the leftover cooked sprouts and greens. Peel and finely chop the garlic, and finely grate the lemon zest. Pick and finely chop the dill.",
       "Put the shredded sprouts and greens into a bowl. Crumble in the cheese and add the garlic, dill and lemon zest. Add a good pinch of sea salt and black pepper, then mix well.",
       "Crack in the eggs and mix to combine.",
       "Place a large frying pan over a medium heat and add a generous lug of oil. Once the oil is hot, carefully lower in heaped tablespoons of the mixture and flatten them out into little patties.",
       "Fry for 2 to 3 minutes, or until the egg is beginning to set, then carefully flip and fry on the other side for 2 more minutes, until the egg is completely cooked.",
-      "Halve and serve the lemon on the side for squeezing over."
+      "Halve and serve the lemon on the side for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/BCo1wz214SS8JUzccUk2F9.jpg",
-    "imageAlt": "Green veggie fritters"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/BCo1wz214SS8JUzccUk2F9.jpg",
+    imageAlt: "Green veggie fritters",
   },
   {
-    "name": "Green eggs & ham",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
-    "description": "",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Green eggs & ham",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "You don't have to be a Dr Seuss fan to enjoy this Green Eggs and Ham pie recipe from Jamie Oliver, the whole family will enjoy this delicious simple supper.",
+    description: "",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Father's day",
       "Christmas",
       "Breakfast",
-      "Leftovers"
+      "Leftovers",
     ],
-    "ingredients": [
+    ingredients: [
       "1 small knob of unsalted butter",
       "½ tablespoon olive oil",
       "160 g cooked sliced higher-welfare ham",
@@ -4871,39 +4818,37 @@
       "a few sprigs of fresh mixed herbs, such as flat-leaf parsley, tarragon, basil, mint, dill, marjoram, chives",
       "6 tablespoons olive oil",
       "1 teaspoon cider vinegar",
-      "½ a lime"
+      "½ a lime",
     ],
-    "instructions": [
+    instructions: [
       "For the salsa, deseed and finely chop the chilli and place in a bowl. Pick, finely chop and add the herbs. Add the oil and vinegar, squeeze in the lime juice and mix together, then set aside.",
       "Heat the butter and oil in a frying pan over a medium heat. Once hot, add the ham slices. Immediately break the eggs over the ham and fry for 3 to 4 minutes or until the eggs are cooked to your liking.",
-      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top."
+      "Season lightly, then serve immediately with the green chilli and herb salsa drizzled on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
-    "imageAlt": "Green eggs & ham"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/C1-oqK9haHS9Dyd-3PtJqr.jpg",
+    imageAlt: "Green eggs & ham",
   },
   {
-    "name": "Potato & smoked trout hash with creamy horseradish dressing",
-    "subName": "",
-    "specialDiets": [],
-    "metaDescription": "Jamie's Potato & Smoked Trout Hash recipe served with a creamy horseradish dressing, is a perfect simple supper using leftovers from your fridge. ",
-    "description": "“Hash is a perfect way to use up leftover boiled potatoes. Here we’ve used trout instead of the usual corned beef, but smoked mackerel or salmon will work just as well. Try adding other veg to the mix, such as swedes, parsnips and celeriac. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Potato & smoked trout hash with creamy horseradish dressing",
+    subName: "",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's Potato & Smoked Trout Hash recipe served with a creamy horseradish dressing, is a perfect simple supper using leftovers from your fridge. ",
+    description:
+      "“Hash is a perfect way to use up leftover boiled potatoes. Here we’ve used trout instead of the usual corned beef, but smoked mackerel or salmon will work just as well. Try adding other veg to the mix, such as swedes, parsnips and celeriac. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Christmas",
-      "Potato",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Christmas", "Potato", "One-pan recipes"],
+    ingredients: [
       "450 g all-rounder potatoes, such as Desiree or King Edward",
       "4 spring onions",
       "1/2 a bunch of fresh flat-leaf parsley, dill or chives",
@@ -4914,50 +4859,48 @@
       "HORSERADISH DRESSING",
       "1 tablespoon freshly grated horseradish",
       "4 tablespoons single cream or crème fraîche",
-      "1 tablespoon horseradish sauce"
+      "1 tablespoon horseradish sauce",
     ],
-    "instructions": [
+    instructions: [
       "Cook the potatoes in salted boiling water for 15 to 20 minutes, or until tender. Drain in a colander and cut into 2cm slices.",
       "Trim and finely slice the spring onions, pick and finely chop the herbs and roughly shred the trout.",
       "Heat the oil and butter in a frying pan over a medium heat and sauté the spring onions for 2 to 3 minutes, until softened. Season generously with sea salt and black pepper.",
       "Add the potatoes to the pan and cook for 15 to 20 minutes, turning occasionally, until starting to turn golden and slightly crisp.",
       "Make the horseradish dressing: place all the ingredients in a bowl and stir to combine.",
       "Add the smoked trout to the pan, stir into the potato mixture, and continue to cook for 5 minutes.",
-      "Scatter the chopped herbs over the hash before serving with the creamy horseradish dressing. Cut the lemon into wedges for squeezing over."
+      "Scatter the chopped herbs over the hash before serving with the creamy horseradish dressing. Cut the lemon into wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/AZ9id5Bgqz0BSRb5aQT1qS.jpg",
-    "imageAlt": "Potato & smoked trout hash with creamy horseradish dressing"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/AZ9id5Bgqz0BSRb5aQT1qS.jpg",
+    imageAlt: "Potato & smoked trout hash with creamy horseradish dressing",
   },
   {
-    "name": "Pumpkin, chickpea & coconut curry",
-    "subName": "",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A beautiful vegan coconut chickpea curry recipe from Jamie Oliver. This pumpkin coconut curry recipe is super comforting – a proper winter warmer of a dish.",
-    "description": "“This is the perfect warming dish to enjoy with your mates after you’ve been out for Bonfire Night. If you can, make it some time ahead – this will give all the wonderful flavours a chance to develop. Pumpkin and chickpeas are great friends and really hearty, so this dish will satisfy meat-eaters, too. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Pumpkin, chickpea & coconut curry",
+    subName: "",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A beautiful vegan coconut chickpea curry recipe from Jamie Oliver. This pumpkin coconut curry recipe is super comforting – a proper winter warmer of a dish.",
+    description:
+      "“This is the perfect warming dish to enjoy with your mates after you’ve been out for Bonfire Night. If you can, make it some time ahead – this will give all the wonderful flavours a chance to develop. Pumpkin and chickpeas are great friends and really hearty, so this dish will satisfy meat-eaters, too. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Bonfire night recipes",
       "Curry",
       "Fruit",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 pumpkin , or squash (roughly 900g)",
       "4 cm piece of ginger",
       "4 shallots",
@@ -4970,47 +4913,45 @@
       "1 teaspoon turmeric",
       "1 x 400 g tin of chopped tomatoes",
       "2 x 400 g tins of light coconut milk",
-      "2 x 400 g tins of chickpeas"
+      "2 x 400 g tins of chickpeas",
     ],
-    "instructions": [
+    instructions: [
       "Chop the pumpkin or squash into 3cm chunks and cut the ginger into matchsticks. Pick the coriander leaves and finely chop the stalks.",
       "Pour a good lug of groundnut oil into a large saucepan and place on a high heat. Add the ginger, garlic, red chilli and shallots, then reduce to a medium heat. Cook until golden, stirring occasionally, then add the mustard seeds, curry leaves, and coriander stalks and fry until the curry leaves go crispy. Add the turmeric, tomatoes and coconut milk. Bring to the boil, then add the pumpkin and chickpeas. Reduce to a low heat, cover with a lid and simmer for 45 minutes. Check occasionally and add a splash of water if it looks a bit dry.",
       "When the time’s up, take the lid off and cook for a further 15 minutes or so until the sauce is lovely and thick.",
-      "Scatter with coriander leaves and serve with rice, naan bread and chutneys and dips on the side."
+      "Scatter with coriander leaves and serve with rice, naan bread and chutneys and dips on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/9VidjnFWqRkB-AzGDckeYA.jpg",
-    "imageAlt": "Pumpkin, chickpea & coconut curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/9VidjnFWqRkB-AzGDckeYA.jpg",
+    imageAlt: "Pumpkin, chickpea & coconut curry",
   },
   {
-    "name": "Spiced plum chutney",
-    "subName": "With fresh bay, cinnamon & allspice",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Give the gift of delicious, homemade, spiced plum chutney this Christmas by following this easy-to-make plum chutney recipe from the Jamie Oliver website.",
-    "description": "“If you’re not a fan of jams, this is a lovely way to use up plums, and it’s a joy to eat with a ploughman’s lunch! ”",
-    "servings": "Serves Makes 500ml",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes plus cooling"
+    name: "Spiced plum chutney",
+    subName: "With fresh bay, cinnamon & allspice",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Give the gift of delicious, homemade, spiced plum chutney this Christmas by following this easy-to-make plum chutney recipe from the Jamie Oliver website.",
+    description:
+      "“If you’re not a fan of jams, this is a lovely way to use up plums, and it’s a joy to eat with a ploughman’s lunch! ”",
+    servings: "Serves Makes 500ml",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Gift",
       "One-pan recipes",
-      "Sauces & condiments"
+      "Sauces & condiments",
     ],
-    "ingredients": [
+    ingredients: [
       "vegetable oil",
       "4 shallots",
       "1 kg mixed plums",
@@ -5021,44 +4962,45 @@
       "½ teaspoon ground ginger",
       "400 g brown sugar",
       "1 orange",
-      "cider vinegar"
+      "cider vinegar",
     ],
-    "instructions": [
+    instructions: [
       "Drizzle 1 tablespoon of oil in a large pan over a low heat. Peel and slice the shallots, then cook gently, or until softened and golden brown. Meanwhile, stone and chop the plums.",
       "Add the bay leaves and spices to the pan, fry for 1 minute then stir in the plums. Add the sugar and finely grate in the orange zest.",
       "Squeeze the orange juice into a measuring jug and top up to 450ml with cider vinegar. Add to the pan and bring to the boil, then reduce the heat and simmer slowly until most of the water has evaporated and the chutney is reduced and thick, stirring now and then as it cooks.",
-      "Spoon the chutney into sterilised jars and seal straight away. Leave to cool and store in a cupboard for a few weeks before eating."
+      "Spoon the chutney into sterilised jars and seal straight away. Leave to cool and store in a cupboard for a few weeks before eating.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/2JSuUZVHqjw8Hxu1xkzZUn.jpg",
-    "imageAlt": "Spiced plum chutney"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/2JSuUZVHqjw8Hxu1xkzZUn.jpg",
+    imageAlt: "Spiced plum chutney",
   },
   {
-    "name": "Mustard brisket with veg & beef broth",
-    "subName": "Mustard enhances the flavours it's combined with, adding lovely warmth and depth",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "Check out more of our recipes!",
-    "description": "“Tender shredded beef and chunky veggies meet in this nourishing broth. Divide between bowls or serve the broth with the meat and put the veg on a communal platter. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "4 hours 35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "4 hours 35 minutes"
+    name: "Mustard brisket with veg & beef broth",
+    subName:
+      "Mustard enhances the flavours it's combined with, adding lovely warmth and depth",
+    specialDiets: ["Dairy-free"],
+    metaDescription: "Check out more of our recipes!",
+    description:
+      "“Tender shredded beef and chunky veggies meet in this nourishing broth. Divide between bowls or serve the broth with the meat and put the veg on a communal platter. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "4 hours 35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "4 hours 35 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Dinner Party",
       "Father's day",
       "Sunday lunch",
-      "Bonfire night recipes"
+      "Bonfire night recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "3 sticks of celery",
       "2 carrots",
       "2 onion",
@@ -5075,9 +5017,9 @@
       "3 handfuls shallots",
       "3 handfuls baby carrots",
       "3 handfuls baby turnips",
-      "400 g new potatoes"
+      "400 g new potatoes",
     ],
-    "instructions": [
+    instructions: [
       "Trim and roughly chop the celery. Peel and roughly chop the carrots, then peel and roughly chop the onions.",
       "Season the beef well and sprinkle with mustard powder. Pour 1 tablespoon of oil into a large pan over a medium-high heat.",
       "Place the beef in the pan and sear for about 10 minutes, using tongs to turn it so that it’s cooked all over. Cover the beef with water.",
@@ -5085,38 +5027,38 @@
       "Cut the red cabbage into wedges, trim the leafy vegetables, and slice the gherkins lengthways. Trim and peel the shallots.",
       "After 3 hours 30 minutes, add the potatoes, baby carrots, baby turnips and shallots. Cook for a further 20 minutes. Add the cabbage and leafy vegetables for the last 10 minutes.",
       "When the meat is tender, remove from the broth with tongs and slice or shred with a carving knife.",
-      "Divide the broth between bowls and serve the brisket and vegetables on a platter along with the sliced gherkins."
+      "Divide the broth between bowls and serve the brisket and vegetables on a platter along with the sliced gherkins.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46260831.jpg",
-    "imageAlt": "Mustard brisket with veg & beef broth"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46260831.jpg",
+    imageAlt: "Mustard brisket with veg & beef broth",
   },
   {
-    "name": "Baked eggs in popped beans",
-    "subName": "Cherry tomatoes, ricotta on toast",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This baked eggs recipe from Jamie Oliver is the perfect way to start the day, the eggs are in popped beans with cherry tomatoes and ricotta on toast; delicious!",
-    "description": "“A super-delicious protein-rich, high-fibre recipe that's perfect for breakfast or brunch. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Baked eggs in popped beans",
+    subName: "Cherry tomatoes, ricotta on toast",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This baked eggs recipe from Jamie Oliver is the perfect way to start the day, the eggs are in popped beans with cherry tomatoes and ricotta on toast; delicious!",
+    description:
+      "“A super-delicious protein-rich, high-fibre recipe that's perfect for breakfast or brunch. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Everyday Super Food",
       "Eggs",
       "Bread",
       "Tomato",
       "Breakfast",
-      "Brilliant breakfast recipes"
+      "Brilliant breakfast recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g mixed-colour ripe cherry tomatoes",
       "½ a lemon",
       "extra virgin olive oil",
@@ -5127,87 +5069,86 @@
       "2 slices of seeded wholemeal bread",
       "2 heaped teaspoons ricotta cheese",
       "thick balsamic vinegar , optional",
-      "hot chilli sauce , optional"
+      "hot chilli sauce , optional",
     ],
-    "instructions": [
+    instructions: [
       "Halve the tomatoes, place in a bowl and toss with the lemon juice, 1 tablespoon of oil and a pinch of sea salt. Pick, tear and toss in the basil leaves (reserving the smaller ones for garnish), then leave aside to macerate for a few minutes.",
       "Meanwhile, place a large non-stick frying pan on a high heat.",
       "Drain the beans and put into the hot pan with the fennel seeds and a pinch of black pepper. Leave for 5 minutes, shaking occasionally – you want them to char and pop open, bursting their skins.",
       "Pour the macerated tomatoes into the pan with 100ml of water, season, then leave to bubble away vigorously for 1 minute.",
       "Crack in an egg on each side, then cover with a lid, plate or tin foil, reduce to a medium-low heat and slow-cook for 3 to 4 minutes for nice soft eggs, or longer if you prefer. Meanwhile, toast the bread.",
       "Divide the ricotta and spread over the two pieces of hot toast, then serve on the side of the baked eggs in beans.",
-      "Sprinkle the reserved baby basil leaves over the top and tuck right in. Nice finished with a drizzle of balsamic vinegar and/or a drizzle of hot chilli sauce. Delicious."
+      "Sprinkle the reserved baby basil leaves over the top and tuck right in. Nice finished with a drizzle of balsamic vinegar and/or a drizzle of hot chilli sauce. Delicious.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1578_9_1439906407.jpg",
-    "imageAlt": "Baked eggs in popped beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1578_9_1439906407.jpg",
+    imageAlt: "Baked eggs in popped beans",
   },
   {
-    "name": "Gooseberry & elderflower jam",
-    "subName": "Elderflower pairs so perfectly with gooseberries in this seasonal jam. ",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This stunning gooseberry and elderflower jam recipe from Jamie Oliver is not only delicious, it allows you preserve the taste of summer all year long.",
-    "description": "",
-    "servings": "Serves Makes 2 litres",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Gooseberry & elderflower jam",
+    subName:
+      "Elderflower pairs so perfectly with gooseberries in this seasonal jam. ",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This stunning gooseberry and elderflower jam recipe from Jamie Oliver is not only delicious, it allows you preserve the taste of summer all year long.",
+    description: "",
+    servings: "Serves Makes 2 litres",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Fruit",
       "Christmas",
       "Gift",
       "Breakfast",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 kg gooseberries",
       "12 elderflower heads , or 100ml elderflower cordial",
       "2 vanilla pods",
-      "750 g sugar"
+      "750 g sugar",
     ],
-    "instructions": [
+    instructions: [
       "Top and tail the gooseberries, discarding the hard ends, and place in a large saucepan. If you’re using elderflowers, tie them up in a piece of muslin and secure with string, then add to the saucepan. If using cordial, add to the pan with 150ml water. Bring to the boil, then reduce the heat and simmer for about 30 minutes, or until the fruit is tender and has broken down nicely. Remove from the heat, squeeze any liquid out of the elderflower parcel and discard.",
-      "Split the vanilla pod lengthways and scrape out the seeds. Add the sugar and the vanilla pod and seeds to the pan and boil over a high heat for about 10 minutes, skimming off any foam that forms on the surface. Pour through a strainer into sterilised jars and leave to cool before putting sealing with the lids."
+      "Split the vanilla pod lengthways and scrape out the seeds. Add the sugar and the vanilla pod and seeds to the pan and boil over a high heat for about 10 minutes, skimming off any foam that forms on the surface. Pour through a strainer into sterilised jars and leave to cool before putting sealing with the lids.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46258363.jpg",
-    "imageAlt": "Gooseberry & elderflower jam"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46258363.jpg",
+    imageAlt: "Gooseberry & elderflower jam",
   },
   {
-    "name": "Food Allergy Mums' chicken drumsticks",
-    "subName": "with colourful peppers",
-    "specialDiets": [],
-    "metaDescription": "If you're looking for a simple healthy one-pan supper, this delicious chicken drumsticks dish with colourful peppers ticks all the boxes. High in protein and flavour - perfect!",
-    "description": "",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Food Allergy Mums' chicken drumsticks",
+    subName: "with colourful peppers",
+    specialDiets: [],
+    metaDescription:
+      "If you're looking for a simple healthy one-pan supper, this delicious chicken drumsticks dish with colourful peppers ticks all the boxes. High in protein and flavour - perfect!",
+    description: "",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Family one-pan recipes",
       "Cheap & cheerful",
       "Lunch & dinner recipes",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "6-8 chicken drumsticks , (depending on the age and appetite of your children)",
       "½ a red pepper",
@@ -5216,44 +5157,47 @@
       "1 lemon",
       "200 ml chicken stock , (see tip)",
       "1 small bay leaf",
-      "1 small handful of fresh parsley"
+      "1 small handful of fresh parsley",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6.",
       "Heat a little oil in a frying pan over a medium to high heat and add the chicken drumsticks. Cook for a few minutes, just to allow the skin to take on a bit of colour.",
       "Deseed and slice the peppers and cut the lemon into quarters.",
       "If your frying pan is ovenproof, add the rest of the ingredients (apart from the parsley) to the pan. If not, just transfer the chicken drumsticks to a roasting tin and then add the rest of the ingredients (apart from the parsley).",
       "Season with freshly ground black pepper to taste. Pop in the oven for 30 to 35 minutes to cook. The chicken skin should be golden and the flesh cooked through (check by cutting into a thick piece of the drumstick to see that the juices are clear), the stock will have reduced to make a nice sauce, with a subtle lemon taste. If you prefer a thicker sauce, you can reduce it a little further on the hob.",
-      "Remove the lemon quarters and bay leaf. Chop the parsley and sprinkle over before serving."
+      "Remove the lemon quarters and bay leaf. Chop the parsley and sprinkle over before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/4z5CkBWEqaP83dEWBKDc02.jpg",
-    "imageAlt": "Food Allergy Mums' chicken drumsticks"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/4z5CkBWEqaP83dEWBKDc02.jpg",
+    imageAlt: "Food Allergy Mums' chicken drumsticks",
   },
   {
-    "name": "Chicken & garlic bread kebabs",
-    "subName": "Blood orange, spinach & feta",
-    "specialDiets": [],
-    "metaDescription": "A garlic bread and chicken kebab recipe with blood orange, spinach and feta is great for the whole family to enjoy and makes a great addition to any BBQ.",
-    "description": "“A genius kebab recipe combo of toasted garlic bread and juicy chicken ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Chicken & garlic bread kebabs",
+    subName: "Blood orange, spinach & feta",
+    specialDiets: [],
+    metaDescription:
+      "A garlic bread and chicken kebab recipe with blood orange, spinach and feta is great for the whole family to enjoy and makes a great addition to any BBQ.",
+    description:
+      "“A genius kebab recipe combo of toasted garlic bread and juicy chicken ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Chicken",
       "Alfresco",
       "Australia day",
       "Bread",
-      "Fruit"
+      "Fruit",
     ],
-    "ingredients": [
+    ingredients: [
       "2 sprigs of fresh rosemary",
       "2 cloves of garlic",
       "extra virgin olive oil",
@@ -5266,45 +5210,46 @@
       "100 g baby spinach",
       "1 lemon",
       "1 tablespoon balsamic vinegar",
-      "20 g feta cheese"
+      "20 g feta cheese",
     ],
-    "instructions": [
+    instructions: [
       "Pick the rosemary leaves and smash up in a pestle and mortar with a pinch of sea salt. Peel and crush in the garlic, then muddle in 1 tablespoon of oil, the vinegar and a generous pinch of cayenne.",
       "Chop the chicken and bread into 2cm chunks and, in a bowl, toss and mix well with the marinade until evenly coated.",
       "Take a little care in skewering up the chicken and bread chunks, randomly interspersing them with the bay leaves on four short skewers and using hardy rosemary stalks, wooden or metal skewers as appropriate. Of course, check that the skewers will fit inside your largest non-stick frying pan.",
       "Place the frying pan on a medium-high heat. Lay the skewers in the pan and cook for 4 to 5 minutes on each side, or until cooked through and golden. I like to place a lid and weight on top so that the chicken makes really nice contact with the pan and gets super-crispy.",
-      "Meanwhile, top and tail the blood oranges, trim off the peel, then slice into rounds. Dress the spinach with a squeeze of lemon juice and a drizzle of oil, arrange on your plates with the blood oranges and drizzle with the balsamic. Top with the kebabs, crumble over the feta and serve with lemon wedges."
+      "Meanwhile, top and tail the blood oranges, trim off the peel, then slice into rounds. Dress the spinach with a squeeze of lemon juice and a drizzle of oil, arrange on your plates with the blood oranges and drizzle with the balsamic. Top with the kebabs, crumble over the feta and serve with lemon wedges.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1582_9_1439906331.jpg",
-    "imageAlt": "Chicken & garlic bread kebabs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1582_9_1439906331.jpg",
+    imageAlt: "Chicken & garlic bread kebabs",
   },
   {
-    "name": "Thai green chicken curry",
-    "subName": "With homemade curry paste",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This Thai green chicken curry recipe is a real classic. The Thai green curry paste ingredients are an epic flavour combo that won't disappoint. It's fiery!",
-    "description": "“This deliciously fragrant Thai green curry really packs a flavour punch. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Thai green chicken curry",
+    subName: "With homemade curry paste",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This Thai green chicken curry recipe is a real classic. The Thai green curry paste ingredients are an epic flavour combo that won't disappoint. It's fiery!",
+    description:
+      "“This deliciously fragrant Thai green curry really packs a flavour punch. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Dinner Party",
       "Asian",
       "Mushroom",
       "Curry",
-      "Chicken thighs"
+      "Chicken thighs",
     ],
-    "ingredients": [
+    ingredients: [
       "750 g skinless free-range chicken thighs",
       "groundnut oil",
       "400 g mixed oriental mushrooms",
@@ -5322,9 +5267,9 @@
       "4 green Bird's eye chillies",
       "1 teaspoon ground cumin",
       "½ a bunch of fresh coriander",
-      "2 tablespoons fish sauce"
+      "2 tablespoons fish sauce",
     ],
-    "instructions": [
+    instructions: [
       "To make the curry paste, peel, roughly chop and place the garlic, shallots and ginger into a food processor.",
       "Trim the lemongrass, remove the tough outer leaves, then finely chop and add to the processor. Trim and add the chillies along with the cumin and half the coriander (stalks and all). Blitz until finely chopped, add the fish sauce and blitz again.",
       "Slice the chicken into 2.5cm strips. Heat 1 tablespoon of oil in a large pan on a medium heat, add the chicken and fry for 5 to 7 minutes, or until just turning golden, then transfer to a plate.",
@@ -5332,41 +5277,39 @@
       "Reduce the heat to medium-low and add the Thai green paste for 4 to 5 minutes, stirring occasionally.",
       "Pour in the coconut milk and 200ml of boiling water, crumble in the stock cube and add the lime leaves. Turn the heat up and bring gently to the boil, then simmer for 10 minutes, or until reduced slightly.",
       "Stir in the chicken and mushrooms, reduce the heat to low and cook for a further 5 minutes, or until the chicken is cooked through, adding the mangetout for the final 2 minutes.",
-      "Season carefully to taste with sea salt and freshly ground black pepper. Pick, roughly chop and stir through the basil leaves and remaining coriander leaves. Serve with lime wedges and steamed rice."
+      "Season carefully to taste with sea salt and freshly ground black pepper. Pick, roughly chop and stir through the basil leaves and remaining coriander leaves. Serve with lime wedges and steamed rice.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1575_2_1437576282.jpg",
-    "imageAlt": "Thai green chicken curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1575_2_1437576282.jpg",
+    imageAlt: "Thai green chicken curry",
   },
   {
-    "name": "Classic ratatouille",
-    "subName": "Aubergines, courgettes & peppers",
-    "specialDiets": [
-      "Vegan",
-      "Vegetarian",
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Jamie Oliver's best ratatouille recipe shows you how to make ratatouille from scratch, and it couldn't be easier. Plus, it's packed with gorgeous veggies.",
-    "description": "“This moreish Mediterranean-style vegetable stew is perfect for a super-healthy midweek supper. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes"
+    name: "Classic ratatouille",
+    subName: "Aubergines, courgettes & peppers",
+    specialDiets: ["Vegan", "Vegetarian", "Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Jamie Oliver's best ratatouille recipe shows you how to make ratatouille from scratch, and it couldn't be easier. Plus, it's packed with gorgeous veggies.",
+    description:
+      "“This moreish Mediterranean-style vegetable stew is perfect for a super-healthy midweek supper. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "French",
       "Courgette",
       "Tomato",
       "Family one-pan recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "2 red onions",
       "4 cloves of garlic",
       "2 aubergines",
@@ -5378,86 +5321,86 @@
       "a few sprigs of fresh thyme",
       "1 x 400 g tin of quality plum tomatoes",
       "1 tablespoon balsamic vinegar",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "Prep your ingredients before you start – peel and cut the onions into wedges, then peel and finely slice the garlic. Trim the aubergines and courgettes, deseed the peppers and chop into 2.5cm chunks. Roughly chop the tomatoes. Pick the basil leaves and set aside, then finely slice the stalks.",
       "Heat 2 tablespoons of oil in a large casserole pan or saucepan over a medium heat, add the chopped aubergines, courgettes and peppers (you may need to do this in batches) and fry for around 5 minutes, or until golden and softened, but not cooked through. Spoon the cooked veg into a large bowl.",
       "To the pan, add the onion, garlic, basil stalks and thyme leaves with another drizzle of oil, if needed. Fry for 10 to 15 minutes, or until softened and golden.",
       "Return the cooked veg to the pan and stir in the fresh and tinned tomatoes, the balsamic and a good pinch of sea salt and black pepper.",
       "Mix well, breaking up the tomatoes with the back of a spoon. Cover the pan and simmer over a low heat for 30 to 35 minutes, or until reduced, sticky and sweet.",
-      "Tear in the basil leaves, finely grate in the lemon zest and adjust the seasoning, if needed. Serve with a hunk of bread or steamed rice."
+      "Tear in the basil leaves, finely grate in the lemon zest and adjust the seasoning, if needed. Serve with a hunk of bread or steamed rice.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1571_2_1437661403.jpg",
-    "imageAlt": "Classic ratatouille"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1571_2_1437661403.jpg",
+    imageAlt: "Classic ratatouille",
   },
   {
-    "name": "Baked paprika cheese",
-    "subName": "Smokey, gooey & delicious",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "A baked cheese recipe is always going to be a crowd-pleaser. This gooey, melty baked cheese from Jamie magazine is topped off with paprika for a smoky flavour that makes it totally irresistible.",
-    "description": "“For this recipe we used Torta del Casar, a soft-centered sheep’s milk cheese from Extremadura. If you can’t find it, try similar French or Portuguese cheeses that bake well. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Baked paprika cheese",
+    subName: "Smokey, gooey & delicious",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "A baked cheese recipe is always going to be a crowd-pleaser. This gooey, melty baked cheese from Jamie magazine is topped off with paprika for a smoky flavour that makes it totally irresistible.",
+    description:
+      "“For this recipe we used Torta del Casar, a soft-centered sheep’s milk cheese from Extremadura. If you can’t find it, try similar French or Portuguese cheeses that bake well. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Spanish",
       "Bread",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "Torta del Casar cheese , in box",
       "2 teaspoons sweet smoked paprika , plus extra for sprinkling",
-      "country-style bread , toasted or grilled, to serve"
+      "country-style bread , toasted or grilled, to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat your oven to 180C/gas 4. Cut off the top of the cheese with a knife and sprinkle with the paprika.",
       "Place the cheese on a baking tray, pop it in the oven and cook for 15 minutes, until the cheese is very soft and gooey. Transfer it onto a plate and sift over a little extra paprika.",
-      "Serve the baked cheese immediately with the toasted or grilled bread on the side."
+      "Serve the baked cheese immediately with the toasted or grilled bread on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1569_1_1437987257.jpg",
-    "imageAlt": "Baked paprika cheese"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1569_1_1437987257.jpg",
+    imageAlt: "Baked paprika cheese",
   },
   {
-    "name": "Sancochado",
-    "subName": "Beef brisket, root veg & corn hotpot",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This sancochado recipe is a flavoursome soup with beef and vegetables; a comforting South American dish that has captivated Peruvian palates for generations",
-    "description": "“This hearty dish is super-simple to make – give it a go! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "3 hours",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "3 hours"
+    name: "Sancochado",
+    subName: "Beef brisket, root veg & corn hotpot",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This sancochado recipe is a flavoursome soup with beef and vegetables; a comforting South American dish that has captivated Peruvian palates for generations",
+    description: "“This hearty dish is super-simple to make – give it a go! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "3 hours",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "3 hours",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Beef",
       "Sunday lunch",
       "Peruvian",
       "Sweet potato",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg rolled beef brisket",
       "4 sticks of celery",
       "2 onions",
@@ -5465,187 +5408,185 @@
       "3 cobs of corn",
       "2 large sweet potatoes",
       "1 savoy cabbage",
-      "dried oregano"
+      "dried oregano",
     ],
-    "instructions": [
+    instructions: [
       "Put the beef in a large pan and cover with cold water.",
       "Roughly chop the celery (reserve the leaves for later), then peel and cut the onions into 2.5cm wedges. Peel and slice the carrots at an angle into 5cm pieces, then cut the corn into chunks, roughly the same size. Peel and cut the sweet potatoes into 4cm chunks, then cut the cabbage into wedges.",
       "Add the celery and onions to the pan, season with 1 teaspoon of sea salt and a generous pinch of black pepper, then gently bring to the boil. Reduce to a simmer, cover with a lid and leave to tick away for 2 hours.",
       "After 1 hour 10 minutes, add the carrots and corn to the pan, then simmer for about 15 minutes, or until cooked. Remove with a slotted spoon and set aside.",
       "Add the sweet potatoes to the pan and cook for the final 30 minutes, throwing in the cabbage halfway through.",
       "Transfer the meat to a board, sprinkle over the oregano and leave to rest for a few minutes.",
-      "Return all the cooked veg to the broth and bring back to the boil to warm through. Divide the veg among your bowls and top with the broth. Slice and add the beef, then serve with the celery leaves scattered on top."
+      "Return all the cooked veg to the broth and bring back to the boil to warm through. Divide the veg among your bowls and top with the broth. Slice and add the beef, then serve with the celery leaves scattered on top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1563_1_1436884513.jpg",
-    "imageAlt": "Sancochado"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1563_1_1436884513.jpg",
+    imageAlt: "Sancochado",
   },
   {
-    "name": "Gennaro's pasta frittata – lots of ways",
-    "subName": "Perfect for picnics",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "This pasta frittata recipe from Gennaro's is an easy and delicious dish; using pasta is a convenient alternative and can be enjoyed both hot and cold.",
-    "description": "“Delicious hot or cold, pasta frittata is a great way of using up leftover pasta and it’s super quick to make ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Gennaro's pasta frittata – lots of ways",
+    subName: "Perfect for picnics",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "This pasta frittata recipe from Gennaro's is an easy and delicious dish; using pasta is a convenient alternative and can be enjoyed both hot and cold.",
+    description:
+      "“Delicious hot or cold, pasta frittata is a great way of using up leftover pasta and it’s super quick to make ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Italian",
       "Leftovers",
       "Cheap & cheerful",
       "Mains",
       "One-pan recipes",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "4 large eggs",
       "40 g Parmesan cheese , plus extra to serve",
       "sea salt",
       "freshly ground black pepper",
       "400 g leftover cooked pasta",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200°C/400°F/gas 6. Beat the eggs in a large bowl, then finely grate in the Parmesan. Season with a little salt and a good twist of pepper. Whisk well, then stir in your pasta.",
       "To cook the frittata, heat 3 tablespoons of oil in a 26cm non-stick ovenproof frying pan over a medium heat. Add the frittata mixture and cook for about 5 minutes, or until crisp underneath, then place in the oven for another 5 minutes, or until firm. Carefully flip the frittata onto a large plate, then slide it back into the pan and return it to the oven for a further 5 minutes, or until crisp underneath. Serve with an extra grating of Parmesan.",
       "If you’ve got about 400g of leftover cooked pasta that is already coated in sauce, you can swap that in for an easy twist on my basic recipe. Or try making a pizzaiola pasta frittata – make the basic pasta frittata (I like to use fusilli, but use whatever shape you have), then serve by slicing and layering over 6 ripe cherry tomatoes and 40g of fontina cheese. Scatter over a few fresh basil leaves, and finish with an extra grating of Parmesan.",
       "If it’s springtime, make the basic recipe extra special by adding peas and pancetta. Heat 1½ tablespoons of extra virgin olive oil in a 26cm non-stick ovenproof frying pan. Peel, finely slice and add 1 onion, then sweat for a few minutes. Very finely slice 6 higher-welfare slices of pancetta and add to the pan for a further 2 to 3 minutes. Stir in 200g of peas, pour in 400ml of hot water, then turn the heat up to high and bring to the boil. Leave it to simmer for 10 to 15 minutes, or until the liquid has evaporated, then cool. Make the basic pasta frittata mixture, finely chop and add the leaves from 4 sprigs of fresh mint,, squeeze in the juice from 1 lemon, then stir in the cooled pea mixture. Cook your frittata as above, and serve with an extra grating of Parmesan.",
-      "Tip: Pasta frittata is delicious served hot or cold – I like to wrap it up to have as a snack during a long walk or a day out foraging in the woods or, take it out for a picnic."
+      "Tip: Pasta frittata is delicious served hot or cold – I like to wrap it up to have as a snack during a long walk or a day out foraging in the woods or, take it out for a picnic.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1561_1_1436870629.jpg",
-    "imageAlt": "Gennaro's pasta frittata – lots of ways"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1561_1_1436870629.jpg",
+    imageAlt: "Gennaro's pasta frittata – lots of ways",
   },
   {
-    "name": "Classic guacamole",
-    "subName": "Deliciously creamy with a hit of chilli",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Ever wondered how to make guacamole? This is Jamie Oliver’s best guacamole recipe. Perfect for dunking, spreading and dipping, guacamole is definitely the King of the Dips.",
-    "description": "“Super-quick and easy, this tasty guacamole recipe takes just 10 minutes to knock together. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Classic guacamole",
+    subName: "Deliciously creamy with a hit of chilli",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Ever wondered how to make guacamole? This is Jamie Oliver’s best guacamole recipe. Perfect for dunking, spreading and dipping, guacamole is definitely the King of the Dips.",
+    description:
+      "“Super-quick and easy, this tasty guacamole recipe takes just 10 minutes to knock together. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Mexican",
       "Healthy snack ideas",
       "One-pan recipes",
       "Quick fixes",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "½ a small red onion",
       "1-2 fresh red chillies",
       "3 ripe avocados",
       "1 bunch of fresh coriander",
       "6 ripe cherry tomatoes",
       "2 limes",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Peel the onion and deseed 1 chilli, then roughly chop it all on a large board.",
       "Destone the avocados and scoop the flesh onto the board.",
       "Start chopping it all together until fine and well combined.",
       "Pick over most of the coriander leaves, roughly chop and add the tomatoes, then continue chopping it all together.",
       "Add the juice from 1 lime and 1 tablespoon of oil, then season to taste with sea salt, black pepper and more lime juice, if needed.",
-      "Deseed, finely chop and scatter over the remaining chilli if you like more of a kick. Pick over the reserved coriander leaves, then serve."
+      "Deseed, finely chop and scatter over the remaining chilli if you like more of a kick. Pick over the reserved coriander leaves, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1554_2_1441789324.jpg",
-    "imageAlt": "Classic guacamole"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1554_2_1441789324.jpg",
+    imageAlt: "Classic guacamole",
   },
   {
-    "name": "Classic tomato salsa",
-    "subName": "Jalapeños, fresh coriander & zingy lime",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This fresh and healthy tomato salsa recipe from Jamie Oliver is perfect for the summer; easy to prepare, it is a great for dunking or as a side dish.",
-    "description": "“This simple tomato salsa is a great accompaniment to grilled fish and meat, or fajitas. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Classic tomato salsa",
+    subName: "Jalapeños, fresh coriander & zingy lime",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This fresh and healthy tomato salsa recipe from Jamie Oliver is perfect for the summer; easy to prepare, it is a great for dunking or as a side dish.",
+    description:
+      "“This simple tomato salsa is a great accompaniment to grilled fish and meat, or fajitas. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Mexican",
       "Tomato",
       "Healthy snack ideas",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "6 ripe tomatoes",
       "1 big bunch of fresh coriander",
       "1 onion",
       "2 fresh jalapeño or green chillies",
       "1 large clove of garlic",
       "1-2 limes",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Finely chop the tomatoes and coriander (stalks and all) and place into a large bowl.",
       "Peel and finely chop the onion, deseed and finely chop the chillies, then scrape into the bowl. Peel and finely grate in the garlic.",
       "Squeeze in the juice from 1 lime, add 2 tablespoons of extra virgin olive oil, and mix well. Season to taste with sea salt, black pepper and more lime juice, if needed.",
-      "Serve straightaway or cover and set aside for a few hours to let all those flavours develop."
+      "Serve straightaway or cover and set aside for a few hours to let all those flavours develop.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1553_2_1432725629.jpg",
-    "imageAlt": "Classic tomato salsa"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1553_2_1432725629.jpg",
+    imageAlt: "Classic tomato salsa",
   },
   {
-    "name": "Chargrilled chicken kebabs",
-    "subName": "Spiced with garam masala, paprika & turmeric",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "A grilled chicken kebab recipe that's perfect for a barbecue or summer party. Learn how to make chicken skewers with this easy step-by-step recipe. Yum!",
-    "description": "“These tasty kebabs are perfect on the barbecue, but work really well on a grill, too. Kids go mad for them! ”",
-    "servings": "Serves Makes 12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Chargrilled chicken kebabs",
+    subName: "Spiced with garam masala, paprika & turmeric",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "A grilled chicken kebab recipe that's perfect for a barbecue or summer party. Learn how to make chicken skewers with this easy step-by-step recipe. Yum!",
+    description:
+      "“These tasty kebabs are perfect on the barbecue, but work really well on a grill, too. Kids go mad for them! ”",
+    servings: "Serves Makes 12",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Chicken",
       "Alfresco",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "3 cm piece of ginger",
       "140 g natural yoghurt",
@@ -5655,9 +5596,9 @@
       "½ teaspoon smoked paprika",
       "½ teaspoon ground turmeric",
       "4 free-range skinless chicken breasts",
-      "1 large red pepper"
+      "1 large red pepper",
     ],
-    "instructions": [
+    instructions: [
       "Place 12 wooden skewers into a large roasting tray of cold water to soak – this will stop them from burning.",
       "Peel the garlic and ginger, then finely grate and place into a large mixing bowl.",
       "Add the yoghurt, passata, 1 tablespoon of oil and the spices, then mix well.",
@@ -5668,43 +5609,44 @@
       "Divide and thread the ingredients between your skewers – don’t push them too close together otherwise they won’t cook properly, then place onto the tray.",
       "Put the griddle pan on a high heat to warm up (or you could cook them under the grill or on the barbecue).",
       "Drizzle the skewers with a little oil, then place onto griddle and cook for 10 to 15 minutes, or until cooked through, turning every 2 minutes to get nice and golden on all sides – you may need to work in batches.",
-      "Once cooked, transfer the kebabs to a platter and serve with a fresh zingy salad and some rice or flatbreads."
+      "Once cooked, transfer the kebabs to a platter and serve with a fresh zingy salad and some rice or flatbreads.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1550_1_1436968650.jpg",
-    "imageAlt": "Chargrilled chicken kebabs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1550_1_1436968650.jpg",
+    imageAlt: "Chargrilled chicken kebabs",
   },
   {
-    "name": "Chargrilled monkfish kebabs",
-    "subName": "With a lemony twist",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This fish kebab recipe from Jamie Oliver is zingy, fresh and fun to eat! Chat to your fishmonger and mix up the fish you use, depending on what's sustainable.",
-    "description": "“These kebabs are zingy, fresh and fun to eat! Chat to your fishmonger and mix up the fish you use, depending on what's sustainable. ”",
-    "servings": "Serves Makes 6",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Chargrilled monkfish kebabs",
+    subName: "With a lemony twist",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This fish kebab recipe from Jamie Oliver is zingy, fresh and fun to eat! Chat to your fishmonger and mix up the fish you use, depending on what's sustainable.",
+    description:
+      "“These kebabs are zingy, fresh and fun to eat! Chat to your fishmonger and mix up the fish you use, depending on what's sustainable. ”",
+    servings: "Serves Makes 6",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "Lunch & dinner recipes",
       "Mains",
       "One-pan recipes",
-      "BBQ food"
+      "BBQ food",
     ],
-    "ingredients": [
+    ingredients: [
       "100 g ciabatta",
       "600 g monkfish fillets or other firm fish, skin off, pin-boned, trimmed , from sustainable sources",
       "1 lemon",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Place 6 wooden skewers into a large roasting tray of cold water to soak – this will stop them from burning.",
       "On a chopping board, slice the crusts off the ciabatta, then cut into 2cm chunks. Place into a large mixing bowl with a splash of boiling water and toss together.",
       "Slice the fish into even-sized chunks, roughly the same size as the ciabatta.",
@@ -5715,39 +5657,39 @@
       "Place each one onto the tray.",
       "Put the griddle pan on a high heat to warm up (or you could cook them under the grill).",
       "Place the skewers onto the griddle pan and cook for 10 to 15 minutes or until cooked through, turning every 2 minutes to get nice and golden on all sides – you may need to do this in batches.",
-      "Once cooked, transfer the kebabs to a serving platter and serve with a fresh zingy salad and some rice or flatbreads."
+      "Once cooked, transfer the kebabs to a serving platter and serve with a fresh zingy salad and some rice or flatbreads.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1549_1_1436535591.jpg",
-    "imageAlt": "Chargrilled monkfish kebabs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1549_1_1436535591.jpg",
+    imageAlt: "Chargrilled monkfish kebabs",
   },
   {
-    "name": "Kerryann’s hidden vegetable pasta sauce",
-    "subName": "Tasty, versatile and packed with veg – this sauce is genius!",
-    "specialDiets": [
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Looking for a really easy way to get the kids to eat more veg? This super-easy sauce of courgettes, mushrooms, aubergine and tomatoes is a great place to start ",
-    "description": "“This is my all-time favourite recipe and a great way to get my kids eating vegetables. If you have a couple of fresh rosemary or thyme sprigs lying around, chuck them in too for added flavour. ”",
-    "servings": "Serves Makes 3 litres",
-    "time": {
-      "prep": "",
-      "cook": "2 hours",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours"
+    name: "Kerryann’s hidden vegetable pasta sauce",
+    subName: "Tasty, versatile and packed with veg – this sauce is genius!",
+    specialDiets: ["Vegan", "Vegetarian"],
+    metaDescription:
+      "Looking for a really easy way to get the kids to eat more veg? This super-easy sauce of courgettes, mushrooms, aubergine and tomatoes is a great place to start ",
+    description:
+      "“This is my all-time favourite recipe and a great way to get my kids eating vegetables. If you have a couple of fresh rosemary or thyme sprigs lying around, chuck them in too for added flavour. ”",
+    servings: "Serves Makes 3 litres",
+    time: {
+      prep: "",
+      cook: "2 hours",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Tube: The Family Cookbook",
       "Vegetables",
       "Tomato",
       "Mains",
       "One-pan recipes",
-      "Sauces & condiments"
+      "Sauces & condiments",
     ],
-    "ingredients": [
+    ingredients: [
       "2 medium onions",
       "4 cloves of garlic",
       "1 large leek",
@@ -5762,48 +5704,47 @@
       "1 fresh bay leaf",
       "2 x 400 g tins of chopped tomatoes , or 2 x 500g cartons of passata",
       "1 teaspoon caster sugar",
-      "850 ml organic vegetable stock"
+      "850 ml organic vegetable stock",
     ],
-    "instructions": [
+    instructions: [
       "Peel and very roughly chop the onions, garlic and carrots, and trim the leek and celery, then blitz in a food processor until finely chopped (if you want your sauce a little chunkier, coarsely grate them instead, using a box grater).",
       "Heat the oil in your largest heavy-based pan over a medium heat, then add the onion mixture and fry for 10 minutes, or until softened, stirring occasionally.",
       "Finely chop the remaining vegetables (again, coarsely grate, or roughly chop by hand for a chunkier sauce), then add to the pan and fry over a low heat for a further 20 minutes, or until softened, stirring occasionally.",
       "Stir in the oregano, tomato purée and bay leaf, fry for 2 to 3 minutes, then pour in the chopped tomatoes or passata.",
       "Add the sugar and vegetable stock (I try to use homemade stock, but if you’ve only got stock cubes, that’s fine too), then cover and let it bubble away over a low heat for 30 minutes to 1 hour, stirring occasionally – the longer you cook it, the more the flavour will develop as it reduces and thickens.",
       "When it’s ready, fish out the bay leaf and season to how you like it (it’s important to season the sauce right at the end – it will thicken and intensify in flavour as it cooks, so you might find it’s salty enough already).",
-      "Divide the sauce between freezer-proof containers and leave to cool, then label and pop into the freezer for up to 3 months, to use whenever you like. This is great as a simple pasta sauce or in my lasagne, with simple spaghetti & meatballs or as a tasty base for pizza."
+      "Divide the sauce between freezer-proof containers and leave to cool, then label and pop into the freezer for up to 3 months, to use whenever you like. This is great as a simple pasta sauce or in my lasagne, with simple spaghetti & meatballs or as a tasty base for pizza.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46487893.jpg",
-    "imageAlt": "Kerryann’s hidden vegetable pasta sauce"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46487893.jpg",
+    imageAlt: "Kerryann’s hidden vegetable pasta sauce",
   },
   {
-    "name": "Vegetable noodle stir-fry",
-    "subName": "Plum sauce, runny honey & soy",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Can't decide what to eat? Why not try this simple and delicious vegetable stir-fry recipe from Jamie Oliver; a midweek meal perfect for the whole family.",
-    "description": "“This genius veggie stir-fry is a delicious answer to midweek dinner dilemmas. Toast a handful of sesame seeds in a dry pan until golden, then sprinkle over the top before serving for an added nutty crunch if you like. Enjoy! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Vegetable noodle stir-fry",
+    subName: "Plum sauce, runny honey & soy",
+    specialDiets: ["Dairy-free", "Vegetarian"],
+    metaDescription:
+      "Can't decide what to eat? Why not try this simple and delicious vegetable stir-fry recipe from Jamie Oliver; a midweek meal perfect for the whole family.",
+    description:
+      "“This genius veggie stir-fry is a delicious answer to midweek dinner dilemmas. Toast a handful of sesame seeds in a dry pan until golden, then sprinkle over the top before serving for an added nutty crunch if you like. Enjoy! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Asian",
       "Mains",
       "One-pan recipes",
       "Quick fixes",
-      "Sides"
+      "Sides",
     ],
-    "ingredients": [
+    ingredients: [
       "250 g thin free-range egg noodles",
       "2 limes",
       "3 tablespoons plum sauce",
@@ -5819,9 +5760,9 @@
       "100 g beansprouts",
       "100 g frozen peas",
       "2 tablespoons vegetable oil",
-      "sesame oil , optional"
+      "sesame oil , optional",
     ],
-    "instructions": [
+    instructions: [
       "Cook the noodles according to packet instructions, then drain and refresh under cold running water and drain again – this will stop them from cooking further.",
       "Tip the noodles into a large mixing bowl, pulling them apart with your fingers, then put aside.",
       "Squeeze the juice from 1 lime into a small mixing bowl and stir in the plum sauce, honey and a dash of soy sauce.",
@@ -5829,41 +5770,39 @@
       "Put a large wok on a high heat and when screaming hot, add the vegetable oil, garlic and ginger. Fry for a few seconds, then add all the prepped veg and stir-fry everything together for 1 minute, before adding the noodles, beansprouts and frozen peas.",
       "Stir all the ingredients together, making sure nothing’s stuck to the bottom, then cover with a lid and cook for a couple of minutes.",
       "When the noodles and veg are hot through, push the mix to one side of the pan and pour in the sauce. When it starts bubbling, mix through the noodles, loosening with a splash of water, if needed.",
-      "Remove from the heat, then taste and add a little more soy, if necessary. Drizzle lightly with sesame oil (if using), then serve up right away with the remaining lime cut into wedges for squeezing over."
+      "Remove from the heat, then taste and add a little more soy, if necessary. Drizzle lightly with sesame oil (if using), then serve up right away with the remaining lime cut into wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1495_1_1436962586.jpg",
-    "imageAlt": "Vegetable noodle stir-fry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1495_1_1436962586.jpg",
+    imageAlt: "Vegetable noodle stir-fry",
   },
   {
-    "name": "Simple chopped salad",
-    "subName": "Easy, delicious and healthy",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Creamy avocado, fresh basil, crunchy lettuce and a beautiful lemony dressing – this green salad recipe is sure to perk up any meal. Great as a barbecue side dish.",
-    "description": "“You can serve this salad as a lovely side dish, or use it as a base to experiment with ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Simple chopped salad",
+    subName: "Easy, delicious and healthy",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Creamy avocado, fresh basil, crunchy lettuce and a beautiful lemony dressing – this green salad recipe is sure to perk up any meal. Great as a barbecue side dish.",
+    description:
+      "“You can serve this salad as a lovely side dish, or use it as a base to experiment with ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
       "One-pan recipes",
       "Prep & go recipes",
-      "Quick & easy recipes"
+      "Quick & easy recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 spring onions",
       "1 cucumber",
       "a few sprigs of fresh basil",
@@ -5873,9 +5812,9 @@
       "3 tablespoons extra virgin olive oil",
       "1 lemon",
       "sea salt",
-      "freshly ground black pepper"
+      "freshly ground black pepper",
     ],
-    "instructions": [
+    instructions: [
       "Chopped salads are incredibly simple to prepare. Anyone can make them – just make sure you use a good, sharp chef’s knife and your biggest chopping board – and watch your fingers!",
       "It’s best to start chopping the harder, crunchier veg first – trim the ends off the spring onions and cucumber on a large chopping board, then roughly chop them.",
       "Pick and roughly chop the basil leaves, discarding the stalks, and bring to the middle of the board along with the spring onions and cucumber and continue chopping and mixing everything together as you go.",
@@ -5886,45 +5825,45 @@
       "Once everything is chopped, you’ll have a big mound of salad on the board – make a well in the middle and add the extra virgin olive oil.",
       "Cut the lemon in half.",
       "Squeeze over the juice, using your fingers to catch any pips.",
-      "Add a tiny pinch of salt and pepper, and toss together so everything is nicely coated, then serve."
+      "Add a tiny pinch of salt and pepper, and toss together so everything is nicely coated, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1494_2_1434020579.jpg",
-    "imageAlt": "Simple chopped salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1494_2_1434020579.jpg",
+    imageAlt: "Simple chopped salad",
   },
   {
-    "name": "Tomato & basil omelette",
-    "subName": "A super-quick, easy and delicious meal",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's tomato and basil omelette recipe is really simple and delicious – use fresh tomatoes and basil for a surprisingly quick and tasty meal.",
-    "description": "“The classic combination of tomato and basil makes this simple omelette really sing. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "25 minutes"
+    name: "Tomato & basil omelette",
+    subName: "A super-quick, easy and delicious meal",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Jamie's tomato and basil omelette recipe is really simple and delicious – use fresh tomatoes and basil for a surprisingly quick and tasty meal.",
+    description:
+      "“The classic combination of tomato and basil makes this simple omelette really sing. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "25 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Tomato",
       "Breakfast",
       "Cheap & cheerful",
       "Family one-pan recipes",
-      "Meals for one"
+      "Meals for one",
     ],
-    "ingredients": [
+    ingredients: [
       "2 sprigs of fresh basil",
       "3 cherry tomatoes",
       "2 large eggs",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Pick the leaves off the basil and roughly tear them.",
       "Cut the cherry tomatoes in half on a chopping board.",
       "Crack the eggs into a mixing bowl.",
@@ -5936,38 +5875,32 @@
       "Turn the heat down to low and sprinkle over the basil leaves.",
       "Carefully pour in the eggs, then tilt the pan to spread them out evenly.",
       "Using a fork, swirl the eggs around the pan a little.",
-      "When the omelette begins to cook and firm up, but still has a little raw egg on top, use a spatula to ease around the edges of the omelette, then fold it over in half – when it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate."
+      "When the omelette begins to cook and firm up, but still has a little raw egg on top, use a spatula to ease around the edges of the omelette, then fold it over in half – when it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1490_1_1436957856.jpg",
-    "imageAlt": "Tomato & basil omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1490_1_1436957856.jpg",
+    imageAlt: "Tomato & basil omelette",
   },
   {
-    "name": "Jools’ easy chicken curry",
-    "subName": "A delicious dinner for the whole family",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Try this chicken and lentil curry for a family fakeaway. It's a mild curry for kids, but the adults will love it, too. Great with rice, poppadoms & chutney.",
-    "description": "“Easy-to-make, mild and healthy, this chicken curry recipe is an Oliver family favourite. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Jools’ easy chicken curry",
+    subName: "A delicious dinner for the whole family",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Try this chicken and lentil curry for a family fakeaway. It's a mild curry for kids, but the adults will love it, too. Great with rice, poppadoms & chutney.",
+    description:
+      "“Easy-to-make, mild and healthy, this chicken curry recipe is an Oliver family favourite. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Chicken",
-      "Indian",
-      "Tomato",
-      "Chicken thighs",
-      "Lentil",
-      "Curry"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Chicken", "Indian", "Tomato", "Chicken thighs", "Lentil", "Curry"],
+    ingredients: [
       "1 onion",
       "4cm piece of ginger",
       "2 cloves of garlic",
@@ -5980,47 +5913,48 @@
       "1 x 400 g tin of green lentils",
       "1 x 400 g tin of light coconut milk",
       "2 handfuls of baby spinach , optional",
-      "2 tablespoons quality mango chutney"
+      "2 tablespoons quality mango chutney",
     ],
-    "instructions": [
+    instructions: [
       "Peel and slice the onion. Peel the ginger and garlic, then finely chop or grate them on a microplane.",
       "Heat a lug of oil in a large pan over a medium heat, add the onions and cook for around 8 minutes, or until softened and slightly golden, stirring regularly. Add the ginger and garlic cook for a further 2 minutes.",
       "Meanwhile, mix the tikka masala paste, yoghurt and tomato purée together in a bowl. Halve and add the chicken thighs to the bowl. Stir everything together and get all the chicken covered in the paste mixture.",
       "Scrape everything into the pan, making sure you get all the paste mixture in there. Cook the chicken for 5 minutes or so, or until you see it start to colour.",
       "Add the tinned tomatoes, drained lentils and coconut milk. Bring to the boil, reduce the heat and simmer for 1 hour, stirring occasionally. Add splashes of water to loosen, if needed.",
       "When the time’s up, stir in the spinach (if using) and allow it to wilt. Next add the mango chutney and taste for seasoning.",
-      "Pull the chicken apart with forks and stir it through. Serve with wholemeal basmati rice and yoghurt on the side, if you like."
+      "Pull the chicken apart with forks and stir it through. Serve with wholemeal basmati rice and yoghurt on the side, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1487_2_1430148812.jpg",
-    "imageAlt": "Jools’ easy chicken curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1487_2_1430148812.jpg",
+    imageAlt: "Jools’ easy chicken curry",
   },
   {
-    "name": "Jools’ simple chicken & veg stew",
-    "subName": "Root veg, bacon & fresh thyme",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This recipe shows explains how to make chicken casserole from scratch. A flavour-packed recipe is a family favourite from Jools Oliver. Great with green veg",
-    "description": "“I don’t really like onions in my cooking, so I always leave them out of my stews – I prefer to use leeks instead. My kids also like sweetcorn in there, which I stir in from frozen just after the casserole has come out of the oven. Daisy loves this with mint sauce on the top, too. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Jools’ simple chicken & veg stew",
+    subName: "Root veg, bacon & fresh thyme",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This recipe shows explains how to make chicken casserole from scratch. A flavour-packed recipe is a family favourite from Jools Oliver. Great with green veg",
+    description:
+      "“I don’t really like onions in my cooking, so I always leave them out of my stews – I prefer to use leeks instead. My kids also like sweetcorn in there, which I stir in from frozen just after the casserole has come out of the oven. Daisy loves this with mint sauce on the top, too. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Sunday lunch",
       "British",
       "Stew",
       "Chicken thighs",
-      "Beef"
+      "Beef",
     ],
-    "ingredients": [
+    ingredients: [
       "2 medium leeks",
       "2 carrots",
       "2 sticks of celery",
@@ -6033,49 +5967,49 @@
       "6 new potatoes",
       "8 free-range chicken thighs , skin off, bone out",
       "1 heaped teaspoon Marmite",
-      "600 ml organic vegetable stock"
+      "600 ml organic vegetable stock",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºC/gas 5.",
       "Trim, wash and slice the leeks 1cm thick, scrub and cut the carrots into rough chunks and finely slice the celery. Peel and finely slice the garlic, pick the thyme leaves, discarding the stalks, and finely slice the bacon.",
       "Heat a lug of oil in a large casserole pan on a medium heat, then add the bacon. Scatter in the thyme leaves and fry for a few minutes, or until the bacon is golden.",
       "Next, add the leeks, carrots, celery and garlic and cook for around 10 minutes, or until the leeks start to soften, stirring regularly. Meanwhile, peel and roughly chop the celeriac and parsnips, then roughly chop the potatoes.",
       "Add the chicken, celeriac, parsnips and potatoes to the pan. Stir in the Marmite, add a good grinding of black pepper and stir to coat.",
       "Pour in the hot stock, bring to the boil, then turn the heat down to low. Crumple up and wet a piece of greaseproof paper, then open it out and place on top of the stew. Cover with a lid and pop in the oven for 1 hour, or until the chicken is super-tender.",
-      "When the time’s up, gently break the chicken up into the stew, then serve up in bowls. I like to serve this with broccoli on the side. Sometimes I top it with puff pastry or I stir it through pasta for a really tasty sauce."
+      "When the time’s up, gently break the chicken up into the stew, then serve up in bowls. I like to serve this with broccoli on the side. Sometimes I top it with puff pastry or I stir it through pasta for a really tasty sauce.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1485_2_1430147494.jpg",
-    "imageAlt": "Jools’ simple chicken & veg stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1485_2_1430147494.jpg",
+    imageAlt: "Jools’ simple chicken & veg stew",
   },
   {
-    "name": "Jools’ gorgeous granola",
-    "subName": "Packed full of nuts, fruit & seeds",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Jools' easy breakfast granola recipe is a great and balanced way to start the day. Find more healthy breakfast ideas from Jools Oliver on jamieoliver.com.",
-    "description": "“This is a great recipe to make in a big batch. We don’t really eat bowlfuls of it, but instead use it to sprinkle on top of yoghurt or porridge to give it a bit of sweetness and crunch, so it’s always handy to have some in an airtight container, ready and waiting ”",
-    "servings": "Serves Makes 750g (serve in 50g portions with yoghurt for a complete breakfast)",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Jools’ gorgeous granola",
+    subName: "Packed full of nuts, fruit & seeds",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Jools' easy breakfast granola recipe is a great and balanced way to start the day. Find more healthy breakfast ideas from Jools Oliver on jamieoliver.com.",
+    description:
+      "“This is a great recipe to make in a big batch. We don’t really eat bowlfuls of it, but instead use it to sprinkle on top of yoghurt or porridge to give it a bit of sweetness and crunch, so it’s always handy to have some in an airtight container, ready and waiting ”",
+    servings:
+      "Serves Makes 750g (serve in 50g portions with yoghurt for a complete breakfast)",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Christmas",
       "Breakfast",
       "Gift",
       "Brilliant breakfast recipes",
       "Family one-pan recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "50 g blanched almonds",
       "50 g pecan nuts",
       "50 g unsalted pistachios , (shelled)",
@@ -6090,46 +6024,47 @@
       "50 g sultanas",
       "50 g sour cherries",
       "6 tablespoons maple syrup",
-      "1 orange"
+      "1 orange",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160ºC/325ºF/gas 3.",
       "Roughly chop the nuts and apricots, then place into a large bowl. Add the remaining dry ingredients and mix together.",
       "Drizzle over the maple syrup and finely grate over the orange zest, then stir well to coat everything.",
       "Spread out over a large baking tray in an even layer – split it between two, if it’s easier.",
       "Pop into the hot oven for 20 to 25 minutes, or until turning golden, stirring every 10 minutes or so to stop it from catching. Bear in mind that the granola will harden up and go crunchy as it cools, so don’t be tempted to cook it for too long.",
-      "Leave to cool completely, then tip into airtight storage jars and use as and when you need it – it will keep quite happily for up to 4 weeks."
+      "Leave to cool completely, then tip into airtight storage jars and use as and when you need it – it will keep quite happily for up to 4 weeks.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1483_2_1430137447.jpg",
-    "imageAlt": "Jools’ gorgeous granola"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1483_2_1430137447.jpg",
+    imageAlt: "Jools’ gorgeous granola",
   },
   {
-    "name": "Jools’ simple beef stew",
-    "subName": "Hearty, warming & simple to put together",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This easy, comforting beef stew recipe is a real crowd-pleaser, and a great alternative to a Sunday lunch. Lentils give it an extra nutrient boost, and horseradish gives it a little kick!",
-    "description": "“A super nutritious, warming recipe perfect for all the family. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 30 minutes"
+    name: "Jools’ simple beef stew",
+    subName: "Hearty, warming & simple to put together",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This easy, comforting beef stew recipe is a real crowd-pleaser, and a great alternative to a Sunday lunch. Lentils give it an extra nutrient boost, and horseradish gives it a little kick!",
+    description:
+      "“A super nutritious, warming recipe perfect for all the family. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "2 hours 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Beef",
       "Sunday lunch",
       "British",
       "Lentil",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "4 sprigs of fresh thyme",
       "2 sprigs of fresh rosemary",
       "2 medium leeks",
@@ -6142,9 +6077,9 @@
       "2 tablespoons grated horseradish , or a good grating of fresh horseradish",
       "1 litre organic beef or vegetable stock",
       "1 fresh bay leaf",
-      "75 g red lentils"
+      "75 g red lentils",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 170ºC/325ºF/gas 3.",
       "Pick and finely chop the thyme and rosemary leaves. Trim, wash and roughly chop the leeks, trim and finely chop the celery, then peel and finely chop the carrots.",
       "Place a large stew pot on a medium-high heat with the oil and the herbs. Fry for a couple of minutes, then add the chopped veg and cook for a further 8 to 10 minutes, or until softened a little, stirring regularly.",
@@ -6152,82 +6087,85 @@
       "Bring to the boil, then turn the heat down to low. Crumple up and wet a piece of greaseproof paper, then open it out and place on top of the stew. Cover with a lid and pop in the oven for 2 hours.",
       "At this stage, remove the greaseproof and skim away any fat from the surface, then top up with 200ml of water. Sprinkle in the lentils, then replace the greaseproof, cover and pop back in the oven for a further 30 minutes, or until the lentils are cooked through.",
       "When the time’s up, remove the bay leaf and give the stew a good stir to make sure that nothing has stuck to the bottom of the pan. If the stew is a bit thick, add a little boiling water to thin it down. If it’s a bit thin, sit the pot on the hob and simmer gently until the liquid reduces to your desired consistency.",
-      "Taste the stew and season with freshly ground black pepper, if necessary. Delicious served with mashed or baked potato and some lemony dressed greens."
+      "Taste the stew and season with freshly ground black pepper, if necessary. Delicious served with mashed or baked potato and some lemony dressed greens.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1477_2_1430131134.jpg",
-    "imageAlt": "Jools’ simple beef stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1477_2_1430131134.jpg",
+    imageAlt: "Jools’ simple beef stew",
   },
   {
-    "name": "Jools’ crunchy fish",
-    "subName": "A great way to get kids to eat more fish",
-    "specialDiets": [],
-    "metaDescription": "Jools' crunchy fish recipe is perfect for the whole family, get the kids involved by letting them help make the homemade fish fingers before enjoying them.",
-    "description": "“This recipe is incredibly versatile – use whichever fish you like (as long as it's sustainable) and add any herbs to the crumb. A fine grating of Parmesan makes a nice addition, too. It doesn’t matter if your bread is a bit stale, it’ll still work fine. And if you haven’t got any bread you can use four smashed-up cream crackers instead. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Jools’ crunchy fish",
+    subName: "A great way to get kids to eat more fish",
+    specialDiets: [],
+    metaDescription:
+      "Jools' crunchy fish recipe is perfect for the whole family, get the kids involved by letting them help make the homemade fish fingers before enjoying them.",
+    description:
+      "“This recipe is incredibly versatile – use whichever fish you like (as long as it's sustainable) and add any herbs to the crumb. A fine grating of Parmesan makes a nice addition, too. It doesn’t matter if your bread is a bit stale, it’ll still work fine. And if you haven’t got any bread you can use four smashed-up cream crackers instead. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Salmon",
       "Fruit",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 thick slice of wholemeal bread , (roughly 50g)",
       "olive oil",
       "1 lemon",
       "3 sprigs of fresh thyme",
-      "2 x 120 g firm white fish or salmon fillets , scaled and pin-boned, from sustainable sources"
+      "2 x 120 g firm white fish or salmon fillets , scaled and pin-boned, from sustainable sources",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 5.",
       "Tear the bread into a food processor, add 2 tablespoons of oil and grate in the zest of half a lemon. Pick in the thyme leaves (throw away the stalks), then add a grinding of black pepper. Whiz the mixture until nice and fine.",
       "Place a non-stick ovenproof frying pan on a medium-high heat. While it’s heating up, check that there aren’t any stray bones lurking in the fish fillets, then rub them all over with a little oil.",
       "Place the fish in the hot pan skin-side down. Squeeze some lemon juice over the top of each fillet, then pile most of the crumb on top, covering them evenly, then scatter the remaining crumb into the pan.",
       "Fry for 3 minutes (this will get the skin nice and crispy), then transfer the pan to the oven and roast for 8 to 10 minutes, or until the fish is cooked through and the crumb is golden and crunchy.",
       "Carefully remove the pan from the oven using oven gloves, then transfer the fish to your plates using a fish slice.",
-      "Serve scattered with the extra super-crispy crumbs, and a jacket potato or wedges, and broccoli or peas on the side."
+      "Serve scattered with the extra super-crispy crumbs, and a jacket potato or wedges, and broccoli or peas on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1476_2_1430130442.jpg",
-    "imageAlt": "Jools’ crunchy fish"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1476_2_1430130442.jpg",
+    imageAlt: "Jools’ crunchy fish",
   },
   {
-    "name": "Baked rice with chicken & chorizo",
-    "subName": "With a smoky tomato base & fresh parsley",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie Oliver's brilliant baked rice with chicken and chorizo is a a real weeknight winner. It's a one-pot chicken recipe that's packed with sweet peppers, smoky paprika, tomato, garlic and fresh parsley.",
-    "description": "“Quick to prepare, this is a brilliant recipe to whack in the oven while you get on with other things. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "2 hours",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours"
+    name: "Baked rice with chicken & chorizo",
+    subName: "With a smoky tomato base & fresh parsley",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Jamie Oliver's brilliant baked rice with chicken and chorizo is a a real weeknight winner. It's a one-pot chicken recipe that's packed with sweet peppers, smoky paprika, tomato, garlic and fresh parsley.",
+    description:
+      "“Quick to prepare, this is a brilliant recipe to whack in the oven while you get on with other things. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "2 hours",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Chicken",
       "Pork",
       "Chorizo",
       "Chicken thighs",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "2 cloves of garlic",
       "1 red or yellow pepper",
@@ -6239,46 +6177,47 @@
       "8 free-range chicken thighs , skin off, bone out",
       "500 ml passata",
       "300 ml organic chicken stock",
-      "2 lemons"
+      "2 lemons",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Peel and finely chop the onion, peel and finely grate the garlic and deseed and roughly chop the pepper. Pick the parsley leaves and put aside, then finely chop the stalks. Roughly chop the chorizo.",
       "Heat 1 tablespoon of oil in an ovenproof casserole pan on a medium heat. Once hot, add the onion, garlic, pepper, parsley stalks, chorizo and paprika. Cook for around 5 minutes, or until starting to soften, stirring regularly.",
       "Add the rice, then stir everything around until the rice is coated in all the lovely flavoured oil. Pour in the passata and stock, then add the zest and juice of 1 lemon.",
       "Submerge the chicken in the sauce, bring to the boil, then reduce to a simmer. Scrunch up a wet piece of greaseproof paper, then open it out and place on top of the bubbling dish. Put a tight fitting lid on top, then place in the oven to cook for 45 minutes to 1 hour, or until the rice is tender and the chicken is cooked through. Loosen with a splash of boiling water, if needed.",
-      "Finely chop the parsley leaves, then sprinkle over the top. Cut the remaining lemon into wedges for squeezing over. Delicious served with a crisp green salad."
+      "Finely chop the parsley leaves, then sprinkle over the top. Cut the remaining lemon into wedges for squeezing over. Delicious served with a crisp green salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1470_2_1438959377.jpg",
-    "imageAlt": "Baked rice with chicken & chorizo"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1470_2_1438959377.jpg",
+    imageAlt: "Baked rice with chicken & chorizo",
   },
   {
-    "name": "Baked eggs – lots of ways",
-    "subName": "Tasty & versatile",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "A good baked egg recipe is not only easy, but delicious, too! Try this breakfast egg bake from jamieoliver.com. It's great with crusty sourdough bread.",
-    "description": "“Get creative with these brilliant baked eggs – so versatile, easy and quick! ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Baked eggs – lots of ways",
+    subName: "Tasty & versatile",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "A good baked egg recipe is not only easy, but delicious, too! Try this breakfast egg bake from jamieoliver.com. It's great with crusty sourdough bread.",
+    description:
+      "“Get creative with these brilliant baked eggs – so versatile, easy and quick! ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Easter treats",
       "Father's day",
       "Mother's day",
       "Christmas",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "vegetable oil",
       "4 large free-range eggs",
       "SPINACH & HAM",
@@ -6292,90 +6231,91 @@
       "a few fresh chives",
       "TRUFFLE MUSHROOMS",
       "50 g chestnut mushrooms",
-      "a few drops of truffle oil"
+      "a few drops of truffle oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to full whack. Lightly grease 2 ovenproof ramekins or small baking dishes with a little oil.",
       "Prepare your chosen filling – roughly chop the spinach, quarter the tomatoes, finely chop the chives or slice the mushrooms.",
       "Place your chosen filling into the prepared ramekins, crack a couple of eggs on top and season with salt and pepper.",
-      "Place in the hot oven for 8 to 10 minutes, or until the whites are set but the yolks are still runny, then serve straight away."
+      "Place in the hot oven for 8 to 10 minutes, or until the whites are set but the yolks are still runny, then serve straight away.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1462_2_1442315133.jpg",
-    "imageAlt": "Baked eggs – lots of ways"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1462_2_1442315133.jpg",
+    imageAlt: "Baked eggs – lots of ways",
   },
   {
-    "name": "Sweet glazed carrots",
-    "subName": "Thyme, caramelised garlic & clementine",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This honey-glazed carrots recipe from Jamie Oliver is the perfect accompaniment to any Sunday roast. This recipe also works with parsnips, so mix things up!",
-    "description": "“These beautifully glazed carrots make the perfect side to any roast dinner. ”",
-    "servings": "8 as a side",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Sweet glazed carrots",
+    subName: "Thyme, caramelised garlic & clementine",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This honey-glazed carrots recipe from Jamie Oliver is the perfect accompaniment to any Sunday roast. This recipe also works with parsnips, so mix things up!",
+    description:
+      "“These beautifully glazed carrots make the perfect side to any roast dinner. ”",
+    servings: "8 as a side",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Christmas",
       "Dinner Party",
       "Sunday lunch",
       "Thanksgiving",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg small carrots , heirloom if you can get them",
       "50 g unsalted butter",
       "1 tablespoon dripping or goose fat , (optional)",
       "6 cloves of garlic",
       "½ a bunch of fresh thyme",
       "2 clementines",
-      "2 tablespoons runny honey or soft brown sugar"
+      "2 tablespoons runny honey or soft brown sugar",
     ],
-    "instructions": [
+    instructions: [
       "Trim most of the leafy green stalks off the carrots, then peel them.",
       "Melt the butter and dripping or goose fat (if using) in a large frying pan over a medium heat. Crush the unpeeled garlic with the flat side of your knife, then add to the pan turning after 1 minute.",
       "Pick and sprinkle in the thyme sprigs, squeeze over the clementine juice, then add the honey or sugar and a splash of water.",
       "Add the carrots in a single layer, season with sea salt and black pepper, the jiggle the pan to coat the carrots. Cover, reduce the heat to medium-low and cook for 15 to 20 minutes, or until tender.",
-      "Remove the lid, then cook for a further 5 minutes, or until the glaze has reduced, and the carrots are sticky and caramelised, turning often. Serve straightaway, or reheat when needed."
+      "Remove the lid, then cook for a further 5 minutes, or until the glaze has reduced, and the carrots are sticky and caramelised, turning often. Serve straightaway, or reheat when needed.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1344_1_1438704828.jpg",
-    "imageAlt": "Sweet glazed carrots"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1344_1_1438704828.jpg",
+    imageAlt: "Sweet glazed carrots",
   },
   {
-    "name": "Hit ‘n’ run traybaked chicken",
-    "subName": "With tomatoes, peppers & smoked paprika",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This chicken tray bake recipe gives you the basic principles of how to make a tray bake. Let the oven do the hard work with this simple chicken traybake.",
-    "description": "“Let the oven do all the hard work with this simple chicken traybake recipe. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Hit ‘n’ run traybaked chicken",
+    subName: "With tomatoes, peppers & smoked paprika",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This chicken tray bake recipe gives you the basic principles of how to make a tray bake. Let the oven do the hard work with this simple chicken traybake.",
+    description:
+      "“Let the oven do all the hard work with this simple chicken traybake recipe. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Save with Jamie",
       "Chicken",
       "Tomato",
       "Chicken thighs",
       "Family one-pan recipes",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "4 large ripe tomatoes",
       "2 red onions",
       "1 red pepper",
@@ -6385,47 +6325,47 @@
       "½ a bunch of fresh thyme",
       "1 teaspoon smoked paprika",
       "olive oil",
-      "2 tablespoons balsamic vinegar"
+      "2 tablespoons balsamic vinegar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180ºC/350ºF/gas 4.",
       "Quarter the tomatoes and place them in a large baking dish or roasting tray (roughly 25cm x 30cm). Peel the onions and cut into large wedges, then deseed and roughly chop the peppers. Add all these to the tray along with the chicken thighs.",
       "Squash the unpeeled garlic cloves with the back of your knife and add to the tray, then pick over the thyme leaves and sprinkle over the paprika.",
       "Add 2 tablespoons of oil, the balsamic and a good pinch of sea salt and black pepper. Toss everything together really well to coat, then spread across the tray, making sure the chicken isn’t covered by the vegetables.",
       "Roast for around 1 hour, or until the chicken is golden and cooked through, turning and basting it a couple of times during cooking with the juices from the tray.",
-      "Serve the traybake with a lovely green salad on the side. You could also buddy it up with a little rice, polenta or a loaf of crusty bread to mop up the juices."
+      "Serve the traybake with a lovely green salad on the side. You could also buddy it up with a little rice, polenta or a loaf of crusty bread to mop up the juices.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1228_1_1436801050.jpg",
-    "imageAlt": "Hit ‘n’ run traybaked chicken"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1228_1_1436801050.jpg",
+    imageAlt: "Hit ‘n’ run traybaked chicken",
   },
   {
-    "name": "Pomegranate & chicken stew",
-    "subName": "A rich, sweet & delicious meal",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Pomegranate fan? You'll love this gorgeously sticky stew recipe – it uses pomegranate molasses, juice and seeds to bring new life to the chicken stew. You have to try it!",
-    "description": "“It might sound like a strange ingredient, but the pomegranate brings a tomato and chicken stew to life. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Pomegranate & chicken stew",
+    subName: "A rich, sweet & delicious meal",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Pomegranate fan? You'll love this gorgeously sticky stew recipe – it uses pomegranate molasses, juice and seeds to bring new life to the chicken stew. You have to try it!",
+    description:
+      "“It might sound like a strange ingredient, but the pomegranate brings a tomato and chicken stew to life. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Chicken",
       "Dinner Party",
       "Bonfire night recipes",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "1 higher-welfare whole chicken , jointed",
       "1 tsp paprika",
@@ -6436,48 +6376,47 @@
       "300 ml tomato passata",
       "4 tbsp pomegranate molasses",
       "200 ml pomegranate juice",
-      "pomegranate seeds"
+      "pomegranate seeds",
     ],
-    "instructions": [
+    instructions: [
       "Heat 1-2 tablespoons of oil in a casserole over a medium heat. Season the chicken with sea salt, black pepper and the paprika, then brown in the hot oil for 7 to 8 minutes. Remove the pieces to a plate and set aside.",
       "Peel and slice the onions, peel and finely chop the garlic. Finely slice the chilli and finely chop the coriander.",
       "In the same pan, add another splash of oil with the onions. Stir well, being sure to catch the sticky bits at the bottom of the pan. Cook slowly for 15 minutes, till onions are soft, adding the garlic, chilli and coriander for the last 5 minutes.",
       "Stir in the passata, molasses and pomegranate juice, season well, then bring to the boil.",
       "Return the chicken with any juices to the pan, cover and lower the heat. Simmer for 30 minutes, until the chicken is cooked and the sauce has thickened, checking often that it’s not sticking.",
-      "Scatter pomegranate seeds over the chicken. Delicious served with rice with extra chopped coriander stirred through."
+      "Scatter pomegranate seeds over the chicken. Delicious served with rice with extra chopped coriander stirred through.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1159_1_1436874034.jpg",
-    "imageAlt": "Pomegranate & chicken stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1159_1_1436874034.jpg",
+    imageAlt: "Pomegranate & chicken stew",
   },
   {
-    "name": "Kerryann’s chilli con veggie",
-    "subName": "Packed with lentils, beans & loadsa veg",
-    "specialDiets": [
-      "Vegan",
-      "Vegetarian",
-      "Dairy-free"
-    ],
-    "metaDescription": "Kerryann's vegetarian chilli con carne recipe is a family favourite packed with loads of veg, making it the perfect midweek dish that everyone can enjoy!",
-    "description": "“A brilliant batch-cook recipe, this easy, family friendly veggie chilli recipe is full of good stuff – it's a perfect midweek vegetarian meal. ”",
-    "servings": "10",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 45 minutes"
+    name: "Kerryann’s chilli con veggie",
+    subName: "Packed with lentils, beans & loadsa veg",
+    specialDiets: ["Vegan", "Vegetarian", "Dairy-free"],
+    metaDescription:
+      "Kerryann's vegetarian chilli con carne recipe is a family favourite packed with loads of veg, making it the perfect midweek dish that everyone can enjoy!",
+    description:
+      "“A brilliant batch-cook recipe, this easy, family friendly veggie chilli recipe is full of good stuff – it's a perfect midweek vegetarian meal. ”",
+    servings: "10",
+    time: {
+      prep: "",
+      cook: "1 hour 45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Tube: The Family Cookbook",
       "Vegetables",
       "Dinner Party",
       "Bonfire night recipes",
       "Mexican",
-      "Lentil"
+      "Lentil",
     ],
-    "ingredients": [
+    ingredients: [
       "2 medium onions",
       "4 cloves of garlic",
       "1 medium leek",
@@ -6495,43 +6434,46 @@
       "2 x 400 g tins of red kidney beans",
       "2 x 400 g tins of black beans",
       "2 x 400 g tins of chopped tomatoes",
-      "1.2 litres vegetable stock"
+      "1.2 litres vegetable stock",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the onions and garlic, then trim and finely chop the leek and chilli (I leave the seeds in, but deseed if you prefer), and place into your largest, heavy-based pan over a medium heat with the oil. Fry for about 5 minutes, or until softened.",
       "Add the spices, dried herbs and a good grating of nutmeg, then fry for 2 minutes – if it’s a little dry at this point, simply add a splash of water to help it out. Stir in the tomato purée and cook for a further 2 minutes.",
       "Stir in the lentils. Drain, rinse and stir in the beans, followed by the chopped tomatoes and the stock (I try to use homemade stock, but if you’ve only got stock cubes, that’s fine too).",
       "Bring it all to the boil, then reduce to a low heat and let it bubble away for at least 1 hour, or until thickened and reduced, stirring every 15 to 20 minutes, then season to how you like it.",
-      "I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side."
+      "I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1150_1_1436804646.jpg",
-    "imageAlt": "Kerryann’s chilli con veggie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1150_1_1436804646.jpg",
+    imageAlt: "Kerryann’s chilli con veggie",
   },
   {
-    "name": "Roast pork leg",
-    "subName": "With a delicious peppery herb rub",
-    "specialDiets": [],
-    "metaDescription": "A pork leg roast recipe from Jamie Oliver that shows you exactly how to cook a pork leg. This is perfect served with roast potatoes & seasonal veggies.",
-    "description": "“This underrated cut makes a brilliant centrepiece, and is slow-cooked for perfect crackling. Plus, any leftovers make for epic sarnies. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "4 hours 40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "4 hours 40 minutes"
+    name: "Roast pork leg",
+    subName: "With a delicious peppery herb rub",
+    specialDiets: [],
+    metaDescription:
+      "A pork leg roast recipe from Jamie Oliver that shows you exactly how to cook a pork leg. This is perfect served with roast potatoes & seasonal veggies.",
+    description:
+      "“This underrated cut makes a brilliant centrepiece, and is slow-cooked for perfect crackling. Plus, any leftovers make for epic sarnies. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "4 hours 40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "4 hours 40 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie Magazine",
       "Pork",
       "Dinner Party",
       "Father's day",
       "Sunday lunch",
-      "Halloween recipes"
+      "Halloween recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 3kg higher-welfare leg of pork",
       "2 tablespoons coriander seeds",
       "1 tablespoon white peppercorns",
@@ -6542,9 +6484,9 @@
       "½ a bunch of fresh rosemary",
       "30 g plain flour",
       "1 big bunch of fresh flat-leaf parsley",
-      "1-2 tablespoons mustard"
+      "1-2 tablespoons mustard",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to full whack.",
       "Score the pork leg with a sharp knife in a zig-zag pattern.",
       "Bash the coriander seeds, peppercorns and 2 teaspoons of sea salt until fine in a pestle and mortar. Add the bay leaves and bash again, then muddle in a lug of oil to form a loose paste.",
@@ -6555,41 +6497,39 @@
       "Remove the leg to board, cover with tin foil and allow to rest while you make the gravy.",
       "Place the roasting tray on the hob over a medium heat, add the flour and stir it into the juices so you get a sticky paste. Slowly add a little water until you have a lovely rich sauce.",
       "Pour the contents of the tray into a jug or bowl and blitz to a sauce with a stick blender. Return to the pan, pick, finely chop and add the parsley, along with the mustard and stir well. Season to perfection",
-      "Serve the roast pork with the sauce."
+      "Serve the roast pork with the sauce.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1144_1_1436882195.jpg",
-    "imageAlt": "Roast pork leg"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1144_1_1436882195.jpg",
+    imageAlt: "Roast pork leg",
   },
   {
-    "name": "Briam",
-    "subName": "A delicious Greek vegetable bake",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "This Greek briam recipe is really great vegetable bake recipes. It's also dairy-free, vegan, gluten-free and vegetarian, so it's a proper crowd-pleaser!",
-    "description": "“This popular veggie medley is traditionally eaten with feta, but it’s also awesome with pork chops. ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Briam",
+    subName: "A delicious Greek vegetable bake",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "This Greek briam recipe is really great vegetable bake recipes. It's also dairy-free, vegan, gluten-free and vegetarian, so it's a proper crowd-pleaser!",
+    description:
+      "“This popular veggie medley is traditionally eaten with feta, but it’s also awesome with pork chops. ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Vegetables",
       "Dinner Party",
       "Greek",
       "Bread",
-      "Potato"
+      "Potato",
     ],
-    "ingredients": [
+    ingredients: [
       "150 ml extra-virgin olive oil , plus extra if needed",
       "1 large aubergine",
       "1 large onion",
@@ -6600,9 +6540,9 @@
       "5 courgettes",
       "300 g tomato passata",
       "1 tablespoon dried oregano",
-      "½ a bunch of fresh flat-leaf parsley , (15g)"
+      "½ a bunch of fresh flat-leaf parsley , (15g)",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220°C/425°F/gas 7.",
       "Halve the aubergine lengthways and thickly slice.",
       "Drizzle some olive oil into a frying pan over a medium heat and cook the aubergine in batches for 5 to 7 minutes, or until softened and golden, adding a little more oil, if needed. Using a slotted spoon, transfer to a large bowl.",
@@ -6610,39 +6550,39 @@
       "Chop the potatoes into 1cm cubes, thinly slice the medium tomatoes and slice the courgettes.",
       "Add the potato, all the tomatoes, the courgette, passata and 200ml water to the bowl. Sprinkle with the oregano, then pick, finely chop and add the parsley. Season generously with sea salt and black pepper.",
       "Combine well with your hands and transfer to a large ovenproof dish. Drizzle with any remaining oil.",
-      "Bake for 30 minutes, then turn the oven down to 200°C/400°F/gas 6. Bake for another 20 to 30 minutes, or until the top has browned and vegetables are tender. Allow to cool slightly before serving."
+      "Bake for 30 minutes, then turn the oven down to 200°C/400°F/gas 6. Bake for another 20 to 30 minutes, or until the top has browned and vegetables are tender. Allow to cool slightly before serving.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1129_1_1436967982.jpg",
-    "imageAlt": "Briam"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1129_1_1436967982.jpg",
+    imageAlt: "Briam",
   },
   {
-    "name": "Roasted chilli frittata",
-    "subName": "With Parmesan, goat's cheese & parsley",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "A delicious filling breakfast, lunch or quick supper, this roasted chilli frittata is packed with flavour. With a combination of eggs, chilli, Parmesan, goat's cheese, garlic and parsley, what could go wrong? Enjoy.",
-    "description": "“This frittata is a meal in itself. Blackening the chillies calms the heat and releases their sweetness to give a really deep flavour. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "35 minutes"
+    name: "Roasted chilli frittata",
+    subName: "With Parmesan, goat's cheese & parsley",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "A delicious filling breakfast, lunch or quick supper, this roasted chilli frittata is packed with flavour. With a combination of eggs, chilli, Parmesan, goat's cheese, garlic and parsley, what could go wrong? Enjoy.",
+    description:
+      "“This frittata is a meal in itself. Blackening the chillies calms the heat and releases their sweetness to give a really deep flavour. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Eggs",
       "Dinner for two",
       "Spanish",
       "Feta",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "4-8 chillies , a mixture of green, red and yellow",
       "1 red or green pepper , optional",
       "1 tbsp red wine vinegar",
@@ -6653,48 +6593,48 @@
       "5 large free-range eggs",
       "1 handful of grated Parmesan",
       "100 g goat's cheese , or 100g feta",
-      "salad leaves , to serve"
+      "salad leaves , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Preheat your oven to full whack. Prick each of your chillies and the pepper (if you're only using 4 chillies, you'll need the pepper to bulk up the filling) with a small, sharp knife, then blacken over a gas flame, in a dry griddle pan or under a grill. Once they’re nicely charred, pop them in a bowl and cover with clingfilm.",
       "After 10 minutes, remove the skin, stalks and seeds, then delicately tear lengthways into thin strips. Put these strips back in the bowl and add the red wine vinegar and a lug of olive oil. Pick the parsley leaves and finely chop the stalks. Stir the stalks into the bowl, reserving the leaves for later.",
       "Peel and finely chop the garlic. Heat a lug of olive oil and some butter in a small ovenproof frying pan, then add half of your marinated chillies and the garlic.",
       "Meanwhile, beat the eggs in a bowl with some grated Parmesan and a good pinch of sea salt and freshly ground black pepper. Put a few of your parsley leaves to one side, then finely chop the rest and add them to the eggs.",
       "Pour the eggs into the pan, then crumble in half of the goat’s cheese or feta. Move the pan a bit to spread everything around.",
       "When the egg is just starting to set, crumble over most of the remaining goat’s cheese, then pop the frittata in a hot oven for 5 minutes or until it doubles in size.",
-      "Some people cook their frittatas all the way through, but I prefer mine only just done. Once it’s out of the oven, delicately drape the rest of your chilli over the top, crumble over the last few bits of goat’s cheese or feta, then drizzle over a little of the chilli marinade. Sprinkle with the reserved parsley and serve with something fresh and lovely, like a rocket, lemon and Parmesan salad."
+      "Some people cook their frittatas all the way through, but I prefer mine only just done. Once it’s out of the oven, delicately drape the rest of your chilli over the top, crumble over the last few bits of goat’s cheese or feta, then drizzle over a little of the chilli marinade. Sprinkle with the reserved parsley and serve with something fresh and lovely, like a rocket, lemon and Parmesan salad.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1126_1_1436883326.jpg",
-    "imageAlt": "Roasted chilli frittata"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1126_1_1436883326.jpg",
+    imageAlt: "Roasted chilli frittata",
   },
   {
-    "name": "Mackerel plaki",
-    "subName": "The simplest fish traybake with tomatoes, garlic & bay leaves",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This easy fish traybake recipe makes a great summer lunch or supper",
-    "description": "“This traditional Greek recipe is super simple, and delicious served cold as a summery lunch or dinner. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Mackerel plaki",
+    subName: "The simplest fish traybake with tomatoes, garlic & bay leaves",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This easy fish traybake recipe makes a great summer lunch or supper",
+    description:
+      "“This traditional Greek recipe is super simple, and delicious served cold as a summery lunch or dinner. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Dinner Party",
       "Greek",
       "Tomato",
       "Mackerel",
-      "Healthy meals"
+      "Healthy meals",
     ],
-    "ingredients": [
+    ingredients: [
       "8 small sustainably sourced whole mackerel , cleaned, gutted (2kg total), from sustainable sources",
       "2 carrots",
       "2 onions",
@@ -6704,47 +6644,46 @@
       "3 tbsp extra virgin olive oil",
       "4 sprigs of fresh flat-leaf parsley",
       "1 lemon , plus extra",
-      "150 ml dry white wine"
+      "150 ml dry white wine",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Peel and thinly slice the carrots, then peel and slice the onions. Roughly chop the tomatoes and finely chop the cloves of garlic.",
       "Place the fish, carrot, onion, tomato, garlic and bay leaves in a baking dish. Season generously with sea salt and black pepper, then drizzle over the oil.",
       "Finely chop the parsley and sprinkle over the fish. Squeeze in the lemon juice and add the wine and a little water.",
-      "Bake for 30 minutes or until the fish and veg are cooked and the sauce has thickened. Serve lukewarm or cold with an extra squeeze of lemon."
+      "Bake for 30 minutes or until the fish and veg are cooked and the sauce has thickened. Serve lukewarm or cold with an extra squeeze of lemon.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1124_1_1438012756.jpg",
-    "imageAlt": "Mackerel plaki"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1124_1_1438012756.jpg",
+    imageAlt: "Mackerel plaki",
   },
   {
-    "name": "Garden glut soup",
-    "subName": "Packed with fresh veggies",
-    "specialDiets": [
-      "Dairy-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Swap the veg to suit the season – replace the spinach with chopped savoy cabbage, kale or spring greens; use green beans instead of peas and broad beans – the sky’s the limit! It's vegan and gluten-free, too.",
-    "description": "“This is a great way of using up the vegetables you might have from a growing frenzy. You can easily swap ingredients to suit the season – replace the spinach with chopped savoy cabbage, kale, chard or spring greens, or use green beans and string beans instead of peas and broad beans – the sky’s the limit! ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 30 minutes"
+    name: "Garden glut soup",
+    subName: "Packed with fresh veggies",
+    specialDiets: ["Dairy-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Swap the veg to suit the season – replace the spinach with chopped savoy cabbage, kale or spring greens; use green beans instead of peas and broad beans – the sky’s the limit! It's vegan and gluten-free, too.",
+    description:
+      "“This is a great way of using up the vegetables you might have from a growing frenzy. You can easily swap ingredients to suit the season – replace the spinach with chopped savoy cabbage, kale, chard or spring greens, or use green beans and string beans instead of peas and broad beans – the sky’s the limit! ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Vegetables",
       "Courgette",
       "Cheap & cheerful",
       "Light meals",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 medium onion",
       "2 sticks of celery",
       "1 medium leek",
@@ -6755,9 +6694,9 @@
       "1 vegetable stock cube , or 1.4 litres hot fresh vegetable stock",
       "100 g podded fresh peas , or broad beans",
       "200 g baby spinach",
-      "a few sprigs of fresh mint"
+      "a few sprigs of fresh mint",
     ],
-    "instructions": [
+    instructions: [
       "Peel and roughly chop the onion on a chopping board, then place in a large bowl.",
       "Trim and roughly chop the celery and leek (make sure you wash it really well), then peel and finely chop the garlic and add it all to the onion.",
       "Place a large pot on a medium heat and add 2 tablespoons of olive oil.",
@@ -6771,36 +6710,39 @@
       "Carefully remove the pot to a heatproof surface and leave for a minute or two to stop bubbling.",
       "Carefully blitz with a stick blender until smooth (use a tea towel to protect your hands from little splashes). Have a taste and add a tiny pinch of salt and pepper if you think it needs it.",
       "Pick and roughly chop the mint leaves, discarding the stalks.",
-      "Carefully ladle the soup into bowls and sprinkle over the mint. Delicious served with homemade croutons (see tip below)."
+      "Carefully ladle the soup into bowls and sprinkle over the mint. Delicious served with homemade croutons (see tip below).",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1106_1_1439213071.jpg",
-    "imageAlt": "Garden glut soup"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1106_1_1439213071.jpg",
+    imageAlt: "Garden glut soup",
   },
   {
-    "name": "Pukka yellow curry",
-    "subName": "Chicken drumsticks, yellow peppers & chickpeas",
-    "specialDiets": [],
-    "metaDescription": "Jamie's pukka yellow curry is delicious and great value for money; try Jamie chicken curry recipe for a authentic mix of spices and meat that falls off of the bone.",
-    "description": "“This budget-friendly chicken drumstick recipe is great value and tastes phenomenal. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 15 minutes"
+    name: "Pukka yellow curry",
+    subName: "Chicken drumsticks, yellow peppers & chickpeas",
+    specialDiets: [],
+    metaDescription:
+      "Jamie's pukka yellow curry is delicious and great value for money; try Jamie chicken curry recipe for a authentic mix of spices and meat that falls off of the bone.",
+    description:
+      "“This budget-friendly chicken drumstick recipe is great value and tastes phenomenal. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 15 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Save with Jamie",
       "Chicken",
       "Dinner for two",
       "Indian",
       "Tomato",
-      "Fruit"
+      "Fruit",
     ],
-    "ingredients": [
+    ingredients: [
       "2 onions",
       "4 cloves of garlic",
       "5 cm piece of ginger",
@@ -6817,9 +6759,9 @@
       "1 teaspoon tomato purée",
       "1 mug of basmati rice , (320g)",
       "1 lemon",
-      "fat-free natural yoghurt , optional"
+      "fat-free natural yoghurt , optional",
     ],
-    "instructions": [
+    instructions: [
       "Peel the onions, garlic and ginger and deseed the peppers.",
       "Put 1 onion, 1 pepper, the garlic and ginger into a food processor. Crumble in the stock cube and add the chilli (deseed it first, if you prefer a milder curry), the coriander stalks, honey and spices, then blitz to a paste.",
       "Place a large casserole pan on a medium-high heat and fry the chicken drumsticks (pull the skin off first, if you prefer) with a splash of oil for 10 minutes, or until golden, turning occasionally with tongs. Remove the chicken to a plate, leaving the pan on the heat.",
@@ -6827,39 +6769,39 @@
       "Pour in 500ml of boiling water. Drain the chickpeas and add along with the tomato purée and a pinch of sea salt and black pepper, then stir well.",
       "Return the chicken to the pan, pop the lid on, reduce the heat and simmer gently for around 45 minutes, or until the sauce darkens and thickens.",
       "With 15 minutes to go, put 1 mug (320g) of rice and 2 mugs of boiling water into a pan with a pinch of salt and simmer with the lid on for 12 minutes, or until all the liquid has been absorbed.",
-      "Serve the curry in the middle of the table with a few dollops of yoghurt (if using) and a scattering of coriander leaves, with lemon wedges for squeezing over and the fluffy rice on the side."
+      "Serve the curry in the middle of the table with a few dollops of yoghurt (if using) and a scattering of coriander leaves, with lemon wedges for squeezing over and the fluffy rice on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1100_1_1436875132.jpg",
-    "imageAlt": "Pukka yellow curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1100_1_1436875132.jpg",
+    imageAlt: "Pukka yellow curry",
   },
   {
-    "name": "Mexican filled omelette",
-    "subName": "Avocado slaw with zingy lime & chilli",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "Find a delicious Mexican inspired omelette recipe from Jamie Oliver with lashings of avocado dressing and a delicate slaw.",
-    "description": "“I can’t tell you how much I love these silky little omelettes filled with Mexican-inspired deliciousness. Making and eating them is brilliant fun, and they’re unusually fulfilling for a humble omelette. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Mexican filled omelette",
+    subName: "Avocado slaw with zingy lime & chilli",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "Find a delicious Mexican inspired omelette recipe from Jamie Oliver with lashings of avocado dressing and a delicate slaw.",
+    description:
+      "“I can’t tell you how much I love these silky little omelettes filled with Mexican-inspired deliciousness. Making and eating them is brilliant fun, and they’re unusually fulfilling for a humble omelette. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Save with Jamie",
       "Eggs",
       "Mexican",
       "Fruit",
       "Breakfast",
-      "Light meals"
+      "Light meals",
     ],
-    "ingredients": [
+    ingredients: [
       "1 ripe avocado",
       "3 limes",
       "½ a bunch of fresh coriander , (15g)",
@@ -6870,9 +6812,9 @@
       "½ white or green cabbage",
       "1 fresh red chilli",
       "8 large free-range eggs",
-      "60 g Cheddar cheese"
+      "60 g Cheddar cheese",
     ],
-    "instructions": [
+    instructions: [
       "Squeeze the avocado flesh into a blender, discarding the stone and skin.",
       "Squeeze in all the juice from 2 limes, rip in the coriander stalks, add the yoghurt and a splash of oil and whiz until smooth, then season to perfection.",
       "Peel the onion and carrot. Ideally in a food processor, or using a box grater and good knife skills, grate the onion and carrot, then finely slice the cabbage. Very finely slice the chilli by hand, then tip everything into a large bowl.",
@@ -6881,38 +6823,39 @@
       "Put a large non-stick frying pan on a medium-low heat. Once fairly hot, put in a tiny drizzle of oil followed by a quarter of the egg mixture.",
       "Swirl it all around the pan, grate over a quarter of the cheese and let it melt, then cook the omelette gently without colouring it, so it’s soft, silky and smooth, for just under 2 minutes, only cooking on one side.",
       "Slide it on to a plate, spoon over a quarter of the avocado slaw, then gently fold up the sides and roll over. Serve with a wedge of lime and a few extra coriander leaves.",
-      "Repeat with the remaining ingredients, serving them up as you go."
+      "Repeat with the remaining ingredients, serving them up as you go.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1085_1_1436865947.jpg",
-    "imageAlt": "Mexican filled omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1085_1_1436865947.jpg",
+    imageAlt: "Mexican filled omelette",
   },
   {
-    "name": "Chicken & chorizo paella",
-    "subName": "My quick & easy recipe",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "A brilliant chicken and chorizo paella recipe from Jamie Oliver. This is the best paella recipe. It's perfect for a weekend lunch. Just add crusty bread.",
-    "description": "“I’ve made a few paellas in my time. The biggest one was for about 800 people in a village in Spain and it was hard work, but an incredible experience. The Spanish can be quite protective about what is and what isn’t a paella, but at the same time, the spirit of their cooking has always been flexible to whatever meat, fish, seafood or game can be found. I’ve eaten and enjoyed many paellas, and I hope you like my humble, great-value expression of one. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "50 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "50 minutes"
+    name: "Chicken & chorizo paella",
+    subName: "My quick & easy recipe",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "A brilliant chicken and chorizo paella recipe from Jamie Oliver. This is the best paella recipe. It's perfect for a weekend lunch. Just add crusty bread.",
+    description:
+      "“I’ve made a few paellas in my time. The biggest one was for about 800 people in a village in Spain and it was hard work, but an incredible experience. The Spanish can be quite protective about what is and what isn’t a paella, but at the same time, the spirit of their cooking has always been flexible to whatever meat, fish, seafood or game can be found. I’ve eaten and enjoyed many paellas, and I hope you like my humble, great-value expression of one. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "50 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "50 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Save with Jamie",
       "Dinner Party",
       "Spanish",
       "Chicken",
       "Pork",
-      "Seafood"
+      "Seafood",
     ],
-    "ingredients": [
+    ingredients: [
       "2 cloves of garlic",
       "1 onion",
       "1 carrot",
@@ -6927,45 +6870,48 @@
       "300 g paella rice",
       "100 g frozen peas",
       "200 g frozen peeled cooked prawns , from sustainable sources",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the garlic, peel and roughly chop the onion and carrot. Finely chop the parsley stalks, then roughly chop the chorizo and chicken thighs.",
       "Put a lug of oil into a large lidded shallow casserole or paella pan on a medium heat, add the garlic, onion, carrot, parsley stalks, chorizo, chicken and paprika, and fry for around 5 minutes, stirring regularly.",
       "Deseed and chop the pepper, then add to the pan for a further 5 minutes.",
       "Stir through the tomato purée and crumble in the stock cube, then add the rice and stir for a couple of minutes so it starts to suck up all that lovely flavour.",
       "Pour in 750ml of boiling water and add a pinch of sea salt and black pepper. Pop the lid on and bring to the boil, then reduce to a simmer for 15 minutes, stirring regularly from the outside in and from the inside out, and adding a splash of water if needed.",
       "Stir in the peas and prawns, replace the lid, and cook for a further 5 minutes, or until hot through.",
-      "Season to perfection, then chop the parsley leaves, scatter them over the paella, and serve with lemon wedges on the side for squeezing over."
+      "Season to perfection, then chop the parsley leaves, scatter them over the paella, and serve with lemon wedges on the side for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1083_1_1433953110.jpg",
-    "imageAlt": "Chicken & chorizo paella"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1083_1_1433953110.jpg",
+    imageAlt: "Chicken & chorizo paella",
   },
   {
-    "name": "One-cup brunch pancakes",
-    "subName": "With corn, feta, avocado & bacon",
-    "specialDiets": [],
-    "metaDescription": "Everybody loves pancakes! Whether you’re making this pancake recipe for brunch, or to celebrate Pancake Day, these corn, feta, avocado & bacon pancakes will be an absolute crowd-pleaser.",
-    "description": "“With little bombs of feta and corn in the batter, this pimped up version of my one-cup pancakes is a breakfast hit. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "One-cup brunch pancakes",
+    subName: "With corn, feta, avocado & bacon",
+    specialDiets: [],
+    metaDescription:
+      "Everybody loves pancakes! Whether you’re making this pancake recipe for brunch, or to celebrate Pancake Day, these corn, feta, avocado & bacon pancakes will be an absolute crowd-pleaser.",
+    description:
+      "“With little bombs of feta and corn in the batter, this pimped up version of my one-cup pancakes is a breakfast hit. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Mother's day",
       "Pancake day",
       "Feta",
       "Pork",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 cup self-raising flour",
       "1 cup milk",
       "sea salt",
@@ -6979,51 +6925,51 @@
       "2 limes",
       "6 tablespoons fat-free natural yoghurt",
       "hot chilli sauce",
-      "a few sprigs of fresh coriander"
+      "a few sprigs of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Place the flour, milk and a pinch of salt into a large bowl. Crack in the egg and whisk well to a smooth batter. Carefully slice the corn kernels off the cob, then stir into the batter. Crumble in the feta and give it a final stir.",
       "Heat a large frying pan over a medium heat, then add the bacon and fry for 2 to 3 minutes, or until crisp, turning halfway. Meanwhile, halve and destone the avocado. Slice each half into four wedges and peel away the skin. Season with salt and pepper, grate over a little lime zest and squeeze some lime juice on top.",
       "Transfer the bacon to a plate, then return the pan to a medium heat. Once hot, use a ladle to spoon the batter into the pan – each ladleful will make 1 pancake, so you can make about 2 at a time. Cook for 1 to 2 minutes, or until little bubbles start to show on the top, then use a fish slice to flip them over and cook for a further 1 to 2 minutes, or until golden.",
-      "Divide the pancakes between 4 plates, top each with 2 pieces of avocado and 2 rashers of bacon. Drizzle over a little yoghurt and chilli sauce, grate over a little more lime zest and pick a few coriander leaves on top, then tuck in."
+      "Divide the pancakes between 4 plates, top each with 2 pieces of avocado and 2 rashers of bacon. Drizzle over a little yoghurt and chilli sauce, grate over a little more lime zest and pick a few coriander leaves on top, then tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1060_2_1442239719.jpg",
-    "imageAlt": "One-cup brunch pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1060_2_1442239719.jpg",
+    imageAlt: "One-cup brunch pancakes",
   },
   {
-    "name": "Brilliant broccoli",
-    "subName": "A super-simple side dish",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This is the best broccoli recipe, and the best way to cook broccoli! Steaming broccoli is simple as it retains loads of nutrients, plus it's super-quick.",
-    "description": "“To keep broccoli beautifully green and slightly crunchy it’s best to boil or steam for just a few minutes. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Brilliant broccoli",
+    subName: "A super-simple side dish",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This is the best broccoli recipe, and the best way to cook broccoli! Steaming broccoli is simple as it retains loads of nutrients, plus it's super-quick.",
+    description:
+      "“To keep broccoli beautifully green and slightly crunchy it’s best to boil or steam for just a few minutes. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Mother's day",
       "St. George's Day",
       "Sunday lunch",
       "Thanksgiving",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "sea salt",
       "freshly ground black pepper",
       "1 large head of broccoli",
-      "a small of knob of unsalted butter"
+      "a small of knob of unsalted butter",
     ],
-    "instructions": [
+    instructions: [
       "Fill a large pan with water, add a tiny pinch of salt and bring to the boil over a high heat.",
       "Meanwhile, on a chopping board, cut the florets from the broccoli, then cut or break them into bite-sized pieces.",
       "Trim and cut the stalk in half, then finely slice it.",
@@ -7031,82 +6977,84 @@
       "Cook for 3 to 4 minutes, or until tender – you should be able to poke the tip of a knife easily into the florets.",
       "Drain over the sink into a colander, then leave to steam dry for a minute.",
       "Tip back into the pan, then sprinkle with a tiny pinch of salt and pepper.",
-      "Add the butter and toss to coat, then tip into a serving bowl and serve."
+      "Add the butter and toss to coat, then tip into a serving bowl and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1057_1_1441269382.jpg",
-    "imageAlt": "Brilliant broccoli"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1057_1_1441269382.jpg",
+    imageAlt: "Brilliant broccoli",
   },
   {
-    "name": "Cooked oysters with burnt butter",
-    "subName": "A recipe to impress",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Learn how to cook oysters with Jamie Oliver; luxurious yet simple - these delicious cooked oysters with burnt butter will blow you away.",
-    "description": "“Luxurious ash-cooked oysters drizzled with lemony, caramel butter – this will blow you away. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Cooked oysters with burnt butter",
+    subName: "A recipe to impress",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Learn how to cook oysters with Jamie Oliver; luxurious yet simple - these delicious cooked oysters with burnt butter will blow you away.",
+    description:
+      "“Luxurious ash-cooked oysters drizzled with lemony, caramel butter – this will blow you away. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Seafood",
       "Christmas",
       "Dinner for two",
       "Dinner Party",
       "Romantic meals",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "8 rock oysters , scrubbed clean",
       "800 g rock salt , (optional - if cooking indoors)",
       "For the burnt butter",
       "40 g unsalted butter",
       "Tabasco sauce",
-      "½ a lemon"
+      "½ a lemon",
     ],
-    "instructions": [
+    instructions: [
       "Cooking oysters in the embers of a fire will completely transform these little beauties, but if you’re cooking indoors, you can imitate the results in your trusty oven. It’s not quite the same, but it’ll still taste delicious.",
       "If you’re cooking outdoors, nestle the oysters in the ash of your fire for around 10 minutes, or until the oysters pop open (some might stay closed, but don’t worry, you’ll just need to apply a little extra force to get these ones open).",
       "If cooking indoors, preheat the oven to full whack. Place the rock salt into an ovenproof frying pan, then pop in the oven to preheat for around 20 minutes, before carefully placing the oysters on top and returning to the oven for 10 minutes.",
       "Meanwhile, melt the butter in a frying pan over a medium heat, then cook for 2 to 3 minutes, or until it turns a deep golden colour and starts to sizzle. Add a few drops of Tabasco to taste, then remove from the heat and add a squeeze of lemon juice, swirling the pan until combined. Put the pan to one side.",
-      "Insert an oyster knife or a blunt knife into the oyster, then carefully lever it open – beware of the hot steam! Discard the oyster tops, then place the bottom shells with the oyster on a platter, drizzle over the burnt butter and serve straightaway."
+      "Insert an oyster knife or a blunt knife into the oyster, then carefully lever it open – beware of the hot steam! Discard the oyster tops, then place the bottom shells with the oyster on a platter, drizzle over the burnt butter and serve straightaway.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1051_1_1434098034.jpg",
-    "imageAlt": "Cooked oysters with burnt butter"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1051_1_1434098034.jpg",
+    imageAlt: "Cooked oysters with burnt butter",
   },
   {
-    "name": "Salt-crust salmon",
-    "subName": "Fennel, lemon & herbs galore",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This salmon recipe from Jamie Oliver makes a show-stopping centrepiece for a weekend feast. Bake in salt for perfectly cooked fish – it's a thing of beauty.",
-    "description": "“Baking salmon in a salt crust creates a natural cave that helps the salmon retain maximum moisture as it cooks, as well as imparting a very delicate seasoning. It’s not only a showstopper, you’ll get the most perfectly cooked flaky fish, too. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 45 minutes plus cooling",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 45 minutes plus cooling"
+    name: "Salt-crust salmon",
+    subName: "Fennel, lemon & herbs galore",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This salmon recipe from Jamie Oliver makes a show-stopping centrepiece for a weekend feast. Bake in salt for perfectly cooked fish – it's a thing of beauty.",
+    description:
+      "“Baking salmon in a salt crust creates a natural cave that helps the salmon retain maximum moisture as it cooks, as well as imparting a very delicate seasoning. It’s not only a showstopper, you’ll get the most perfectly cooked flaky fish, too. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "1 hour 45 minutes plus cooling",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 45 minutes plus cooling",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Aussie Christmas",
       "Christmas",
       "Dinner Party",
       "Sunday lunch",
       "Salmon",
-      "Fruit"
+      "Fruit",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 2 kg whole salmon , gutted, gills removed, scales left on, from sustainable sources",
       "4 lemons",
       "1 bulb of fennel",
@@ -7124,9 +7072,9 @@
       "3 fresh red chillies",
       "1 bunch of fresh mint , (30g)",
       "runny honey",
-      "cider vinegar"
+      "cider vinegar",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Wash the salmon well both inside and out, then pat dry with kitchen paper.",
       "Finely slice 1 lemon and the fennel into rounds and stuff into the salmon cavity with the parsley, marjoram and chives.",
@@ -7137,39 +7085,38 @@
       "To make the salsa, deseed the chillies and very finely chop with the mint leaves and a drizzle of honey. Scrape into a bowl, add 2 tablespoons of oil and 2 teaspoons of vinegar, and season to perfection.",
       "Lightly crack the salt casing and pull it away from the salmon, brushing any excess from the top. Gently loosen and carefully transfer the fish to a large platter.",
       "Pull the skin away, then use a regular eating knife to scrape away any darker fish, leaving you with beautifully cooked pink salmon, which you can rustically remove in flakes and lobes.",
-      "Serve with the basil yoghurt, salsa and lemon wedges for squeezing over."
+      "Serve with the basil yoghurt, salsa and lemon wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/83619431.jpg",
-    "imageAlt": "Salt-crust salmon"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/83619431.jpg",
+    imageAlt: "Salt-crust salmon",
   },
   {
-    "name": "Traybaked Keralan fish curry",
-    "subName": "Crispy-skinned salmon & juicy prawns",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Creamy, rich and packed with spices, this Keralan fish curry traybake is fresh, flavoursome and super-comforting – and a guaranteed crowd-pleaser. Dairy-free and gluten-free, too – it ticks every box! ",
-    "description": "“Creamy, rich and packed with spices, this traybake is fresh, flavoursome and super-comforting. Simply whack it in the middle of the table and let your guests help themselves, and serve with clove-spiked rice, warm chapatis and poppadoms for a really epic meal. ”",
-    "servings": "12",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Traybaked Keralan fish curry",
+    subName: "Crispy-skinned salmon & juicy prawns",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Creamy, rich and packed with spices, this Keralan fish curry traybake is fresh, flavoursome and super-comforting – and a guaranteed crowd-pleaser. Dairy-free and gluten-free, too – it ticks every box! ",
+    description:
+      "“Creamy, rich and packed with spices, this traybake is fresh, flavoursome and super-comforting. Simply whack it in the middle of the table and let your guests help themselves, and serve with clove-spiked rice, warm chapatis and poppadoms for a really epic meal. ”",
+    servings: "12",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Festive Feast",
       "Christmas",
       "Dinner Party",
       "Indian",
       "Salmon",
-      "Tomato"
+      "Tomato",
     ],
-    "ingredients": [
+    ingredients: [
       "3 onions",
       "4 cloves of garlic",
       "5 cm piece of ginger",
@@ -7186,9 +7133,9 @@
       "300 g ripe cherry tomatoes",
       "28 large raw peeled tiger prawns , from sustainable sources",
       "2 x 400 g tins of light coconut milk",
-      "4 lemons"
+      "4 lemons",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 160ºC/325ºF/gas 3.",
       "Peel and finely slice the onions, garlic and ginger, then deseed and finely slice the chillies. Pick the coriander leaves, finely chopping the stalks, and deseed and slice the peppers.",
       "Put your largest roasting tray on the hob over a medium heat, and drizzle in 1 tablespoon of oil. Add the spices and curry leaves and fry for 2 minutes, then add the chopped veg, garlic and coriander stalks. Cook for 15 minutes, or until softened, stirring occasionally.",
@@ -7198,38 +7145,39 @@
       "Stir the tomatoes, prawns and coconut milk into the tray, then finely grate over the zest from 1 lemon and squeeze over the juice. Gently simmer on the hob over a medium-low heat until the prawns are just cooked through.",
       "Place the salmon skin under the grill for 5 minutes, or until lovely and crisp, then leave to cool.",
       "Break the salmon into big chunks. Season the sauce to taste with salt, pepper and a squeeze of lemon juice, then snap up and scatter over the crispy salmon skin.",
-      "Sprinkle over the coriander leaves and serve with lots of lemon wedges for squeezing over."
+      "Sprinkle over the coriander leaves and serve with lots of lemon wedges for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1033_2_1436520180.jpg",
-    "imageAlt": "Traybaked Keralan fish curry"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1033_2_1436520180.jpg",
+    imageAlt: "Traybaked Keralan fish curry",
   },
   {
-    "name": "Posh pork kebabs",
-    "subName": "Roast pork, crispy onions & crackling",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Build your own kebabs with roast pork, crispy onions, crunchy crackling and all the trimmings. This is a great idea for a relaxed Sunday lunch – pile it all on the table and let everyone dig in.",
-    "description": "“This is my dressed-up version of a good old kebab – beautiful roast pork, sweet onions, crispy crackling and all the extra trimmings – people go mad for it! Simply whack all the elements in the middle of the table and let everyone build their own – it’s a guaranteed crowd pleaser. ”",
-    "servings": "16",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 30 minutes"
+    name: "Posh pork kebabs",
+    subName: "Roast pork, crispy onions & crackling",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Build your own kebabs with roast pork, crispy onions, crunchy crackling and all the trimmings. This is a great idea for a relaxed Sunday lunch – pile it all on the table and let everyone dig in.",
+    description:
+      "“This is my dressed-up version of a good old kebab – beautiful roast pork, sweet onions, crispy crackling and all the extra trimmings – people go mad for it! Simply whack all the elements in the middle of the table and let everyone build their own – it’s a guaranteed crowd pleaser. ”",
+    servings: "16",
+    time: {
+      prep: "",
+      cook: "2 hours 30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 30 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Jamie's Festive Feast",
       "Pork",
       "Christmas",
       "Mains",
       "One-pan recipes",
-      "Sandwiches & wraps"
+      "Sandwiches & wraps",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 3 kg higher-welfare boneless pork loin , untied and skin removed",
       "1 tablespoon fennel seeds",
       "olive oil",
@@ -7244,9 +7192,9 @@
       "1 pomegranate",
       "1 x 500 ml tub fat-free natural yoghurt",
       "4 lemons",
-      "1 x 300 g jar of pickled chillies"
+      "1 x 300 g jar of pickled chillies",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220°C/427°F/gas 7. Take the pork out of the fridge and allow to come up to room temperature.",
       "Using a sharp knife, score both the pork fat and skin at 2cm intervals in a criss-cross pattern. Season both with a good pinch of sea salt and freshly ground black pepper, then rub over the fennel seeds and a drizzle of oil.",
       "Peel and finely slice the onions, then place into a large roasting tray (roughly 30cm x 40cm). Stir in the molasses, vinegar and a pinch of salt and pepper, then place the pork loin on top.",
@@ -7257,38 +7205,39 @@
       "Snap the crackling into pieces, then carve up the pork and place all the elements onto a large board or serving platter.",
       "Halve the pomegranate, then hold one half in your palm cut-side down over the platter, then bash with the back of a spoon so the seeds tumble out.",
       "Cut the lemons in half and drain the pickled chillies.",
-      "Serve the platter with the tortillas, yoghurt, lemon wedges and pickled chillies on the side, then let everyone build their own beautiful kebab."
+      "Serve the platter with the tortillas, yoghurt, lemon wedges and pickled chillies on the side, then let everyone build their own beautiful kebab.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1032_2_1438245248.jpg",
-    "imageAlt": "Posh pork kebabs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1032_2_1438245248.jpg",
+    imageAlt: "Posh pork kebabs",
   },
   {
-    "name": "One-cup pancakes",
-    "subName": "With fresh blueberries & yoghurt",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Discover this deliciously simple one cup pancake recipe from Jamie Oliver; enjoy these quick, traditional pancakes with the added benefit of blueberries.",
-    "description": "“These are the simplest pancakes to make with kids. You don’t even need scales to weigh out the ingredients – all you need is a cup or a mug! ”",
-    "servings": "Serves Makes 8, Serves 4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "One-cup pancakes",
+    subName: "With fresh blueberries & yoghurt",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Discover this deliciously simple one cup pancake recipe from Jamie Oliver; enjoy these quick, traditional pancakes with the added benefit of blueberries.",
+    description:
+      "“These are the simplest pancakes to make with kids. You don’t even need scales to weigh out the ingredients – all you need is a cup or a mug! ”",
+    servings: "Serves Makes 8, Serves 4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Fruit",
       "Christmas",
       "Easter treats",
       "Father's day",
       "Mother's day",
-      "Pancake day"
+      "Pancake day",
     ],
-    "ingredients": [
+    ingredients: [
       "1 large free-range egg",
       "1 cup of self-raising flour",
       "1 cup of milk",
@@ -7296,9 +7245,9 @@
       "optional:",
       "200 g blueberries",
       "olive oil",
-      "4 tablespoons natural yoghurt"
+      "4 tablespoons natural yoghurt",
     ],
-    "instructions": [
+    instructions: [
       "To make the batter, crack the egg into a large mixing bowl.",
       "Add the flour, milk and a tiny pinch of sea salt.",
       "Whisk everything together until you have a lovely, smooth batter.",
@@ -7309,38 +7258,39 @@
       "Cook the pancakes for 1 to 2 minutes, or until little bubbles appear on the surface and the bases are golden, then use a fish slice to carefully flip them over.",
       "When the pancakes are golden on both sides, use a fish slice to transfer the pancakes to a plate.",
       "Repeat steps 5 to 9 with the remaining batter, adding ½ tablespoon of oil to the pan between batches, if needed.",
-      "Serve the pancakes straight away, topped with a dollop of natural yoghurt, and some extra berries, if you like."
+      "Serve the pancakes straight away, topped with a dollop of natural yoghurt, and some extra berries, if you like.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1019_1_1436869040.jpg",
-    "imageAlt": "One-cup pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1019_1_1436869040.jpg",
+    imageAlt: "One-cup pancakes",
   },
   {
-    "name": "Summer tray-baked salmon",
-    "subName": "With new potatoes and seasonal veg",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "This Summer tray-baked salmon is great with new potatoes and runner beans – make it your own with whatever veg is in season. A super-easy way to eat more salmon!",
-    "description": "“A go-to family staple that you can make your own with whatever veg are in season. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Summer tray-baked salmon",
+    subName: "With new potatoes and seasonal veg",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "This Summer tray-baked salmon is great with new potatoes and runner beans – make it your own with whatever veg is in season. A super-easy way to eat more salmon!",
+    description:
+      "“A go-to family staple that you can make your own with whatever veg are in season. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "British",
       "Salmon",
       "Potato",
       "Vegetables",
       "Lunch & dinner recipes",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "700 g new potatoes",
       "100 g runner beans",
       "100 g green beans",
@@ -7352,9 +7302,9 @@
       "2 lemons",
       "½ a bunch of fresh basil , (15g)",
       "1 handful of fresh fennel tops or dill",
-      "4 x 200 g salmon fillets , skin on, scaled and pin-boned"
+      "4 x 200 g salmon fillets , skin on, scaled and pin-boned",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 230°C/450°F/gas 8.",
       "Half-fill a large saucepan with cold water and add a tiny pinch of sea salt. Place on a high heat and bring to the boil.",
       "Meanwhile, give the new potatoes a good scrub with a scrubber, then on a chopping board cut any bigger ones in half, leaving the smaller ones whole.",
@@ -7371,78 +7321,77 @@
       "Pick the basil leaves, discarding the stalks, then roughly chop them with the fennel tops or dill. Scatter half the herbs into the tray.",
       "Carefully score the salmon fillets lightly on the skin side. Rub each fillet with a little salt, pepper and olive oil, stuff the scores with the remaining herbs and place on top of the potatoes and beans, then wash your hands.",
       "Bake in the hot oven for 10 to 15 minutes, depending on the exact size and thickness of your fillets, or until the salmon is cooked through and the vegetables are soft.",
-      "Divide between your plates using a fish slice, then drizzle with the cooking juices from the bottom of the tray and serve."
+      "Divide between your plates using a fish slice, then drizzle with the cooking juices from the bottom of the tray and serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1016_2_1438765574.jpg",
-    "imageAlt": "Summer tray-baked salmon"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1016_2_1438765574.jpg",
+    imageAlt: "Summer tray-baked salmon",
   },
   {
-    "name": "Simple lemony spring greens",
-    "subName": "With a super-quick lemon dressing",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Try making this once, and it will become your go-to veggie side dish. Lemony greens are the perfect accompaniment to so many dishes, and this couldn't be quicker or easier to throw together.",
-    "description": "“A brilliant little side dish – the lemony dressing transforms these simple greens into a zesty delight. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Simple lemony spring greens",
+    subName: "With a super-quick lemon dressing",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Try making this once, and it will become your go-to veggie side dish. Lemony greens are the perfect accompaniment to so many dishes, and this couldn't be quicker or easier to throw together.",
+    description:
+      "“A brilliant little side dish – the lemony dressing transforms these simple greens into a zesty delight. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "British",
       "Fruit",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 lemon",
       "2 tablespoons extra virgin olive oil",
       "sea salt",
       "freshly ground black pepper",
-      "500 g spring greens"
+      "500 g spring greens",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1014_2_1438681110.jpg",
-    "imageAlt": "Simple lemony spring greens"
+    instructions: [],
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1014_2_1438681110.jpg",
+    imageAlt: "Simple lemony spring greens",
   },
   {
-    "name": "Insanely good oxtail stew",
-    "subName": "Dark, sticky & super-tasty",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This epic oxtail stew recipe from Jamie Oliver shows you how to cook oxtails from scratch. It's a super-delicious cut of meat that just needs a bit of TLC.",
-    "description": "“Let the oven do the hard work – this rich, oozy oxtail stew is well worth the wait. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "6 hours",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "6 hours"
+    name: "Insanely good oxtail stew",
+    subName: "Dark, sticky & super-tasty",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This epic oxtail stew recipe from Jamie Oliver shows you how to cook oxtails from scratch. It's a super-delicious cut of meat that just needs a bit of TLC.",
+    description:
+      "“Let the oven do the hard work – this rich, oozy oxtail stew is well worth the wait. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "6 hours",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "6 hours",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Beef",
       "Dinner Party",
       "Father's day",
       "St. George's Day",
       "Sunday lunch",
-      "Bonfire night recipes"
+      "Bonfire night recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2.5 kg oxtail , chopped into 4cm chunks (ask your butcher to do this)",
       "olive oil",
       "2 medium leeks",
@@ -7456,9 +7405,9 @@
       "2 x 400 g tins of plum tomatoes",
       "275 ml porter or red wine",
       "1 litre organic beef stock , optional",
-      "Worcestershire sauce"
+      "Worcestershire sauce",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 220ºC/425ºF/gas 7. Place a large roasting tray in the oven to preheat.",
       "Carefully remove the hot tray from the oven, then add the oxtail. Season and drizzle over a lug of olive oil, then toss to coat and place in the hot oven for around 20 minutes, or until golden and caramelized.",
       "Meanwhile, trim and halve the leeks and celery lengthways, then chop into rough 2cm chunks. Peel and chop the carrots into 2cm pieces, then place into a large ovenproof casserole pan over a medium-low heat with 1 tablespoon of olive oil.",
@@ -7467,39 +7416,39 @@
       "Add the cloves and flour to the veg, stirring well to combine, then pour in the tomatoes and porter (or wine, if using). Add the oxtail and any roasting juices, cover with the beef stock or 1 litre of cold water and stir well.",
       "Turn the heat up to high and bring to the boil, then pop the lid on and place in the hot oven for around 5 hours, or until the meat falls away from the bone, stirring every hour or so and adding a splash of water to loosen, if needed.",
       "Remove the pan from the oven and leave to cool for about 10 minutes. Using rubber gloves, strip the meat from the bones and return to the pan, discarding the bones.",
-      "Add a good splash of Worcestershire sauce, season to taste and enjoy with creamy mash and seasonal steamed greens."
+      "Add a good splash of Worcestershire sauce, season to taste and enjoy with creamy mash and seasonal steamed greens.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1001_6_1438004333.jpg",
-    "imageAlt": "Insanely good oxtail stew"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1001_6_1438004333.jpg",
+    imageAlt: "Insanely good oxtail stew",
   },
   {
-    "name": "Eggy bread",
-    "subName": "Crispy egg-fried bread",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This eggy bread recipe from Jamie Oliver is such a delicious brunch! It's good enough to make for a crowd, but is actually a really easy breakfast recipe.",
-    "description": "“A simple, versatile brekkie recipe that delivers big on the comfort front. I like to serve eggy bread simply with a few strawberries and a little natural yoghurt, but you can also try it with smashed avocado and grilled tomatoes, or stewed fruit with a dollop of yoghurt (just make sure you leave out the salt and pepper). ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "30 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "30 minutes"
+    name: "Eggy bread",
+    subName: "Crispy egg-fried bread",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This eggy bread recipe from Jamie Oliver is such a delicious brunch! It's good enough to make for a crowd, but is actually a really easy breakfast recipe.",
+    description:
+      "“A simple, versatile brekkie recipe that delivers big on the comfort front. I like to serve eggy bread simply with a few strawberries and a little natural yoghurt, but you can also try it with smashed avocado and grilled tomatoes, or stewed fruit with a dollop of yoghurt (just make sure you leave out the salt and pepper). ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "30 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "30 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Easter treats",
       "Mother's day",
       "Christmas",
       "Bread",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large eggs",
       "2 tablespoons milk",
       "sea salt",
@@ -7512,9 +7461,9 @@
       "fork",
       "Medium frying pan (25cm)",
       "Fish slice",
-      "Serving plates"
+      "Serving plates",
     ],
-    "instructions": [
+    instructions: [
       "Crack the eggs into a mixing bowl.",
       "Add the milk and season with a tiny pinch of salt and pepper.",
       "Gently whisk the eggs and milk together with a fork, then put to one side.",
@@ -7524,129 +7473,124 @@
       "Lift the soaked bread up in the bowl and allow the excess mixture to drip off, then carefully lower it into the pan, making sure it’s facing away from you so you don’t get splashed with hot oil.",
       "Cook for 2 to 3 minutes on each side, or until golden and cooked through, using a fish slice to flip it over.",
       "Carefully lift the bread out of the frying pan and onto a serving plate using a fish slice.",
-      "Place the pan back on the heat and repeat steps 6 to 10 with the remaining ingredients."
+      "Place the pan back on the heat and repeat steps 6 to 10 with the remaining ingredients.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/998_1_1436789112.jpg",
-    "imageAlt": "Eggy bread"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/998_1_1436789112.jpg",
+    imageAlt: "Eggy bread",
   },
   {
-    "name": "Scrambled eggs",
-    "subName": "A failsafe classic breakfast ",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
-    "description": "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Scrambled eggs",
+    subName: "A failsafe classic breakfast ",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Follow Jamie’s Oliver’s scrambled eggs recipe to guarantee perfect scrambled eggs, every time! They make the perfect breakfast, brunch, lunch, or even dinner.",
+    description:
+      "“Making scrambled eggs is fun – just remember that eggs are delicate and will continue to cook even after you’ve taken them off the heat, so it’s really important to remove them just before they’re ready, so that they’ll be just right by the time you come to eat them. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Eggs",
       "Bread",
       "Breakfast",
       "Cheap & cheerful",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
-      "8 large eggs",
-      "1 small knob of unsalted butter"
-    ],
-    "instructions": [
+    ingredients: ["8 large eggs", "1 small knob of unsalted butter"],
+    instructions: [
       "Crack the eggs into a measuring jug.",
       "Add a tiny pinch of sea salt and black pepper, then use a fork to beat them together well.",
       "Put a medium saucepan over a low heat and add the butter.",
       "Leave it to melt slowly, then when it starts to bubble carefully pour in the eggs.",
       "Stir slowly with a wooden spoon, or a spatula if you’ve got one, so you can get right to the edges of the pan.",
       "Keep gently stirring until the eggs still look silky, slightly runny and slightly underdone, and then remove from the heat – the heat of the pan will continue to cook the eggs to perfection.",
-      "Serve with lightly buttered toast."
+      "Serve with lightly buttered toast.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
-    "imageAlt": "Scrambled eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/997_1_1439308218.jpg",
+    imageAlt: "Scrambled eggs",
   },
   {
-    "name": "Smoky mixed-potato wedges",
-    "subName": "Seasoned simply with paprika, sea salt & black pepper",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "Homemade potato wedges are a great recipe for kids. With just a splash of oil and a pinch of seasoning and spice, you can turn the humble potato into a delicious potato side dish.",
-    "description": "“A great recipe for kids – with just a splash of oil and a pinch of seasoning and spice, you can turn the humble potato into delicious homemade wedges. ”",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Smoky mixed-potato wedges",
+    subName: "Seasoned simply with paprika, sea salt & black pepper",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "Homemade potato wedges are a great recipe for kids. With just a splash of oil and a pinch of seasoning and spice, you can turn the humble potato into a delicious potato side dish.",
+    description:
+      "“A great recipe for kids – with just a splash of oil and a pinch of seasoning and spice, you can turn the humble potato into delicious homemade wedges. ”",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Bonfire night recipes",
       "American",
       "Potato",
       "Cheap & cheerful",
-      "Family one-pan recipes"
+      "Family one-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 large sweet potatoes",
       "2 medium potatoes",
       "1 teaspoon sweet smoked paprika",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 200ºC/400ºF/gas 6.",
       "Wash the potatoes under cold running water, scrubbing well with a scrubber to get rid of any dirt (there’s no need to peel them).",
       "On a chopping board, cut each potato in half lengthways, then cut each half in half lengthways, and then each piece in half again so you end up with 8 wedges, then add to a large mixing bowl.",
       "Sprinkle over a tiny pinch of sea salt and black pepper, and the paprika.",
       "Drizzle over 2 tablespoons olive oil, then toss everything together to coat.",
       "Spread out into a single layer over two large baking trays, then bake in the hot oven for 35 to 40 minutes, or until golden and cooked through.",
-      "Use oven gloves to remove the trays from the oven, then leave to sit for a couple of minutes (this will make it easier to remove them from the tray), then use a fish slice to transfer them to a serving dish."
+      "Use oven gloves to remove the trays from the oven, then leave to sit for a couple of minutes (this will make it easier to remove them from the tray), then use a fish slice to transfer them to a serving dish.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/996_2_1438704243.jpg",
-    "imageAlt": "Smoky mixed-potato wedges"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/996_2_1438704243.jpg",
+    imageAlt: "Smoky mixed-potato wedges",
   },
   {
-    "name": "Mexican breakfast",
-    "subName": "Spicy tomato stew & eggs",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie Oliver's huevos rancheros recipe is like an epic combo of spicy tomato stew with runny eggs. Pile up into tortillas for an epic Mexican breakfast.",
-    "description": "“The Mexican name for this dish is ‘huevos rancheros’ – eggs with chillies, tomatoes and peppers in burritos. It’s absolutely great if you've got a few mates round, and even better if you've got a hangover you’re trying to shake off! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Mexican breakfast",
+    subName: "Spicy tomato stew & eggs",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "Jamie Oliver's huevos rancheros recipe is like an epic combo of spicy tomato stew with runny eggs. Pile up into tortillas for an epic Mexican breakfast.",
+    description:
+      "“The Mexican name for this dish is ‘huevos rancheros’ – eggs with chillies, tomatoes and peppers in burritos. It’s absolutely great if you've got a few mates round, and even better if you've got a hangover you’re trying to shake off! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's America",
       "Eggs",
       "Father's day",
       "Mexican",
       "Tomato",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "2 cloves of garlic",
       "2 red peppers",
@@ -7658,9 +7602,9 @@
       "2 large ripe tomatoes",
       "6 large eggs",
       "6 tortillas",
-      "Cheddar cheese , to serve"
+      "Cheddar cheese , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely slice the onions and garlic. Deseed and finely slice the peppers and chillies.",
       "Get a large frying pan (make sure you’ve got a lid to go with it) on a high heat and add several good lugs of olive oil.",
       "Add the onion, garlic, peppers, fresh and dried chillies, bay leaves and a good pinch of sea salt and black pepper, and cook for 15 minutes, or until to softened and caramelised, stirring regularly.",
@@ -7670,38 +7614,39 @@
       "Use a spoon to make small wells in the tomato stew, then crack in the eggs so they poach in the thick, delicious juices – try to crack them in as quickly as you can so they all get to cook for roughly the same amount of time.",
       "Season from a height, put the lid on and let the eggs cook for around 3 to 4 minutes, or until cooked to your liking.",
       "Warm the tortillas while this is happening. You can pop them into the oven at 180°C/350°F/gas 4 for a few minutes, microwave them for a few seconds or even lay them over the lid of the pan so they heat up as the eggs cook.",
-      "Take the lid off and check your eggs by giving them a poke with your finger. When they’re done to your liking, turn the heat off and take the pan to the table with the warmed tortillas, the Cheddar and a grater so everyone can get involved and make their own. Personally, I like to grate a bit of cheese right on to a warm tortilla, spoon an egg and some of the wonderful tomato stew on top, wrap it up, and eat it right away. What a beautiful way to wake up!"
+      "Take the lid off and check your eggs by giving them a poke with your finger. When they’re done to your liking, turn the heat off and take the pan to the table with the warmed tortillas, the Cheddar and a grater so everyone can get involved and make their own. Personally, I like to grate a bit of cheese right on to a warm tortilla, spoon an egg and some of the wonderful tomato stew on top, wrap it up, and eat it right away. What a beautiful way to wake up!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/969_1_1436865889.jpg",
-    "imageAlt": "Mexican breakfast"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/969_1_1436865889.jpg",
+    imageAlt: "Mexican breakfast",
   },
   {
-    "name": "Blanched asparagus – poached egg – fresh smoked salmon",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": " Poached egg, blanched asparagus and fresh smoked salmon; Breakfast really doesn’t get much better than that - start your day right!",
-    "description": "“Believe it or not, for many years poached eggs were just getting me every time. They were busting, or just generally not great ... It was really only once I started looking after chickens that I started to get the hang of making them. I think even as a chef I’d been taught to create a vortex in the water then pop the egg into the middle, but if you’re cooking for lots of people, that’s a pain. So this new way guarantees a perfectly poached pouch of egg every time. The exciting thing is that by simply tying the egg up in cling film with a few herbs you can flavour the eggs and have confidence they’re going to cook all right. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": ""
+    name: "Blanched asparagus – poached egg – fresh smoked salmon",
+    subName: "",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      " Poached egg, blanched asparagus and fresh smoked salmon; Breakfast really doesn’t get much better than that - start your day right!",
+    description:
+      "“Believe it or not, for many years poached eggs were just getting me every time. They were busting, or just generally not great ... It was really only once I started looking after chickens that I started to get the hang of making them. I think even as a chef I’d been taught to create a vortex in the water then pop the egg into the middle, but if you’re cooking for lots of people, that’s a pain. So this new way guarantees a perfectly poached pouch of egg every time. The exciting thing is that by simply tying the egg up in cling film with a few herbs you can flavour the eggs and have confidence they’re going to cook all right. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Great Britain",
       "Eggs",
       "Dinner Party",
       "Father's day",
       "Mother's day",
-      "St. George's Day"
+      "St. George's Day",
     ],
-    "ingredients": [
+    ingredients: [
       "2 knobs of butter",
       "2 lemons",
       "olive oil",
@@ -7710,88 +7655,86 @@
       "a few sprigs of fresh tarragon",
       "4 large free-range eggs",
       "500 g asparagus , woody ends snapped off",
-      "8 slices of smoked salmon (roughly 240g)"
+      "8 slices of smoked salmon (roughly 240g)",
     ],
-    "instructions": [
+    instructions: [
       "Half-fill a medium-large saucepan with water, season generously with salt and bring to the boil. Instead of putting a lid on, put a large bowl on top but don’t let it touch the water. Put the butter, a pinch of salt and pepper and the juice of 1 lemon into the bowl.",
       "This is going to sound cheffy, but it’s simple, so bear with me ... Tear off 8 sheets of good- quality cling film, each roughly 40cm square. Get yourself 4 teacups or small bowls and rub the rims with olive oil. Place a double layer of cling film on top of each one and carefully push it in so that it snugly lines the cups. Use your finger to lightly oil the inside – this will help your egg come out easily at the end. Put a tiny pinch of salt, pepper and chilli flakes into each cup then pick the celery and tarragon leaves and divide them between the cups too – try to help these flavours to spread up the sides, if you can.",
       "Carefully crack the egg into the cling film, then gently push the yolk down so the egg white surrounds it (without it breaking). Bring the cling film up into a bundle, then tie it in a knot and try to squeeze the knot down so it creates a perfect pouch and seals it (imagine a goldfish in a fairground plastic bag).",
       "Once the water is boiling, remove the bowl (the butter should be melted now) and place your eggs in the water along with the asparagus. It takes between 5 and 6 minutes at a gentle simmer for a large egg. Place the bowl or a lid back on top and after 3 or 4 minutes remove the asparagus to the bowl of lemony butter and quickly toss.",
       "Meanwhile, arrange 2 pieces of smoked salmon on each plate. Pull out one of your eggs after 5 minutes and have a little feel (it should have a similar texture to fresh mozzarella). If it still seems undercooked, pop it back in for another minute or so.",
-      "Neatly divide the asparagus between your plates. Cut off the cling film knots with a pair of scissors, peel away the rest, then carefully lift the eggs with a tablespoon and serve them right on top of your asparagus. If you‘ve done a good job, not only will you have perfect poached eggs, but the herbs and seasonings will have cooked into the egg and become one, like a stained glass window, which is really cute. Poke a knife into the egg to let the yolk run, and serve with wedges of lemon on the side."
+      "Neatly divide the asparagus between your plates. Cut off the cling film knots with a pair of scissors, peel away the rest, then carefully lift the eggs with a tablespoon and serve them right on top of your asparagus. If you‘ve done a good job, not only will you have perfect poached eggs, but the herbs and seasonings will have cooked into the egg and become one, like a stained glass window, which is really cute. Poke a knife into the egg to let the yolk run, and serve with wedges of lemon on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/952_1_1439206036.jpg",
-    "imageAlt": "Blanched asparagus – poached egg – fresh smoked salmon"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/952_1_1439206036.jpg",
+    imageAlt: "Blanched asparagus – poached egg – fresh smoked salmon",
   },
   {
-    "name": "Neeps & tatties",
-    "subName": "",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian",
-      "Vegan"
-    ],
-    "metaDescription": "Nothing beats a simple dish of neeps and tatties. Serve on the side of any Sunday lunch and you're sure to make everyone happy. Serves eight.",
-    "description": "",
-    "servings": "8",
-    "time": {
-      "prep": "",
-      "cook": "40 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "40 minutes"
+    name: "Neeps & tatties",
+    subName: "",
+    specialDiets: ["Gluten-free", "Vegetarian", "Vegan"],
+    metaDescription:
+      "Nothing beats a simple dish of neeps and tatties. Serve on the side of any Sunday lunch and you're sure to make everyone happy. Serves eight.",
+    description: "",
+    servings: "8",
+    time: {
+      prep: "",
+      cook: "40 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "40 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Great Britain",
       "Vegetables",
       "Burns Night Specials",
       "Dinner Party",
       "Sunday lunch",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 kg swede",
       "1 kg potatoes",
       "sea salt",
       "white pepper",
-      "1 knob of butter"
+      "1 knob of butter",
     ],
-    "instructions": [
-      "Fill a large pan with cold water, add a good pinch of sea salt and put it on a high heat. Peel 1 large swede (roughly 1kg), and cut it into 2cm chunks. Once the water is boiling, add the swede and cook for 15 minutes. Meanwhile, peel 1kg of potatoes and cut them into 2.5cm chunks. When the 15 minutes is up, add the potatoes and cook for a further 10 to 15 minutes, or until everything is soft and cooked through. Drain, leave to steam dry for a minute, then mash with a good pinch of salt and white pepper and a knob of butter."
+    instructions: [
+      "Fill a large pan with cold water, add a good pinch of sea salt and put it on a high heat. Peel 1 large swede (roughly 1kg), and cut it into 2cm chunks. Once the water is boiling, add the swede and cook for 15 minutes. Meanwhile, peel 1kg of potatoes and cut them into 2.5cm chunks. When the 15 minutes is up, add the potatoes and cook for a further 10 to 15 minutes, or until everything is soft and cooked through. Drain, leave to steam dry for a minute, then mash with a good pinch of salt and white pepper and a knob of butter.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/879_1_1359042504.jpg",
-    "imageAlt": "Neeps & tatties"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/879_1_1359042504.jpg",
+    imageAlt: "Neeps & tatties",
   },
   {
-    "name": "Veggie chilli",
-    "subName": "With crunchy tortilla & avocado salad",
-    "specialDiets": [
-      "Vegetarian",
-      "Gluten-free"
-    ],
-    "metaDescription": "This veggie chilli recipe, served up with crunchy tortillas and avocado salad makes a great meal for vegetarians and meat eaters alike – delicious and healthy.",
-    "description": "“This vegetarian bean chilli is packed with goodness and flavour, and is fast and easy to rustle up. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Veggie chilli",
+    subName: "With crunchy tortilla & avocado salad",
+    specialDiets: ["Vegetarian", "Gluten-free"],
+    metaDescription:
+      "This veggie chilli recipe, served up with crunchy tortillas and avocado salad makes a great meal for vegetarians and meat eaters alike – delicious and healthy.",
+    description:
+      "“This vegetarian bean chilli is packed with goodness and flavour, and is fast and easy to rustle up. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's 15-Minute Meals",
       "Vegetables",
       "Mexican",
       "Fruit",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "CHILLI & RICE",
       "1 red onion",
       "1 dried smoked chipotle or ancho chilli",
@@ -7814,37 +7757,40 @@
       "1 romaine lettuce",
       "½ a cucumber",
       "1 fresh red chilli",
-      "1 handful of ripe cherry tomatoes"
+      "1 handful of ripe cherry tomatoes",
     ],
-    "instructions": [],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/846_1_1436962544.jpg",
-    "imageAlt": "Veggie chilli"
+    instructions: [],
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/846_1_1436962544.jpg",
+    imageAlt: "Veggie chilli",
   },
   {
-    "name": "Anglo-French toastie",
-    "subName": "With posh cheese & ham",
-    "specialDiets": [],
-    "metaDescription": "A cheese and ham toastie with a twist, delicious simple ingredients make Jamie's French toastie recipe easy enough for a cooking novice to handle. ",
-    "description": "“The humble toasted sandwich is transformed with super-tasty fillings and a simple salad on the side ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Anglo-French toastie",
+    subName: "With posh cheese & ham",
+    specialDiets: [],
+    metaDescription:
+      "A cheese and ham toastie with a twist, delicious simple ingredients make Jamie's French toastie recipe easy enough for a cooking novice to handle. ",
+    description:
+      "“The humble toasted sandwich is transformed with super-tasty fillings and a simple salad on the side ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Bread",
       "British",
       "Pork",
       "Breakfast",
       "Meals for one",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "2 slices of white bread , around 1cm thick",
       "unsalted butter",
       "15 g Comte cheese",
@@ -7855,47 +7801,47 @@
       "freshly ground black pepper",
       "sea salt",
       "1 small eating apple",
-      "1 handful mixed salad leaves , such as frisse, watercress, rocket"
+      "1 handful mixed salad leaves , such as frisse, watercress, rocket",
     ],
-    "instructions": [
+    instructions: [
       "Lightly butter the slices of bread, then place buttered-side down on a chopping board.",
       "Slice and lay the cheeses over one piece of bread, top with the ham then place the second piece of bread on top, buttered-side up.",
       "Place into a preheated toastie maker, clamp the lid down and toast for 4 to 5 minutes, or until golden and crispy.",
       "Meanwhile, add the vinegar and oil to a clean jam jar with a little pinch of salt and pepper, pop the lid on and shake to combine.",
       "Cut the apple into matchsticks, removing the core, then toss with the salad leaves and dressing.",
-      "Serve the golden toastie with the fresh salad on the side, and tuck in."
+      "Serve the golden toastie with the fresh salad on the side, and tuck in.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/840_1_1421669480.jpg",
-    "imageAlt": "Anglo-French toastie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/840_1_1421669480.jpg",
+    imageAlt: "Anglo-French toastie",
   },
   {
-    "name": "Lentil and bacon soup recipe",
-    "subName": "With root veg",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "This lentil soup recipe is full of goodness and really hearty; add some bacon, veg and creamy beans and you have a total winner, especially on a winter day.",
-    "description": "“This incredibly easy store cupboard soup with crispy bacon is great for using up leftovers. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 10 minutes"
+    name: "Lentil and bacon soup recipe",
+    subName: "With root veg",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "This lentil soup recipe is full of goodness and really hearty; add some bacon, veg and creamy beans and you have a total winner, especially on a winter day.",
+    description:
+      "“This incredibly easy store cupboard soup with crispy bacon is great for using up leftovers. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Pork",
       "Gorgeous Winter Soups",
       "Lentil",
       "Healthy meals",
       "Light meals",
-      "Mains"
+      "Mains",
     ],
-    "ingredients": [
+    ingredients: [
       "FRESH",
       "2 red onions",
       "2 carrots",
@@ -7910,48 +7856,48 @@
       "200 g dried lentils , (a mixture of green and red is nice)",
       "1 organic vegetable stock cube , optional",
       "1 x 410 g tin of cannellini beans",
-      "extra virgin olive oil"
+      "extra virgin olive oil",
     ],
-    "instructions": [
+    instructions: [
       "Peel and finely chop the onions and carrots, trim and finely chop the celery, and peel and finely slice the garlic. Finely chop the bacon.",
       "Heat a lug of olive oil in a large pan over a medium heat, add the bacon and fry slowly until the bacon starts to release all its tasty fat and goes crispy, then crumble in the dried chilli, and add the dried thyme, onion, carrot, celery and garlic.",
       "Cook gently with the lid on for about 15 minutes, or until all the vegetables are soft, then add the lentils and 1 litre water or vegetable stock.",
       "Bring to the boil and simmer until the lentils are soft (check the packet instructions as different types of lentils vary in cooking time. If you’re mixing your lentils, cook for the longest amount of time to make sure they are all cooked properly).",
       "Drain, then tip in the cannellini beans and, if the soup’s a little thick, add a splash more water. Bring back to the boil and simmer for another 10 minutes, then taste and season with sea salt and black pepper.",
       "Meanwhile, pick and finely chop the parsley.",
-      "Ladle into bowls and finish with a drizzle of extra virgin olive oil and the chopped parsley. Serve with hunks of bread for dunking."
+      "Ladle into bowls and finish with a drizzle of extra virgin olive oil and the chopped parsley. Serve with hunks of bread for dunking.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/796_1_1436890546.jpg",
-    "imageAlt": "Lentil and bacon soup recipe"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/796_1_1436890546.jpg",
+    imageAlt: "Lentil and bacon soup recipe",
   },
   {
-    "name": "Fish in a bag",
-    "subName": "With lemon, fennel, olives & white wine ",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "Fish recipes can sometimes seem a bit daunting, but this is a really easy way to cook fish. Jamie Oliver's recipe for fish in a bag (or en papillote) won’t disappoint",
-    "description": "“This is one of the best ways to cook fish – the foil bag keeps the flavours beautifully intense. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Fish in a bag",
+    subName: "With lemon, fennel, olives & white wine ",
+    specialDiets: ["Gluten-free", "Dairy-free"],
+    metaDescription:
+      "Fish recipes can sometimes seem a bit daunting, but this is a really easy way to cook fish. Jamie Oliver's recipe for fish in a bag (or en papillote) won’t disappoint",
+    description:
+      "“This is one of the best ways to cook fish – the foil bag keeps the flavours beautifully intense. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Healthy meals",
       "Mains",
       "Meals for one",
       "One-pan recipes",
       "Quick fixes",
-      "Baking"
+      "Baking",
     ],
-    "ingredients": [
+    ingredients: [
       "1 free-range egg",
       "100 g potatoes",
       "½ a bulb of fennel",
@@ -7960,9 +7906,9 @@
       "1 handful of black olives (stone in)",
       "1 x 120 g firm white fish fillet, such as sea bass, haddock, halibut, skin off, pin-boned , from sustainable sources, ask your fishmonger, skinned and pinboned",
       "olive oil",
-      "1 splash of white wine"
+      "1 splash of white wine",
     ],
-    "instructions": [
+    instructions: [
       "Make a bag for your fish by tearing off a 35cm x 45cm strip of tin foil and folding it in half across the middle. Fold three of the sides up like an envelope, sealing the edges by brushing them with a little beaten egg before folding. Leave one side open.",
       "Roughly chop or slice the potatoes, then cook in a pan of boiling salted water for 6 minutes. Drain and leave to cool slightly.",
       "Trim and chop the fennel into wedges, reserving the fronds, then finely slice the lemon. Halve the cherry tomatoes, then squash the olives and remove the stones.",
@@ -7971,38 +7917,38 @@
       "When you’re ready to cook, preheat the oven to 200°C/400°F/gas 6.",
       "Unravel the loose side of the bag, pour in the wine, then reseal and place on a baking tray.",
       "Cook for 18 to 20 minutes, or until the fish and potatoes are cooked through.",
-      "To serve, place the bag on a serving plate and gently pierce to release the steam – the tomatoes and wine will have made a delicious sauce. Delicious served with steamed broccoli or green beans."
+      "To serve, place the bag on a serving plate and gently pierce to release the steam – the tomatoes and wine will have made a delicious sauce. Delicious served with steamed broccoli or green beans.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/53487854.jpg",
-    "imageAlt": "Fish in a bag"
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/53487854.jpg",
+    imageAlt: "Fish in a bag",
   },
   {
-    "name": "Turkey con chilli",
-    "subName": "With fresh, zingy homemade guacamole",
-    "specialDiets": [
-      "Gluten-free"
-    ],
-    "metaDescription": "Turkey chilli is the best meal to make with turkey leftovers; build up the layers of flavour with a sweet vegetable base and you are away, so beautiful.",
-    "description": "“No one will recognise leftover turkey once it's jazzed up in this spicy chilli with attitude ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "2 hours 35 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "2 hours 35 minutes"
+    name: "Turkey con chilli",
+    subName: "With fresh, zingy homemade guacamole",
+    specialDiets: ["Gluten-free"],
+    metaDescription:
+      "Turkey chilli is the best meal to make with turkey leftovers; build up the layers of flavour with a sweet vegetable base and you are away, so beautiful.",
+    description:
+      "“No one will recognise leftover turkey once it's jazzed up in this spicy chilli with attitude ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "2 hours 35 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "2 hours 35 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Turkey",
       "Christmas",
       "Dinner Party",
       "Thanksgiving",
-      "Mexican"
+      "Mexican",
     ],
-    "ingredients": [
+    ingredients: [
       "2 red onions",
       "1 carrot",
       "1 leek",
@@ -8028,9 +7974,9 @@
       "½ a clove of garlic",
       "1 fresh green chilli",
       "1 bunch of fresh coriander , (30g)",
-      "1 lime"
+      "1 lime",
     ],
-    "instructions": [
+    instructions: [
       "For this recipe, you will need 600 g turkey, leftover, shredded.",
       "Preheat the oven to 180°C/350°F/gas 4.",
       "Peel and roughly chop the onions and carrot, and trim and roughly chop the leek. Deseed and roughly chop the peppers, and deseed and finely chop the chillies.",
@@ -8042,80 +7988,80 @@
       "While that’s cooking, make your guacamole. Peel and destone the avocados and put one of them in a food processor. Halve the tomatoes, peel the onion and garlic, and deseed the chilli, and add it all to the food processor with the coriander and blitz.",
       "Use a fork to mash the other avocado in a bowl so it’s nice and chunky. Taste the mixture in the food processor and add salt and squeezes of lime juice until the taste is just right for you. Whiz up one more time, then tip into the bowl with your chunky avocado and mix together.",
       "Take the chilli out of the oven and scrape all the gnarly bits from the edge of the pan back into the chilli for added flavour. Squeeze in some lime juice, and stir through most of the reserved coriander leaves.",
-      "Have a taste to check the seasoning, then serve with steamed basmati rice or tortillas, and a good dollop of soured cream and guacamole on top. Scatter over your remaining coriander leaves and some finely sliced fresh chilli if you fancy, then get everyone to tuck in!"
+      "Have a taste to check the seasoning, then serve with steamed basmati rice or tortillas, and a good dollop of soured cream and guacamole on top. Scatter over your remaining coriander leaves and some finely sliced fresh chilli if you fancy, then get everyone to tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/EfalAQFJaysB-MjY-6tWzT.jpg",
-    "imageAlt": "Turkey con chilli"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/medium/EfalAQFJaysB-MjY-6tWzT.jpg",
+    imageAlt: "Turkey con chilli",
   },
   {
-    "name": "Sunny side-up eggs",
-    "subName": "A lovely-looking fried egg",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "This Jamie Oliver egg recipe is cracking! It shows you how to make perfect sunny side up fried eggs. Just add hot buttered toast for a perfect breakfast.",
-    "description": "“Perfectly soft and silky fried eggs, ready to eat in just 5 minutes. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "5 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "5 minutes"
+    name: "Sunny side-up eggs",
+    subName: "A lovely-looking fried egg",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegetarian"],
+    metaDescription:
+      "This Jamie Oliver egg recipe is cracking! It shows you how to make perfect sunny side up fried eggs. Just add hot buttered toast for a perfect breakfast.",
+    description:
+      "“Perfectly soft and silky fried eggs, ready to eat in just 5 minutes. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "5 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "5 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Food Revolution",
       "Eggs",
       "Easter treats",
       "Father's day",
       "Mother's day",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 tablespoon olive oil",
       "4 large free-range eggs",
       "1/16 teaspoon sea salt",
-      "freshly ground black pepper , to taste"
+      "freshly ground black pepper , to taste",
     ],
-    "instructions": [
+    instructions: [
       "Get your frying pan on a medium to low heat and add enough olive oil to lightly coat the bottom of a large nonstick pan (about 1 tablespoon).",
       "Crack the eggs into the pan. As the oil gets hotter you’ll see it start to change the color of the eggs. If the oil starts to spit it’s because it’s too hot, so turn the heat right down. Cook until the tops of the whites are set but the yolk is still runny.",
       "When they’re ready, remove the pan from the heat and take the eggs out using a spatula. Place on a plate and dab them with some paper towels to soak up any excess oil. Serve on toast – no need to butter it – with a sprinkling of the sea salt and freshly ground black pepper.",
-      "Delicious served on some 7-grain bread."
+      "Delicious served on some 7-grain bread.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg",
-    "imageAlt": "Sunny side-up eggs"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg",
+    imageAlt: "Sunny side-up eggs",
   },
   {
-    "name": "Quesadillas with guacamole",
-    "subName": "Cheesy Mexican tortillas with soured cream and avocado",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Jamie's Quesadillas recipe is second to none, served with guacamole and sour cream quesadillas make the perfect dish to share with friends.",
-    "description": "“A classic cheese-filled quesadilla is a little bit naughty, but man are they nice! ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Quesadillas with guacamole",
+    subName: "Cheesy Mexican tortillas with soured cream and avocado",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Jamie's Quesadillas recipe is second to none, served with guacamole and sour cream quesadillas make the perfect dish to share with friends.",
+    description:
+      "“A classic cheese-filled quesadilla is a little bit naughty, but man are they nice! ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Dinners",
       "Alfresco",
       "Mexican",
       "One-pan recipes",
-      "Starters"
+      "Starters",
     ],
-    "ingredients": [
+    ingredients: [
       "GUACAMOLE",
       "2-3 avocados",
       "4-5 tomatoes",
@@ -8133,45 +8079,45 @@
       "red or green chillies",
       "tortillas",
       "soured cream , to serve",
-      "beer , to serve"
+      "beer , to serve",
     ],
-    "instructions": [
+    instructions: [
       "To make the guacamole I use 2 or 3 ripe avocados, 2 or 3 ripe deseeded tomatoes and a couple of deseeded red chillies, and I throw all this into a food processor with a handful of peeled and chopped spring onions and a good handful of fresh coriander. Once this has been chopped up nice and fine, I add a couple more chopped tomatoes, a good pinch of salt and half of another avocado, chopped, to give it a nice chunky texture. Transfer everything into a bowl and season carefully with sea salt, freshly ground black pepper and a good squeeze of lemon or lime juice. If you decide to buy ready-made guacamole, which is a bit lazy but probably very realistic, you can put it into a bowl and chirp it up a bit with a squeeze of lemon juice, a little extra salt and a bit of chilli to give it a kick.",
       "To fill the quesadillas you will need a couple of big handfuls of grated Cheddar and/or Red Leicester cheese, some finely sliced spring onions, a couple of handfuls of chopped fresh coriander, and a red pepper and some red or green chillies all deseeded and finely chopped. Mix all this up in a bowl and then sprinkle half a handful between two layers of tortilla. You can make up 4, 10 or even 20 quesadillas and keep them in the fridge until you need them if you want.",
       "Some people like to fry them in oil, but this makes them greasy and is not all that healthy. You can grill them, but I like to put them in a dry non-stick frying pan on a medium heat, so that after about a minute and a half on each side you are left with a really crispy outside and an oozy, stringy filling. Serve the quesadillas cut into quarters, with the guacamole, soured cream and a beer.",
-      "PS You can also posh them up a bit using grilled chicken or seafood, leftover pork, shellfish, or a selection of grilled vegetables."
+      "PS You can also posh them up a bit using grilled chicken or seafood, leftover pork, shellfish, or a selection of grilled vegetables.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/428_1_1439304876.jpg",
-    "imageAlt": "Quesadillas with guacamole"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/428_1_1439304876.jpg",
+    imageAlt: "Quesadillas with guacamole",
   },
   {
-    "name": "Potato and chorizo omelette with a kinda parsley salad",
-    "subName": "Finished in the oven for a lovely puffed-up texture",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Jamie's omelette recipe is a cross between a Spanish tortilla and an Italian frittata with all the essentials for a hearty meal - tatties, sausage and eggs!",
-    "description": "“This tasty little number for two is a kinda-Spanish omelette meets Italian frittata mash-up. ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "Potato and chorizo omelette with a kinda parsley salad",
+    subName: "Finished in the oven for a lovely puffed-up texture",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Jamie's omelette recipe is a cross between a Spanish tortilla and an Italian frittata with all the essentials for a hearty meal - tatties, sausage and eggs!",
+    description:
+      "“This tasty little number for two is a kinda-Spanish omelette meets Italian frittata mash-up. ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Eggs",
       "Dinner for two",
       "Spanish",
       "Potato",
-      "Chorizo"
+      "Chorizo",
     ],
-    "ingredients": [
+    ingredients: [
       "4 small waxy potatoes , scrubbed and cut into chunks",
       "6 large free-range eggs",
       "2 x 60 g iberico chorizo sausages , cut into 1cm thick slices",
@@ -8179,45 +8125,45 @@
       "2 shallots , peeled and very finely sliced",
       "1 lemon , juice of",
       "extra virgin olive oil",
-      "1 bunch fresh flat-leaf parsley , (30g), leaves picked"
+      "1 bunch fresh flat-leaf parsley , (30g), leaves picked",
     ],
-    "instructions": [
+    instructions: [
       "This omelette is a cross between a Spanish tortilla and an Italian frittata. It’s Spanish because of the chorizo and potato, but a little Italian too because I like to finish it off in the oven instead of on the hob, so it puffs up like a soufflé. It has all the things I love in it – potatoes, sausage and eggs.",
       "Preheat your oven to full whack, or get your grill nice and hot. Put the potatoes into a saucepan of boiling salted water and simmer them until cooked, then drain in a colander and leave them to steam dry. Beat the eggs with a fork in a large mixing bowl, season well with salt and pepper, and put to one side.",
       "Heat a 20cm non-stick, ovenproof frying pan. Add the chorizo slices and the potato chunks. The chorizo will start to sizzle, releasing all its tasty oils and spices. After a couple of minutes, when everything’s lightly golden and crisp, remove from the pan with a slotted spoon and put to one side. Sprinkle the rosemary leaves into the hot fat. As soon as they hit the pan, they’ll start to crisp up. Pour the beaten eggs on top immediately, adding the potatoes and chorizo and spreading everything out evenly. Place the whole pan in the preheated oven or under the grill until the omelette is golden brown on top and just cooked through in the middle.",
-      "While the omelette is cooking, put the shallots into a bowl with the lemon juice, some salt and pepper and a lug of extra virgin olive oil. Toss and pinch the shallots with your fingertips to soften them slightly, then mix in the parsley leaves. Serve a little on top of the omelette and tuck in!"
+      "While the omelette is cooking, put the shallots into a bowl with the lemon juice, some salt and pepper and a lug of extra virgin olive oil. Toss and pinch the shallots with your fingertips to soften them slightly, then mix in the parsley leaves. Serve a little on top of the omelette and tuck in!",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/413_1_1436874684.jpg",
-    "imageAlt": "Potato and chorizo omelette with a kinda parsley salad"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/413_1_1436874684.jpg",
+    imageAlt: "Potato and chorizo omelette with a kinda parsley salad",
   },
   {
-    "name": "Perfect roast chicken",
-    "subName": "With lemon, fresh herbs & veg trivet",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "There's nothing better than a delicious Sunday roast. Follow this Jamie Oliver roast chicken recipe for beautifully succulent results. Just add spuds!",
-    "description": "“A super-reliable roast chicken recipe to give you juicy meat and crispy skin, every time. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 25 minutes plus resting time",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 25 minutes plus resting time"
+    name: "Perfect roast chicken",
+    subName: "With lemon, fresh herbs & veg trivet",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "There's nothing better than a delicious Sunday roast. Follow this Jamie Oliver roast chicken recipe for beautifully succulent results. Just add spuds!",
+    description:
+      "“A super-reliable roast chicken recipe to give you juicy meat and crispy skin, every time. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 25 minutes plus resting time",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 25 minutes plus resting time",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Chicken",
       "Mother's day",
       "Sunday lunch",
       "Christmas",
-      "Lunch & dinner recipes"
+      "Lunch & dinner recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "1 x 1.6 kg higher-welfare chicken",
       "2 medium onions",
       "2 carrots",
@@ -8225,9 +8171,9 @@
       "1 bulb of garlic",
       "olive oil",
       "1 lemon",
-      "1 bunch of mixed fresh herbs , such as, thyme, rosemary, bay"
+      "1 bunch of mixed fresh herbs , such as, thyme, rosemary, bay",
     ],
-    "instructions": [
+    instructions: [
       "Remove the chicken from the fridge 30 minutes before you want to cook it, to let it come up to room temperature.",
       "Preheat the oven to 240°C/475°F/gas 9.",
       "Wash and roughly chop the vegetables – there’s no need to peel them. Break the garlic bulb into cloves, leaving them unpeeled.",
@@ -8241,80 +8187,76 @@
       "To carve your chicken, remove any string and take off the wings (break them up and add to your gravy, along with the veg trivet, for mega flavour). Carefully cut down between the leg and the breast. Cut through the joint and pull the leg off.",
       "Repeat on the other side, then cut each leg between the thigh and the drumstick so you end up with four portions of dark meat. Place these on a serving platter.",
       "You should now have a clear space to carve the rest of your chicken. Angle the knife along the breastbone and carve one side off, then the other.",
-      "When you get down to the fussy bits, just use your fingers to pull all the meat off, and turn the chicken over to get all the tasty, juicy bits from underneath. You should be left with a stripped carcass, and a platter full of lovely meat that you can serve with your piping hot gravy and some delicious roast veg."
+      "When you get down to the fussy bits, just use your fingers to pull all the meat off, and turn the chicken over to get all the tasty, juicy bits from underneath. You should be left with a stripped carcass, and a platter full of lovely meat that you can serve with your piping hot gravy and some delicious roast veg.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/390_1_1436872147.jpg",
-    "imageAlt": "Perfect roast chicken"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/390_1_1436872147.jpg",
+    imageAlt: "Perfect roast chicken",
   },
   {
-    "name": "Pancakes USA stylie",
-    "subName": "Beautifully fluffy & thick",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Make an epic pancake stack with this American style pancake recipe. Thick and fluffy pancakes with syrup is such a winning combination for an epic brunch!",
-    "description": "“Pile up these American pancakes with fruit, a dollop of crème fraîche, bacon, syrup… all sorts. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "20 minutes"
+    name: "Pancakes USA stylie",
+    subName: "Beautifully fluffy & thick",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Make an epic pancake stack with this American style pancake recipe. Thick and fluffy pancakes with syrup is such a winning combination for an epic brunch!",
+    description:
+      "“Pile up these American pancakes with fruit, a dollop of crème fraîche, bacon, syrup… all sorts. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "20 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
-      "Eggs",
-      "Pancake day",
-      "American",
-      "Breakfast",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Super easy",
+    tags: ["Eggs", "Pancake day", "American", "Breakfast", "One-pan recipes"],
+    ingredients: [
       "3 large free-range eggs",
       "115 g plain flour",
       "1 heaped teaspoon baking powder",
-      "140 ml milk"
+      "140 ml milk",
     ],
-    "instructions": [
+    instructions: [
       "First separate the eggs, putting the whites into one bowl and the yolks into another.",
       "Add the flour, baking powder and milk to the yolks and mix to a smooth thick batter.",
       "Whisk the whites with 1 pinch of sea salt until they form stiff peaks, then fold into the batter – it is now ready to use.",
       "Heat a non-stick pan over a medium heat, pour some of the batter into the pan and cook for a couple of minutes, or until it starts to look golden and firm.",
       "At this point sprinkle your chosen flavouring (see below) onto the uncooked side before loosening with a spatula and flipping the pancake over. Continue frying until both sides are golden.",
-      "You can make these pancakes large or small, depending on what you prefer. Serve them with a drizzle of maple syrup, or even with some butter or crème fraîche. If you choose to sprinkle with a flavouring, try one of these... fresh corn from the cob, crispy bacon or pancetta, blueberries, banana, stewed apple, grated chocolate – anything else you can imagine..."
+      "You can make these pancakes large or small, depending on what you prefer. Serve them with a drizzle of maple syrup, or even with some butter or crème fraîche. If you choose to sprinkle with a flavouring, try one of these... fresh corn from the cob, crispy bacon or pancetta, blueberries, banana, stewed apple, grated chocolate – anything else you can imagine...",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/378_1_1438763691.jpg",
-    "imageAlt": "Pancakes USA stylie"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/378_1_1438763691.jpg",
+    imageAlt: "Pancakes USA stylie",
   },
   {
-    "name": "Paella",
-    "subName": "With chicken, chorizo, mussels & prawns",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This seafood paella recipe is really special. It’s not quite a traditional paella recipe, but it’s packed with good stuff – chicken thighs, garlic, saffron, king prawns, mussels and lots of lovely lemon.",
-    "description": "“This tasty paella has a bit of everything! Wonderfully comforting, flavoursome and colourful ”",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 25 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 25 minutes"
+    name: "Paella",
+    subName: "With chicken, chorizo, mussels & prawns",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This seafood paella recipe is really special. It’s not quite a traditional paella recipe, but it’s packed with good stuff – chicken thighs, garlic, saffron, king prawns, mussels and lots of lovely lemon.",
+    description:
+      "“This tasty paella has a bit of everything! Wonderfully comforting, flavoursome and colourful ”",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "1 hour 25 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 25 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Seafood",
       "Dinner Party",
       "Spanish",
       "Chicken",
       "Chorizo",
-      "Prawns"
+      "Prawns",
     ],
-    "ingredients": [
+    ingredients: [
       "6 free-range chicken thighs , skin on, bone in",
       "plain flour",
       "olive oil",
@@ -8331,9 +8273,9 @@
       "2 handfuls of fresh or frozen peas",
       "10 large raw shell-on king prawns , from sustainable sources",
       "500 g mussels , (cleaned) from sustainable sources, optional",
-      "1 lemon"
+      "1 lemon",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190ºC/375ºF/gas 5.",
       "Quarter each piece of chicken, then season with sea salt and black pepper and dust with flour.",
       "Heat a splash of oil in a large, deep pan on a medium heat and fry the chicken until golden brown all over, then transfer to a baking tray and place in the oven for 20 minutes, or until cooked through.",
@@ -8343,39 +8285,39 @@
       "Add the smoked paprika, the rice and infused stock to the pan and leave to cook on a medium heat for around 20 minutes, stirring occasionally.",
       "Meanwhile, halve the squid and lightly score all over with a regular eating knife (if using).",
       "When the time's up, add the remaining stock, peas, prawns, and the mussels and squid (if using). Place a lid on the pan and cook for 10 further minutes.",
-      "Finally, add the cooked chicken, sprinkle over the chopped parsley and serve with wedges of lemon for squeezing over."
+      "Finally, add the cooked chicken, sprinkle over the chopped parsley and serve with wedges of lemon for squeezing over.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/372_36_1440760950.jpg",
-    "imageAlt": "Paella"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/372_36_1440760950.jpg",
+    imageAlt: "Paella",
   },
   {
-    "name": "Omelette",
-    "subName": "A tasty breakfast, lunch or dinner in no time",
-    "specialDiets": [
-      "Gluten-free",
-      "Vegetarian"
-    ],
-    "metaDescription": "A good omelette recipe is an essential for any beginner cook. Some good omelette ideas are tomato & basil, mushroom, or ham & cheese. From jamieoliver.com.",
-    "description": "“Plain or with veggies, omelettes are really easy to knock together and super-satisfying. ”",
-    "servings": "1",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Omelette",
+    subName: "A tasty breakfast, lunch or dinner in no time",
+    specialDiets: ["Gluten-free", "Vegetarian"],
+    metaDescription:
+      "A good omelette recipe is an essential for any beginner cook. Some good omelette ideas are tomato & basil, mushroom, or ham & cheese. From jamieoliver.com.",
+    description:
+      "“Plain or with veggies, omelettes are really easy to knock together and super-satisfying. ”",
+    servings: "1",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Ministry of Food",
       "Eggs",
       "Breakfast",
       "Meals for one",
       "One-pan recipes",
-      "Quick fixes"
+      "Quick fixes",
     ],
-    "ingredients": [
+    ingredients: [
       "BASIC OMELETTE",
       "2 large free-range eggs",
       "1 small knob of unsalted butter",
@@ -8386,180 +8328,169 @@
       "olive oil",
       "OPTIONAL: MUSHROOM OMELETTE",
       "2 or 3 field-type mushrooms",
-      "olive oil"
+      "olive oil",
     ],
-    "instructions": [
+    instructions: [
       "For a basic omelette, crack the eggs into a mixing bowl with a pinch of sea salt and black pepper. Beat well with a fork.",
       "Heat a small knob of butter in a small frying pan on a low heat, and once melted and bubbling, add the eggs and move the pan around to spread them out evenly.",
       "When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the cheese (if using). I sometimes grate mine directly on to the omelette.",
       "Using a spatula, ease around the edges of the omelette, then fold it over in half. When it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette on to a plate.",
       "For a tomato and basil omelette, pick and roughly tear the basil leaves. Chop the tomatoes in half, then add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around for 1 minute, then turn the heat down to medium and sprinkle over the basil leaves. Add the eggs and move the pan around to spread them out evenly. Continue as for the basic omelette.",
-      "For a mushroom omelette, quarter or roughly chop the mushrooms and add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around until golden, then turn the heat down to medium. Add the eggs and move the pan around to spread them out evenly. When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the Cheddar. Continue as for the basic omelette."
+      "For a mushroom omelette, quarter or roughly chop the mushrooms and add to a hot frying pan with a small knob of butter, a drizzle of oil and a pinch of salt and pepper. Fry and toss around until golden, then turn the heat down to medium. Add the eggs and move the pan around to spread them out evenly. When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the Cheddar. Continue as for the basic omelette.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/366_1_1436868647.jpg",
-    "imageAlt": "Omelette"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/366_1_1436868647.jpg",
+    imageAlt: "Omelette",
   },
   {
-    "name": "Lemony green beans",
-    "subName": "A simply delicious way to spruce up simple greens",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free",
-      "Vegan",
-      "Vegetarian"
-    ],
-    "metaDescription": "A super lemony green bean recipe. One of the many quick, easy and healthy side dishes on jamieoliver.com. A great reason to eat more veg!",
-    "description": "“A splash of lemon juice, a good lug of olive oil and perfect seasoning bring green beans to life ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "15 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "15 minutes"
+    name: "Lemony green beans",
+    subName: "A simply delicious way to spruce up simple greens",
+    specialDiets: ["Dairy-free", "Gluten-free", "Vegan", "Vegetarian"],
+    metaDescription:
+      "A super lemony green bean recipe. One of the many quick, easy and healthy side dishes on jamieoliver.com. A great reason to eat more veg!",
+    description:
+      "“A splash of lemon juice, a good lug of olive oil and perfect seasoning bring green beans to life ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "15 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "15 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Vegetables",
       "Fruit",
       "Cheap & cheerful",
       "Family one-pan recipes",
       "Lunch & dinner recipes",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
-      "1 lemon",
-      "extra virgin olive oil",
-      "300 g green beans"
-    ],
-    "instructions": [
+    ingredients: ["1 lemon", "extra virgin olive oil", "300 g green beans"],
+    instructions: [
       "Finely grate the lemon zest into a large bowl.",
       "Cut the lemon in half and squeeze in the juice from one half.",
       "Add 1 tablespoon of extra virgin olive oil and season with sea salt and freshly ground black pepper. Mix well.",
       "Put a pan of salted water on to boil. Meanwhile, trim the the beans.",
       "Once the water is boiling, steam or boil the beans until tender. Drain well, then tip the cooked beans into the bowl with your dressing and toss everything together, making sure all the beans get coated.",
-      "Have a taste and squeeze over the remaining lemon juice if you think it needs it, then serve."
+      "Have a taste and squeeze over the remaining lemon juice if you think it needs it, then serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/317_1_1439206818.jpg",
-    "imageAlt": "Lemony green beans"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/317_1_1439206818.jpg",
+    imageAlt: "Lemony green beans",
   },
   {
-    "name": "Breakfast pancakes",
-    "subName": "Packed with grated pear",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Everybody needs a good breakfast pancake recipe, and this simple pancake recipe from Jamie Oliver is a crowd-pleaser. Grate seasonal fruits into the batter for a for a twist.",
-    "description": "“This fluffy American-style one-cup pancake recipe is hard to beat – it couldn’t be easier to remember and it works like a charm every time. Have fun with it by switching up the fruit; strawberries, apples, blackberries, blueberries and bananas are all delicious, too. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Breakfast pancakes",
+    subName: "Packed with grated pear",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Everybody needs a good breakfast pancake recipe, and this simple pancake recipe from Jamie Oliver is a crowd-pleaser. Grate seasonal fruits into the batter for a for a twist.",
+    description:
+      "“This fluffy American-style one-cup pancake recipe is hard to beat – it couldn’t be easier to remember and it works like a charm every time. Have fun with it by switching up the fruit; strawberries, apples, blackberries, blueberries and bananas are all delicious, too. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie's Family Christmas",
       "Fruit",
       "Christmas",
       "Pancake day",
       "American",
-      "Breakfast"
+      "Breakfast",
     ],
-    "ingredients": [
+    ingredients: [
       "1 cup of self-raising flour",
       "1 cup of semi-skimmed milk",
       "1 large free-range egg",
       "1 pear",
       "olive oil or unsalted butter",
       "natural yoghurt",
-      "runny honey"
+      "runny honey",
     ],
-    "instructions": [
+    instructions: [
       "Put the flour, milk, egg and a pinch of sea salt into a mixing bowl and whisk until smooth.",
       "Once combined, grate in the pear (core and all), then gently stir through.",
       "Drizzle a splash of oil or place a knob of butter into a large pan on a medium heat, then add the batter, a spoonful at a time – you’ll need to work in batches, cooking them for a few minutes, or until golden on the bottom, then flipping over and cooking for a few minutes more until they’re done.",
-      "When they are golden and fluffy, serve them right away with a dollop of natural yoghurt and some runny honey drizzled all over the top."
+      "When they are golden and fluffy, serve them right away with a dollop of natural yoghurt and some runny honey drizzled all over the top.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/97_1_1439915068.jpg",
-    "imageAlt": "Breakfast pancakes"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/97_1_1439915068.jpg",
+    imageAlt: "Breakfast pancakes",
   },
   {
-    "name": "Breakfast eggy crumpets",
-    "subName": "With smoked bacon & a hint of chilli",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This cheeky alternative to eggy bread is one of Jamie's favourite breakfasts – the smoky bacon and fiery chilli make this the perfect hangover cure!",
-    "description": "“This has all my breakfast favourites and is so simple – perfect if you're feeling a little delicate ”",
-    "servings": "2",
-    "time": {
-      "prep": "",
-      "cook": "10 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "10 minutes"
+    name: "Breakfast eggy crumpets",
+    subName: "With smoked bacon & a hint of chilli",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This cheeky alternative to eggy bread is one of Jamie's favourite breakfasts – the smoky bacon and fiery chilli make this the perfect hangover cure!",
+    description:
+      "“This has all my breakfast favourites and is so simple – perfect if you're feeling a little delicate ”",
+    servings: "2",
+    time: {
+      prep: "",
+      cook: "10 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "10 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie at Home",
       "Eggs",
       "Christmas",
       "Father's day",
       "Mother's day",
-      "British"
+      "British",
     ],
-    "ingredients": [
+    ingredients: [
       "1 fresh red chilli",
       "2 large free-range eggs",
       "olive oil",
       "6 rashers of higher-welfare smoked bacon",
       "4 crumpets",
-      "brown sauce or maple syrup"
+      "brown sauce or maple syrup",
     ],
-    "instructions": [
+    instructions: [
       "Deseed and very finely chop the chilli, then add to a bowl with a pinch of sea salt and black pepper.",
       "Crack in the eggs and whisk together.",
       "Drizzle a splash of oil into a large non-stick frying pan over a medium heat, add the bacon and allow to crisp up on both sides.",
       "Add the crumpets to the egg mixture, really pushing and turning them – they’ll soak it up like a sponge.",
       "Push the bacon to one side and tilt the pan so the fat runs into the middle. Add the crumpets and fry for a few minutes on each side, or until golden.",
-      "Serve the eggy crumpets topped with the crispy bacon, and with a dollop of brown sauce or a drizzle of maple syrup. To finish, you can sprinkle over any extra chopped chilli, if you’re a chilli freak like me. Perfect – heaven on a plate."
+      "Serve the eggy crumpets topped with the crispy bacon, and with a dollop of brown sauce or a drizzle of maple syrup. To finish, you can sprinkle over any extra chopped chilli, if you’re a chilli freak like me. Perfect – heaven on a plate.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/96_1_1349106083.jpg",
-    "imageAlt": "Breakfast eggy crumpets"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/96_1_1349106083.jpg",
+    imageAlt: "Breakfast eggy crumpets",
   },
   {
-    "name": "Moqueca baiana",
-    "subName": "Fragrant fish stew",
-    "specialDiets": [
-      "Dairy-free",
-      "Gluten-free"
-    ],
-    "metaDescription": "Celebrate Brazilian independence with Jamie's take on the moqueca baiana, a traditional fish stew recipe which boasts a beautiful and distinctive flavour.",
-    "description": "",
-    "servings": "6",
-    "time": {
-      "prep": "",
-      "cook": "55 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "55 minutes"
+    name: "Moqueca baiana",
+    subName: "Fragrant fish stew",
+    specialDiets: ["Dairy-free", "Gluten-free"],
+    metaDescription:
+      "Celebrate Brazilian independence with Jamie's take on the moqueca baiana, a traditional fish stew recipe which boasts a beautiful and distinctive flavour.",
+    description: "",
+    servings: "6",
+    time: {
+      prep: "",
+      cook: "55 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "55 minutes",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
-      "Jamie Magazine",
-      "Stew",
-      "Beef",
-      "Mains",
-      "One-pan recipes"
-    ],
-    "ingredients": [
+    difficulty: "Not too tricky",
+    tags: ["Jamie Magazine", "Stew", "Beef", "Mains", "One-pan recipes"],
+    ingredients: [
       "1 kg monkfish or cod fillets , deboned and portioned",
       "½ lemon , juice of",
       "½ onion , sliced",
@@ -8571,44 +8502,45 @@
       "½ a bunch of coriander , chopped, plus extra to serve",
       "160 ml coconut cream",
       "1 tbsp paprika",
-      "500 g cooked rice , to serve"
+      "500 g cooked rice , to serve",
     ],
-    "instructions": [
+    instructions: [
       "Place the fish in a baking dish, season and squeeze over the lemon juice. Pop it in the fridge and marinate for about 10 minutes.",
       "In a large frying pan, layer up the onion, tomatoes and peppers before finishing with the fish. Drizzle a little olive oil over everything and sprinkle on the coriander. Pop the lid on and cook over a medium heat for 15 minutes, until the veg is softened.",
       "Pour in the coconut cream and a splash of water, but don't be tempted to stir it. Pop the lid back on and continue to cook for 5 minutes.",
-      "Sift in the paprika and cook, uncovered, for a further 15 minutes. Scatter over a little extra coriander and serve with rice on the side."
+      "Sift in the paprika and cook, uncovered, for a further 15 minutes. Scatter over a little extra coriander and serve with rice on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1603_2_1441355936.jpg",
-    "imageAlt": "Moqueca baiana"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1603_2_1441355936.jpg",
+    imageAlt: "Moqueca baiana",
   },
   {
-    "name": "Delicious squash daal",
-    "subName": "Special fried eggs & poppadoms",
-    "specialDiets": [
-      "Vegetarian"
-    ],
-    "metaDescription": "Learn how to make this delicious, cheap and healthy dhal recipe which consists of beautiful, seasonal squash and a fried egg for that little extra taste.",
-    "description": "“Red split lentils are a brilliant source of nutrients, including iron, which we need for making blood cells to transport oxygen around the body, helping to prevent us from getting tired ”",
-    "servings": "2 + 6 leftover daal portions",
-    "time": {
-      "prep": "",
-      "cook": "1 hour",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour"
+    name: "Delicious squash daal",
+    subName: "Special fried eggs & poppadoms",
+    specialDiets: ["Vegetarian"],
+    metaDescription:
+      "Learn how to make this delicious, cheap and healthy dhal recipe which consists of beautiful, seasonal squash and a fried egg for that little extra taste.",
+    description:
+      "“Red split lentils are a brilliant source of nutrients, including iron, which we need for making blood cells to transport oxygen around the body, helping to prevent us from getting tired ”",
+    servings: "2 + 6 leftover daal portions",
+    time: {
+      prep: "",
+      cook: "1 hour",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour",
     },
-    "difficulty": "Not too tricky",
-    "tags": [
+    difficulty: "Not too tricky",
+    tags: [
       "Everyday Super Food",
       "Vegetables",
       "Bonfire night recipes",
       "Indian",
       "Lentil",
-      "Spinach"
+      "Spinach",
     ],
-    "ingredients": [
+    ingredients: [
       "8 cloves of garlic",
       "2 fresh red chillies",
       "olive oil",
@@ -8624,9 +8556,9 @@
       "1 lime",
       "2 large free-range eggs",
       "4 uncooked poppadoms",
-      "2 handfuls of baby spinach"
+      "2 handfuls of baby spinach",
     ],
-    "instructions": [
+    instructions: [
       "Start by making a temper. Peel the garlic, then finely slice with the chillies, ideally 1mm thick on a mandolin (use the guard!).",
       "Pour 2 tablespoons of oil into a large wide pan on a medium heat and add the mustard seeds, cumin seeds and curry leaves for 1 minute, then the garlic and chillies.",
       "Stir so everything’s flat, moving regularly until crisp and lightly golden. With a slotted spoon, remove half the temper to a plate, taking the pan off the heat.",
@@ -8636,38 +8568,39 @@
       "Blitz the coriander leaves, yoghurt, a pinch of sea salt and half the lime juice in a blender until smooth, then decant into a small bowl.",
       "Reheat the reserved temper in a non-stick frying pan on a medium-low heat with 1 teaspoon of oil, then divide into two piles and crack an egg over each. Cover and leave to slowly fry on the bottom for 2 or 3 minutes, while they coddle on top.",
       "One-by-one, puff up your dry poppadoms in the microwave for around 30 seconds each.",
-      "Top each portion of daal with a fried egg, and pop some spinach, dressing, poppadoms and a lime wedge on the side."
+      "Top each portion of daal with a fried egg, and pop some spinach, dressing, poppadoms and a lime wedge on the side.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1584_9_1439905508.jpg",
-    "imageAlt": "Delicious squash daal"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1584_9_1439905508.jpg",
+    imageAlt: "Delicious squash daal",
   },
   {
-    "name": "Chicken & squash cacciatore",
-    "subName": "Mushrooms, tomatoes, olives & bread",
-    "specialDiets": [
-      "Dairy-free"
-    ],
-    "metaDescription": "This sweet potato and chicken cacciatore is a classic Italian recipe with mushrooms, tomatoes, olives and bread which is extremely tasty and easy to make.",
-    "description": "“This truly comforting one-pot chicken recipe contains three of our 5-a-day – winner! ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "1 hour 20 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "1 hour 20 minutes"
+    name: "Chicken & squash cacciatore",
+    subName: "Mushrooms, tomatoes, olives & bread",
+    specialDiets: ["Dairy-free"],
+    metaDescription:
+      "This sweet potato and chicken cacciatore is a classic Italian recipe with mushrooms, tomatoes, olives and bread which is extremely tasty and easy to make.",
+    description:
+      "“This truly comforting one-pot chicken recipe contains three of our 5-a-day – winner! ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "1 hour 20 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "1 hour 20 minutes",
     },
-    "difficulty": "Showing off",
-    "tags": [
+    difficulty: "Showing off",
+    tags: [
       "Everyday Super Food",
       "Chicken",
       "Bonfire night recipes",
       "Italian",
       "Bread",
-      "Pork"
+      "Pork",
     ],
-    "ingredients": [
+    ingredients: [
       "1 onion",
       "1 leek",
       "4 cloves of garlic",
@@ -8681,9 +8614,9 @@
       "250 ml Chianti , or other good red wine",
       "4 free-range chicken thighs, bone in",
       "8 black olives (stone in)",
-      "200 g seeded wholemeal bread"
+      "200 g seeded wholemeal bread",
     ],
-    "instructions": [
+    instructions: [
       "Preheat the oven to 190°C/375°F/gas 5.",
       "Peel the onion and cut into eighths, trim, wash and slice the leek, peel and slice the garlic. Place a large ovenproof casserole pan on a medium heat.",
       "Finely slice the pancetta, pick and finely chop the rosemary leaves, then place both in the pan with 1 tablespoon of oil and the bay leaves. Stir regularly for 2 minutes, then add the garlic, followed by the onion and leek. Cook for 10 minutes, stirring regularly.",
@@ -8692,39 +8625,39 @@
       "Remove and discard the chicken skin and add the chicken to the pan. Pour in the wine and let it reduce slightly, then add the tomatoes and break them up with a wooden spoon.",
       "Half-fill each tin with water, swirl about, pour into the pan and mix it all together. Destone the olives, then poke them into the stew.",
       "Bring to a gentle simmer, then transfer to the oven to cook for 1 hour, or until thick, delicious, the chicken falls off the bone and the squash or sweet potato is lovely and tender.",
-      "Season to perfection, then serve with bread to mop up that tasty sauce."
+      "Season to perfection, then serve with bread to mop up that tasty sauce.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1583_9_1439905771.jpg",
-    "imageAlt": "Chicken & squash cacciatore"
+    image:
+      "https://cdn.jamieoliver.com/recipe-database/oldImages/medium/1583_9_1439905771.jpg",
+    imageAlt: "Chicken & squash cacciatore",
   },
   {
-    "name": "All-in-one rice & chicken",
-    "subName": "Lightly spiced with cumin & coriander",
-    "specialDiets": [
-      "Gluten-free",
-      "Dairy-free"
-    ],
-    "metaDescription": "A simple but delicious, one pot chicken and rice recipe which is cheap, healthy and a perfect mid-week dish for the whole family to enjoy.",
-    "description": "“A humble one-pot chicken and rice dish – a perfect mid-week meal for the whole family to enjoy. ”",
-    "servings": "4",
-    "time": {
-      "prep": "",
-      "cook": "45 minutes",
-      "active": "",
-      "inactive": "",
-      "ready": "",
-      "total": "45 minutes"
+    name: "All-in-one rice & chicken",
+    subName: "Lightly spiced with cumin & coriander",
+    specialDiets: ["Gluten-free", "Dairy-free"],
+    metaDescription:
+      "A simple but delicious, one pot chicken and rice recipe which is cheap, healthy and a perfect mid-week dish for the whole family to enjoy.",
+    description:
+      "“A humble one-pot chicken and rice dish – a perfect mid-week meal for the whole family to enjoy. ”",
+    servings: "4",
+    time: {
+      prep: "",
+      cook: "45 minutes",
+      active: "",
+      inactive: "",
+      ready: "",
+      total: "45 minutes",
     },
-    "difficulty": "Super easy",
-    "tags": [
+    difficulty: "Super easy",
+    tags: [
       "Jamie Magazine",
       "Family one-pan recipes",
       "Healthy meals",
       "Lunch & dinner recipes",
       "Mains",
-      "One-pan recipes"
+      "One-pan recipes",
     ],
-    "ingredients": [
+    ingredients: [
       "olive oil",
       "2 free-range chicken legs",
       "2 free-range chicken thighs",
@@ -8735,16 +8668,16 @@
       "250 g long-grain rice",
       "150 g Medjool dates",
       "1 tablespoon runny honey",
-      "a few sprigs of fresh coriander"
+      "a few sprigs of fresh coriander",
     ],
-    "instructions": [
+    instructions: [
       "Heat a splash of oil in a pan and brown the chicken legs and thighs all over, then remove to a plate.",
       "Peel and dice the onion then in the same pan, sweat the onion until softened, before crushing in the garlic and adding the spices.",
       "Allow to cook for about 2 minutes, then stir in the rice, dates, honey and browned chicken.",
       "Cover with water and bring to the boil before allowing to simmer, covered, over a medium heat for 30 minutes, or until the rice and chicken are cooked through.",
-      "Season to taste with sea salt and black pepper, then pick, roughly chop and scatter over the coriander leaves, to serve."
+      "Season to taste with sea salt and black pepper, then pick, roughly chop and scatter over the coriander leaves, to serve.",
     ],
-    "image": "https://cdn.jamieoliver.com/recipe-database/medium/46262522.jpg",
-    "imageAlt": "All-in-one rice & chicken"
-  }
-]
+    image: "https://cdn.jamieoliver.com/recipe-database/medium/46262522.jpg",
+    imageAlt: "All-in-one rice & chicken",
+  },
+];

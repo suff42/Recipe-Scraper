@@ -15,6 +15,9 @@ const listScraper = async (url) => {
 
 module.exports = recipeScraper;
 
+/* UNCOMMENT LINES YOU WANT TO SCRAPE
+ * MORE THAN 2 AT ONCE IS NOT SUGGESTED
+ */
 const linksUrls = {
   // mains: "https://www.jamieoliver.com/recipes/category/course/mains/",
   // snacks: "https://www.jamieoliver.com/recipes/category/course/snacks/",
@@ -22,13 +25,13 @@ const linksUrls = {
   //   "https://www.jamieoliver.com/recipes/category/course/meals-for-one/",
   // quickFixes:
   //   "https://www.jamieoliver.com/recipes/category/course/quick-fixes/",
-  cheap: "https://www.jamieoliver.com/recipes/category/course/cheap-cheerful/",
-  breakfast: "https://www.jamieoliver.com/recipes/category/course/breakfast/",
+  // cheap: "https://www.jamieoliver.com/recipes/category/course/cheap-cheerful/",
+  // breakfast: "https://www.jamieoliver.com/recipes/category/course/breakfast/",
   // leftovers: "https://www.jamieoliver.com/recipes/category/course/leftovers/",
   // onePan:
-  //   "https://www.jamieoliver.com/recipes/category/course/one-pan-recipes/",
+  // "https://www.jamieoliver.com/recipes/category/course/one-pan-recipes/",
   // juices:
-  //   "https://www.jamieoliver.com/recipes/category/course/juices-smoothies/",
+  // "https://www.jamieoliver.com/recipes/category/course/juices-smoothies/",
   // desserts: "https://www.jamieoliver.com/recipes/category/course/desserts/",
   // sides: "https://www.jamieoliver.com/recipes/category/course/sides/",
   // sauces: "https://www.jamieoliver.com/recipes/category/course/sauces/",
